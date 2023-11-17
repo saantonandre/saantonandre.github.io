@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+	<meta charset="utf-8">
+	<title>monk</title>
+	<meta name="author" content="saantonandre">
+	<meta name="description" content="Example description">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="style.css" rel="stylesheet">
+	<link rel="icon" type="image/x-icon" href=""/>
+</head>
+
+<body>
+    <div id ="container">
+        <canvas id="canvas"></canvas>
+    </div>
+    <div id="debug" style="position:fixed; display:inline-block;">
+        <span id="fps">FPS: 0</span><br>
+        <span id="px"></span><br>
+        <span id="py"></span><br>
+        <span id="pg"></span><br>
+    
+    </div>
+    
+    <!-- Resources -->
+    <div style="display: none;">
+        <img id="spritesheet" src="resources/spritesheet.png">
+        <img id="spritesheet-bg" src="resources/spritesheet-bg.png">
+    </div>
+    <!-- Scripts -->
+	<script type="text/javascript" src="collisions.js"></script>
+	<script type="text/javascript" src="controls.js"></script>
+	<script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>

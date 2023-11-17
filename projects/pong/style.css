@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    border:0;
+    padding:0;
+    overflow: hidden;
+}
+#button{
+    position:sticky;
+    left:30px;
+    bottom:30px;
+    font-size:35px;
+}
+.buttons{
+}
+#btnCont{
+    position:absolute;
+    top:30px;
+    font-size:18px;
+}

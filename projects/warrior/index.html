@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>WE WE</title>
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet"><link href="style.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div style="position:absolute;width:100%;text-align:right;">
+        <span id="FPS"></span><br>
+        <span id="stat"></span><br>
+        <span id="playery"></span><br>
+        <span id="monsternumber"></span><br>
+        <span id="ctrl-span" style="position:absolute"></span>
+        <br>
+    </div>
+    <div style="position:absolute;text-align:left;">
+        <span style="float:right;"><b>Controls:</b><br><br><b>[A]-[D]</b> <br> move<br><br><b>[W]</b> <br> jump<br><br><b>[F]</b> <br> attack<br><br><b>[F] mid-air</b> <br> dash attack<br><br><b>[1]-[2]-[3]-[4]-[5]</b> <br> spawn monsters<br></span>
+    </div>
+    <canvas id="canvas"></canvas>
+    <div style="display:none">
+        <img id="sheet" src="./sheet5.png">
+        <img id="bearsheet" src="./bear-spritesheet.png">
+        <img id="bg1" src="./bg1.png">
+        <img id="bg2" src="./bg2.png">
+    </div>
+    <div id="arrowCont">
+        <img class="arrows" id="left" src="./leftArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        <img class="arrows" id="right" src="./rightArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        <img class="arrows" id="up" src="./upArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        <img class="arrows" id="down" src="./atkBtn.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+    </div>
+    <script src="script.js" type="text/javascript"></script>
+</body>
+
+</html>

@@ -1,0 +1,75 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    touch-action: none;
+    user-select: none;
+    background-color: #0f380f;
+    color: #306230;
+    text-align: center;
+    font-size:5vw;
+    padding: 5vw;
+    margin:0;
+    overflow: hidden;
+}
+#text{
+    font-size:4vw;
+}
+#lancia {
+    margin: 3vw;
+    display: inline-block;
+    font-size: 4vw;
+    background-color: #9bbc0f;
+    padding: 3vw;
+    border: solid 3px #306230;
+}
+#saantonandre{
+    position: fixed;
+    color: #306230;
+    font-size: 3vw;
+    bottom:1vw;
+    left:5px;
+}
+
+#dadi {
+    image-rendering:pixelated;
+    display: inline-block;
+    font-size: 3vw;
+    color: #306230;
+
+}
+.transition{
+}
+.dado {
+    display: inline-block;
+    width:15vw;
+    height:15vw;
+    background-image: url(1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+#attacco {
+    display: inline-block;
+    text-align: left;
+    color: #8bac0f;
+    width:40vw;
+    font-size:4vw;
+}
+
+#difesa {
+    display: inline-block;
+    text-align: right;
+    color: #8bac0f;
+    width:40vw;
+    font-size:4vw;
+}
+
+.check {
+    display: inline-block;
+    width: 4vw;
+    height: 4vw;
+    border: solid 3px #306230;
+    margin: 2vw;
+}
+.checked{
+    background-color: #9bbc0f;
+}

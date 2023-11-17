@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!-- 
+
+Don't give up! winning is about persistance!
+
+The character sprite illustration is a courtesy from Ives Margarita
+https://ifes.deviantart.com/ 
+
+known bugs:
+-double jump for whatever reasons upon jumping on corners(?)
+-[fixed]consolee errors regarding the Audio API(please just ignore them T_T)
+-[fixed]collision detection doesnt take to account the "idle" sprite, so the guy is actually wider than it looks
+-on lowest resolutions some platform could not be visible
+-since the bees are coded as moving platforms "space bees" mode will paint the moving platform yellow(lol)
+
+1.0.4:added "monster" entity(drawn the sprite myself), it has no purposes and bad collision detector atm
+
+If you could spare some time by commenting this code I will be really thankful, negative (and possibly detailed) feedback is also appreciated!
+
+I made myself all the other graphics, sound effects
+and coin sprites (and code!)
+
+A good canvas platformer tutorial 
+http://www.somethinghitme.com/2013/01/09/creating-a-canvas-platformer-tutorial-part-one/
+
+Sprite rendering on canvas
+https://code.sololearn.com/WCJVCVJFFrCo/#html
+-->
+<html>
+
+<head>
+    <title>Page Title</title>
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Do+Hyeon" rel="stylesheet">
+    <link href="./cosmicrunner.css" type="text/css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div id="divofdivs">
+        <div id="logo-animation">
+            <div id="starscont">
+                <span id="star1" class="stars">&#9733;</span>
+                <span id="star2" class="stars">&#9733;</span>
+                <span id="star3" class="stars">&#9733;</span>
+                <span id="star4" class="stars">&#9733;</span>
+                <span id="star5" class="stars">&#9733;</span>
+            </div>
+            <div id="cont">
+                <div id="avatar">
+                    <img src="./heman.jpg" alt="saantonandre">
+                </div><br>
+                <span id="me">saantonandre</span>
+                <div id="start">START</div>
+            </div>
+
+        </div>
+
+        <div id="hidden">
+            <div style="display:none">
+                <img id="sprite" src="./axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r_1.png" alt="sprite">
+                <img id="sprite2" src="./axe_timeless_power___main_character_sprites_by_ifes-d9dbh3r.png" alt="sprite">
+                <img id="sprite3" src="./coin3.png" alt="sprite">
+                <img id="monsterSprite" src="./spritesheet2.png" alt="sprite">
+            </div>
+            <span id="morti" style="position:absolute;bottom:10px;right:10px"></span>
+            <span id="distance" style="position:absolute;bottom:10px;width:100%; text-align:center"></span>
+
+            <div id="middleCont" style="">
+                <span id="coinspan">x0</span>
+                <img src="./singlecoin.png" alt="sprite">
+            </div>
+            <div id="rightCont">
+                <img class="modes" id="easyMode" src="./easyMode.png" alt="mode"><br/>
+                <img class="modes" id="mediumMode" src="./mediumMode.png" alt="mode"><br/>
+                <img class="modes" id="hardMode" src="./hardMode.png" alt="mode"><br/>
+                <img class="modes" id="spaceBees" src="./spaceBees.png" alt="mode">
+            </div>
+            <canvas id="canvas"></canvas>
+            <span>the page hasn't loaded properly T__T</span>
+
+
+            <div id="arrowCont">
+                <img class="arrows" id="left" src="./leftArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+                <img class="arrows" id="right" src="./rightArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+                <img class="arrows" id="up" src="./upArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+            </div>
+        </div>
+    </div>
+    <div id="results"></div>
+    <script src="./cosmicrunner.js"></script>
+</body>
+<!-- -saantonandre- -2018-04-29-->
+
+</html>

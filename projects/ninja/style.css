@@ -1,0 +1,6 @@
+body{
+    user-select:none;
+    touch-action:none;
+    margin:0;
+    padding:0;
+}

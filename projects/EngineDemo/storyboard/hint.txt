@@ -1,0 +1,7 @@
+RPG
+	1:fisica (collision detector buono)
+	2:mappa->npc 
+	3:interfaccia
+	4:interazioni
+VN/PUNTA E CLICCA
+	---

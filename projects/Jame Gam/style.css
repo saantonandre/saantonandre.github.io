@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    overflow: hidden;
+    touch-action: none;
+    user-select:none;
+}
+
+#fps-span {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    color: green;
+}

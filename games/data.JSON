@@ -1,0 +1,24 @@
+{
+    "games": [{
+        "title": "Overlord's New Mansion",
+        "location": "index/games/ONM/index.html",
+        "preview": "index/games/ONM/preview.gif",
+        "thumbnail": "index/games/ONM/thumb.png",
+        "description": "After the construction of his new majestic castle, filled with deadly traps, the evil Overlord orders a pizza, as usual. But little did he know of all the the hassle he has to go through.",
+        "links": ["https://armorgames.com/overlords-new-mansion-game/18709", "https://saantonandre.itch.io/overlord", "https://www.newgrounds.com/portal/view/732637", "https://www.kongregate.com/games/saantonandre/overlords-new-mansion", "https://www.coolmathgames.com/0-overlords-new-mansion", "https://www.addictinggames.com/action/overlords-new-mansion"]
+    }, {
+        "title": "Mad Pirate Skeleton Bomber",
+        "location": "index/games/MPSB/index.html",
+        "preview": "index/games/MPSB/preview.gif",
+        "thumbnail": "index/games/MPSB/thumb.png",
+        "description": "You're a crazy pirate brought back to life and you urge to blow stuff up.",
+        "links": ["https://www.newgrounds.com/portal/view/785522", "https://armorgames.com/mad-pirate-skeleton-bomber-game/19132"]
+    }, {
+        "title": "Parallel Traveller [Alpha]",
+        "location": "index/games/PT/index.html",
+        "preview": "index/games/PT/preview.gif",
+        "thumbnail": "index/games/PT/thumb.png",
+        "description": "This is a demo/alpha of a game I've working on, it' about a journey through parallel dimensions.",
+        "links": ["https://saantonandre.itch.io/parallel-traveller-demo"]
+    }]
+}

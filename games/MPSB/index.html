@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="">
+
+<head>
+    <meta charset="utf-8">
+    <title>Mad Pirate Skeleton Bomber</title>
+    <meta name="author" content="saantonandre">
+    <meta name="description" content="Game alpha">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="others/thumb.png">
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+</head>
+
+<body>
+    <!-- Canvas element -->
+    <span id="fps">0</span>
+    <canvas id="canvas"></canvas>
+
+
+    <div style="display:none;">
+        <!-- sheets -->
+        <img id="sheet" src="sheets/sheet.png">
+        <img id="medals-sheet" src="sheets/medals-sheet.png">
+        <img id="title" src="others/title.png">
+        <img id="notification" src="others/notification.png">
+        <img id="instructions-0" src="others/instructions-0.png">
+        <img id="instructions-1" src="others/instructions-1.png">
+        <img id="instructions-2" src="others/instructions-2.png">
+        
+        <!-- Levels -->
+        <img id="bg0" src="maps/sea-bg-cloud.png">
+        <img id="bg1" src="maps/sea-bg-water.png">
+        <img id="0" src="maps/0.png">
+        <img id="1" src="maps/1.png">
+        <img id="2" src="maps/2.png">
+        <img id="3" src="maps/3.png">
+        <img id="4" src="maps/4.png">
+        <img id="5" src="maps/5.png">
+        <img id="6" src="maps/6.png">
+        <img id="7" src="maps/7.png">
+        <img id="8" src="maps/8.png">
+        <img id="9" src="maps/9.png">
+        <img id="10" src="maps/10.png">
+        <img id="11" src="maps/11.png">
+        <img id="12" src="maps/12.png">
+        <img id="13" src="maps/13.png">
+        <img id="14" src="maps/14.png">
+        <img id="15" src="maps/15.png">
+        <img id="16" src="maps/16.png">
+        <img id="17" src="maps/17.png">
+        <img id="17-fg" src="maps/17-fg.png">
+        
+        <!-- Bertha Levels -->
+        <img id="bg2" src="maps/sea-bg-cloud2.png">
+        <img id="bg3" src="maps/sea-bg-water2.png">
+        <img id="0b" src="maps/bertha/0.png">
+        <img id="1b" src="maps/bertha/1.png">
+        <img id="2b" src="maps/bertha/2.png">
+        <img id="3b" src="maps/bertha/3.png">
+        <img id="4b" src="maps/bertha/4.png">
+        <img id="5b" src="maps/bertha/5.png">
+        <img id="6b" src="maps/bertha/6.png">
+        <img id="7b" src="maps/bertha/7.png">
+        <img id="8b" src="maps/bertha/8.png">
+        
+        <!-- Audio -->
+        <audio src="audio/exp-1.mp3"></audio>
+        <audio src="audio/exp-2.mp3"></audio>
+        <audio src="audio/throw.mp3"></audio>
+        <audio src="audio/broke.mp3"></audio>
+        <audio src="audio/death.mp3"></audio>
+        <audio src="audio/getItem.mp3"></audio>
+        <audio src="audio/getPaper.mp3"></audio>
+        <audio src="audio/transition.mp3"></audio>
+        <audio src="audio/respawn.mp3"></audio>
+        <audio src="audio/grog.mp3"></audio>
+        <audio src="audio/notes-1.mp3"></audio>
+        <audio src="audio/notes-2.mp3"></audio>
+        
+        <audio src="audio/music/yohoho-minor2.mp3"></audio>
+        <audio src="audio/music/yohoho-hg.mp3"></audio>
+        <audio src="audio/music/bone-bomber.mp3"></audio>
+        <audio src="audio/band-destroyed.mp3"></audio>
+        
+        <audio src="audio/captain/0.mp3"></audio>
+        <audio src="audio/captain/1.mp3"></audio>
+        <audio src="audio/captain/2.mp3"></audio>
+        <audio src="audio/captain/3.mp3"></audio>
+        <audio src="audio/captain/4.mp3"></audio>
+        <audio src="audio/captain/5.mp3"></audio>
+        
+        <audio src="audio/necromancer/0.mp3"></audio>
+        <audio src="audio/necromancer/1.mp3"></audio>
+        <audio src="audio/necromancer/2.mp3"></audio>
+        <audio src="audio/necromancer/3.mp3"></audio>
+        <audio src="audio/necromancer/4.mp3"></audio>
+        <audio src="audio/necromancer/5.mp3"></audio>
+        
+        <audio src="audio/necromancer/skull.mp3"></audio>
+        <audio src="audio/necromancer/transform-attack.mp3"></audio>
+        <audio src="audio/necromancer/transform-in.mp3"></audio>
+        <audio src="audio/necromancer/transform-out.mp3"></audio>
+        <audio src="audio/necromancer/transform-wall.mp3"></audio>
+        
+    </div>
+    <!-- ngio -->
+    <script type="text/javascript" src="NewgroundsAPI/bin/newgroundsio.js"></script>
+    <script type="text/javascript" src="scripts/newgroundsAPI.js"></script>
+    <!-- Load scripts -->
+    <script type="text/javascript" src="scripts/genericFunctions.js"></script>
+    <script type="text/javascript" src="scripts/genericFunctions.js"></script>
+    <script type="text/javascript" src="scripts/collisions.js"></script>
+    <script type="text/javascript" src="scripts/controls.js"></script>
+    <script type="text/javascript" src="scripts/classes.js"></script>
+    <script type="text/javascript" src="scripts/dialogue.js"></script>
+    <script type="text/javascript" src="scripts/levels.js"></script>
+    <script type="text/javascript" src="scripts/mapTesting.js"></script>
+    <script type="text/javascript" src="scripts/script.js"></script>
+</body></html>

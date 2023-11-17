@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Google Fonts Pre Connect -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+
+    <!-- Meta Tags -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- CSS Files Links -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Title -->
+    <title>Text test environment</title>
+</head>
+
+<body>
+    <span id="fps">FPS: 60</span>
+    <label id="amount-label" for="amount">
+        Amount
+    </label>
+    <input id="amount" name="amount" type="number" value="1">
+
+    <div id="radio">Currenty running on:
+      <input type="radio" id="drawImage" name="render" value="drawImage"
+             checked>
+      <label for="drawImage">drawImage()</label>
+      <input type="radio" id="fillText" name="render" value="fillText">
+      <label for="fillText">fillText()</label>
+    </div>
+    
+
+    <canvas id="canvas"></canvas>
+    <img id="sheet" style="display:none;" src="sheet.png">
+    <script src="script.js"></script>
+</body>
+
+</html>

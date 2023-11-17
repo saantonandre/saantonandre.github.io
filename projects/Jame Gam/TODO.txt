@@ -1,0 +1,13 @@
+TODO:
+-soundFxs
+-music(?)
+-score
+-win condition
+-items
+	-glue
+-cookies
+	-burned 
+	-broken
+-lose condition
+
+-art

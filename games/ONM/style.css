@@ -1,0 +1,462 @@
+body {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+* {
+    touch-action: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: url('ui/cursor2.png'), auto;
+    image-rendering: optimizeSpeed;
+    /* STOP SMOOTHING, GIVE ME SPEED  */
+    image-rendering: -moz-crisp-edges;
+    /* Firefox                        */
+    image-rendering: -o-crisp-edges;
+    /* Opera                          */
+    image-rendering: -webkit-optimize-contrast;
+    /* Chrome (and eventually Safari) */
+    image-rendering: pixelated;
+    /* Chrome */
+    image-rendering: optimize-contrast;
+    /* CSS3 Proposed                  */
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+#container {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    z-index: 200;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    overflow: hidden;
+}
+
+#disclaimer,
+#disclaimer2,
+#disclaimer3 {
+    position: absolute;
+    top: -20%;
+    width: 100%;
+    text-align: center;
+    border: 3px solid transparent;
+    padding: 3px;
+    text-shadow: 1px 1px 0 #222034,
+        -1px 1px 0 #222034,
+        1px -1px 0 #222034,
+        -1px -1px 0 #222034,
+        0px 1px 0 #222034,
+        0px -1px 0 #222034,
+        -1px 0px 0 #222034,
+        1px 0px 0 #222034,
+        2px 2px 0 #222034,
+        -2px 2px 0 #222034,
+        2px -2px 0 #222034,
+        -2px -2px 0 #222034,
+        0px 2px 0 #222034,
+        0px -2px 0 #222034,
+        -2px 0px 0 #222034,
+        2px 0px 0 #222034,
+        1px 2px 0 #222034,
+        -1px 2px 0 #222034,
+        1px -2px 0 #222034,
+        -1px -2px 0 #222034,
+        2px 1px 0 #222034,
+        -2px 1px 0 #222034,
+        2px -1px 0 #222034,
+        -2px -1px 0 #222034;
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    color: white;
+}
+
+#title-screen {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    left: 0%;
+    background-image: url(title-screen.png);
+    background-size: contain;
+    transition: all 1s;
+}
+
+#ghost {
+    opacity: 0.5;
+}
+
+#loading {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    background-color: black;
+}
+
+#loading div {
+    position: absolute;
+    font-family: 'VT323', monospace;
+    font-size: 35px;
+    color: white;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+#error {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: 20000;
+    background-color: black;
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+    display: none;
+}
+
+#error div {
+    position: absolute;
+    font-family: 'VT323', monospace;
+    font-size: 22px;
+    color: white;
+    left: 50%;
+    top: 50%;
+    overflow: auto;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -webkit-user-select: all;
+    -moz-user-select: all;
+    -ms-user-select: all;
+    user-select: all;
+}
+
+#version {
+    display: inline-block;
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+    color: white
+}
+
+#buttons {
+    display: inline-block;
+    font-family: 'VT323', monospace;
+    font-size: 16px;
+    position: absolute;
+    text-align: left;
+    margin-top: 25%;
+    left: 2%;
+    color: white;
+}
+
+#hardMode {
+    opacity: 0.5;
+}
+
+.button {
+    border: 3px solid transparent;
+    padding: 3px;
+    text-shadow: 1px 1px 0 #222034,
+        -1px 1px 0 #222034,
+        1px -1px 0 #222034,
+        -1px -1px 0 #222034,
+        0px 1px 0 #222034,
+        0px -1px 0 #222034,
+        -1px 0px 0 #222034,
+        1px 0px 0 #222034,
+        2px 2px 0 #222034,
+        -2px 2px 0 #222034,
+        2px -2px 0 #222034,
+        -2px -2px 0 #222034,
+        0px 2px 0 #222034,
+        0px -2px 0 #222034,
+        -2px 0px 0 #222034,
+        2px 0px 0 #222034,
+        1px 2px 0 #222034,
+        -1px 2px 0 #222034,
+        1px -2px 0 #222034,
+        -1px -2px 0 #222034,
+        2px 1px 0 #222034,
+        -2px 1px 0 #222034,
+        2px -1px 0 #222034,
+        -2px -1px 0 #222034;
+    transform: translateX(-150%);
+    transition: all 0.1s;
+}
+}
+
+#canvas {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    z-index: 100;
+    transition: all 1s;
+    left: 100%;
+    visibility: hidden;
+    image-rendering: optimizeSpeed;
+    /* STOP SMOOTHING, GIVE ME SPEED  */
+    image-rendering: -moz-crisp-edges;
+    /* Firefox                        */
+    image-rendering: -o-crisp-edges;
+    /* Opera                          */
+    image-rendering: -webkit-optimize-contrast;
+    /* Chrome (and eventually Safari) */
+    image-rendering: pixelated;
+    /* Chrome */
+    image-rendering: optimize-contrast;
+    /* CSS3 Proposed                  */
+    -ms-interpolation-mode: nearest-neighbor;
+}
+
+#pause-screen {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.6;
+    z-index: 3000;
+    display: none;
+}
+
+#options {
+    margin-top: 10%;
+}
+
+.icons {
+    width: 15%;
+    margin-right: 2%;
+}
+
+@keyframes toRight {
+    0% {
+        display:block;
+        transform: translateX(-150%);
+    }
+
+    100% {
+        transform: translateX(0%);
+    }
+}
+
+.downUp {
+    animation: downUp 5s ease-in-out 0s forwards;
+}
+
+@keyframes downUp {
+    0% {
+        top: -10%;
+    }
+
+    10% {
+        top: 0;
+    }
+
+    90% {
+        top: 0;
+    }
+
+    100% {
+        top: -10%;
+    }
+}
+
+#newGame {
+    animation: toRight 0.5s ease-out 0s forwards;
+}
+
+#continue {
+    animation: toRight 0.5s ease-out 0.2s forwards;
+}
+
+#dialogueBtn {
+    animation: toRight 0.5s ease-out 0.4s forwards;
+}
+
+#music2 {
+    animation: toRight 0.5s ease-out 0.6s forwards;
+}
+#audio2{
+    animation: toRight 0.5s ease-out 0.8s forwards;
+}
+
+
+.icons:hover,
+#ctrlButton:hover,
+.button:hover,
+.selected,
+#menuButton:hover {
+    border: 3px solid white;
+}
+
+.menu:hover {
+    border: 3px solid white;
+    padding: 5%;
+}
+
+#pause-icon {
+    width: 20%;
+    margin-top: 5%;
+}
+
+.tutorials {
+    position: absolute;
+    height: 100%;
+    z-index: 200;
+    visibility: hidden;
+    opacity: 0.95;
+    left: 50%;
+    -webkit-transform: translate(-50%);
+    -ms-transform: translate(-50%);
+    -moz-transform: translate(-50%);
+    transform: translate(-50%);
+
+}
+
+#twitter {
+    display: inline-block;
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    position: absolute;
+    left: 10px;
+    bottom: 5px;
+    color: white;
+    opacity: 0.5;
+    z-index: 2000;
+}
+
+.stat {
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    position: absolute;
+    display: block;
+    width: 100%;
+}
+
+#twitter:hover {
+    opacity: 1;
+}
+
+.pauseButtons {
+    display: inline-block;
+    margin-top: 5%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+    font-family: 'VT323', monospace;
+    font-size: 50px;
+    color: white;
+}
+
+#audio2,
+#music2 {
+    display: inline-block;
+}
+
+#audio2 img,
+#music2 img {
+    width: 100%;
+}
+
+/*
+    MOBILE UI
+*/
+#arrowCont {
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 21vh;
+    bottom: 10vh;
+    z-index: 1200;
+}
+
+#spacebarCont {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    height: 9vh;
+    width: 100%;
+    z-index: 4000;
+    text-align: center;
+}
+
+#othersCont {
+    display: none;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    width: 21vh;
+    height: 100%;
+    z-index: 1000;
+}
+
+.arrows {
+    height: 100%;
+    background-color: transparent;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    opacity: 0.4;
+}
+
+#spacebar {
+    display: inline-block;
+    height: 100%;
+}
+
+#left {
+    float: left;
+    margin-left: 5%;
+}
+
+#right {
+    float: left;
+    margin-left: 5%;
+}
+
+#up {
+    float: right;
+    margin-right: 5%;
+}
+
+#atk {
+    float: right;
+    margin-right: 1%;
+}
+
+#lookDownBtn {
+    width: 100%;
+    height: auto;
+    margin-top: 5%;
+}
+
+#lookFurtherBtn {
+    width: 100%;
+    height: auto;
+}

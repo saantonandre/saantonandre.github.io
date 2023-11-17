@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/png" href="favicon.png" />
+    <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Rajdhani|Varela+Round" rel="stylesheet">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <title> Dialogue Editor </title>
+</head>
+
+<body>
+    <div id="editor" style="display: none;">
+        <h1>Dialogue editor (0.6)</h1>
+        <div class="cont">
+            Condition <span class="tooltip">&#9432;<div class="tooltiptext">The condition has to be verified to display the option text. Empty condition means the dialogue has no specific requirements.</div></span><br>
+            <textarea id="text1" class="text"></textarea>
+            <br>Option text (short) <span class="tooltip">&#9432;<div class="tooltiptext">The option which will get displayed to the player if the condition is verified, all the verified options will be displayed</div></span><br>
+            <textarea id="text2" class="text"></textarea>
+            <br>Dialogue text <span class="tooltip">&#9432;<div class="tooltiptext">The text which will be outputted as the player chooses this exact option</div></span><br>
+            <textarea id="text3" class="text"></textarea>
+            <br>Trigger <span class="tooltip">&#9432;<div class="tooltiptext">What happens after this dialogue route gets chosen</div></span><br>
+            <textarea id="text4" class="text"></textarea>
+            <br> Page <span class="tooltip">&#9432;<div class="tooltiptext">Click "+" to add a new page, right click the page number to delete it (following pages will refill the emptied space)</div></span><br>
+            <button id="0" class="page selected">0</button><button id="new-page">+</button>
+            <br><br>
+            <button id="export">Export</button><button id="import">Import</button><br><br><button id="test">Test</button><br>
+            <!--<button id="test">TEST</button>-->
+        </div>
+    </div>
+    <div id="tester">
+        <h1 style="font-family: 'Rajdhani', sans-serif;
+">Dialogue tester (0.5)</h1>
+        <div class="cont">
+            Variables <span class="tooltip">&#9432;<div class="tooltiptext">Insert the variables istances (relative to the dialogue)</div></span><br>
+            <textarea placeholder="Please, insert variables like this:&#10;variable_1=0;&#10;variable_2=5;&#10;variable_2=[3,true,6];" id="istances" class="text"></textarea><br>
+            <button id="testStart">Test</button><br><br>Output <span class="tooltip">&#9432;<div class="tooltiptext">The interlocutor's response to the chosen option</div></span><br>
+            <div id="output"></div><button id="next" style="display:none;">Next</button>
+            <br><br> Options <span class="tooltip">&#9432;<div class="tooltiptext">There will be displayed ALL the options which met the requirements (choose one of them by click) </div></span><br>
+            <div id="options"><br>
+            </div><br><br>
+            <button id="export-2">Export</button><button id="import-2">Import</button><br>
+
+
+
+
+            <br><button id="edit">Editor</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

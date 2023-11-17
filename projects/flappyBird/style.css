@@ -1,0 +1,23 @@
+body{
+    padding:0;
+    border:0;
+    margin:0;
+    touch-action:none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    overflow:hidden;
+}
+#score{
+    position:absolute;
+    top:30px;
+    left:30px;
+    font-size: 30px;
+    color:yellow;
+}
+#best{
+    position:absolute;
+    top:70px;
+    left:30px;
+    font-size: 30px;
+    color:crimson;
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Engine demo </title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Eczar|Modern+Antiqua" rel="stylesheet">
+</head>
+
+<body>
+    <div id="main-menu">
+        <div id="FS-toggle">Fullscreen
+            <input id="FS-check" type="checkbox" ></div>
+        <div id="menu-list">
+            <div id="start">New game</div><br>
+            <div id="menu-options">Options</div><br>
+            <div id="interpretation">Interpretation</div><br>
+            <div id="credits">Credits</div>
+        </div>
+    </div>
+    <div id="game-screen" style="display:none">
+        <canvas id="canvas"></canvas>
+        <div id="canvas-overlay"></div>
+        <div id="dialogue-ui" style="display:none">
+            <div id="output"></div>
+            <div id="next" style="display:none">next</div><br>
+            <!-- Testing -->
+            <div id="closeDialogue">X</div><br>
+            <div id="options"></div>
+        </div>
+    </div>
+    <!-- Resources -->
+    <div style="display:none">
+        <img id="stone" src="resources/sprites/stone_tile.png">
+        <img id="pink" src="resources/sprites/avatar_1468261af0df_64.png">
+        <img id="purple" src="resources/sprites/VCT2rZMZcrnk4.gif">
+        <img id="red" src="resources/sprites/2155057_2.png">
+        <img id="low-wall" src="resources/sprites/low-wall.png">
+        <img id="dry-grass" src="resources/sprites/dry-grass.png">
+        <img id="walk-grass" src="resources/sprites/walk-grass.png">
+        <img id="stairs" src="resources/sprites/stairs.png">
+        <img id="house1" src="resources/sprites/house1.png">
+        <img id="fire" src="resources/sprites/fire.png">
+        <img id="tree1" src="resources/sprites/tree1.png">
+        <img id="elder" src="resources/sprites/elder1.png">
+
+        <img id="CHARA_IDLE" src="resources/sprites/MAIN/IDLE.png">
+        <img id="CHARA_WALK_L" src="resources/sprites/MAIN/WALK_L.png">
+        <img id="CHARA_WALK_R" src="resources/sprites/MAIN/WALK_R.png">
+        <img id="CHARA_WALK_T" src="resources/sprites/MAIN/WALK_T.png">
+        <img id="CHARA_WALK_B" src="resources/sprites/MAIN/WALK_B.png">
+    </div>
+    <div id="storytext"></div>
+    <!-- Characters -->
+    <script src="scripts/dialogues/guy.js"></script>
+    <script src="scripts/dialogues/elder.js"></script>
+    <script src="scripts/dialogues/linda.js"></script>
+    <!-- Scripts -->
+    <script src="scripts/map.js"></script>
+    <script src="scripts/map-engine.js"></script>
+    <script src="scripts/actions.js"></script>
+    <script src="scripts/text-engine.js"></script>
+    <script src="scripts/dialogue-engine.js"></script>
+    <!--
+    <script src="scripts/actions.js"></script>
+-->
+</body>
+
+</html>

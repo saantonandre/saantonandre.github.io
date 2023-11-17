@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Meta Tags -->
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Fonts Links (Roboto 400, 500 and 700 included) -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+    />
+    <!-- CSS Files Links -->
+    <link rel="stylesheet" href="./styles.css" />
+
+    <!-- Title -->
+    <title>sus analyzer</title>
+  </head>
+
+  <body>
+    <div id="result" style="display: none">
+      <div style="display: flex;gap:6px;">
+        <button id="back" onclick="viewResult(false)">Back to selection</button>
+        <button onclick="document.getElementById('canvas').requestFullscreen()">View fullscreen</button>
+        <div id="data"></div>
+      </div>
+      <canvas id="canvas"></canvas>
+    </div>
+    <div id="ui">
+      <h3>Select/upload an image</h3>
+      <p>
+        Input an image or drag one of the available images below towards the
+        input
+      </p>
+      <button disabled id="process-button" style="padding: 3px">
+        <b>Process selected image</b>
+      </button>
+      <div
+        style="display: flex; gap: 10px; align-items: center; margin-top: 20px"
+      >
+        <input type="file" id="file-input" accept=".jpg, .jpeg, .png" />
+      </div>
+      <script>
+        /** @param {HTMLButtonElement} */
+        const processButton = document.getElementById("process-button");
+        /** @type {string|null} */
+        let selected = null;
+        const setSelected = (src = "") => {
+          console.log(`Setting selected ${src}`);
+          selected = src;
+          processButton.setAttribute("disabled", "true");
+          processButton.removeAttribute("disabled");
+        };
+        /** @type {HTMLInputElement} img */
+        const fileInput = document.getElementById("file-input");
+        fileInput.files = null;
+        fileInput.onchange = () => {
+          setSelected(fileInput.value);
+        };
+        /** @param {HTMLImageElement} img */
+        const selectFile = async (img, i) => {
+          // Create a new File object from the image
+          const blob = await fetch(img.src).then((res) => res.blob());
+          const file = new File([blob], `image-${i}.png`, { type: blob.type });
+          const dataTransfer = new DataTransfer();
+          dataTransfer.items.add(file); //your file(s) reference(s)
+          fileInput.files = dataTransfer.files;
+          setSelected(fileInput.value);
+          const buttons = Array.from(
+            document.getElementsByClassName("image-button")
+          );
+          buttons.forEach((button) => {
+            button.classList.remove("selected");
+            if (button.id === img.id) {
+              button.classList.add("selected");
+            }
+          });
+        };
+      </script>
+      <div class="images-container">
+        <div>
+          <img
+            id="a"
+            class="image-button"
+            role="button"
+            onclick="selectFile(this,1)"
+            draggable="false"
+            src="images/a.png"
+          />
+          <button onclick="document.getElementById('a').requestFullscreen()">
+            View fullscreen
+          </button>
+        </div>
+        <div>
+          <img
+            id="b"
+            class="image-button"
+            role="button"
+            draggable="false"
+            onclick="selectFile(this,2)"
+            src="images/b.png"
+          />
+          <button onclick="document.getElementById('b').requestFullscreen()">
+            View fullscreen
+          </button>
+        </div>
+        <div>
+          <img
+            id="c"
+            class="image-button"
+            role="button"
+            draggable="false"
+            onclick="selectFile(this,3)"
+            src="images/place.png"
+          />
+          <button onclick="document.getElementById('c').requestFullscreen()">
+            View fullscreen
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <noscript>Your browser don't support JavaScript!</noscript>
+    <div style="display: none">
+      <img id="a" src="images/a.png" />
+      <img id="b" src="images/b.png" />
+      <img id="c" src="images/place.png" />
+    </div>
+    <script src="./main.js"></script>
+  </body>
+</html>

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="eng">
+
+<head>
+    <meta charset="utf-8">
+    <title>hatswordgame</title>
+    <meta name="author" content="saantonandre">
+    <meta name="description" content="Example description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" rel="stylesheet">
+</head>
+
+<body>
+    <canvas id="canvas"></canvas>
+    <span id="fps"></span>
+    <span id="mousePos"></span>
+
+    <!-- Experimental mobile controls -->
+        <div id="arrowCont" style="display:none;">
+            <img class="arrows" id="left" src="https://saantonandre.github.io/leftArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+            <img class="arrows" id="right" src="https://saantonandre.github.io/rightArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+            <img class="arrows" id="up" src="https://saantonandre.github.io/upArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+            <img class="arrows" id="down" src="https://saantonandre.github.io/downArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        </div>
+    <!-- Assets -->
+    <div style="display:none">
+        <img id="sheet" src="resources/sheet.png">
+        <img id="sheet-alt" src="resources/sheet-alternate.png">
+        <img id="explosion" src="resources/explosion.png">
+        <img id="city-bg" src="resources/city-bg.png">
+        <img id="grotto-bg" src="resources/grotto-1-bg.png">
+        <img id="template" src="dialogues/template.png">
+        <img id="portraits" src="dialogues/portraits.png">
+        <img id="pressButton" src="dialogues/pressButtonV2.png">
+        <img id="level-0" src="aseprite/levels/level-0.png">
+        <img id="level-1" src="aseprite/levels/level-1.png">
+        <img id="level-2" src="aseprite/levels/level-2.png">
+        <img id="level-3" src="aseprite/levels/level-3.png">
+    </div>
+    <!-- Scripts -->
+    <script type="text/javascript" src="collisions.js"></script>
+    <script type="text/javascript" src="controls.js"></script>
+    <script type="text/javascript" src="classes.js"></script>
+    <script type="text/javascript" src="dialogue.js"></script>
+    <script type="text/javascript" src="levels.js"></script>
+    <script type="text/javascript" src="levelBoundFunctions.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+    <script type="text/javascript" src="mapTesting.js"></script>
+</body></html>

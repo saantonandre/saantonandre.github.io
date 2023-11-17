@@ -1,0 +1,36 @@
+body {
+    margin:0;
+    padding:0;
+    background-color:black;
+    touch-action:none;
+    overflow-x:hidden;
+    font-family: 'Press Start 2P', cursive;
+    font-size:2.5vw;
+    color:#fff;
+    user-select:none;
+}
+#canvas{
+    border-bottom:3px solid white;
+    margin-bottom:3%;
+}
+#speed{
+    margin-left:5%;
+}
+#speedBuy1{
+    margin-left:5%;
+    padding:5%;
+}
+.buys{
+    display:inline-block;
+    border:3px solid white;
+    margin-left:5%;
+    margin-top:3%;
+    padding:5px;
+}
+#run{
+    position:absolute;
+    float:right;
+    right:5%;
+    margin-top:2%;
+    padding:15%;
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Map Editor</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="https://saantonandre.github.io/PixelSamurai/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <canvas id="canvas"></canvas>
+    <div id="cont"><input id="zoomer" type="range" value="15" min="4" max="40"><button id="toggle">drawing: displayed</button> || <button id="exportMap">export</button> || <label for="file" id="import">import</label><input id="file" name="file" type="file"> || <input id="mapSizeW" type="number" value="60"><button id="mapSizeBtnW">cells(W)</button> || <input id="mapSizeH" type="number" value="40"><button id="mapSizeBtnH">cells(H)</button> || <button onclick="alert('W-A-S-D = move camera \nQ-E = decrease/increase zoom\nR = switch between boxes/hitboxes\nRight click on boxes to delete them\n\nDrag the menu to place it anywhere')">controls</button> || <button id="interactive">interactive tiles</button> || <button id="spawn">define spawnpoint</button> || <button id="biomes">biome: 1</button> || <button id="test">TEST MAP</button>
+    </div>
+    <div id="cont2">
+    </div>
+    <div id="info">
+        x: 10, y: 5<br> w: 4, h:2
+    </div>
+    <div style="display:none">
+        <img id="sheet" src="mapTester/PixelSamurai/sheet11.png">
+    </div>
+    <script src="script.js"></script>
+</body>
+<!--saantonandre- 2018-07-16-->
+
+</html>

@@ -1,0 +1,275 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1b1b1c;
+    color: white;
+    touch-action: none;
+    user-select: none;
+}
+
+.arrows,
+#sp1,
+#sp2 {
+    z-index: 100000;
+}
+
+#rightCont {
+    position: absolute;
+    right: 0;
+    height: 100%;
+    width: 12vh;
+    margin-right: 5%;
+}
+
+#sp1 {
+    position: absolute;
+    width: 100%;
+    display: block;
+    opacity: 0.9;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    bottom: 36vh;
+}
+
+#sp2 {
+    position: absolute;
+    width: 100%;
+    display: block;
+    opacity: 0.9;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    bottom: 25vh;
+}
+
+#canvas {
+    margin-top: 7vh;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+
+#level {
+    text-align: center;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    position: absolute;
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    line-height: 14px;
+}
+
+#game-ui {
+    display: none;
+}
+
+#logo {
+    display: block;
+    position: relative;
+    width: 40vw;
+    left: 50%;
+    top: 2vh;
+    transform: translateX(-50%);
+}
+
+#level span {
+    font-size: 12px;
+}
+
+#pointSpan {
+    font-family: 'VT323', monospace;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 20px;
+    bottom: 10px;
+    color: white;
+}
+
+.bars {
+    width: 30vw;
+    height: 5vh;
+    background-color: gray;
+    position: absolute;
+}
+
+#playerBar {
+    width: 50%;
+    height: 100%;
+    background-color: #4b4b5b;
+    float: right;
+}
+
+#enemyBar {
+    width: 50%;
+    height: 100%;
+    background-color: #8c6a6c;
+}
+
+#enemyBar2 {
+    width: 50%;
+    height: 50%;
+    background-color: #8c6a6c;
+}
+
+#enemyBarC {
+    right: 0;
+}
+
+#arrowCont {
+    position: absolute;
+    width: 100%;
+    height: 14vh;
+    bottom: 8vh;
+}
+
+.arrows {
+    height: 100%;
+}
+
+#right {
+    float: left;
+    opacity: 0.5;
+    margin-left: 10%;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+#left {
+    float: left;
+    opacity: 0.5;
+    margin-left: 5%;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+#up {
+    opacity: 0.5;
+    float: right;
+    margin-right: 5%;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+.classes {
+    text-align: center;
+    ;
+    display: inline-block;
+    width: 20vw;
+    margin-left: 8vw;
+    margin-top: 5vh;
+    height: 20vw;
+    border: 3px solid black;
+}
+
+#pick {
+    text-align: center;
+    display: block;
+    font-family: 'VT323', monospace;
+    color: white;
+    font-size: 35px;
+}
+
+#note {
+    margin-top: 3vh;
+    text-align: center;
+    display: block;
+    font-family: 'VT323', monospace;
+    color: white;
+    font-size: 18px;
+}
+
+#confirm {
+    cursor: pointer;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    display: inline-block;
+    font-family: 'VT323', monospace;
+    color: white;
+    font-size: 30px;
+    padding: 1vw;
+    border: 2px solid white;
+    margin-top: 5vh;
+}
+
+#class-1 {
+    background-image: url("turretThumb.png");
+    background-size: 80% 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 0.3s;
+}
+
+#class-2 {
+    background-image: url("turret2Thumb.png");
+    background-size: 80% 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 0.3s;
+}
+
+#class-3 {
+    background-image: url("turret3Thumb.png");
+    background-size: 80% 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 0.3s;
+}
+
+#stats-info {
+    box-sizing: border-box;
+    font-family: 'VT323', monospace;
+    position: absolute;
+    overflow-y: scroll;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    width: 80%;
+    height: 80%;
+    display: none;
+    padding: 5%;
+    background-color: #1b1b1c;
+    transition: all 0.5s;
+    color: white;
+    font-size: 18px;
+    border: 3px solid black;
+}
+
+#OK {
+    display: inline-block;
+    color: #4b4b5b;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#change {
+    display: inline-block;
+    color: #c94a51;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+#pause {
+    text-align: center;
+    font-size: 35px;
+}
+
+#scout,
+#sniper,
+#artillery {
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 35px;
+    display: none;
+    color: #4b4b5b;
+}

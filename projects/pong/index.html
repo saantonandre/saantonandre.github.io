@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Pong 1v1 - by saantonandre</title>
+    <meta name="author" content="saantonandre">
+    <meta name="description" content="1v1 Pong">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <script src="https://www.gstatic.com/firebasejs/5.4.2/firebase.js"></script>
+</head>
+
+<body>
+    <canvas id="canvas"></canvas>
+    <button id="button">reset ball</button>
+    <div id="btnCont">
+        <button class="buttons" id="a">Insulta il giocatore 1</button>
+        <button class="buttons" id="b">Insulta il giocatore 2</button>
+        <button class="buttons" id="c">Bella giocata!</button>
+        <button class="buttons" id="d">Wow</button>
+    </div>
+
+
+    <div style="display:none">
+        <audio src="insulto1.wav"></audio>
+        <audio src="insulto2.wav"></audio>
+        <audio src="bellagiocata.wav"></audio>
+        <audio src="wow.wav"></audio>
+    </div>
+    <script src="script.js"></script>
+</body></html>

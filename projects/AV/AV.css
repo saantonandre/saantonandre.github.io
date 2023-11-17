@@ -1,0 +1,321 @@
+body {
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    user-select: none;
+    height: 100%;
+}
+
+#stage1 {
+    margin-top: 70%;
+    font-size: 14px;
+    animation: start1 1.5s linear;
+    animation-iteration-count: 3;
+    visibility: hidden;
+}
+
+#stage2 {
+    margin-top: 70%;
+    font-size: 14px;
+    animation: start2 1.5s linear;
+    animation-iteration-count: 3;
+    visibility: hidden;
+}
+
+#stage3 {
+    margin-top: 70%;
+    font-size: 14px;
+    animation: start3 1.5s linear;
+    animation-iteration-count: 3;
+    visibility: hidden;
+}
+
+#stage4 {
+    margin-top: 70%;
+    font-size: 14px;
+    animation: start4 1.5s linear;
+    animation-iteration-count: 3;
+    visibility: hidden;
+}
+
+#score {
+    margin-left: 35vw;
+    position: absolute;
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 15px;
+    min-width: 26vw;
+    height: 8vh;
+}
+
+#avatar img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#avatar {
+    background-color: #0061a8;
+    border-radius: 50%;
+    height: 0px;
+    width: 0px;
+    overflow: hidden;
+    display: inline-block;
+    animation: grow 0.2s forwards 2s;
+}
+
+@keyframes grow {
+    to {
+        border: 2px solid gold;
+        height: 120px;
+        width: 120px;
+    }
+}
+
+#me {
+    font-size: 30px;
+    font-family: 'Press Start 2P', cursive;
+    background: linear-gradient(45deg, magenta 50%, #0ff 50%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 2s ease-in-out forwards;
+    background-size: 400% auto;
+
+}
+
+#starscont {
+    margin-top: 30%;
+}
+
+.stars {
+    font-size: 35px;
+    position: absolute;
+    color: gold;
+    z-index: -1;
+    visibility: hidden;
+}
+
+
+#star1 {
+    animation: star1 2s ease-out forwards 2.1s;
+}
+
+@keyframes star1 {
+    from {}
+    to {
+        visibility: visible;
+        margin-top: -10%;
+        margin-left: 40%;
+        opacity: 0;
+        transform: rotateZ(360deg);
+    }
+}
+
+
+#star2 {
+    animation: star2 2s ease-out forwards 2.1s;
+}
+
+@keyframes star2 {
+    to {
+        visibility: visible;
+        margin-top: -30%;
+        margin-left: 20%;
+        opacity: 0;
+        transform: rotateZ(360deg);
+    }
+}
+
+
+#star3 {
+    animation: star3 2s ease-out forwards 2.1s;
+}
+
+@keyframes star3 {
+    to {
+        visibility: visible;
+        margin-top: -38%;
+        margin-left: -5%;
+        opacity: 0;
+        transform: rotateZ(360deg);
+    }
+}
+
+
+#star4 {
+    animation: star4 2s ease-out forwards 2.1s;
+}
+
+@keyframes star4 {
+    to {
+        visibility: visible;
+        margin-top: -30%;
+        margin-left: -30%;
+        opacity: 0;
+        transform: rotateZ(360deg);
+    }
+}
+
+
+#star5 {
+    animation: star5 2s ease-out forwards 2.1s;
+}
+
+@keyframes star5 {
+    to {
+        visibility: visible;
+        margin-top: -10%;
+        margin-left: -50%;
+        opacity: 0;
+        transform: rotateZ(360deg);
+    }
+}
+
+
+
+@keyframes shine {
+    to {
+        background-position: 300% center;
+    }
+}
+
+#cont {
+    margin-top: 30%;
+}
+
+#load {
+    display: none
+}
+
+#start {
+    color: white;
+    font-family: 'Press Start 2P', cursive;
+    margin-top: 5%;
+    text-align: center;
+    font-size: 60px;
+    animation: start 2s linear 2s;
+    animation-iteration-count: infinite;
+    visibility: hidden;
+}
+
+@keyframes start {
+    0% {
+        visibility: visible;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: hidden;
+    }
+}
+
+@keyframes start1 {
+    0% {
+        visibility: visible;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: hidden;
+    }
+}
+
+@keyframes start2 {
+    0% {
+        visibility: visible;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: hidden;
+    }
+}
+
+@keyframes start3 {
+    0% {
+        visibility: visible;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: hidden;
+    }
+}
+
+@keyframes start4 {
+    0% {
+        visibility: visible;
+    }
+    50% {
+        visibility: hidden;
+    }
+    100% {
+        visibility: hidden;
+    }
+}
+
+#area1 {
+    display: inline-block;
+    height: 100vh;
+    width: 32vw;
+    float: left;
+    background-color: black;
+}
+
+#area2 {
+    margin-left: 2vw;
+    display: inline-block;
+    width: 32vw;
+    height: 100vh;
+    box-sizing: border-box;
+    float: left;
+}
+
+#area3 {
+    display: inline-block;
+    float: right;
+    background-color: black;
+    height: 100vh;
+    width: 32vw;
+}
+
+.controls {
+    position: relative;
+    display: block;
+    background-color: white;
+    height: 28%;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 10%;
+    transition: all 0.1s;
+    filter: brightness(1);
+}
+
+#red {
+    background-color: #e01d1c;
+}
+
+#yellow {
+    background-color: #ddd02b;
+}
+
+#lightblue {
+    background-color: #2ab3a6;
+}
+
+#orange {
+    background-color: #ee7e1c;
+}
+
+#green {
+    background-color: #71b634;
+}
+
+#pink {
+    background-color: #e5518d;
+}

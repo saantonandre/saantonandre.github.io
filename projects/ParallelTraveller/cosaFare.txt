@@ -1,0 +1,18 @@
+levelSelector(this.level,exit)
+//returns the level to get switched to
+
+stageSelector()
+//takes you to the stage selector screen
+
+what to do next
+-finish the first level
+-boss fight(run)
+-downfall
+-checkpoints
+-design underground levels/enemies
+-dragon fight
+-world selector
+-interactibles
+-world 2 side characters
+-improve map editor
+

@@ -1,0 +1,211 @@
+ <!DOCTYPE html>
+ <html>
+
+ <head>
+     <!-- FIREBASE
+    <script src="https://www.gstatic.com/firebasejs/6.0.4/firebase-app.js"></script>
+     <script src="https://www.gstatic.com/firebasejs/6.0.2/firebase.js"></script>
+
+
+    <script>
+        // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyCiLKmMY2GqepRHWj1Eq2yh__UXwzO4JJg",
+            authDomain: "overlord-74099.firebaseapp.com",
+            databaseURL: "https://overlord-74099.firebaseio.com",
+            projectId: "overlord-74099",
+            storageBucket: "overlord-74099.appspot.com",
+            messagingSenderId: "472545813428",
+            appId: "1:472545813428:web:41ff061f6ba30625"
+        };
+        firebase.initializeApp(firebaseConfig);
+        // Initialize Firebase
+    </script>
+-->
+
+     <!--KONGREGATE
+    <script src='https://cdn1.kongregate.com/javascripts/kongregate_api.js'></script>
+    <!--KONGREGATE-->
+
+
+     <title>Map Tester</title>
+     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+     <link href="style.css" rel="stylesheet" type="text/css">
+     <link rel="shortcut icon" href="PixelSamurai/favicon.ico" type="image/x-icon">
+     <meta charset="UTF-8">
+     <meta name="apple-mobile-web-app-capable" content="yes">
+     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ </head>
+
+ <body>
+     <div id="loading">
+         <div>Loading...</div>
+     </div>
+     <div id="stats" style="display:block;visibility: hidden; position:absolute;width:100%;z-index:2000;">
+         <span id="FPS" class="stat"></span><br>
+         <span id="BLOCKS" class="stat"></span><br>
+         <span id="COL-1" class="stat"></span><br>
+         <span id="COL-2" class="stat"></span><br>
+         <span id="COL-3" class="stat"></span><br>
+         <span id="COL-L" class="stat"></span><br>
+         <span id="COL-R" class="stat"></span><br>
+         <span id="COL-T" class="stat"></span><br>
+         <span id="COL-B" class="stat"></span><br>
+         <br>
+     </div>
+     <div style="display:none;position:absolute;text-align:left;">
+         <span style="float:right;"><b>Controls:</b><br><br><b>[A]-[D]</b> <br> move<br><br><b>[W]</b> <br> jump<br><br><b>[F]</b> <br> attack<br><br><b>[F] mid-air</b> <br> dash attack<br><br><b>[1]-[2]-[3]-[4]-[5]</b> <br> spawn monsters<br></span>
+     </div>
+     <!-- MOBILE UI-->
+     <div id="arrowCont">
+         <img class="arrows" id="left" src="ui/mobile/left.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="right" src="ui/mobile/right.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="up" src="ui/mobile/up.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="atk" src="ui/mobile/x.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+     </div>
+     <div id="othersCont">
+         <img class="arrows" id="lookFurtherBtn" src="ui/mobile/c.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="lookDownBtn" src="ui/mobile/down.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+     </div>
+     <div id="spacebarCont">
+         <img class="arrows" id="spacebar" src="ui/mobile/spacebar.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+     </div>
+     <!-- MOBILE UI END-->
+     <div id="container">
+         <div id="title-screen">
+             <div id="buttons">
+                 <div id="newGame" class="button menu">NEW GAME</div>
+                 <div id="continue" class="button menu">CONTINUE</div>
+                 <div id="dialogueBtn" class="button menu">Dialogues(ON)</div>
+                 <div id="hardMode" class="button menu">EXTRA(soon)</div>
+             </div>
+             <div id="twitter">
+                 <a href="https://twitter.com/saantonandre" target="_blank"><img id="twitter-logo" src="twitter.png"> @saantonandre</a>
+             </div>
+             <div id="version">V beta-2019-06-09</div>
+         </div>
+         <img id="controls" class="tutorials" src="Tutorials/controls.png">
+         <img id="bouncy" class="tutorials" src="Tutorials/bouncy.png">
+         <img id="crystal" class="tutorials" src="Tutorials/crystal.png">
+         <img id="speeder" class="tutorials" src="Tutorials/speeder.png">
+         <img id="spikes" class="tutorials" src="Tutorials/spikes.png">
+         <img id="dash" class="tutorials" src="Tutorials/dash.png">
+         <img id="lookDown" class="tutorials" src="Tutorials/lookDown.png">
+         <img id="lookFurther" class="tutorials" src="Tutorials/lookFurther.png">
+         <img id="jumping" class="tutorials" src="Tutorials/jumping.png">
+         <img id="end" class="tutorials" src="Tutorials/end.png">
+         <img id="slime" class="tutorials" src="Tutorials/slime.png">
+         <div id="pause-screen">
+             <img id="pause-icon" src="ui/pause.png">
+             <div id="options">
+                 <img id="music" class="icons" src="ui/music-on.png">
+                 <img id="audio" class="icons" src="ui/sound-on.png"><br>
+                 <div id="ctrlButton" class="pauseButtons">CONTROLS</div>
+                 <div id="menuButton" class="pauseButtons">MAIN MENU</div>
+             </div>
+         </div>
+         <div id="disclaimer">note: this game autosaves as you progress</div>
+         <canvas id="canvas">
+         </canvas>
+     </div>
+     <div style="display:none">
+         <img id="sheet" src="PixelSamurai/sheet11.png">
+         <img src="PixelSamurai/sheetWarmPalette.png">
+         <img src="controls-screen1.png">
+         <img id="bearsheet" src="PixelSamurai/bear-spritesheet.png">
+         <img id="bg1" src="PixelSamurai/backgrounds/bg1.png">
+         <img id="bg2" src="PixelSamurai/backgrounds/bg2.png">
+         <img id="bg3" src="PixelSamurai/backgrounds/bg3.png">
+         <img id="bg4" src="PixelSamurai/backgrounds/bg4.png">
+         <img id="cloud1" src="PixelSamurai/backgrounds/clouds1.png">
+         <img id="cloud2" src="PixelSamurai/backgrounds/clouds2.png">
+         <img id="hp-bar" src="PixelSamurai/hp-bar2.png">
+         <img src="ui/music-off.png">
+         <img src="ui/sound-off.png">
+
+     </div>
+     <div style="display:none">
+         <audio src="PixelSamurai/soundFxs/bounce1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/crystal.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/bounce2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/bounce3.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/bounce4.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/dash.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/death.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/jump.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/speed1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/speed2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/sword-attack.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/sword-hit.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/spikes1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/spikes2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/tremble.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/fall.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/portal.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/money-1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/money-2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/money-3.mp3"></audio>
+     </div>
+     <div style="display:none">
+         <audio src="PixelSamurai/soundFxs/music/Bach-1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/music/Bach-2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/music/Bach-3.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/music/Bach-4.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/music/Bach-5.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/music/Bach-6.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/music/Bach-7.mp3"></audio>
+
+         <audio src="PixelSamurai/soundFxs/music/Haydn-1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/music/Haydn-2.mp3"></audio>
+     </div>
+     <div style="display:none">
+         <img id="d-layout" src="dialogue/layout.png">
+         <img id="ghost-0" src="dialogue/ghost-0.png">
+         <img id="ghost-1" src="dialogue/ghost-1.png">
+         <img id="ghost-2" src="dialogue/ghost-2.png">
+         <img id="player-0" src="dialogue/player-0.png">
+         <img id="player-1" src="dialogue/player-1.png">
+         <img id="player-2" src="dialogue/player-2.png">
+         <img id="pizza-0" src="dialogue/pizza-0.png">
+         <img id="pizza-1" src="dialogue/pizza-1.png">
+         <img id="pizza-2" src="dialogue/pizza-2.png">
+         <img id="pizza-3" src="dialogue/pizza-3.png">
+     </div>
+     <div style="display:none">
+         <img id="pizza" src="pizza-sprite.png">
+         <img id="no-pizza" src="pizza-sprite2.png">
+         <audio src="PixelSamurai/soundFxs/voices/ghost/1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/ghost/2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/ghost/3.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/ghost/4.mp3"></audio>
+
+         <audio src="PixelSamurai/soundFxs/voices/player/1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/player/2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/player/3.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/player/4.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/player/5.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/player/6.mp3"></audio>
+
+         <audio src="PixelSamurai/soundFxs/voices/pizza/1.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/pizza/2.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/pizza/3.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/pizza/4.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/pizza/5.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/pizza/6.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/pizza/7.mp3"></audio>
+         <audio src="PixelSamurai/soundFxs/voices/pizza/8.mp3"></audio>
+     </div>
+     <!--KONGREGATE
+    <script>
+        kongregateAPI.loadAPI(function() {
+            window.kongregate = kongregateAPI.getAPI();
+        });
+    </script>
+    <!--KONGREGATE-->
+     <script src="levels.js"></script>
+     <script src="script.js"></script>
+ </body>
+
+ </html>

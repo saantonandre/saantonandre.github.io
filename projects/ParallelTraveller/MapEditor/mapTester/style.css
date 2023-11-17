@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+    touch-action: none;
+    user-select: none;
+    background: black;
+}
+
+#fps {
+    color: green;
+    position: absolute;
+    left: 5px;
+    top: 5px;
+}
+
+#mousePos {
+    color: green;
+    position: absolute;
+    left: 5px;
+    top: 25px;
+}
+#canvas{
+    position:absolute;
+}
+
+#arrowCont {
+    position: absolute;
+    width: 100%;
+    height: 12vh;
+    bottom: 2vh;
+}
+
+.arrows {
+    height: 100%;
+}
+
+#right {
+    float: left;
+    opacity: 0.5;
+    margin-left: 10%;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+#up {
+    float: right;
+    opacity: 0.5;
+    margin-right: 5%;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+#down {
+    float: right;
+    opacity: 0.5;
+    margin-right: 5%;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}
+
+#left {
+    float: left;
+    opacity: 0.5;
+    margin-left: 5%;
+    background-color: transparent;
+    border-radius: 50%;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+}

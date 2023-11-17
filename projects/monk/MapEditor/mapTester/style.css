@@ -1,0 +1,27 @@
+body {
+    background-color:black;
+    user-select: none;
+    touch-action: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#debug {
+    position: absolute;
+    color: white;
+    left: 5px;
+    top: 5px;
+}
+
+#canvas {
+}
+#container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

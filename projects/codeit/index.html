@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="codeit.css" type="text/css" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Raleway"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <script>
+      const startAnimation = () => {
+        const container = document.getElementById("cont");
+        const audio = new Audio("dropit.mp3");
+        const button = document.getElementById("button");
+        const init = () => {
+          container.style.display = "block";
+          button.style.display = "none";
+          setTimeout(() => {
+            audio.play();
+          }, 1000);
+          setTimeout(() => {
+            container.style.display = "none";
+            button.style.display = "flex";
+            container.innerHTML = container.innerHTML;
+
+            audio.pause();
+          }, 9000);
+        };
+        if (audio.readyState === "complete") {
+          init();
+        } else {
+          audio.addEventListener("canplaythrough", init);
+        }
+      };
+    </script>
+    <div id="button">
+      <button onClick="startAnimation()">Start</button>
+    </div>
+    <div id="cont" style="display: none">
+      <div id="wrap"></div>
+      <div id="wrap2">
+        <div id="bg"></div>
+
+        <div id="code">
+          <span>C</span>
+          <br />
+          <span>O</span>
+          <br />
+          <span>D</span>
+          <br />
+          <span>E</span>
+          <br />
+        </div>
+        <div id="it">
+          <span><span style="visibility: hidden">.</span>I</span>
+          <br />
+          <span>T</span>
+        </div>
+      </div>
+      <div id="wrap3">
+        <div id="balls"></div>
+        <img class="web" id="html" src="img/HTML5.png" alt="html5" />
+        <img class="web" id="css" src="img/css3.png" alt="css3" />
+        <img class="web" id="php" src="img/php.png" alt="php" />
+        <img class="web" id="js" src="img/js.png" alt="js" />
+        <img class="others" id="cpp" src="img/cpp.png" alt="cpp" />
+        <img class="others" id="csh" src="img/csh.png" alt="csh" />
+        <img class="others" id="py" src="img/python.png" alt="py" />
+        <img class="others" id="ruby" src="img/ruby.png" alt="ruby" />
+        <img class="others" id="sql" src="img/sql.png" alt="sql" />
+        <img class="others" id="java" src="img/java.png" alt="java" />
+        <div class="others" id="hey">work in progress</div>
+      </div>
+
+      <img id="explode" src="img/explosion.gif" alt="boom" />
+
+      <div id="wrap4">
+        <div id="balls2"></div>
+        <img class="imgs" id="google" src="img/Google.png" alt="google" />
+        <img class="imgs" id="stack" src="img/stack.png" alt="stack" />
+        <img class="imgs" id="solo" src="img/sololearn.png" alt="solo" />
+        <img class="imgs" id="w3" src="img/w3school.jpg" alt="w3" />
+      </div>
+      <img id="stress" src="img/stress.gif" alt="stress" />
+      <img id="pro" src="img/programmer.gif" alt="programming" />
+      <audio id="play">
+        <source src="dropit.mp3" type="audio/mpeg" autoplay />
+      </audio>
+    </div>
+  </body>
+  <!-- saantonandre - 2018-03-18 -->
+  <!-- edited on 2023-11-01 -->
+</html>

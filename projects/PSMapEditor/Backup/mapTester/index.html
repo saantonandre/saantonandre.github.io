@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Map Tester</title>
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <link rel="shortcut icon" href="https://saantonandre.github.io/PixelSamurai/favicon.ico" type="image/x-icon">
+</head>
+
+<body>
+    <div style="position:absolute;width:100%;text-align:right;">
+        <span id="FPS"></span><br>
+        <span id="stat"></span><br>
+        <span id="playery"></span><br>
+        <span id="monsternumber"></span><br>
+        <span id="ctrl-span" style="position:absolute"></span>
+        <br>
+    </div>
+    <div style="position:absolute;text-align:left;">
+        <span style="float:right;"><b>Controls:</b><br><br><b>[A]-[D]</b> <br> move<br><br><b>[W]</b> <br> jump<br><br><b>[F]</b> <br> attack<br><br><b>[F] mid-air</b> <br> dash attack<br><br><b>[1]-[2]-[3]-[4]-[5]</b> <br> spawn monsters<br></span>
+    </div>
+    <canvas id="canvas"></canvas>
+    <div style="display:none">
+        <img id="sheet" src="https://saantonandre.github.io/PixelSamurai/sheet8.png">
+        <img id="bearsheet" src="https://saantonandre.github.io/PixelSamurai/bear-spritesheet.png">
+        <img id="bg1" src="https://saantonandre.github.io/PixelSamurai/Backgrounds/bg1.png">
+        <img id="bg2" src="https://saantonandre.github.io/PixelSamurai/Backgrounds/bg2.png">
+        <img id="bg3" src="https://saantonandre.github.io/PixelSamurai/Backgrounds/bg3.png">
+        <img id="bg4" src="https://saantonandre.github.io/PixelSamurai/Backgrounds/bg4.png">
+        <img id="cloud1" src="https://saantonandre.github.io/PixelSamurai/Backgrounds/clouds1.png">
+        <img id="cloud2" src="https://saantonandre.github.io/PixelSamurai/Backgrounds/clouds2.png">
+        <img id="hp-bar" src="https://saantonandre.github.io/PixelSamurai/hp-bar2.png">
+
+    </div>
+    <div id="arrowCont" style="display:none">
+        <img class="arrows" id="left" src="https://saantonandre.github.io/leftArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        <img class="arrows" id="right" src="https://saantonandre.github.io/rightArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        <img class="arrows" id="up" src="https://saantonandre.github.io/upArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        <img class="arrows" id="down" src="https://saantonandre.github.io/atkBtn.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+    </div>
+    <div style="display:none">
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/bounce1.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/bounce2.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/bounce3.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/bounce4.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/dash.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/jump.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/speed1.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/speed2.mp3"></audio>
+        <audio src="https://saantonandre.github.io/PixelSamurai/soundFxs/walking.mp3"></audio>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>

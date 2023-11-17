@@ -1,0 +1,38 @@
+body {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}
+.selected {
+  outline: 2px solid black;
+}
+#levels-cont,
+#players-cont {
+  padding: 4px;
+  display: flex;
+  gap: 4px;
+  flex-wrap:wrap;
+  align-items:center;
+}
+#levels-cont > button,
+#players-cont > button {
+  border-radius: 3px;
+  padding: 6px 10px;
+  cursor: pointer;
+}
+#canvas-cont {
+  flex-grow: 1;
+  overflow: scroll;
+  padding:10px;
+}
+.cont {
+  display: flex;
+  flex-direction:column;
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}

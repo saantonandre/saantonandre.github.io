@@ -1,0 +1,23 @@
+.images-container {
+  display: flex;
+  gap: 6px;
+  padding: 6px;
+}
+.images-container > div > img {
+  flex-grow: 1;
+  object-fit:cover;
+  width:100%;
+  height:100%
+}
+.images-container > div {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items:stretch;
+  height:100px;
+  width:100px;
+}
+
+.selected {
+  border: 3px solid black;
+}
