@@ -2,7 +2,7 @@
   "short_name": "TEB",
   "name": "Typescript-Webpack engine boilerplate",
   "author": "saantonandre",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
