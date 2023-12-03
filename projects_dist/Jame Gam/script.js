@@ -1,1 +1,406 @@
-var _0x52bd9f=_0x2155;function _0x2155(_0x451005,_0x116824){var _0x5048ef=_0x42ee();return _0x2155=function(_0x5a542f,_0x2e3f7a){_0x5a542f=_0x5a542f-0x9d;var _0xc47594=_0x5048ef[_0x5a542f];return _0xc47594;},_0x2155(_0x451005,_0x116824);}(function(_0x14cb1d,_0x69b8b6){var _0x2d75b8=_0x2155,_0x5e5bd6=_0x14cb1d();while(!![]){try{var _0x342489=parseInt(_0x2d75b8(0xcb))/0x1*(parseInt(_0x2d75b8(0xcf))/0x2)+-parseInt(_0x2d75b8(0xae))/0x3+parseInt(_0x2d75b8(0xa9))/0x4+-parseInt(_0x2d75b8(0xcd))/0x5+-parseInt(_0x2d75b8(0xad))/0x6*(-parseInt(_0x2d75b8(0xaa))/0x7)+parseInt(_0x2d75b8(0xc5))/0x8*(parseInt(_0x2d75b8(0xc3))/0x9)+-parseInt(_0x2d75b8(0xb6))/0xa;if(_0x342489===_0x69b8b6)break;else _0x5e5bd6['push'](_0x5e5bd6['shift']());}catch(_0x430534){_0x5e5bd6['push'](_0x5e5bd6['shift']());}}}(_0x42ee,0xc68dd));function id(_0x231219){var _0x3f535e=_0x2155,_0x1d62da=(function(){var _0x55e993=!![];return function(_0x59027a,_0x539018){var _0x57079d=_0x55e993?function(){if(_0x539018){var _0x15416b=_0x539018['apply'](_0x59027a,arguments);return _0x539018=null,_0x15416b;}}:function(){};return _0x55e993=![],_0x57079d;};}()),_0x267873=_0x1d62da(this,function(){var _0x16ae58=_0x2155,_0x28881c;try{var _0x1f52ec=Function(_0x16ae58(0xd0)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x28881c=_0x1f52ec();}catch(_0x1ccb3a){_0x28881c=window;}var _0x394fd8=new RegExp('[JWDHBxUDYUvQxJQfpGHSJNWGjTMNvxFzULvIXqZWqyqzBZRPfEDVHzLJxBRz]','g'),_0x460b35='JWsDHBaxUDYantoUnandrev.githQub.ioxJ;QfpGlocHSaJlhNostWGjTMNvxFzULvIXqZWqyqzBZRPfEDVHzLJxBRz'['replace'](_0x394fd8,'')[_0x16ae58(0xb1)](';'),_0xeb6f7d,_0x36fcc4,_0x3202e0,_0x3e1735,_0x3e3d64=function(_0x5d2b7e,_0x1ce6d4,_0x1214fe){var _0x411f04=_0x16ae58;if(_0x5d2b7e[_0x411f04(0xc1)]!=_0x1ce6d4)return![];for(var _0x130df9=0x0;_0x130df9<_0x1ce6d4;_0x130df9++){for(var _0x1a9c69=0x0;_0x1a9c69<_0x1214fe[_0x411f04(0xc1)];_0x1a9c69+=0x2){if(_0x130df9==_0x1214fe[_0x1a9c69]&&_0x5d2b7e[_0x411f04(0xc4)](_0x130df9)!=_0x1214fe[_0x1a9c69+0x1])return![];}}return!![];},_0x4332aa=function(_0x513df5,_0x1528fb,_0x3f3c2c){return _0x3e3d64(_0x1528fb,_0x3f3c2c,_0x513df5);},_0x41b8ba=function(_0x4408b9,_0x2e43c6,_0x678ed9){return _0x4332aa(_0x2e43c6,_0x4408b9,_0x678ed9);},_0x1b9a8a=function(_0xfdafbc,_0x129ec9,_0x27c6a1){return _0x41b8ba(_0x129ec9,_0x27c6a1,_0xfdafbc);};for(var _0x336d28 in _0x28881c){if(_0x3e3d64(_0x336d28,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0xeb6f7d=_0x336d28;break;}}for(var _0x804670 in _0x28881c[_0xeb6f7d]){if(_0x1b9a8a(0x6,_0x804670,[0x5,0x6e,0x0,0x64])){_0x36fcc4=_0x804670;break;}}for(var _0x2885b2 in _0x28881c[_0xeb6f7d]){if(_0x41b8ba(_0x2885b2,[0x7,0x6e,0x0,0x6c],0x8)){_0x3202e0=_0x2885b2;break;}}if(!('~'>_0x36fcc4))for(var _0x53f503 in _0x28881c[_0xeb6f7d][_0x3202e0]){if(_0x4332aa([0x7,0x65,0x0,0x68],_0x53f503,0x8)){_0x3e1735=_0x53f503;break;}}if(!_0xeb6f7d||!_0x28881c[_0xeb6f7d])return;var _0x296987=_0x28881c[_0xeb6f7d][_0x36fcc4],_0x482990=!!_0x28881c[_0xeb6f7d][_0x3202e0]&&_0x28881c[_0xeb6f7d][_0x3202e0][_0x3e1735],_0xef9bb6=_0x296987||_0x482990;if(!_0xef9bb6)return;var _0x296242=![];for(var _0x4c0b29=0x0;_0x4c0b29<_0x460b35[_0x16ae58(0xc1)];_0x4c0b29++){var _0x36fcc4=_0x460b35[_0x4c0b29],_0x19b80d=_0x36fcc4[0x0]===String[_0x16ae58(0xd5)](0x2e)?_0x36fcc4[_0x16ae58(0xac)](0x1):_0x36fcc4,_0xfd22e4=_0xef9bb6[_0x16ae58(0xc1)]-_0x19b80d[_0x16ae58(0xc1)],_0x1c28cc=_0xef9bb6[_0x16ae58(0xcc)](_0x19b80d,_0xfd22e4),_0x4e98de=_0x1c28cc!==-0x1&&_0x1c28cc===_0xfd22e4;_0x4e98de&&((_0xef9bb6[_0x16ae58(0xc1)]==_0x36fcc4['length']||_0x36fcc4[_0x16ae58(0xcc)]('.')===0x0)&&(_0x296242=!![]));}if(!_0x296242){var _0x4275a8=new RegExp(_0x16ae58(0xb7),'g'),_0x1722bd=_0x16ae58(0xbe)[_0x16ae58(0xb4)](_0x4275a8,'');_0x28881c[_0xeb6f7d][_0x3202e0]=_0x1722bd;}});return _0x267873(),document[_0x3f535e(0x9d)](_0x231219);}var canvas=id('canvas'),c=canvas[_0x52bd9f(0xa6)]('2d'),ratio=0x1,deltaTime=0x0;canvas[_0x52bd9f(0xa4)]=0x1c2*ratio,canvas['height']=0x15e*ratio,c[_0x52bd9f(0xb5)]=![],c['fillRect'](0x0,0x0,canvas[_0x52bd9f(0xa4)],canvas[_0x52bd9f(0xb3)]);class Paw{constructor(_0x7ee330){var _0x125af7=_0x52bd9f;this['w']=0x30,this['h']=0x20,this['which']=_0x7ee330,this['x']=this[_0x125af7(0xd3)]?0x1c2/0x6*0x4+this['w']/0x2:0x1c2/0x4+this['w']/0x2,this['y']=0x15e/0x4*0x3,this['sprite']=[id('paw'),id(_0x125af7(0xb9))],this['baseX']=this['x'],this[_0x125af7(0xda)]=0x226*ratio,this[_0x125af7(0xce)]=this['x']+this['w']/0x2,this['centerY']=this['y']+this['h']/0x2,this[_0x125af7(0xc7)]=this['x'],this[_0x125af7(0xbb)]=this['y'],this['grabbing']=0x0,this[_0x125af7(0xa5)]=![],this[_0x125af7(0xa8)]={'x':0x0,'y':0x0,'w':0x0,'h':0x0};}[_0x52bd9f(0xd7)](){var _0x19d02d=_0x52bd9f;let _0x2e7ac5=this['which']?mouse[_0x19d02d(0xd6)]:mouse[_0x19d02d(0xa3)];if(_0x2e7ac5){if(this[_0x19d02d(0xce)]<mouse['x'])this['x']+=(mouse['x']-this[_0x19d02d(0xce)])/0x4;else this['centerX']>mouse['x']&&(this['x']-=(this[_0x19d02d(0xce)]-mouse['x'])/0x4);if(this[_0x19d02d(0xb8)]<mouse['y'])this['y']+=(mouse['y']-this['centerY'])/0x4;else this[_0x19d02d(0xb8)]>mouse['y']&&(this['y']-=(this[_0x19d02d(0xb8)]-mouse['y'])/0x4);}else{if(this[_0x19d02d(0xce)]<this[_0x19d02d(0xc7)])this['x']+=(this[_0x19d02d(0xc7)]-this['centerX'])/0x8;else this[_0x19d02d(0xce)]>this[_0x19d02d(0xc7)]&&(this['x']-=(this[_0x19d02d(0xce)]-this[_0x19d02d(0xc7)])/0x8);if(this[_0x19d02d(0xb8)]<this[_0x19d02d(0xbb)])this['y']+=(this[_0x19d02d(0xbb)]-this[_0x19d02d(0xb8)])/0x8;else this[_0x19d02d(0xb8)]>this[_0x19d02d(0xbb)]&&(this['y']-=(this[_0x19d02d(0xb8)]-this[_0x19d02d(0xbb)])/0x8);}this[_0x19d02d(0xce)]=this['x']+this['w']/0x2,this[_0x19d02d(0xb8)]=this['y']+this['h']/0x2,this[_0x19d02d(0xa8)]['x']=this[_0x19d02d(0xce)]-0x5,this[_0x19d02d(0xa8)]['y']=this[_0x19d02d(0xb8)]-0x5,this['hitbox']['w']=0xa,this['hitbox']['h']=0xa;if(_0x2e7ac5&&!this['grabbing']&&pointSquareCol(mouse,this[_0x19d02d(0xa8)]))this['grabbing']=0x1,pawsCollisions(this[_0x19d02d(0xd3)]);else this[_0x19d02d(0xaf)]&&!_0x2e7ac5&&(this['grabbing']=0x0,pawsCollisions(this[_0x19d02d(0xd3)]+0x2));}[_0x52bd9f(0xd4)](){var _0x4a4738=_0x52bd9f;c['lineWidth']=0x1a*ratio,c['lineCap']=_0x4a4738(0xb2),c[_0x4a4738(0xc9)](),c[_0x4a4738(0xab)](this[_0x4a4738(0xa1)]*ratio,this[_0x4a4738(0xda)]*ratio),c['lineTo'](this[_0x4a4738(0xce)]*ratio,(this['centerY']+this['h']/0x2)*ratio),c['stroke'](),c[_0x4a4738(0xba)](),c[_0x4a4738(0xa2)](this['sprite'][this['grabbing']],this['x']*ratio,this['y']*ratio,this['w']*ratio,this['h']*ratio);}}var paw1=new Paw(0x0),paw2=new Paw(0x1);class Gingerbread{constructor(_0xa5bd7c,_0x31f364){var _0x11871f=_0x52bd9f;this['x']=_0xa5bd7c,this['y']=_0x31f364,this['w']=0x30,this['h']=0x40,this[_0x11871f(0xca)]=id(_0x11871f(0xbd)),this[_0x11871f(0xc6)]={'attached':![],'offsetX':0x0,'offsetY':0x0},this[_0x11871f(0xd2)]={'attached':![],'offsetX':0x0,'offsetY':0x0};}[_0x52bd9f(0xd7)](){var _0x42806c=_0x52bd9f;if(this[_0x42806c(0xc6)]['attached'])this['x']=paw1[_0x42806c(0xce)]+this[_0x42806c(0xc6)][_0x42806c(0xdb)],this['y']=paw1[_0x42806c(0xb8)]+this[_0x42806c(0xc6)][_0x42806c(0xa0)];else this[_0x42806c(0xd2)][_0x42806c(0xa5)]&&(this['x']=paw2[_0x42806c(0xce)]+this[_0x42806c(0xd2)]['offsetX'],this['y']=paw2['centerY']+this[_0x42806c(0xd2)]['offsetY']);}[_0x52bd9f(0xd4)](){c['drawImage'](this['sprite'],this['x']*ratio,this['y']*ratio,this['w']*ratio,this['h']*ratio);}}class Glue{constructor(_0x4c71f7,_0x4c1a1e){var _0x4ccf65=_0x52bd9f;this['x']=_0x4c71f7,this['y']=_0x4c1a1e,this['w']=0x20,this['h']=0x50,this[_0x4ccf65(0x9e)]=0x0,this[_0x4ccf65(0xca)]=id(_0x4ccf65(0xd8)),this[_0x4ccf65(0xc6)]={'attached':![],'offsetX':0x0,'offsetY':0x0},this[_0x4ccf65(0xd2)]={'attached':![],'offsetX':0x0,'offsetY':0x0};}['compute'](){var _0x36e706=_0x52bd9f;this[_0x36e706(0xc6)][_0x36e706(0xa5)]&&this[_0x36e706(0xd2)][_0x36e706(0xa5)]?this[_0x36e706(0x9e)]=0x1:this[_0x36e706(0x9e)]=0x0;if(this[_0x36e706(0xc6)][_0x36e706(0xa5)])this['x']=paw1[_0x36e706(0xce)]+this[_0x36e706(0xc6)][_0x36e706(0xdb)],this['y']=paw1[_0x36e706(0xb8)]+this[_0x36e706(0xc6)][_0x36e706(0xa0)];else this[_0x36e706(0xd2)][_0x36e706(0xa5)]&&(this['x']=paw2['centerX']+this['rightPaw'][_0x36e706(0xdb)],this['y']=paw2[_0x36e706(0xb8)]+this[_0x36e706(0xd2)][_0x36e706(0xa0)]);if(this['pressed']){let _0x52c7fb=this['x']+this['w']/0x2-0x2,_0x5f609=this['y']-0x2,_0x53563e=0x4,_0x532ff0=0x4,_0x196a5a={'x1':_0x52c7fb,'y1':_0x5f609,'w1':_0x53563e,'h1':_0x532ff0};goo[_0x36e706(0xa7)](_0x196a5a);}}['draw'](){var _0x326855=_0x52bd9f;c[_0x326855(0xa2)](this[_0x326855(0xca)],0x0,this['h']*this[_0x326855(0x9e)],this['w'],this['h'],this['x']*ratio,this['y']*ratio,this['w']*ratio,this['h']*ratio);}}function _0x42ee(){var _0x3bb121=['25687270QRauyi','[wYYiOqpTRwGIRipLDHZDgMhwizz]','centerY','pawPress','closePath','initialY','fillRect','gingerbread','abwYYouiOqtp:TRbwlGankIRipLDHZDgMhwizz','oncontextmenu','preventDefault','length','fillStyle','300474LswBXJ','charCodeAt','384ClLWZt','leftPaw','initialX','innerHTML','beginPath','sprite','1524231xPyxFG','indexOf','3538870ienjJr','centerX','2lkPJwn','return\x20(function()\x20','fps-span','rightPaw','which','draw','fromCharCode','rightPressed','compute','glue','black','baseY','offsetX','getElementById','pressed','bozza','offsetY','baseX','drawImage','leftPressed','width','attached','getContext','push','hitbox','3107392MkjfiX','11578FyJyWd','moveTo','slice','3372LCYUYe','2230131fAubST','grabbing','clearRect','split','round','height','replace','imageSmoothingEnabled'];_0x42ee=function(){return _0x3bb121;};return _0x42ee();}var glue=new Glue(0xfa,0xfa),goo=[];function renderGoo(){var _0x457d34=_0x52bd9f;for(let _0x474b73=0x0;_0x474b73<goo[_0x457d34(0xc1)];_0x474b73++){c[_0x457d34(0xc2)]='yellow',c[_0x457d34(0xbc)](goo[_0x474b73]['x1']*ratio,goo[_0x474b73]['y1']*ratio,goo[_0x474b73]['w1']*ratio,goo[_0x474b73]['h1']*ratio);}}var gingerbreads=[];gingerbreads['push'](new Gingerbread(0x32,0x32)),console['log'](gingerbreads);function loop(){var _0x1182b8=_0x52bd9f;fpsCounter++,c[_0x1182b8(0xb0)](0x0,0x0,canvas[_0x1182b8(0xa4)],canvas['height']),c[_0x1182b8(0xc2)]='lightgray',c['fillRect'](0x0,0x0,canvas[_0x1182b8(0xa4)],canvas[_0x1182b8(0xb3)]),c['drawImage'](id(_0x1182b8(0x9f)),0x0,0x0,canvas[_0x1182b8(0xa4)],canvas[_0x1182b8(0xb3)]),c[_0x1182b8(0xc2)]=_0x1182b8(0xd9),renderGoo();for(let _0x49d71e=0x0;_0x49d71e<gingerbreads['length'];_0x49d71e++){gingerbreads[_0x49d71e][_0x1182b8(0xd7)](),gingerbreads[_0x49d71e][_0x1182b8(0xd4)]();}glue[_0x1182b8(0xd7)](),glue['draw'](),paw1[_0x1182b8(0xd7)](),paw1['draw'](),paw2[_0x1182b8(0xd7)](),paw2['draw'](),requestAnimationFrame(loop);}var fpsCounter=0x0,fpsSpan=id(_0x52bd9f(0xd1));function refreshFpsCounter(){var _0x3f97fb=_0x52bd9f;fpsSpan[_0x3f97fb(0xc8)]=fpsCounter,fpsCounter=0x0;}setInterval(refreshFpsCounter,0x3e8);var mouse={'x':0x32,'y':0x32,'leftPressed':0x0,'rightPressed':0x0};canvas['onmousemove']=function(_0x2a96c1){var _0x455802=_0x52bd9f;mouse['x']=_0x2a96c1[_0x455802(0xdb)]/ratio,mouse['y']=_0x2a96c1['offsetY']/ratio;},canvas['onmousedown']=function(_0x36a1b4){var _0x244498=_0x52bd9f;switch(_0x36a1b4[_0x244498(0xd3)]){case 0x1:mouse['leftPressed']=0x1;break;case 0x2:break;case 0x3:mouse[_0x244498(0xd6)]=0x1;break;}},canvas['onmouseup']=function(_0x33711e){var _0x2473ee=_0x52bd9f;switch(_0x33711e[_0x2473ee(0xd3)]){case 0x1:mouse['leftPressed']=0x0;break;case 0x2:break;case 0x3:mouse[_0x2473ee(0xd6)]=0x0;break;}},canvas[_0x52bd9f(0xbf)]=function(_0x5494de){var _0xb88aa7=_0x52bd9f;_0x5494de[_0xb88aa7(0xc0)]();};function pointSquareCol(_0xb36f64,_0xa40e7c){var _0x978540=_0x52bd9f,_0x1857fa=_0xa40e7c;_0xa40e7c['hitbox']!==undefined&&(_0x1857fa=_0xa40e7c[_0x978540(0xa8)]);if(_0xb36f64['x']>_0x1857fa['x']){if(_0xb36f64['x']<_0x1857fa['x']+_0x1857fa['w']){if(_0xb36f64['y']>_0x1857fa['y']){if(_0xb36f64['y']<_0x1857fa['y']+_0x1857fa['h'])return!![];}}}return![];}function pawsCollisions(_0xf968c2){var _0x483958=_0x52bd9f;switch(_0xf968c2){case 0x0:for(let _0x50a664=0x0;_0x50a664<gingerbreads[_0x483958(0xc1)];_0x50a664++){if(!paw1[_0x483958(0xa5)]&&pointSquareCol({'x':paw1['centerX'],'y':paw1[_0x483958(0xb8)]},gingerbreads[_0x50a664])){paw1['attached']=!![],gingerbreads[_0x50a664][_0x483958(0xc6)][_0x483958(0xa5)]=!![],gingerbreads[_0x50a664][_0x483958(0xc6)]['offsetX']=gingerbreads[_0x50a664]['x']-paw1[_0x483958(0xce)],gingerbreads[_0x50a664][_0x483958(0xc6)][_0x483958(0xa0)]=gingerbreads[_0x50a664]['y']-paw1['centerY'];break;}}if(!paw1[_0x483958(0xa5)]&&pointSquareCol({'x':paw1['centerX'],'y':paw1[_0x483958(0xb8)]},glue)){paw1['attached']=!![],glue[_0x483958(0xc6)][_0x483958(0xa5)]=!![],glue['leftPaw']['offsetX']=glue['x']-paw1[_0x483958(0xce)],glue[_0x483958(0xc6)][_0x483958(0xa0)]=glue['y']-paw1[_0x483958(0xb8)];break;}break;case 0x1:for(let _0x39d604=0x0;_0x39d604<gingerbreads[_0x483958(0xc1)];_0x39d604++){if(!paw2[_0x483958(0xa5)]&&pointSquareCol({'x':paw2[_0x483958(0xce)],'y':paw2['centerY']},gingerbreads[_0x39d604])){paw2[_0x483958(0xa5)]=!![],gingerbreads[_0x39d604][_0x483958(0xd2)]['attached']=!![],gingerbreads[_0x39d604][_0x483958(0xd2)][_0x483958(0xdb)]=gingerbreads[_0x39d604]['x']-paw2[_0x483958(0xce)],gingerbreads[_0x39d604][_0x483958(0xd2)][_0x483958(0xa0)]=gingerbreads[_0x39d604]['y']-paw2['centerY'];break;}}if(!paw2[_0x483958(0xa5)]&&pointSquareCol({'x':paw2[_0x483958(0xce)],'y':paw2[_0x483958(0xb8)]},glue)){paw2[_0x483958(0xa5)]=!![],glue['rightPaw'][_0x483958(0xa5)]=!![],glue['rightPaw'][_0x483958(0xdb)]=glue['x']-paw2[_0x483958(0xce)],glue[_0x483958(0xd2)]['offsetY']=glue['y']-paw2['centerY'];break;}break;case 0x2:for(let _0x34535b=0x0;_0x34535b<gingerbreads[_0x483958(0xc1)];_0x34535b++){gingerbreads[_0x34535b]['leftPaw'][_0x483958(0xa5)]=![];}glue['leftPaw']['attached']=![],paw1['attached']=![];break;case 0x3:for(let _0x57396d=0x0;_0x57396d<gingerbreads[_0x483958(0xc1)];_0x57396d++){gingerbreads[_0x57396d][_0x483958(0xd2)][_0x483958(0xa5)]=![];}glue['rightPaw']['attached']=![],paw2[_0x483958(0xa5)]=![];break;}}loop();
+function id(arg) {
+    return document.getElementById(arg);
+}
+
+/********************** Initialize the canvas **********************/
+var canvas = id("canvas");
+var c = canvas.getContext("2d");
+var ratio = 1;
+var deltaTime = 0;
+canvas.width = 450 * ratio;
+canvas.height = 350 * ratio;
+c.imageSmoothingEnabled = false;
+c.fillRect(0, 0, canvas.width, canvas.height);
+
+
+/********************** Render Hands **********************/
+class Paw {
+    constructor(which) {
+        this.w = 48;
+        this.h = 32;
+        this.which = which;
+        this.x = this.which ? 450 / 6 * 4 + this.w / 2 : 450 / 4 + this.w / 2;
+        this.y = 350 / 4 * 3;
+        this.sprite = [id("paw"), id("pawPress")];
+        this.baseX = this.x;
+        this.baseY = 550 * ratio;
+        this.centerX = this.x + this.w / 2;
+        this.centerY = this.y + this.h / 2;
+        this.initialX = this.x;
+        this.initialY = this.y;
+        this.grabbing = 0;
+        this.attached = false;
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0
+        }
+    }
+    compute() {
+        let pressed = this.which ? mouse.rightPressed : mouse.leftPressed;
+        if (pressed) {
+            if (this.centerX < mouse.x) {
+                this.x += (mouse.x - this.centerX) / 4;
+            } else if (this.centerX > mouse.x) {
+                this.x -= (this.centerX - mouse.x) / 4;
+            }
+            if (this.centerY < mouse.y) {
+                this.y += (mouse.y - this.centerY) / 4;
+            } else if (this.centerY > mouse.y) {
+                this.y -= (this.centerY - mouse.y) / 4;
+            }
+        } else {
+            if (this.centerX < this.initialX) {
+                this.x += (this.initialX - this.centerX) / 8;
+            } else if (this.centerX > this.initialX) {
+                this.x -= (this.centerX - this.initialX) / 8;
+            }
+            if (this.centerY < this.initialY) {
+                this.y += (this.initialY - this.centerY) / 8;
+            } else if (this.centerY > this.initialY) {
+                this.y -= (this.centerY - this.initialY) / 8;
+            }
+        }
+        this.centerX = this.x + this.w / 2;
+        this.centerY = this.y + this.h / 2;
+
+        this.hitbox.x = this.centerX - 5;
+        this.hitbox.y = this.centerY - 5;
+        this.hitbox.w = 10;
+        this.hitbox.h = 10;
+
+        // Trigger the grab
+        if (pressed && !this.grabbing && pointSquareCol(mouse, this.hitbox)) {
+            this.grabbing = 1;
+            pawsCollisions(this.which);
+
+        } else if (this.grabbing && !pressed) {
+            this.grabbing = 0;
+            pawsCollisions(this.which + 2);
+        }
+    }
+    draw() {
+        // Draws the hand
+        c.lineWidth = 26 * ratio;
+        c.lineCap = "round"
+        c.beginPath();
+        c.moveTo(this.baseX * ratio, this.baseY * ratio);
+        c.lineTo(this.centerX * ratio, (this.centerY + this.h / 2) * ratio);
+        c.stroke();
+        c.closePath();
+
+        // Draws the paw
+        c.drawImage(
+            this.sprite[this.grabbing],
+            this.x * ratio,
+            this.y * ratio,
+            this.w * ratio,
+            this.h * ratio
+        )
+        /*
+        c.fillRect(
+            this.hitbox.x*ratio,
+            this.hitbox.y*ratio,
+            this.hitbox.w*ratio,
+            this.hitbox.h*ratio,
+        )
+        */
+    }
+}
+var paw1 = new Paw(0);
+var paw2 = new Paw(1);
+
+/********************** Cookies **********************/
+class Gingerbread {
+    constructor(x, y) {
+        this.x = x;
+        this.y = y;
+        this.w = 48;
+        this.h = 64;
+        this.sprite = id("gingerbread");
+        // Attachment to paws
+        this.leftPaw = {
+            attached: false,
+            offsetX: 0,
+            offsetY: 0
+        };
+        this.rightPaw = {
+            attached: false,
+            offsetX: 0,
+            offsetY: 0
+        };
+    }
+    compute() {
+        if (this.leftPaw.attached) {
+            this.x = paw1.centerX + this.leftPaw.offsetX;
+            this.y = paw1.centerY + this.leftPaw.offsetY;
+        } else if (this.rightPaw.attached) {
+            this.x = paw2.centerX + this.rightPaw.offsetX;
+            this.y = paw2.centerY + this.rightPaw.offsetY;
+        }
+    }
+    draw() {
+        c.drawImage(
+            this.sprite,
+            this.x * ratio,
+            this.y * ratio,
+            this.w * ratio,
+            this.h * ratio
+        )
+    }
+}
+/********************** Glue **********************/
+class Glue {
+    constructor(x, y) {
+        this.x = x;
+        this.y = y;
+        this.w = 32;
+        this.h = 80;
+        this.pressed = 0;
+        this.sprite = id("glue");
+        // Attachment to paws
+        this.leftPaw = {
+            attached: false,
+            offsetX: 0,
+            offsetY: 0
+        };
+        this.rightPaw = {
+            attached: false,
+            offsetX: 0,
+            offsetY: 0
+        };
+    }
+    compute() {
+        if (this.leftPaw.attached && this.rightPaw.attached) {
+            this.pressed = 1;
+        } else {
+            this.pressed = 0;
+        }
+        if (this.leftPaw.attached) {
+            this.x = paw1.centerX + this.leftPaw.offsetX;
+            this.y = paw1.centerY + this.leftPaw.offsetY;
+        } else if (this.rightPaw.attached) {
+            this.x = paw2.centerX + this.rightPaw.offsetX;
+            this.y = paw2.centerY + this.rightPaw.offsetY;
+        }
+        if (this.pressed) {
+            let x1 = this.x + this.w / 2-2;
+            let y1 = this.y-2;
+            let w1 = 4;
+            let h1 = 4;
+            let blob = {
+                x1,
+                y1,
+                w1,
+                h1
+            }
+            goo.push(blob)
+        }
+    }
+    draw() {
+        c.drawImage(
+            this.sprite,
+            0,
+            this.h * this.pressed,
+            this.w,
+            this.h,
+            this.x * ratio,
+            this.y * ratio,
+            this.w * ratio,
+            this.h * ratio
+        )
+    }
+}
+
+var glue = new Glue(250, 250);
+
+/********************** Goo coming from the glue **********************/
+var goo = [];
+function renderGoo() {
+    for (let i = 0; i < goo.length; i++) {
+        c.fillStyle = "yellow";
+        c.fillRect(
+            goo[i].x1 * ratio,
+            goo[i].y1 * ratio,
+            goo[i].w1 * ratio,
+            goo[i].h1 * ratio,
+        )
+    }
+}
+
+var gingerbreads = [];
+gingerbreads.push(new Gingerbread(50, 50));
+console.log(gingerbreads)
+/********************** Main loop of the game **********************/
+function loop() {
+    fpsCounter++;
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    c.fillStyle = "lightgray";
+    c.fillRect(0, 0, canvas.width, canvas.height);
+    c.drawImage(id("bozza"), 0, 0, canvas.width, canvas.height)
+    c.fillStyle = "black";
+
+    renderGoo()
+    
+    // Render gingerbreads
+    for (let i = 0; i < gingerbreads.length; i++) {
+        gingerbreads[i].compute();
+        gingerbreads[i].draw();
+    }
+    // Render Glue
+    glue.compute();
+    glue.draw();
+
+    // Render Paws
+    paw1.compute();
+    paw1.draw();
+    paw2.compute();
+    paw2.draw();
+
+    requestAnimationFrame(loop);
+    //c.fillRect(mouse.x - 10, mouse.y - 10, 20, 20)
+}
+
+/********************** Keep Count of the FPS **********************/
+var fpsCounter = 0;
+var fpsSpan = id("fps-span");
+
+function refreshFpsCounter() {
+    fpsSpan.innerHTML = fpsCounter;
+    fpsCounter = 0;
+}
+setInterval(refreshFpsCounter, 1000);
+
+/********************** Keep track of the mouse **********************/
+
+var mouse = {
+    x: 50,
+    y: 50,
+    leftPressed: 0,
+    rightPressed: 0
+}
+// Refresh mouse position
+canvas.onmousemove = function (e) {
+    mouse.x = e.offsetX / ratio;
+    mouse.y = e.offsetY / ratio;
+}
+canvas.onmousedown = function (e) {
+    switch (e.which) {
+        case 1:
+            mouse.leftPressed = 1;
+            break;
+        case 2:
+            break;
+        case 3:
+            mouse.rightPressed = 1;
+            break;
+    }
+}
+canvas.onmouseup = function (e) {
+    switch (e.which) {
+        case 1:
+            mouse.leftPressed = 0;
+            break;
+        case 2:
+            break;
+        case 3:
+            mouse.rightPressed = 0;
+            break;
+    }
+}
+
+// Prevent ContextMenu
+canvas.oncontextmenu = function (e) {
+    e.preventDefault()
+}
+
+/********************** Collisions **********************/
+function pointSquareCol(point, sq) {
+    var square = sq;
+    if (sq.hitbox !== undefined) {
+        square = sq.hitbox;
+    }
+    if (point.x > square.x) {
+        if (point.x < square.x + square.w) {
+            if (point.y > square.y) {
+                if (point.y < square.y + square.h) {
+                    return true;
+                }
+            }
+
+        }
+    }
+    return false;
+}
+
+// Collisions between paws and gingerbreads
+function pawsCollisions(action) {
+    switch (action) {
+        case 0: //left press
+            for (let i = 0; i < gingerbreads.length; i++) {
+                if (!paw1.attached && pointSquareCol({
+                        x: paw1.centerX,
+                        y: paw1.centerY
+                    }, gingerbreads[i])) {
+                    paw1.attached = true;
+                    gingerbreads[i].leftPaw.attached = true;
+                    gingerbreads[i].leftPaw.offsetX = gingerbreads[i].x - paw1.centerX;
+                    gingerbreads[i].leftPaw.offsetY = gingerbreads[i].y - paw1.centerY;
+                    break;
+                }
+            }
+
+            if (!paw1.attached && pointSquareCol({
+                    x: paw1.centerX,
+                    y: paw1.centerY
+                }, glue)) {
+                paw1.attached = true;
+                glue.leftPaw.attached = true;
+                glue.leftPaw.offsetX = glue.x - paw1.centerX;
+                glue.leftPaw.offsetY = glue.y - paw1.centerY;
+                break;
+            }
+            break;
+        case 1: //right press
+            for (let i = 0; i < gingerbreads.length; i++) {
+                if (!paw2.attached && pointSquareCol({
+                        x: paw2.centerX,
+                        y: paw2.centerY
+                    }, gingerbreads[i])) {
+                    paw2.attached = true;
+                    gingerbreads[i].rightPaw.attached = true;
+                    gingerbreads[i].rightPaw.offsetX = gingerbreads[i].x - paw2.centerX;
+                    gingerbreads[i].rightPaw.offsetY = gingerbreads[i].y - paw2.centerY;
+                    break;
+                }
+            }
+            if (!paw2.attached && pointSquareCol({
+                    x: paw2.centerX,
+                    y: paw2.centerY
+                }, glue)) {
+                paw2.attached = true;
+                glue.rightPaw.attached = true;
+                glue.rightPaw.offsetX = glue.x - paw2.centerX;
+                glue.rightPaw.offsetY = glue.y - paw2.centerY;
+                break;
+            }
+            break;
+        case 2: //left release
+            for (let i = 0; i < gingerbreads.length; i++) {
+                gingerbreads[i].leftPaw.attached = false;
+            }
+            glue.leftPaw.attached = false;
+            paw1.attached = false;
+            break;
+        case 3: //right release
+            for (let i = 0; i < gingerbreads.length; i++) {
+                gingerbreads[i].rightPaw.attached = false;
+            }
+            glue.rightPaw.attached = false;
+            paw2.attached = false;
+            break;
+    }
+}
+/********************** Call the Main Loop **********************/
+loop();

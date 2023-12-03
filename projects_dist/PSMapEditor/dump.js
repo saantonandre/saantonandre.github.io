@@ -1,1 +1,175 @@
-const _0x4ab07e=_0x4d1c;(function(_0x57386a,_0x4b4b9b){const _0x36b9f1=_0x4d1c,_0x258c13=_0x57386a();while(!![]){try{const _0x1a661e=parseInt(_0x36b9f1(0x94))/0x1*(parseInt(_0x36b9f1(0x9e))/0x2)+parseInt(_0x36b9f1(0x89))/0x3+-parseInt(_0x36b9f1(0xa4))/0x4*(-parseInt(_0x36b9f1(0x8b))/0x5)+parseInt(_0x36b9f1(0x97))/0x6*(parseInt(_0x36b9f1(0xa6))/0x7)+parseInt(_0x36b9f1(0x7f))/0x8*(-parseInt(_0x36b9f1(0xa7))/0x9)+-parseInt(_0x36b9f1(0x87))/0xa*(-parseInt(_0x36b9f1(0x85))/0xb)+parseInt(_0x36b9f1(0x9b))/0xc*(-parseInt(_0x36b9f1(0x98))/0xd);if(_0x1a661e===_0x4b4b9b)break;else _0x258c13['push'](_0x258c13['shift']());}catch(_0xc3729){_0x258c13['push'](_0x258c13['shift']());}}}(_0xc3ff,0xcafb6));const _0x9878cd=(function(){let _0x85ffc7=!![];return function(_0x4b7a58,_0x166a4f){const _0x13bcb3=_0x85ffc7?function(){const _0x2a4106=_0x4d1c;if(_0x166a4f){const _0x4f210a=_0x166a4f[_0x2a4106(0x81)](_0x4b7a58,arguments);return _0x166a4f=null,_0x4f210a;}}:function(){};return _0x85ffc7=![],_0x13bcb3;};}()),_0x5237dc=_0x9878cd(this,function(){const _0x2feb83=_0x4d1c,_0x581d27=function(){const _0x41454f=_0x4d1c;let _0x5d2d59;try{_0x5d2d59=Function('return\x20(function()\x20'+_0x41454f(0x80)+');')();}catch(_0x3246bd){_0x5d2d59=window;}return _0x5d2d59;},_0x22ef69=_0x581d27(),_0x1188a2=new RegExp(_0x2feb83(0xa3),'g'),_0x3d61ff=_0x2feb83(0x9f)['replace'](_0x1188a2,'')[_0x2feb83(0x8a)](';');let _0x10cfff,_0x2ad4e3,_0x29e5c0,_0x4052e5;const _0x3ab7a5=function(_0x1b3f27,_0x207eb8,_0x520580){const _0x1471c5=_0x2feb83;if(_0x1b3f27[_0x1471c5(0x92)]!=_0x207eb8)return![];for(let _0x4cfe56=0x0;_0x4cfe56<_0x207eb8;_0x4cfe56++){for(let _0x2e92c8=0x0;_0x2e92c8<_0x520580[_0x1471c5(0x92)];_0x2e92c8+=0x2){if(_0x4cfe56==_0x520580[_0x2e92c8]&&_0x1b3f27[_0x1471c5(0x91)](_0x4cfe56)!=_0x520580[_0x2e92c8+0x1])return![];}}return!![];},_0x553935=function(_0x20a87f,_0x30f949,_0x5e3771){return _0x3ab7a5(_0x30f949,_0x5e3771,_0x20a87f);},_0x52b531=function(_0x1d1636,_0x419728,_0x513353){return _0x553935(_0x419728,_0x1d1636,_0x513353);},_0x5c4d64=function(_0x31ec01,_0x530c5e,_0x500268){return _0x52b531(_0x530c5e,_0x500268,_0x31ec01);};for(let _0x38f045 in _0x22ef69){if(_0x3ab7a5(_0x38f045,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x10cfff=_0x38f045;break;}}for(let _0x5948d2 in _0x22ef69[_0x10cfff]){if(_0x5c4d64(0x6,_0x5948d2,[0x5,0x6e,0x0,0x64])){_0x2ad4e3=_0x5948d2;break;}}for(let _0x53d7b6 in _0x22ef69[_0x10cfff]){if(_0x52b531(_0x53d7b6,[0x7,0x6e,0x0,0x6c],0x8)){_0x29e5c0=_0x53d7b6;break;}}if(!('~'>_0x2ad4e3))for(let _0x4d5fba in _0x22ef69[_0x10cfff][_0x29e5c0]){if(_0x553935([0x7,0x65,0x0,0x68],_0x4d5fba,0x8)){_0x4052e5=_0x4d5fba;break;}}if(!_0x10cfff||!_0x22ef69[_0x10cfff])return;const _0xdc1fbf=_0x22ef69[_0x10cfff][_0x2ad4e3],_0x32fb10=!!_0x22ef69[_0x10cfff][_0x29e5c0]&&_0x22ef69[_0x10cfff][_0x29e5c0][_0x4052e5],_0x5d27f2=_0xdc1fbf||_0x32fb10;if(!_0x5d27f2)return;let _0x4e3ad4=![];for(let _0xdceebf=0x0;_0xdceebf<_0x3d61ff[_0x2feb83(0x92)];_0xdceebf++){const _0x1b8ce0=_0x3d61ff[_0xdceebf],_0x90122=_0x1b8ce0[0x0]===String[_0x2feb83(0x88)](0x2e)?_0x1b8ce0[_0x2feb83(0x95)](0x1):_0x1b8ce0,_0x4a09ed=_0x5d27f2[_0x2feb83(0x92)]-_0x90122['length'],_0xe9373a=_0x5d27f2[_0x2feb83(0x99)](_0x90122,_0x4a09ed),_0x35917f=_0xe9373a!==-0x1&&_0xe9373a===_0x4a09ed;_0x35917f&&((_0x5d27f2['length']==_0x1b8ce0[_0x2feb83(0x92)]||_0x1b8ce0[_0x2feb83(0x99)]('.')===0x0)&&(_0x4e3ad4=!![]));}if(!_0x4e3ad4){const _0x34fa8a=new RegExp('[sTCisNXUTsmMxEyDvdKYJeNK]','g'),_0x471825=_0x2feb83(0xa5)['replace'](_0x34fa8a,'');_0x22ef69[_0x10cfff][_0x29e5c0]=_0x471825;}});function _0xc3ff(){const _0xde7c51=['2035376esvNKD','18ApaLlO','fillStyle','4604144xKYPsH','{}.constructor(\x22return\x20this\x22)(\x20)','apply','fillRect','colPoint','col','468490HQnodE','xVelExt','350XqLFib','fromCharCode','2938035hZNGVP','split','194705yPbYOA','yVelExt','white','jumpCounter','abs','dash','charCodeAt','length','lastCollided','4VNFuns','slice','grounded','30AUQjBT','12626926suznqG','indexOf','colPoints','48QTwkeo','bouncy','dashCd','368326lCdqKJ','vszaKanfTNfBtWoQWnPanXdre.pgQixthFuUTbR.io;lfoScEHVLBalPhostPAffQNBBAXpqOWVqDCSDZMfVZOkNOwQVPvKBZqCkPmmTzXWFRz','hitbox','xVel','yVel','[vzKfTNfBWQWPXpQxFUTRfSEHVLBPPAffQNBBAXpqOWVqDCSDZMfVZOkNOwQVPvKBZqCkPmmTzXWFRz]','124tLaKoO','absTCisouNXUtT:smbMxlankEyDvdKYJeNK'];_0xc3ff=function(){return _0xde7c51;};return _0xc3ff();}_0x5237dc(),this[_0x4ab07e(0x83)]['L']=![],this[_0x4ab07e(0x83)]['R']=![],this['colPoint']['B']=![];for(let j=0x0;j<map['length'];j++){if(isOutOfScreen(map[j]))continue;pointSquareCol({'x':this['x']+this['w']/0x2+0.7,'y':this['y']+this['h']/0x2},map[j])&&(this['colPoint']['R']=!![]),pointSquareCol({'x':this['x']+this['w']/0x2-0.7,'y':this['y']+this['h']/0x2},map[j])&&(this['colPoint']['L']=!![]),pointSquareCol({'x':this['x']+this['w']/0x2,'y':this['y']+this['h']/0x2+0.7},map[j])&&(this[_0x4ab07e(0x83)]['B']=!![]);}for(let j=0x0;j<specialTiles[_0x4ab07e(0x92)];j++){if(isOutOfScreen(specialTiles[j]))continue;pointSquareCol({'x':this['x']+this['w']/0x2+0.7,'y':this['y']+this['h']/0x2},specialTiles[j])&&(this[_0x4ab07e(0x83)]['R']=!![]),pointSquareCol({'x':this['x']+this['w']/0x2-0.7,'y':this['y']+this['h']/0x2},specialTiles[j])&&(this[_0x4ab07e(0x83)]['L']=!![]),pointSquareCol({'x':this['x']+this['w']/0x2,'y':this['y']+this['h']/0x2+0.7},specialTiles[j])&&(this[_0x4ab07e(0x83)]['B']=!![]);}stats[_0x4ab07e(0x9a)]&&(this[_0x4ab07e(0x83)]['R']?c[_0x4ab07e(0xa8)]='red':c[_0x4ab07e(0xa8)]=_0x4ab07e(0x8d),c[_0x4ab07e(0x82)]((this['x']+this['w']/0x2+0.7+mapX)*ratio|0x0,(this['y']+this['h']/0x2+mapY)*ratio|0x0,0.1*ratio|0x0,0.1*ratio|0x0),this[_0x4ab07e(0x83)]['L']?c[_0x4ab07e(0xa8)]='red':c[_0x4ab07e(0xa8)]='white',c[_0x4ab07e(0x82)]((this['x']+this['w']/0x2-0.7+mapX)*ratio|0x0,(this['y']+this['h']/0x2+mapY)*ratio|0x0,0.1*ratio|0x0,0.1*ratio|0x0),this[_0x4ab07e(0x83)]['B']?c['fillStyle']='red':c[_0x4ab07e(0xa8)]=_0x4ab07e(0x8d),c['fillRect']((this['x']+this['w']/0x2+mapX)*ratio|0x0,(this['y']+this['h']/0x2+0.7+mapY)*ratio|0x0,0.1*ratio|0x0,0.1*ratio|0x0));this[_0x4ab07e(0x84)]['R']>this['hitbox']['w']/0x2+Math[_0x4ab07e(0x8f)](this['xVel']+this['xVelExt'])&&(this['col']['T']>this[_0x4ab07e(0x84)]['B']?(this[_0x4ab07e(0x84)]['T']+=this[_0x4ab07e(0x84)]['R'],this['col']['R']=0x0):(this[_0x4ab07e(0x84)]['B']+=this[_0x4ab07e(0x84)]['R'],this[_0x4ab07e(0x84)]['R']=0x0));this[_0x4ab07e(0x84)]['L']>this['hitbox']['w']/0x2+Math[_0x4ab07e(0x8f)](this[_0x4ab07e(0xa1)]+this['xVelExt'])&&(this[_0x4ab07e(0x84)]['T']>this[_0x4ab07e(0x84)]['B']?(this[_0x4ab07e(0x84)]['T']+=this['col']['L'],this[_0x4ab07e(0x84)]['L']=0x0):(this[_0x4ab07e(0x84)]['B']+=this[_0x4ab07e(0x84)]['L'],this['col']['L']=0x0));this[_0x4ab07e(0x84)]['B']>this[_0x4ab07e(0xa0)]['w']/0x2+Math['abs'](this[_0x4ab07e(0xa2)]+this[_0x4ab07e(0x8c)])&&(this[_0x4ab07e(0x84)]['T']=0x0);this['col']['T']>this[_0x4ab07e(0xa0)]['w']/0x2+Math[_0x4ab07e(0x8f)](this[_0x4ab07e(0xa2)]+this['yVelExt'])&&(this[_0x4ab07e(0x84)]['B']=0x0);function _0x4d1c(_0x2a82eb,_0x1071c6){const _0x49a831=_0xc3ff();return _0x4d1c=function(_0x5237dc,_0x9878cd){_0x5237dc=_0x5237dc-0x7f;let _0x281172=_0x49a831[_0x5237dc];return _0x281172;},_0x4d1c(_0x2a82eb,_0x1071c6);}this[_0x4ab07e(0x84)]['L']&&this[_0x4ab07e(0x83)]['L']&&(this[_0x4ab07e(0x84)]['R']&&(this[_0x4ab07e(0x96)]=!![]),this['x']+=this[_0x4ab07e(0x84)]['L'],this[_0x4ab07e(0x90)]&&(this[_0x4ab07e(0x90)]=![],this[_0x4ab07e(0x9d)]=!![]),this[_0x4ab07e(0x86)]<0x0&&this[_0x4ab07e(0x83)]['L']&&(this[_0x4ab07e(0x86)]=0x0),this['xVel']<0x0&&this[_0x4ab07e(0x83)]['L']&&(this[_0x4ab07e(0xa1)]=0x0));this[_0x4ab07e(0x84)]['R']&&this[_0x4ab07e(0x83)]['R']&&(this[_0x4ab07e(0x84)]['L']&&(this['grounded']=!![]),this['x']-=this[_0x4ab07e(0x84)]['R'],this[_0x4ab07e(0x90)]&&(this[_0x4ab07e(0x90)]=![],this[_0x4ab07e(0x9d)]=!![]),this[_0x4ab07e(0x86)]>0x0&&this['colPoint']['R']&&(this[_0x4ab07e(0x86)]=0x0),this[_0x4ab07e(0xa1)]>0x0&&this[_0x4ab07e(0x83)]['R']&&(this['xVel']=0x0));this[_0x4ab07e(0x84)]['T']&&(this['y']+=this[_0x4ab07e(0x84)]['T'],this[_0x4ab07e(0xa2)]<0x0&&(this[_0x4ab07e(0xa2)]=0x0),this['yVelExt']<0x0&&(this[_0x4ab07e(0x8c)]=0x0),this[_0x4ab07e(0x90)]&&(this[_0x4ab07e(0x90)]=![],this[_0x4ab07e(0x9d)]=!![]));this['col']['B']&&(this['y']-=this[_0x4ab07e(0x84)]['B']-0.03,this[_0x4ab07e(0x8e)]<0x9&&this[_0x4ab07e(0xa2)]<0x0?this['grounded']=![]:(this[_0x4ab07e(0x93)]!==_0x4ab07e(0x9c)&&(this[_0x4ab07e(0x96)]=!![]),this[_0x4ab07e(0xa2)]>0x0&&(this[_0x4ab07e(0xa2)]=0x0),(this['dashCd']||this[_0x4ab07e(0x90)])&&(this[_0x4ab07e(0x9d)]=![],this['dash']=![])));
+//COLLISION POINTS
+this.colPoint.L = false;
+this.colPoint.R = false;
+this.colPoint.B = false;
+
+
+for (let j = 0; j < map.length; j++) {
+    if (isOutOfScreen(map[j])) {
+        continue;
+    }
+    //checks for blocks to the right
+    if (pointSquareCol({
+            x: this.x + this.w / 2 + 0.7,
+            y: this.y + this.h / 2
+        }, map[j])) {
+        this.colPoint.R = true;
+    }
+    //checks for blocks to the left
+    if (pointSquareCol({
+            x: this.x + this.w / 2 - 0.7,
+            y: this.y + this.h / 2
+        }, map[j])) {
+        this.colPoint.L = true;
+    }
+    //checks for blocks to the bottom
+    if (pointSquareCol({
+            x: this.x + this.w / 2,
+            y: this.y + this.h / 2 + 0.7
+        }, map[j])) {
+        this.colPoint.B = true;
+    }
+
+}
+for (let j = 0; j < specialTiles.length; j++) {
+    if (isOutOfScreen(specialTiles[j])) {
+        continue;
+    }
+    //checks for blocks to the right
+    if (pointSquareCol({
+            x: this.x + this.w / 2 + 0.7,
+            y: this.y + this.h / 2
+        }, specialTiles[j])) {
+        this.colPoint.R = true;
+    }
+    //checks for blocks to the left
+    if (pointSquareCol({
+            x: this.x + this.w / 2 - 0.7,
+            y: this.y + this.h / 2
+        }, specialTiles[j])) {
+        this.colPoint.L = true;
+    }
+    //checks for blocks to the bottom
+    if (pointSquareCol({
+            x: this.x + this.w / 2,
+            y: this.y + this.h / 2 + 0.7
+        }, specialTiles[j])) {
+        this.colPoint.B = true;
+    }
+
+}
+if (stats.colPoints) {
+    this.colPoint.R ? c.fillStyle = "red" : c.fillStyle = "white";
+    c.fillRect(
+        (this.x + this.w / 2 + 0.7 + mapX) * ratio | 0,
+        (this.y + this.h / 2 + mapY) * ratio | 0,
+        (0.1) * ratio | 0,
+        (0.1) * ratio | 0
+    );
+    this.colPoint.L ? c.fillStyle = "red" : c.fillStyle = "white";
+    c.fillRect(
+        (this.x + this.w / 2 - 0.7 + mapX) * ratio | 0,
+        (this.y + this.h / 2 + mapY) * ratio | 0,
+        (0.1) * ratio | 0,
+        (0.1) * ratio | 0
+    );
+    this.colPoint.B ? c.fillStyle = "red" : c.fillStyle = "white";
+    c.fillRect(
+        (this.x + this.w / 2 + mapX) * ratio | 0,
+        (this.y + this.h / 2 + 0.7 + mapY) * ratio | 0,
+        (0.1) * ratio | 0,
+        (0.1) * ratio | 0
+    );
+}
+
+
+if (this.col.R > this.hitbox.w / 2 + Math.abs(this.xVel + this.xVelExt)) {
+    if (this.col.T > this.col.B) {
+        this.col.T += this.col.R;
+        this.col.R = 0;
+    } else {
+        this.col.B += this.col.R;
+        this.col.R = 0;
+    }
+}
+if (this.col.L > this.hitbox.w / 2 + Math.abs(this.xVel + this.xVelExt)) {
+    if (this.col.T > this.col.B) {
+        this.col.T += this.col.L;
+        this.col.L = 0;
+    } else {
+        this.col.B += this.col.L;
+        this.col.L = 0;
+    }
+}
+if (this.col.B > this.hitbox.w / 2 + Math.abs(this.yVel + this.yVelExt)) {
+    this.col.T = 0;
+}
+if (this.col.T > this.hitbox.w / 2 + Math.abs(this.yVel + this.yVelExt)) {
+    this.col.B = 0;
+}
+
+if (this.col.L && this.colPoint.L) {
+    if (this.col.R) {
+        this.grounded = true;
+    }
+    this.x += this.col.L;
+    if (this.dash) {
+        this.dash = false;
+        this.dashCd = true;
+    }
+    if (this.xVelExt < 0 && this.colPoint.L) {
+        this.xVelExt = 0;
+    }
+    if (this.xVel < 0 && this.colPoint.L) {
+        this.xVel = 0;
+    }
+
+}
+if (this.col.R && this.colPoint.R) {
+    if (this.col.L) {
+        this.grounded = true;
+    }
+    this.x -= this.col.R;
+    if (this.dash) {
+        this.dash = false;
+        this.dashCd = true;
+    }
+    if (this.xVelExt > 0 && this.colPoint.R) {
+        this.xVelExt = 0;
+    }
+    if (this.xVel > 0 && this.colPoint.R) {
+        this.xVel = 0;
+    }
+
+}
+if (this.col.T) {
+    this.y += this.col.T;
+    if (this.yVel < 0) {
+        this.yVel = 0;
+    }
+    if (this.yVelExt < 0) {
+        this.yVelExt = 0;
+    }
+    if (this.dash) {
+        this.dash = false;
+        this.dashCd = true;
+    }
+
+}
+if (this.col.B) {
+    this.y -= (this.col.B - 0.03);
+    if (this.jumpCounter < 9 && this.yVel < 0) {
+        this.grounded = false;
+    } else {
+        if (this.lastCollided !== "bouncy") {
+            this.grounded = true;
+        }
+        if (this.yVel > 0) {
+            this.yVel = 0;
+        }
+        if (this.dashCd || this.dash) {
+            this.dashCd = false;
+            this.dash = false;
+        }
+    }
+}

@@ -1,1 +1,343 @@
-var _0x4e4cb3=_0x20a2;(function(_0x5b88ef,_0x282385){var _0x4af6fc=_0x20a2,_0x20985d=_0x5b88ef();while(!![]){try{var _0x5f2157=parseInt(_0x4af6fc(0x18c))/0x1*(-parseInt(_0x4af6fc(0x168))/0x2)+-parseInt(_0x4af6fc(0x15a))/0x3+-parseInt(_0x4af6fc(0x184))/0x4+parseInt(_0x4af6fc(0x175))/0x5*(parseInt(_0x4af6fc(0x169))/0x6)+-parseInt(_0x4af6fc(0x156))/0x7+-parseInt(_0x4af6fc(0x16b))/0x8+parseInt(_0x4af6fc(0x142))/0x9;if(_0x5f2157===_0x282385)break;else _0x20985d['push'](_0x20985d['shift']());}catch(_0x3cfdb4){_0x20985d['push'](_0x20985d['shift']());}}}(_0x25a5,0xdf316));function id(_0x5b8630){var _0xb636f6=(function(){var _0x500934=!![];return function(_0x43c24e,_0x58f8ba){var _0x427d41=_0x500934?function(){var _0x180b72=_0x20a2;if(_0x58f8ba){var _0x232478=_0x58f8ba[_0x180b72(0x181)](_0x43c24e,arguments);return _0x58f8ba=null,_0x232478;}}:function(){};return _0x500934=![],_0x427d41;};}()),_0x463111=_0xb636f6(this,function(){var _0x35ebc4=_0x20a2,_0x585b13=function(){var _0x2a7a60=_0x20a2,_0x588c3f;try{_0x588c3f=Function(_0x2a7a60(0x16c)+_0x2a7a60(0x14b)+');')();}catch(_0x13bb87){_0x588c3f=window;}return _0x588c3f;},_0x4d13b0=_0x585b13(),_0x1145ce=new RegExp(_0x35ebc4(0x17f),'g'),_0x1468f1=_0x35ebc4(0x14e)[_0x35ebc4(0x159)](_0x1145ce,'')['split'](';'),_0x146549,_0x474c73,_0xd9d4d5,_0x215840,_0x2134af=function(_0x1eaf0f,_0x3796da,_0x5dde82){var _0x55b15d=_0x35ebc4;if(_0x1eaf0f[_0x55b15d(0x15d)]!=_0x3796da)return![];for(var _0x2823f5=0x0;_0x2823f5<_0x3796da;_0x2823f5++){for(var _0x588e47=0x0;_0x588e47<_0x5dde82[_0x55b15d(0x15d)];_0x588e47+=0x2){if(_0x2823f5==_0x5dde82[_0x588e47]&&_0x1eaf0f[_0x55b15d(0x13e)](_0x2823f5)!=_0x5dde82[_0x588e47+0x1])return![];}}return!![];},_0x228e48=function(_0x141816,_0x4c920d,_0x2a372e){return _0x2134af(_0x4c920d,_0x2a372e,_0x141816);},_0x4ac639=function(_0x14d00e,_0x31e025,_0x5b90d6){return _0x228e48(_0x31e025,_0x14d00e,_0x5b90d6);},_0x4c981c=function(_0x239bf2,_0x1795af,_0x181445){return _0x4ac639(_0x1795af,_0x181445,_0x239bf2);};for(var _0x9f200 in _0x4d13b0){if(_0x2134af(_0x9f200,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x146549=_0x9f200;break;}}for(var _0x1cdaa4 in _0x4d13b0[_0x146549]){if(_0x4c981c(0x6,_0x1cdaa4,[0x5,0x6e,0x0,0x64])){_0x474c73=_0x1cdaa4;break;}}for(var _0x423dbf in _0x4d13b0[_0x146549]){if(_0x4ac639(_0x423dbf,[0x7,0x6e,0x0,0x6c],0x8)){_0xd9d4d5=_0x423dbf;break;}}if(!('~'>_0x474c73))for(var _0x355888 in _0x4d13b0[_0x146549][_0xd9d4d5]){if(_0x228e48([0x7,0x65,0x0,0x68],_0x355888,0x8)){_0x215840=_0x355888;break;}}if(!_0x146549||!_0x4d13b0[_0x146549])return;var _0x242ca9=_0x4d13b0[_0x146549][_0x474c73],_0x41d66f=!!_0x4d13b0[_0x146549][_0xd9d4d5]&&_0x4d13b0[_0x146549][_0xd9d4d5][_0x215840],_0x48606e=_0x242ca9||_0x41d66f;if(!_0x48606e)return;var _0x420404=![];for(var _0x3b64c5=0x0;_0x3b64c5<_0x1468f1['length'];_0x3b64c5++){var _0x474c73=_0x1468f1[_0x3b64c5],_0x577a98=_0x474c73[0x0]===String['fromCharCode'](0x2e)?_0x474c73[_0x35ebc4(0x178)](0x1):_0x474c73,_0x28429d=_0x48606e[_0x35ebc4(0x15d)]-_0x577a98['length'],_0x29ae8a=_0x48606e['indexOf'](_0x577a98,_0x28429d),_0x286057=_0x29ae8a!==-0x1&&_0x29ae8a===_0x28429d;_0x286057&&((_0x48606e[_0x35ebc4(0x15d)]==_0x474c73[_0x35ebc4(0x15d)]||_0x474c73[_0x35ebc4(0x13d)]('.')===0x0)&&(_0x420404=!![]));}if(!_0x420404){var _0x61ed05=new RegExp(_0x35ebc4(0x188),'g'),_0x1c432=_0x35ebc4(0x17c)[_0x35ebc4(0x159)](_0x61ed05,'');_0x4d13b0[_0x146549][_0xd9d4d5]=_0x1c432;}});return _0x463111(),document['getElementById'](_0x5b8630);}var pageBtns=document[_0x4e4cb3(0x157)](_0x4e4cb3(0x170)),currentPage=0x0,pages=0x0,dialogue=[{'condition':'','option':'','text':'','trigger':''}];pageBtns[pages][_0x4e4cb3(0x15b)]('click',function(){switchPage(parseInt(this['id']));}),pageBtns[pages]['addEventListener'](_0x4e4cb3(0x14f),function(_0x4406b1){_0x4406b1['preventDefault'](),deletePage(this['id']);});function switchPage(_0x38a411){var _0x3d2816=_0x4e4cb3;id(currentPage)[_0x3d2816(0x14d)][_0x3d2816(0x179)](_0x3d2816(0x13b)),id(_0x38a411)[_0x3d2816(0x14d)]+=_0x3d2816(0x16a),save(),id(_0x3d2816(0x149))[_0x3d2816(0x153)]=dialogue[_0x38a411][_0x3d2816(0x150)],id(_0x3d2816(0x174))[_0x3d2816(0x153)]=dialogue[_0x38a411][_0x3d2816(0x185)],id(_0x3d2816(0x17d))[_0x3d2816(0x153)]=dialogue[_0x38a411][_0x3d2816(0x171)],id(_0x3d2816(0x166))[_0x3d2816(0x153)]=dialogue[_0x38a411]['trigger'],currentPage=parseInt(_0x38a411);}function save(){var _0x1d7ea7=_0x4e4cb3;dialogue['splice'](currentPage,0x1,{'condition':id(_0x1d7ea7(0x149))[_0x1d7ea7(0x153)],'option':id(_0x1d7ea7(0x174))['value'],'text':id('text3')[_0x1d7ea7(0x153)],'trigger':id(_0x1d7ea7(0x166))['value']});}document[_0x4e4cb3(0x15b)](_0x4e4cb3(0x176),function(){var _0x2bcef4=_0x4e4cb3;console[_0x2bcef4(0x13a)](currentPage+'\x20\x20'+pages);});function deletePage(_0x5e86c3){var _0x15f3d8=_0x4e4cb3;pages>0x0?(save(),console[_0x15f3d8(0x13a)](_0x15f3d8(0x147)+_0x5e86c3),dialogue[_0x15f3d8(0x154)](_0x5e86c3,0x1),pageBtns[pages][_0x15f3d8(0x158)]['removeChild'](pageBtns[pages]),pages--,currentPage>pages&&currentPage--,refresh()):console['log'](_0x15f3d8(0x155));}function refresh(){var _0x25ad2e=_0x4e4cb3;console['log'](_0x25ad2e(0x140)+currentPage+']'),id(_0x25ad2e(0x149))[_0x25ad2e(0x153)]=dialogue[currentPage][_0x25ad2e(0x150)],id(_0x25ad2e(0x174))[_0x25ad2e(0x153)]=dialogue[currentPage]['option'],id(_0x25ad2e(0x17d))[_0x25ad2e(0x153)]=dialogue[currentPage][_0x25ad2e(0x171)],id('text4')[_0x25ad2e(0x153)]=dialogue[currentPage][_0x25ad2e(0x177)];for(i=0x0;i<pageBtns;i++){pageBtns[i][_0x25ad2e(0x14d)][_0x25ad2e(0x179)](_0x25ad2e(0x13b));}pageBtns[currentPage][_0x25ad2e(0x14d)]+=_0x25ad2e(0x16a);}id(_0x4e4cb3(0x14a))[_0x4e4cb3(0x187)]=function(){var _0x18551d=_0x4e4cb3;pages++;var _0x213355=document[_0x18551d(0x17b)](_0x18551d(0x146)),_0x568fdd=document['createTextNode'](pages);_0x213355[_0x18551d(0x182)](_0x568fdd),_0x213355[_0x18551d(0x14c)]=_0x18551d(0x170),_0x213355['id']=pages,id(_0x18551d(0x14a))[_0x18551d(0x158)]['insertBefore'](_0x213355,id(_0x18551d(0x14a))),dialogue[pages]={'condition':'','option':'','text':'','trigger':''},pageBtns[pages][_0x18551d(0x15b)]('click',function(){switchPage(parseInt(this['id']));}),pageBtns[pages][_0x18551d(0x15b)]('contextmenu',function(_0x1de900){var _0x480aa0=_0x18551d;_0x1de900[_0x480aa0(0x16f)](),deletePage(this['id']);});};function exporting(){var _0x2a4e18=_0x4e4cb3;save();var _0x28f93f=_0x2a4e18(0x17a);for(var _0x143ccd=0x0;_0x143ccd<dialogue[_0x2a4e18(0x15d)];_0x143ccd++){_0x28f93f+=_0x2a4e18(0x189)+dialogue[_0x143ccd]['condition']+_0x2a4e18(0x17e)+dialogue[_0x143ccd][_0x2a4e18(0x185)]+'\x22,\x20text:\x20\x22'+dialogue[_0x143ccd]['text']+_0x2a4e18(0x15c)+dialogue[_0x143ccd]['trigger']+'\x22}';if(!(_0x143ccd+0x1===dialogue[_0x2a4e18(0x15d)]))_0x28f93f+=',';}_0x28f93f+=']',prompt('Copy\x20this\x20dialogue\x20code\x20and\x20save\x20it\x20wherever\x20possible',_0x28f93f);}function importing(){eval(prompt('Insert\x20the\x20dialogue\x20code\x20here','')),restock();}id(_0x4e4cb3(0x16e))['onclick']=exporting,id(_0x4e4cb3(0x145))['onclick']=exporting,id(_0x4e4cb3(0x141))[_0x4e4cb3(0x187)]=importing,id('import-2')[_0x4e4cb3(0x187)]=importing;function _0x20a2(_0x210d6a,_0x3c00e8){var _0x498f09=_0x25a5();return _0x20a2=function(_0x569b1a,_0x1424a6){_0x569b1a=_0x569b1a-0x139;var _0x2dec65=_0x498f09[_0x569b1a];return _0x2dec65;},_0x20a2(_0x210d6a,_0x3c00e8);}function restock(){var _0x4d2bb8=_0x4e4cb3;pages=0x0;for(var _0x27e5e2=pageBtns[_0x4d2bb8(0x15d)]-0x1;_0x27e5e2>=0x0;_0x27e5e2--){pageBtns[_0x27e5e2][_0x4d2bb8(0x158)]['removeChild'](pageBtns[_0x27e5e2]);}for(var _0x27e5e2=0x0;_0x27e5e2<dialogue['length'];_0x27e5e2++){var _0x10ea22=document[_0x4d2bb8(0x17b)]('BUTTON'),_0x5d103e=document[_0x4d2bb8(0x16d)](_0x27e5e2);_0x10ea22['appendChild'](_0x5d103e),_0x10ea22['className']=_0x4d2bb8(0x170),_0x10ea22['id']=_0x27e5e2,id(_0x4d2bb8(0x14a))['parentNode'][_0x4d2bb8(0x163)](_0x10ea22,id(_0x4d2bb8(0x14a))),pageBtns[_0x27e5e2][_0x4d2bb8(0x15b)](_0x4d2bb8(0x161),function(){switchPage(parseInt(this['id']));}),pageBtns[_0x27e5e2][_0x4d2bb8(0x15b)](_0x4d2bb8(0x14f),function(_0xf6d5c9){_0xf6d5c9['preventDefault'](),deletePage(this['id']);}),pages=_0x27e5e2;}currentPage=0x0,id(_0x4d2bb8(0x149))[_0x4d2bb8(0x13f)]=dialogue[currentPage][_0x4d2bb8(0x150)],id('text2')[_0x4d2bb8(0x13f)]=dialogue[currentPage][_0x4d2bb8(0x185)],id(_0x4d2bb8(0x17d))[_0x4d2bb8(0x13f)]=dialogue[currentPage][_0x4d2bb8(0x171)],id(_0x4d2bb8(0x166))[_0x4d2bb8(0x13f)]=dialogue[currentPage]['trigger'],id('0')[_0x4d2bb8(0x14d)][_0x4d2bb8(0x179)](_0x4d2bb8(0x13b)),id('0')[_0x4d2bb8(0x14d)]+=_0x4d2bb8(0x16a);}var optionList=[];function _0x25a5(){var _0x43ee13=['1yKmVXy','push','log','selected','block','indexOf','charCodeAt','innerHTML','now\x20showing\x20dialogue[','import','34870446ejjrJT','options','number','export-2','BUTTON','deleting\x20page\x20','tester','text1','new-page','{}.constructor(\x22return\x20this\x22)(\x20)','className','classList','zTsaSantXQDyNwonpanXdSref.HgithqDVjzubyLU.pkio;locOmAaVQlhQxBGpDNANIosGjptGICkMxDXUDMDmMOZIXITzmmNY','contextmenu','condition','testStart','isArray','value','splice','you\x20cant\x20delete\x20your\x20only\x20page','7298781mLWEOe','getElementsByClassName','parentNode','replace','1939350sLWueC','addEventListener','\x22,\x20trigger:\x20\x22','length','non\x20è\x20un\x20array','none','split','click','istances','insertBefore','inline-block','editor','text4','option-','2965286biRyuf','15342KNgDTO','\x20selected','1445896kOkMQg','return\x20(function()\x20','createTextNode','export','preventDefault','page','text','display','next','text2','2485waYHhx','dblclick','trigger','slice','remove','dialogue=[','createElement','FGHaLUbDoAOujt:zblHzqamnkGxHfZByHNrvUp','text3','\x22,\x20option:\x20\x22','[zTSXQDyNwpXSfHqDVjzyLUpkOmAVQQxBGpDNANIGjpGICkMxDXUDMDmMOZIXITzmmNY]','style','apply','appendChild','è\x20un\x20array','3514448beDJmC','option','output','onclick','[FGHLUDAOjzHzqmGxHfZByHNrvUp]','{condition:\x20\x22','];\x0a','trim'];_0x25a5=function(){return _0x43ee13;};return _0x25a5();}id(_0x4e4cb3(0x151))[_0x4e4cb3(0x187)]=function(){save(),istanceVariables(),validateOptions();};var newVariables,arr;function istanceVariables(){var _0xb142d6=_0x4e4cb3;eval(id(_0xb142d6(0x162))[_0xb142d6(0x153)]),arr=id('istances')['value'],arr=arr[_0xb142d6(0x18b)](),arr[_0xb142d6(0x159)]('\x20',''),arr=arr[_0xb142d6(0x160)](';');for(var _0x2a577b=arr[_0xb142d6(0x15d)]-0x1;_0x2a577b>=0x0;_0x2a577b--){arr[_0x2a577b]=arr[_0x2a577b][_0xb142d6(0x160)]('=');}for(var _0x2a577b=arr[_0xb142d6(0x15d)]-0x1;_0x2a577b>=0x0;_0x2a577b--){arr[_0x2a577b]==0x0&&arr['splice'](_0x2a577b,0x1);}for(var _0x2a577b=0x0;_0x2a577b<arr[_0xb142d6(0x15d)];_0x2a577b++){arr[_0x2a577b][0x0]=arr[_0x2a577b][0x0]['trim'](),arr[_0x2a577b][0x1]=arr[_0x2a577b][0x1]['trim'](),arr[_0x2a577b][0x1]=arr[_0x2a577b][0x1]['split'](',');;}id(_0xb142d6(0x162))[_0xb142d6(0x153)]='';for(var _0x2a577b=0x0;_0x2a577b<arr[_0xb142d6(0x15d)];_0x2a577b++){Array[_0xb142d6(0x152)](eval(arr[_0x2a577b][0x0]))?id(_0xb142d6(0x162))[_0xb142d6(0x153)]+=arr[_0x2a577b][0x0]+'=['+eval(arr[_0x2a577b][0x0])+'];\x0a':id('istances')['value']+=arr[_0x2a577b][0x0]+'='+eval(arr[_0x2a577b][0x0])+';\x0a';}}function validateOptions(){var _0x54e959=_0x4e4cb3;optionList=[];for(var _0x1be8b3=0x0;_0x1be8b3<dialogue[_0x54e959(0x15d)];_0x1be8b3++){(eval(dialogue[_0x1be8b3][_0x54e959(0x150)])||dialogue[_0x1be8b3][_0x54e959(0x150)][_0x54e959(0x15d)]==0x0)&&optionList[_0x54e959(0x139)](_0x1be8b3);}generateOptions();}var dialogueProgress=0x0;function generateOptions(){var _0x490018=_0x4e4cb3;id(_0x490018(0x143))[_0x490018(0x13f)]='';for(var _0x975c2b=0x0;_0x975c2b<optionList['length'];_0x975c2b++){var _0x544f7b=document['createElement']('BUTTON');_0x544f7b['number']=optionList[_0x975c2b];var _0x530a45=document[_0x490018(0x16d)](dialogue[_0x544f7b[_0x490018(0x144)]]['option']);_0x544f7b['appendChild'](_0x530a45),_0x544f7b[_0x490018(0x14c)]=_0x490018(0x185),_0x544f7b['id']=_0x490018(0x167)+_0x975c2b,id(_0x490018(0x143))[_0x490018(0x182)](_0x544f7b),_0x544f7b[_0x490018(0x187)]=function(){var _0x4f557c=_0x490018,_0x25e97e=dialogue[this['number']][_0x4f557c(0x171)][_0x4f557c(0x160)](';');_0x25e97e[_0x4f557c(0x15d)]==0x1&&(_0x25e97e=_0x25e97e[0x0]);Array[_0x4f557c(0x152)](_0x25e97e)?(console[_0x4f557c(0x13a)](_0x4f557c(0x183)),console[_0x4f557c(0x13a)](_0x25e97e),id(_0x4f557c(0x143))[_0x4f557c(0x180)]['display']='none',id(_0x4f557c(0x173))[_0x4f557c(0x180)][_0x4f557c(0x172)]=_0x4f557c(0x164),id('output')[_0x4f557c(0x13f)]=_0x25e97e[dialogueProgress],id('next')[_0x4f557c(0x187)]=function(){var _0x75f217=_0x4f557c;dialogueProgress++,dialogueProgress<_0x25e97e['length']-0x1?id(_0x75f217(0x186))['innerHTML']=_0x25e97e[dialogueProgress]:(id('output')['innerHTML']=_0x25e97e[dialogueProgress],id(_0x75f217(0x143))[_0x75f217(0x180)][_0x75f217(0x172)]='inline-block',id(_0x75f217(0x173))[_0x75f217(0x180)][_0x75f217(0x172)]=_0x75f217(0x15f),dialogueProgress=0x0);}):(console[_0x4f557c(0x13a)](_0x4f557c(0x15e)),id(_0x4f557c(0x186))['innerHTML']=dialogue[this[_0x4f557c(0x144)]][_0x4f557c(0x171)]);eval(dialogue[this[_0x4f557c(0x144)]][_0x4f557c(0x177)]),id(_0x4f557c(0x162))[_0x4f557c(0x153)]='';for(var _0x62df50=0x0;_0x62df50<arr[_0x4f557c(0x15d)];_0x62df50++){Array[_0x4f557c(0x152)](eval(arr[_0x62df50][0x0]))?id(_0x4f557c(0x162))[_0x4f557c(0x153)]+=arr[_0x62df50][0x0]+'=['+eval(arr[_0x62df50][0x0])+_0x4f557c(0x18a):id(_0x4f557c(0x162))[_0x4f557c(0x153)]+=arr[_0x62df50][0x0]+'='+eval(arr[_0x62df50][0x0])+';\x0a';}validateOptions();};}}id('test')[_0x4e4cb3(0x187)]=function(){var _0x189203=_0x4e4cb3;id(_0x189203(0x165))[_0x189203(0x180)]['display']=_0x189203(0x15f),id(_0x189203(0x148))['style'][_0x189203(0x172)]='block';},id('edit')[_0x4e4cb3(0x187)]=function(){var _0x4c2e6a=_0x4e4cb3;id(_0x4c2e6a(0x148))[_0x4c2e6a(0x180)]['display']=_0x4c2e6a(0x15f),id(_0x4c2e6a(0x165))['style']['display']=_0x4c2e6a(0x13c);};
+function id(arg) {
+    return document.getElementById(arg);
+}
+
+
+
+
+// The array of pages buttons
+var pageBtns = document.getElementsByClassName("page");
+// Current page
+var currentPage = 0;
+// Number of pages
+var pages = 0;
+// The dialogues array, the empty start is because of the first page
+var dialogue = [{
+    condition: "",
+    option: "",
+    text: "",
+    trigger: ""
+        }];
+
+// The first page gets immediately its event listener
+pageBtns[pages].addEventListener("click", function () {
+    // By clicking page buttons you are saving the current page and replacing it with this one
+    switchPage(parseInt(this.id))
+});
+
+// Delete this button(and the equivalent dialogue) by right clicking it
+pageBtns[pages].addEventListener("contextmenu",
+    function (e) {
+        e.preventDefault();
+        deletePage(this.id);
+    });
+
+
+
+
+
+
+function switchPage(pageId) {
+    // The currentPage is the page from which you clicked another
+    id(currentPage).classList.remove("selected");
+    // While the pageId is the one you want to move to
+    id(pageId).classList += " selected";
+
+
+    // This basically saves in the dialogue array the page you're leaving behind
+    save();
+
+    // Changes the displayed text into the target page dialogue 
+    id("text1").value = dialogue[pageId].condition;
+    id("text2").value = dialogue[pageId].option;
+    id("text3").value = dialogue[pageId].text;
+    id("text4").value = dialogue[pageId].trigger;
+    // Now the target page is the new current page
+    currentPage = parseInt(pageId);
+}
+
+function save() {
+    dialogue.splice(currentPage, 1, {
+        condition: id("text1").value,
+        option: id("text2").value,
+        text: id("text3").value,
+        trigger: id("text4").value
+    });
+}
+document.addEventListener("dblclick", function () {
+    console.log(currentPage + "  " + pages);
+})
+
+function deletePage(pageId) {
+    if (pages > 0) {
+        save();
+        console.log("deleting page " + pageId);
+        //console.log(dialogue);
+        dialogue.splice(pageId, 1);
+        pageBtns[pages].parentNode.removeChild(pageBtns[pages]);
+        pages--;
+        if (currentPage > pages) {
+            currentPage--;
+        }
+        refresh();
+    } else {
+        console.log("you cant delete your only page");
+    }
+}
+
+function refresh() {
+
+    console.log("now showing dialogue[" + currentPage + "]");
+    //console.log(dialogue);
+    id("text1").value = dialogue[currentPage].condition;
+    id("text2").value = dialogue[currentPage].option;
+    id("text3").value = dialogue[currentPage].text;
+    id("text4").value = dialogue[currentPage].trigger;
+
+
+    for (i = 0; i < pageBtns; i++) {
+        pageBtns[i].classList.remove("selected");
+    }
+    pageBtns[currentPage].classList += " selected";
+}
+
+
+
+// Generates a new page (Pages are huge abstractions)
+id("new-page").onclick = function () {
+    // Increases page counter
+    pages++;
+    // A page consist in a button, a new object and its position in the dialogue array( which is the same as page number), and its click listener
+    var newNode = document.createElement("BUTTON");
+    var textNode = document.createTextNode(pages);
+    newNode.appendChild(textNode);
+    newNode.className = "page";
+    newNode.id = pages;
+    // Inserts the page button just before the new-page button
+    id("new-page").parentNode.insertBefore(newNode, id("new-page"));
+    // Creates an empty dialogue
+    dialogue[pages] = {
+        condition: "",
+        option: "",
+        text: "",
+        trigger: ""
+    }
+    // The click listener will swap pages
+    pageBtns[pages].addEventListener("click", function () {
+        switchPage(parseInt(this.id));
+    });
+    pageBtns[pages].addEventListener("contextmenu",
+        function (e) {
+            e.preventDefault();
+            deletePage(this.id);
+        });
+
+}
+
+
+
+// Saves the current page and outputs the dialogue
+function exporting() {
+    save();
+    var output = "dialogue=[";
+    for (var i = 0; i < dialogue.length; i++) {
+        output += "{condition: \"" + dialogue[i].condition + "\", option: \"" + dialogue[i].option + "\", text: \"" + dialogue[i].text + "\", trigger: \"" + dialogue[i].trigger + "\"}";
+        if (!(i + 1 === dialogue.length))
+            output += ",";
+    }
+    output += "]";
+    prompt("Copy this dialogue code and save it wherever possible", output);
+}
+
+function importing() {
+    // Reads and executes the imported dialogue object, overwriting the previous one
+    eval(prompt("Insert the dialogue code here", ""));
+    restock();
+}
+
+
+id("export").onclick = exporting;
+id("export-2").onclick = exporting;
+id("import").onclick = importing;
+id("import-2").onclick = importing;
+
+function restock() {
+    // Rearranges the pages once imported
+    pages = 0;
+
+    // Removes all the buttons (from last to first)
+    for (var i = pageBtns.length - 1; i >= 0; i--) {
+        pageBtns[i].parentNode.removeChild(pageBtns[i]);
+    }
+
+    // Creates a new button for each dialogue object
+    for (var i = 0; i < dialogue.length; i++) {
+
+        var newNode = document.createElement("BUTTON");
+        var textNode = document.createTextNode(i);
+        newNode.appendChild(textNode);
+        newNode.className = "page";
+        // The id is a number useful to point at the equivalent dialogue index
+        newNode.id = i;
+        id("new-page").parentNode.insertBefore(newNode, id("new-page"));
+
+        // On click the button will point to the dialogue index position equivalent to its id and switches the current page with it
+        pageBtns[i].addEventListener("click", function () {
+            switchPage(parseInt(this.id));
+        });
+        pageBtns[i].addEventListener("contextmenu",
+            function (e) {
+                e.preventDefault();
+                deletePage(this.id);
+            });
+        pages = i;
+    }
+    // Sets the on-screen page as the first object of the dialogue array
+    currentPage = 0;
+    id("text1").innerHTML = dialogue[currentPage].condition;
+    id("text2").innerHTML = dialogue[currentPage].option;
+    id("text3").innerHTML = dialogue[currentPage].text;
+    id("text4").innerHTML = dialogue[currentPage].trigger;
+
+    // Graphic purposes
+    id("0").classList.remove("selected");
+    id("0").classList += " selected";
+}
+
+
+
+
+
+
+
+
+
+// DIALOGUE TESTING
+var optionList = [];
+id("testStart").onclick = function () {
+    save();
+    istanceVariables();
+    validateOptions();
+};
+var newVariables;
+var arr;
+
+function istanceVariables() {
+    eval(id("istances").value);
+    arr = id("istances").value;
+    arr = arr.trim();
+    arr.replace(" ", "");
+    arr = arr.split(";");
+    for (var i = arr.length - 1; i >= 0; i--) {
+        arr[i] = arr[i].split("=");
+    }
+
+    for (var i = arr.length - 1; i >= 0; i--) {
+        if (arr[i] == 0) {
+            arr.splice(i, 1);
+        }
+    }
+    for (var i = 0; i < arr.length; i++) {
+        arr[i][0] = arr[i][0].trim();
+        arr[i][1] = arr[i][1].trim();
+        arr[i][1] = arr[i][1].split(",");;
+    }
+    id("istances").value = "";
+    for (var i = 0; i < arr.length; i++) {
+        if (Array.isArray(eval(arr[i][0]))) {
+            id("istances").value += arr[i][0] + "=[" + eval(arr[i][0]) + "];\n";
+        } else {
+            id("istances").value += arr[i][0] + "=" + eval(arr[i][0]) + ";\n";
+        }
+    }
+}
+
+function validateOptions() {
+    optionList = [];
+    //guarda tra i dialoghi quale soddisfa le condizioni
+    //gli indici li pusha nell'option list
+
+    for (var i = 0; i < dialogue.length; i++) {
+        if (eval(dialogue[i].condition) || dialogue[i].condition.length == 0) {
+            optionList.push(i);
+        }
+    }
+    //chiama la funzione che si occuperà di mostrare le opzioni disponibili
+    generateOptions();
+}
+/*
+
+ sdlnds lfsdf dsfk;sjfsd;fdsp kfdp sdlnds lfsdf dsfk sjfsd fdsp;kfdp
+*/
+var dialogueProgress = 0;
+
+function generateOptions() {
+    id("options").innerHTML = "";
+    for (var i = 0; i < optionList.length; i++) {
+        var newNode = document.createElement("BUTTON");
+        newNode.number = optionList[i];
+        var textNode = document.createTextNode(dialogue[newNode.number].option);
+
+        newNode.appendChild(textNode);
+        newNode.className = "option";
+        newNode.id = "option-" + i;
+        id("options").appendChild(newNode);
+        newNode.onclick = function () {
+            //the Next trigger
+            var dividedDialogue = dialogue[this.number].text.split(";");
+            if (dividedDialogue.length == 1) {
+                dividedDialogue = dividedDialogue[0];
+            }
+
+            if (Array.isArray(dividedDialogue)) {
+                console.log("è un array");
+                console.log(dividedDialogue);
+                id("options").style.display = "none";
+                id("next").style.display = "inline-block";
+                id("output").innerHTML = dividedDialogue[dialogueProgress];
+
+                id("next").onclick = function () {
+                    dialogueProgress++;
+                    if (dialogueProgress < dividedDialogue.length - 1) {
+                        id("output").innerHTML = dividedDialogue[dialogueProgress];
+                    } else {
+                        id("output").innerHTML = dividedDialogue[dialogueProgress];
+                        id("options").style.display = "inline-block";
+                        id("next").style.display = "none";
+                        dialogueProgress = 0;
+                    }
+                }
+            } else { //what happens if the dialogue is not divided
+                console.log("non è un array");
+                id("output").innerHTML = dialogue[this.number].text;
+            }
+
+            eval(dialogue[this.number].trigger);
+
+            id("istances").value = "";
+            for (var i = 0; i < arr.length; i++) {
+                if (Array.isArray(eval(arr[i][0]))) {
+                    id("istances").value += arr[i][0] + "=[" + eval(arr[i][0]) + "];\n";
+                } else {
+                    id("istances").value += arr[i][0] + "=" + eval(arr[i][0]) + ";\n";
+                }
+            }
+            validateOptions();
+        };
+    }
+
+}
+
+
+
+// Switches to test mode
+id("test").onclick = function () {
+    id("editor").style.display = "none";
+    id("tester").style.display = "block";
+}
+
+// Switches to edit mode
+id("edit").onclick = function () {
+    id("tester").style.display = "none";
+    id("editor").style.display = "block";
+}

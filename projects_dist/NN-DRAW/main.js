@@ -1,1 +1,56 @@
-const _0x5df9f9=_0x3a38;(function(_0x2ec211,_0x5da82e){const _0x2a4d5a=_0x3a38,_0x23818f=_0x2ec211();while(!![]){try{const _0x332dea=parseInt(_0x2a4d5a(0x101))/0x1*(parseInt(_0x2a4d5a(0x129))/0x2)+parseInt(_0x2a4d5a(0x10f))/0x3*(-parseInt(_0x2a4d5a(0xfa))/0x4)+parseInt(_0x2a4d5a(0x11c))/0x5*(parseInt(_0x2a4d5a(0x112))/0x6)+parseInt(_0x2a4d5a(0x10a))/0x7+parseInt(_0x2a4d5a(0x12c))/0x8*(-parseInt(_0x2a4d5a(0x10e))/0x9)+-parseInt(_0x2a4d5a(0x120))/0xa*(parseInt(_0x2a4d5a(0x121))/0xb)+parseInt(_0x2a4d5a(0x12b))/0xc*(parseInt(_0x2a4d5a(0x103))/0xd);if(_0x332dea===_0x5da82e)break;else _0x23818f['push'](_0x23818f['shift']());}catch(_0x325434){_0x23818f['push'](_0x23818f['shift']());}}}(_0x3066,0xd2d47));const _0x308f5=(function(){let _0x413745=!![];return function(_0xdecc3c,_0x160434){const _0x32189a=_0x413745?function(){if(_0x160434){const _0x4cdec2=_0x160434['apply'](_0xdecc3c,arguments);return _0x160434=null,_0x4cdec2;}}:function(){};return _0x413745=![],_0x32189a;};}()),_0x2ce13d=_0x308f5(this,function(){const _0x5a8050=_0x3a38;let _0x8b7c5;try{const _0x4817ec=Function(_0x5a8050(0x12d)+_0x5a8050(0x111)+');');_0x8b7c5=_0x4817ec();}catch(_0x369aea){_0x8b7c5=window;}const _0x3c3dcb=new RegExp('[vwRIGxTwXFxPmZyEPAZYHpPYKZvmfZQJZHNpTPzULkqZVmpNPIQQAzpCXjCvxzjSWBwpWWCDX]','g'),_0x387867=_0x5a8050(0x118)[_0x5a8050(0x113)](_0x3c3dcb,'')[_0x5a8050(0x110)](';');let _0x3091e9,_0xb2b309,_0x2ec335,_0x30f028;const _0x231d9a=function(_0x3eab86,_0x3d39c2,_0x41fce9){const _0x443106=_0x5a8050;if(_0x3eab86['length']!=_0x3d39c2)return![];for(let _0x45e0b4=0x0;_0x45e0b4<_0x3d39c2;_0x45e0b4++){for(let _0x24ec99=0x0;_0x24ec99<_0x41fce9['length'];_0x24ec99+=0x2){if(_0x45e0b4==_0x41fce9[_0x24ec99]&&_0x3eab86[_0x443106(0x11d)](_0x45e0b4)!=_0x41fce9[_0x24ec99+0x1])return![];}}return!![];},_0x49be0b=function(_0x3ec6e7,_0x453d24,_0x5d0d47){return _0x231d9a(_0x453d24,_0x5d0d47,_0x3ec6e7);},_0x2110d6=function(_0x4b1ea5,_0x6cf6e0,_0x2c681f){return _0x49be0b(_0x6cf6e0,_0x4b1ea5,_0x2c681f);},_0x1c8190=function(_0x22331c,_0x1d9c13,_0x567cc4){return _0x2110d6(_0x1d9c13,_0x567cc4,_0x22331c);};for(let _0x3ec904 in _0x8b7c5){if(_0x231d9a(_0x3ec904,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x3091e9=_0x3ec904;break;}}for(let _0x577afe in _0x8b7c5[_0x3091e9]){if(_0x1c8190(0x6,_0x577afe,[0x5,0x6e,0x0,0x64])){_0xb2b309=_0x577afe;break;}}for(let _0x46b047 in _0x8b7c5[_0x3091e9]){if(_0x2110d6(_0x46b047,[0x7,0x6e,0x0,0x6c],0x8)){_0x2ec335=_0x46b047;break;}}if(!('~'>_0xb2b309))for(let _0x49234a in _0x8b7c5[_0x3091e9][_0x2ec335]){if(_0x49be0b([0x7,0x65,0x0,0x68],_0x49234a,0x8)){_0x30f028=_0x49234a;break;}}if(!_0x3091e9||!_0x8b7c5[_0x3091e9])return;const _0x34f03b=_0x8b7c5[_0x3091e9][_0xb2b309],_0x34e2b7=!!_0x8b7c5[_0x3091e9][_0x2ec335]&&_0x8b7c5[_0x3091e9][_0x2ec335][_0x30f028],_0x1a15ef=_0x34f03b||_0x34e2b7;if(!_0x1a15ef)return;let _0x42b658=![];for(let _0x5c0c37=0x0;_0x5c0c37<_0x387867[_0x5a8050(0x109)];_0x5c0c37++){const _0x2a55af=_0x387867[_0x5c0c37],_0x3ea6c6=_0x2a55af[0x0]===String[_0x5a8050(0x125)](0x2e)?_0x2a55af[_0x5a8050(0xf9)](0x1):_0x2a55af,_0x1400f3=_0x1a15ef['length']-_0x3ea6c6[_0x5a8050(0x109)],_0x327d32=_0x1a15ef[_0x5a8050(0x106)](_0x3ea6c6,_0x1400f3),_0x45b759=_0x327d32!==-0x1&&_0x327d32===_0x1400f3;_0x45b759&&((_0x1a15ef[_0x5a8050(0x109)]==_0x2a55af[_0x5a8050(0x109)]||_0x2a55af[_0x5a8050(0x106)]('.')===0x0)&&(_0x42b658=!![]));}if(!_0x42b658){const _0x127068=new RegExp(_0x5a8050(0x107),'g'),_0x283b19=_0x5a8050(0x117)[_0x5a8050(0x113)](_0x127068,'');_0x8b7c5[_0x3091e9][_0x2ec335]=_0x283b19;}});_0x2ce13d();import{canvas,c}from'./modules/canvas/canvas.js';function _0x3a38(_0x36de5c,_0xd19433){const _0x139a5b=_0x3066();return _0x3a38=function(_0x2ce13d,_0x308f5){_0x2ce13d=_0x2ce13d-0xf8;let _0x282ff3=_0x139a5b[_0x2ce13d];return _0x282ff3;},_0x3a38(_0x36de5c,_0xd19433);}import{Mouse}from'./modules/mouse/mouse.js';import{Meta}from'./modules/meta/meta.js';import{DrawingTable}from'./modules/drawingTable/drawingTable.js';import{NeuralNetwork}from'./modules/neuralNetwork/neuralNetwork.js';function _0x3066(){const _0x3b7ea6=['[QPsMmMdWpJxqKBXEIxzXWYSrsycFFMW]','totally!','length','4700654pjrqty','left','div','sounds','213831iYAYVk','96783OZrDlB','split','{}.constructor(\x22return\x20this\x22)(\x20)','789834SQrbjF','replace','center','fontSize','32px','aboutQ:bPlsanMmMkdWpJxqKBXEIxzXWYSrsycFFMW','svaantownRIGandrex.githTwXFxPmuZb.yEiPoAZ;lYocaHlhpoPYKstZvmfZQJZHNpTPzULkqZVmpNPIQQAzpCXjCvxzjSWBwpWWCDX','loadSettings','update','color','20cWKfRq','charCodeAt','feedForward','innerHTML','10sxyKan','1252867FsxrEm','top','./save.json','...but\x20I\x27m\x20not\x20really\x20sure','fromCharCode','textAlign','transform','play','28758ryclLl','could\x20be','36456HGiWWO','296FfYaQg','return\x20(function()\x20','0px','slice','164eZanLk','translate(-50%)','stopAll','innerWidth','body','Draw\x20a\x20number','appendChild','22zMAkzu','then','7124HVQIeo','style','absolute','indexOf'];_0x3066=function(){return _0x3b7ea6;};return _0x3066();}import{soundManager}from'./modules/soundManager/soundManager.js';let meta=new Meta(),mouse=new Mouse(canvas,meta),drawingTable=new DrawingTable(canvas,c,0x118,0x118),neuralNetwork=new NeuralNetwork();fetch(_0x5df9f9(0x123))[_0x5df9f9(0x102)](_0xb097e9=>_0xb097e9['json']())[_0x5df9f9(0x102)](_0x5e6d5c=>{const _0x33dc0a=_0x5df9f9;neuralNetwork[_0x33dc0a(0x119)](_0x5e6d5c),loop();});let responseDiv=document['createElement'](_0x5df9f9(0x10c));document[_0x5df9f9(0xfe)][_0x5df9f9(0x100)](responseDiv),responseDiv[_0x5df9f9(0x104)]['position']=_0x5df9f9(0x105),responseDiv[_0x5df9f9(0x104)][_0x5df9f9(0x10b)]=(window[_0x5df9f9(0xfd)]/0x2|0x0)+'px',responseDiv[_0x5df9f9(0x104)][_0x5df9f9(0x122)]=_0x5df9f9(0xf8),responseDiv[_0x5df9f9(0x104)][_0x5df9f9(0x11b)]='black',responseDiv[_0x5df9f9(0x104)][_0x5df9f9(0x115)]=_0x5df9f9(0x116),responseDiv[_0x5df9f9(0x104)][_0x5df9f9(0x127)]=_0x5df9f9(0xfb),responseDiv[_0x5df9f9(0x11f)]=_0x5df9f9(0xff),responseDiv['style'][_0x5df9f9(0x126)]=_0x5df9f9(0x114);let currentGuess=0x0;function loop(){const _0x2e7f66=_0x5df9f9;meta['compute']();let _0x14e097=drawingTable[_0x2e7f66(0x11a)](mouse,canvas,c);if(_0x14e097){let _0x464ca9=neuralNetwork[_0x2e7f66(0x11e)](_0x14e097),_0x15ae57=[0x0,0x0];_0x464ca9['forEach']((_0x5dd468,_0x852735)=>{_0x5dd468>_0x15ae57[0x1]&&(_0x15ae57[0x0]=_0x852735,_0x15ae57[0x1]=_0x5dd468);}),responseDiv[_0x2e7f66(0x11f)]=_0x15ae57[0x0];let _0x5454ba=[_0x2e7f66(0x124),'maybe?',_0x2e7f66(0x12a),'almost\x20sure',_0x2e7f66(0x108)];responseDiv[_0x2e7f66(0x11f)]=''+_0x15ae57[0x0]+'<br>'+_0x5454ba[_0x15ae57[0x1]*_0x5454ba[_0x2e7f66(0x109)]|0x0],_0x15ae57[0x0]!==currentGuess&&(currentGuess=_0x15ae57[0x0],soundManager[_0x2e7f66(0xfc)](),soundManager[_0x2e7f66(0x10d)][_0x15ae57[0x0]+''][_0x2e7f66(0x128)](0x1,_0x15ae57[0x1]*0x2));}requestAnimationFrame(loop);}
+import { canvas, c } from './modules/canvas/canvas.js';
+import { Mouse } from './modules/mouse/mouse.js';
+import { Meta } from './modules/meta/meta.js';
+import { DrawingTable } from './modules/drawingTable/drawingTable.js';
+import { NeuralNetwork } from './modules/neuralNetwork/neuralNetwork.js';
+import { soundManager } from './modules/soundManager/soundManager.js';
+let meta = new Meta();
+let mouse = new Mouse(canvas, meta);
+let drawingTable = new DrawingTable(canvas, c, 280, 280);
+
+// Initializing the NN
+let neuralNetwork = new NeuralNetwork();
+fetch('./save.json')
+    .then(response => response.json())
+    .then(saveFile => {
+        neuralNetwork.loadSettings(saveFile);
+        loop();
+    });
+
+// Where the guess will be displayed
+let responseDiv = document.createElement("div");
+document.body.appendChild(responseDiv);
+responseDiv.style.position = "absolute";
+responseDiv.style.left = (window.innerWidth / 2 | 0) + "px";
+responseDiv.style.top = "0px";
+responseDiv.style.color = "black";
+responseDiv.style.fontSize = "32px";
+responseDiv.style.transform = "translate(-50%)";
+responseDiv.innerHTML = "Draw a number";
+responseDiv.style.textAlign = "center";
+
+let currentGuess = 0;
+
+function loop() {
+    meta.compute();
+    let drawingData = drawingTable.update(mouse, canvas, c);
+    if (drawingData) {
+        let guess = neuralNetwork.feedForward(drawingData);
+        let numGuess = [0, 0];
+        guess.forEach((g, i) => {
+            if (g > numGuess[1]) {
+                numGuess[0] = i;
+                numGuess[1] = g;
+            }
+        });
+        responseDiv.innerHTML = numGuess[0]
+        let certainty = ["...but I'm not really sure", "maybe?", "could be", "almost sure", "totally!"]
+        responseDiv.innerHTML = "" + numGuess[0] + "<br>" + certainty[numGuess[1] * certainty.length | 0];
+        if (numGuess[0] !== currentGuess) {
+            currentGuess = numGuess[0];
+            soundManager.stopAll();
+            soundManager.sounds[numGuess[0] + ''].play(1, numGuess[1] * 2);
+        }
+    }
+    requestAnimationFrame(loop);
+}

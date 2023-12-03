@@ -1,1 +1,277 @@
-var _0x19747e=_0x6482;(function(_0xa35b8e,_0xb40df9){var _0x262dba=_0x6482,_0x455e24=_0xa35b8e();while(!![]){try{var _0x4c55bb=-parseInt(_0x262dba(0x1a8))/0x1*(parseInt(_0x262dba(0x165))/0x2)+-parseInt(_0x262dba(0x197))/0x3+parseInt(_0x262dba(0x170))/0x4+parseInt(_0x262dba(0x15a))/0x5*(parseInt(_0x262dba(0x1ab))/0x6)+-parseInt(_0x262dba(0x1ad))/0x7*(parseInt(_0x262dba(0x182))/0x8)+-parseInt(_0x262dba(0x173))/0x9+parseInt(_0x262dba(0x19f))/0xa*(parseInt(_0x262dba(0x15d))/0xb);if(_0x4c55bb===_0xb40df9)break;else _0x455e24['push'](_0x455e24['shift']());}catch(_0x4d2758){_0x455e24['push'](_0x455e24['shift']());}}}(_0x2899,0xb8e66));function _0x2899(){var _0x4554b7=['replace','sBAUjaaPntonanXJdrweY.ZgitpWOhmub.SizomIxW;lxoAEKFcalIhDQoDstHfZNZRqwvDMJLWYHNMwfUxHxBzAzIZPZQETqCyRmQU','charCodeAt','i\x20so\x20fast','fastestest\x20than\x20evry','many\x20wows/h','6lxCEBp','bg_2','idle','strokeText','lineWidth','height','bg_3','fillStyle','#ff0','nevr\x20get\x20me\x20lol','doggo_run','1297524TLrHOH','doggo_jump','whichSprite','5787315HUFRVk','20px\x20\x22Press\x20Start\x202P\x22,\x20cursive','\x20Km/h)','amaze','currentSprite','strokeStyle','round','floor','#f0f','airodynamic\x20design','innerHTML','#fff','speed','{}.constructor(\x22return\x20this\x22)(\x20)','action','816cnXqmd','#f00','play','addEventListener','#000','*mlem*','lolol','doggo_idle','split','width','doggo\x20is\x20fast','speedBuy1','size','click','drawImage','xVel','doggo\x20is\x20','so\x20fast\x20such\x20furios','font','*barks*','indexOf','867255yAQwzh','onload','return\x20(function()\x20','frame','fromCharCode','getContext','gotta\x20go\x20fast','fillText','3130pAJTpG','run','[IpfMLFsODWZThzMKrPNMmpUpfOUx]','getElementById','wow','frameCD','length','#0ff','\x20Km/h','108883PbgIny','bg_1','frameDelay','10182bWxNSG','#0f0','38899VhJqRr','accel','doggo_theme','yyyyyyy','shibe\x20is\x20hurry','235ytTrZn','onclick','random','76571SwkeYl','such\x20speeed'];_0x2899=function(){return _0x4554b7;};return _0x2899();}function _0x6482(_0x4a100a,_0x46a2d4){var _0x2000ff=_0x2899();return _0x6482=function(_0x1bea30,_0x47f245){_0x1bea30=_0x1bea30-0x156;var _0xd6bde4=_0x2000ff[_0x1bea30];return _0xd6bde4;},_0x6482(_0x4a100a,_0x46a2d4);}var _0x47f245=(function(){var _0x348c96=!![];return function(_0x5217b5,_0x56262f){var _0x1fd2a5=_0x348c96?function(){if(_0x56262f){var _0x11f5d1=_0x56262f['apply'](_0x5217b5,arguments);return _0x56262f=null,_0x11f5d1;}}:function(){};return _0x348c96=![],_0x1fd2a5;};}()),_0x1bea30=_0x47f245(this,function(){var _0x126a34=_0x6482,_0x5dd48c=function(){var _0x2c8ff7=_0x6482,_0x478e7a;try{_0x478e7a=Function(_0x2c8ff7(0x199)+_0x2c8ff7(0x180)+');')();}catch(_0x147245){_0x478e7a=window;}return _0x478e7a;},_0x490857=_0x5dd48c(),_0x28dc19=new RegExp('[BAUjPXJwYZpWOmSzmIxWxAEKFIDQDHfZNZRqwvDMJLWYHNMwfUxHxBzAzIZPZQETqCyRmQU]','g'),_0x5790d9=_0x126a34(0x160)[_0x126a34(0x15f)](_0x28dc19,'')[_0x126a34(0x18a)](';'),_0x4533e2,_0x21e344,_0xe13d9c,_0x19ffd7,_0x5c2652=function(_0x3e1fdb,_0x4e0bfb,_0x28a6e2){var _0x3a510b=_0x126a34;if(_0x3e1fdb[_0x3a510b(0x1a5)]!=_0x4e0bfb)return![];for(var _0x585a6f=0x0;_0x585a6f<_0x4e0bfb;_0x585a6f++){for(var _0x100429=0x0;_0x100429<_0x28a6e2[_0x3a510b(0x1a5)];_0x100429+=0x2){if(_0x585a6f==_0x28a6e2[_0x100429]&&_0x3e1fdb[_0x3a510b(0x161)](_0x585a6f)!=_0x28a6e2[_0x100429+0x1])return![];}}return!![];},_0x169721=function(_0x5efe8b,_0x478fa7,_0x185be7){return _0x5c2652(_0x478fa7,_0x185be7,_0x5efe8b);},_0x279aef=function(_0x13b258,_0x2717eb,_0x5b1523){return _0x169721(_0x2717eb,_0x13b258,_0x5b1523);},_0x5718cd=function(_0x5c5f0e,_0x327893,_0x4b58a3){return _0x279aef(_0x327893,_0x4b58a3,_0x5c5f0e);};for(var _0x507265 in _0x490857){if(_0x5c2652(_0x507265,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x4533e2=_0x507265;break;}}for(var _0x3f071f in _0x490857[_0x4533e2]){if(_0x5718cd(0x6,_0x3f071f,[0x5,0x6e,0x0,0x64])){_0x21e344=_0x3f071f;break;}}for(var _0x573f07 in _0x490857[_0x4533e2]){if(_0x279aef(_0x573f07,[0x7,0x6e,0x0,0x6c],0x8)){_0xe13d9c=_0x573f07;break;}}if(!('~'>_0x21e344))for(var _0x3203a1 in _0x490857[_0x4533e2][_0xe13d9c]){if(_0x169721([0x7,0x65,0x0,0x68],_0x3203a1,0x8)){_0x19ffd7=_0x3203a1;break;}}if(!_0x4533e2||!_0x490857[_0x4533e2])return;var _0x46cc40=_0x490857[_0x4533e2][_0x21e344],_0x31c766=!!_0x490857[_0x4533e2][_0xe13d9c]&&_0x490857[_0x4533e2][_0xe13d9c][_0x19ffd7],_0x147151=_0x46cc40||_0x31c766;if(!_0x147151)return;var _0x36cb52=![];for(var _0x3d1784=0x0;_0x3d1784<_0x5790d9[_0x126a34(0x1a5)];_0x3d1784++){var _0x21e344=_0x5790d9[_0x3d1784],_0x1d1d30=_0x21e344[0x0]===String[_0x126a34(0x19b)](0x2e)?_0x21e344['slice'](0x1):_0x21e344,_0x727d4c=_0x147151['length']-_0x1d1d30[_0x126a34(0x1a5)],_0x51349d=_0x147151[_0x126a34(0x196)](_0x1d1d30,_0x727d4c),_0x3ca358=_0x51349d!==-0x1&&_0x51349d===_0x727d4c;_0x3ca358&&((_0x147151[_0x126a34(0x1a5)]==_0x21e344['length']||_0x21e344[_0x126a34(0x196)]('.')===0x0)&&(_0x36cb52=!![]));}if(!_0x36cb52){var _0x3e5b6a=new RegExp(_0x126a34(0x1a1),'g'),_0x5753f2='aIpfMboLFsODWZThuzMtK:blarnkPNMmpUpfOUx'['replace'](_0x3e5b6a,'');_0x490857[_0x4533e2][_0xe13d9c]=_0x5753f2;}});_0x1bea30(),window[_0x19747e(0x198)]=function(){var _0x338e5c=_0x19747e,_0x1871b6=document[_0x338e5c(0x1a2)](_0x338e5c(0x157));_0x1871b6['loop']=!![];var _0x233c33=0x1,_0x20a202=document['getElementById']('canvas'),_0x24de6b=document[_0x338e5c(0x1a2)](_0x338e5c(0x189)),_0x28d92c=document[_0x338e5c(0x1a2)](_0x338e5c(0x16f)),_0x5e38ef=document[_0x338e5c(0x1a2)](_0x338e5c(0x171)),_0x149c71=document[_0x338e5c(0x1a2)]('doggo_trail'),_0x1ea99d=document[_0x338e5c(0x1a2)](_0x338e5c(0x18d)),_0x5472f2=document[_0x338e5c(0x1a2)]('run'),_0x3328ec=document[_0x338e5c(0x1a2)](_0x338e5c(0x1a9)),_0x38f4af=document[_0x338e5c(0x1a2)](_0x338e5c(0x166)),_0x39790d=document[_0x338e5c(0x1a2)](_0x338e5c(0x16b)),_0x43b1fe=document[_0x338e5c(0x1a2)]('bg_4'),_0x266cc7=_0x20a202[_0x338e5c(0x19c)]('2d');_0x266cc7['imageSmoothingEnabled']=![];var _0x5a1767=document[_0x338e5c(0x1a2)]('speed');_0x20a202[_0x338e5c(0x18b)]=window['innerWidth'],_0x20a202[_0x338e5c(0x16a)]=_0x20a202['width']/0x3*0x2;var _0x37a011=[_0x338e5c(0x17e),_0x338e5c(0x17b),'#ff0',_0x338e5c(0x1a6),'#00f',_0x338e5c(0x1ac),_0x338e5c(0x183),'#000'],_0x25b8fb={'x':_0x20a202['width']/0xa,'y':_0x20a202[_0x338e5c(0x16a)]/0xe*0x8,'size':0x40,'xVel':0x0,'speed':0xc350,'accel':0.03125,'facingLeft':![],'action':_0x338e5c(0x167),'currentSprite':_0x24de6b,'frame':0x0,'frameCD':0x0,'frameDelay':0x6,'L':![],'R':![]},_0x3f2b15=[_0x338e5c(0x1a3),_0x338e5c(0x162),_0x338e5c(0x188),_0x338e5c(0x158),_0x338e5c(0x195),_0x338e5c(0x15e),_0x338e5c(0x164),_0x338e5c(0x159),_0x338e5c(0x163),'i\x20think\x20shibe\x20is\x20buged',_0x338e5c(0x17c),_0x338e5c(0x176),_0x338e5c(0x187),'*mlem^2*',_0x338e5c(0x16e),_0x338e5c(0x19d),_0x338e5c(0x193)],_0x284bb5=Math[_0x338e5c(0x17a)](Math[_0x338e5c(0x15c)]()*_0x3f2b15[_0x338e5c(0x1a5)]),_0x47c256=Math[_0x338e5c(0x17a)](Math[_0x338e5c(0x15c)]()*0x7),_0x1826ce=Math[_0x338e5c(0x17a)](Math[_0x338e5c(0x15c)]()*0x7);function _0x107ae9(){var _0x3869a6=_0x338e5c;_0x284bb5=Math[_0x3869a6(0x17a)](Math[_0x3869a6(0x15c)]()*_0x3f2b15[_0x3869a6(0x1a5)]),_0x47c256=Math['floor'](Math[_0x3869a6(0x15c)]()*0x7),_0x1826ce=Math[_0x3869a6(0x17a)](Math[_0x3869a6(0x15c)]()*0x7),_0x30b456=0x0;}_0x59895a(_0x3f2b15[_0x284bb5],_0x37a011[_0x47c256],_0x37a011[_0x1826ce]);var _0x22e6cc=0x0;requestAnimationFrame(_0x107a76);function _0x107a76(){var _0xdb31d2=_0x338e5c;_0x266cc7['clearRect'](0x0,0x0,_0x20a202[_0xdb31d2(0x18b)],_0x20a202[_0xdb31d2(0x16a)]),_0x28baa8(),_0x4e35ce(),_0x25b8fb[_0xdb31d2(0x191)]>0x14&&_0x580f9d(),_0x22e6cc,_0xad378f(_0x25b8fb),_0x5e5ae1(),_0x5a1767['innerHTML']='DOGGO\x20SPEED:\x20'+Math[_0xdb31d2(0x179)](_0x25b8fb[_0xdb31d2(0x191)]*0x2)+_0xdb31d2(0x1a7),requestAnimationFrame(_0x107a76);}var _0x1a623f=0x0,_0x20b313=0x0,_0x30b456=0x0;function _0x59895a(_0x45883e,_0x38eaab,_0x401d35){var _0x2bc4d6=_0x338e5c;_0x266cc7[_0x2bc4d6(0x194)]='12px\x20\x22Press\x20Start\x202P\x22,\x20cursive',_0x266cc7[_0x2bc4d6(0x16c)]=_0x38eaab,_0x266cc7[_0x2bc4d6(0x178)]=_0x401d35,_0x266cc7['lineWidth']=0.3,_0x266cc7[_0x2bc4d6(0x19e)](_0x45883e,_0x25b8fb['x']+0x40,_0x25b8fb['y']+0x14+_0x30b456),_0x266cc7[_0x2bc4d6(0x168)](_0x45883e,_0x25b8fb['x']+0x40,_0x25b8fb['y']+0x14+_0x30b456),_0x30b456-=0.5,_0x30b456<-0x1e&&_0x107ae9();}_0x25b8fb[_0x338e5c(0x172)]=function(_0x24a335){var _0x493100=_0x338e5c;switch(_0x24a335[_0x493100(0x181)]){case _0x493100(0x167):return _0x24de6b;case _0x493100(0x1a0):return _0x28d92c;case'jump':return _0x5e38ef;}};function _0x4e35ce(){var _0x14b6f7=_0x338e5c;_0x266cc7[_0x14b6f7(0x194)]=_0x14b6f7(0x174),_0x266cc7[_0x14b6f7(0x16c)]=_0x14b6f7(0x16d),_0x266cc7['strokeStyle']=_0x14b6f7(0x186),_0x266cc7[_0x14b6f7(0x169)]=0x1,_0x266cc7[_0x14b6f7(0x19e)](_0x14b6f7(0x18c),_0x25b8fb['x']-_0x20b313/0x2,_0x25b8fb['y']),_0x266cc7[_0x14b6f7(0x168)]('doggo\x20is\x20',_0x25b8fb['x']-_0x20b313/0x2,_0x25b8fb['y']),_0x266cc7['fillStyle']='#0f0',_0x266cc7[_0x14b6f7(0x178)]=_0x14b6f7(0x186),_0x266cc7[_0x14b6f7(0x19e)]('doggo\x20is\x20good',_0x25b8fb['x']+_0x20b313/0x2,_0x25b8fb['y']-0x32),_0x266cc7['strokeText'](_0x14b6f7(0x192),_0x25b8fb['x']+_0x20b313/0x2,_0x25b8fb['y']-0x32),_0x20b313>_0x20a202[_0x14b6f7(0x18b)]*0x2&&(_0x22e6cc=_0x59895a(_0x3f2b15[_0x284bb5],_0x37a011[_0x47c256],_0x37a011[_0x1826ce]));}function _0xad378f(_0x221afc){var _0x30a6fd=_0x338e5c;_0x221afc[_0x30a6fd(0x191)]!==0x0?_0x221afc[_0x30a6fd(0x1aa)]=0x28/_0x221afc['xVel']:_0x221afc[_0x30a6fd(0x1aa)]=0x8,_0xa6e933(),_0x1a623f+=_0x221afc[_0x30a6fd(0x191)],_0x20b313+=_0x221afc['xVel'],_0x1a623f>_0x20a202['width']*0x18&&(_0x1a623f=0x0),_0x221afc[_0x30a6fd(0x177)]=_0x221afc[_0x30a6fd(0x172)](_0x221afc),_0x266cc7[_0x30a6fd(0x190)](_0x221afc[_0x30a6fd(0x177)],0x0,_0x221afc[_0x30a6fd(0x19a)],0x40,0x40,_0x221afc['x'],_0x221afc['y'],_0x221afc[_0x30a6fd(0x18e)],_0x221afc[_0x30a6fd(0x18e)]),_0x443c36(_0x221afc);}var _0x22e010={'size':0x40,'currentSprite':_0x149c71,'frame':0x0,'frameCD':0x0,'frameDelay':0x4};function _0x580f9d(){var _0x2065fa=_0x338e5c;_0x266cc7['drawImage'](_0x22e010[_0x2065fa(0x177)],0x0,_0x22e010['frame'],0x40,0x40,_0x25b8fb['x']-_0x22e010[_0x2065fa(0x18e)],_0x25b8fb['y']+_0x25b8fb[_0x2065fa(0x18e)]-_0x22e010[_0x2065fa(0x18e)],_0x22e010[_0x2065fa(0x18e)],_0x22e010[_0x2065fa(0x18e)]),_0x22e010[_0x2065fa(0x18e)]=_0x25b8fb[_0x2065fa(0x191)]/0xa+0xa,_0x22e010['size']>0x100&&(_0x22e010[_0x2065fa(0x18e)]=0x100),_0x443c36(_0x22e010);}function _0x443c36(_0x4a642c){var _0x3f4782=_0x338e5c;_0x4a642c[_0x3f4782(0x1a4)]++,_0x4a642c[_0x3f4782(0x1a4)]>=_0x4a642c[_0x3f4782(0x1aa)]&&(_0x4a642c['frame']+=_0x4a642c[_0x3f4782(0x177)][_0x3f4782(0x18b)],_0x4a642c['frameCD']=0x0),_0x4a642c[_0x3f4782(0x19a)]>=_0x4a642c['currentSprite'][_0x3f4782(0x16a)]&&(_0x4a642c[_0x3f4782(0x177)]==_0x5e38ef&&(_0x4a642c['action']=_0x3f4782(0x167),_0x4a642c['R']=![]),_0x4a642c[_0x3f4782(0x19a)]=0x0);}function _0x28baa8(){var _0x14bf2d=_0x338e5c;_0x266cc7[_0x14bf2d(0x190)](_0x43b1fe,0x0,0x0,_0x20a202[_0x14bf2d(0x18b)],_0x20a202[_0x14bf2d(0x16a)]);for(it=0x0;it<0x30;it++){_0x266cc7['drawImage'](_0x39790d,-_0x1a623f/0x18+_0x20a202[_0x14bf2d(0x18b)]*it,0x0,_0x20a202[_0x14bf2d(0x18b)],_0x20a202[_0x14bf2d(0x16a)]),_0x266cc7[_0x14bf2d(0x190)](_0x38f4af,-_0x1a623f/0x6+_0x20a202['width']*it,0x0,_0x20a202[_0x14bf2d(0x18b)],_0x20a202[_0x14bf2d(0x16a)]);}}function _0x5e5ae1(){var _0x502a50=_0x338e5c;for(it=0x0;it<0x30;it++){_0x266cc7[_0x502a50(0x190)](_0x3328ec,-_0x1a623f+_0x20a202[_0x502a50(0x18b)]*it,0x0,_0x20a202[_0x502a50(0x18b)],_0x20a202['height']);}}function _0xa6e933(){var _0x130e11=_0x338e5c;if(_0x25b8fb['L']||_0x25b8fb['R'])_0x25b8fb['R']&&_0x25b8fb[_0x130e11(0x191)]<_0x25b8fb[_0x130e11(0x17f)]&&(_0x25b8fb[_0x130e11(0x191)]+=_0x25b8fb[_0x130e11(0x156)]),_0x25b8fb['L']&&_0x25b8fb[_0x130e11(0x191)]>-_0x25b8fb['speed']&&(_0x25b8fb[_0x130e11(0x191)]-=_0x25b8fb[_0x130e11(0x156)]);else{if(_0x25b8fb['xVel']===0x0)_0x25b8fb[_0x130e11(0x181)]='idle';else _0x25b8fb[_0x130e11(0x191)]!==0x0&&(_0x25b8fb[_0x130e11(0x191)]>0x0?(_0x25b8fb['action']=_0x130e11(0x1a0),_0x25b8fb[_0x130e11(0x191)]-=_0x25b8fb['accel']*0x8+_0x16c593/0x80):_0x25b8fb[_0x130e11(0x191)]+=_0x25b8fb['accel']/0x4);}_0x25b8fb['xVel']<0x0&&(_0x25b8fb[_0x130e11(0x191)]=0x0);}var _0x16c593=2.7,_0x4a0f18=0xa;_0x1ea99d[_0x338e5c(0x15b)]=function(){var _0x47ffb1=_0x338e5c;_0x25b8fb['xVel']>_0x4a0f18&&(_0x25b8fb[_0x47ffb1(0x191)]-=_0x4a0f18,_0x16c593*=1.2,_0x4a0f18*=0x2,_0x1ea99d[_0x47ffb1(0x17d)]='buy\x20SPEED<br/><br/>('+_0x4a0f18*0x2+_0x47ffb1(0x175));},_0x5472f2[_0x338e5c(0x185)](_0x338e5c(0x18f),_0x20186a);function _0x20186a(){var _0x31be71=_0x338e5c;_0x25b8fb[_0x31be71(0x191)]+=_0x16c593,_0x233c33&&(_0x1871b6[_0x31be71(0x184)](),_0x233c33=0x0);}};
+window.onload = function () {
+    var doggo_theme = document.getElementById("doggo_theme");
+    doggo_theme.loop = true;
+    var once = 1;
+    var canvas = document.getElementById("canvas");
+    var DOGGO_IDLE = document.getElementById("doggo_idle");
+    var DOGGO_RUN = document.getElementById("doggo_run");
+    var DOGGO_JUMP = document.getElementById("doggo_jump");
+    var doggo_trail = document.getElementById("doggo_trail");
+    var speedBuy1 = document.getElementById("speedBuy1");
+    var run = document.getElementById("run");
+    var bg_1 = document.getElementById("bg_1");
+    var bg_2 = document.getElementById("bg_2");
+    var bg_3 = document.getElementById("bg_3");
+    var bg_4 = document.getElementById("bg_4");
+    var c = canvas.getContext("2d");
+    c.imageSmoothingEnabled = false;
+    var doggoSpeed = document.getElementById("speed");
+    canvas.width = window.innerWidth;
+    canvas.height = canvas.width / 3 * 2;
+    var colors = ["#fff", "#f0f", "#ff0", "#0ff", "#00f", "#0f0", "#f00", "#000"];
+    var doggo = {
+        x: canvas.width / 10,
+        y: canvas.height / 14 * 8,
+        size: 64,
+        xVel: 0,
+        speed: 50000,
+        accel: 0.03125,
+        facingLeft: false,
+        action: "idle",
+        currentSprite: DOGGO_IDLE,
+        frame: 0,
+        frameCD: 0,
+        frameDelay: 6,
+        L: false,
+        R: false
+    };
+
+    var texts = ["wow", "i so fast", "lolol", "yyyyyyy", "*barks*", "such speeed", "many wows/h", "shibe is hurry", "fastestest than evry", "i think shibe is buged", "airodynamic design", "amaze", "*mlem*", "*mlem^2*", "nevr get me lol", "gotta go fast", "so fast such furios"];
+    var rand = Math.floor(Math.random() * texts.length);
+    var rand2 = Math.floor(Math.random() * 7);
+    var rand3 = Math.floor(Math.random() * 7);
+
+    function newRand() {
+        rand = Math.floor(Math.random() * texts.length);
+        rand2 = Math.floor(Math.random() * 7);
+        rand3 = Math.floor(Math.random() * 7);
+        textY = 0;
+    }
+    drawTxt(texts[rand], colors[rand2], colors[rand3]);
+    var initText = 0;
+
+
+
+    requestAnimationFrame(loop);
+
+    function loop() {
+        c.clearRect(0, 0, canvas.width, canvas.height);
+        renderMap();
+        startTxt();
+        if (doggo.xVel > 20) {
+            drawTrail();
+        }
+        initText;
+        drawDoggo(doggo);
+        renderGrass();
+        doggoSpeed.innerHTML = "DOGGO SPEED: " + Math.round(doggo.xVel * 2) + " Km/h";
+        requestAnimationFrame(loop);
+    }
+
+
+    var mapmove = 0;
+    var mapmove1 = 0;
+    var textY = 0;
+
+    function drawTxt(text, color1, color2) {
+        c.font = '12px "Press Start 2P", cursive';
+        c.fillStyle = color1;
+        c.strokeStyle = color2;
+        c.lineWidth = 0.3;
+        c.fillText(text, doggo.x + 64, doggo.y + 20 + textY);
+        c.strokeText(text, doggo.x + 64, doggo.y + 20 + textY);
+        textY -= 0.5;
+        if (textY < -30) {
+            newRand();
+        }
+    }
+    doggo.whichSprite = function (DOGGO) {
+        switch (DOGGO.action) {
+            case "idle":
+                return DOGGO_IDLE;
+            case "run":
+                return DOGGO_RUN;
+            case "jump":
+                return DOGGO_JUMP;
+        }
+    }
+
+    function startTxt() {
+        c.font = '20px "Press Start 2P", cursive';
+        c.fillStyle = "#ff0";
+        c.strokeStyle = "#000";
+        c.lineWidth = 1;
+        c.fillText('doggo is fast', doggo.x - mapmove1 / 2, doggo.y);
+        c.strokeText('doggo is ', doggo.x - mapmove1 / 2, doggo.y);
+        c.fillStyle = "#0f0";
+        c.strokeStyle = "#000";
+        c.fillText('doggo is good', doggo.x + mapmove1 / 2, doggo.y - 50);
+        c.strokeText('doggo is ', doggo.x + mapmove1 / 2, doggo.y - 50);
+        if (mapmove1 > canvas.width * 2) {
+            initText = drawTxt(texts[rand], colors[rand2], colors[rand3]);
+        }
+    }
+
+    function drawDoggo(doggo) {
+        if (doggo.xVel !== 0) {
+            doggo.frameDelay = 40 / doggo.xVel;
+        } else {
+            doggo.frameDelay = 8
+        }
+        directionCheck();
+        mapmove += doggo.xVel;
+        mapmove1 += doggo.xVel;
+        if (mapmove > canvas.width * 24) {
+            mapmove = 0;
+        }
+        doggo.currentSprite = doggo.whichSprite(doggo);
+        c.drawImage(
+            doggo.currentSprite, /* The sprite that should be rendered */
+            0, /* The x position of the sprite */
+            doggo.frame, /* The y position of the sprite */
+            64, /* The size of the sprite cut (width) */
+            64, /* The size of the sprite cut (height) */
+            doggo.x, /* The position of the cut on the canvas (x) */
+            doggo.y, /* The position of the cut on the canvas (y) */
+            doggo.size, /* The size of the cut on the canvas (width) */
+            doggo.size /* The size of the cut on the canvas (height) */
+        );
+        nextSpriteFrame(doggo);
+    }
+
+    var trail = {
+        size: 64,
+        currentSprite: doggo_trail,
+        frame: 0,
+        frameCD: 0,
+        frameDelay: 4
+    };
+
+    function drawTrail() {
+        c.drawImage(
+            trail.currentSprite, /* The sprite that should be rendered */
+            0, /* The x position of the sprite */
+            trail.frame, /* The y position of the sprite */
+            64, /* The size of the sprite cut (width) */
+            64, /* The size of the sprite cut (height) */
+            doggo.x - trail.size, /* The position of the cut on the canvas (x) */
+            doggo.y + doggo.size - trail.size, /* The position of the cut on the canvas (y) */
+            trail.size, /* The size of the cut on the canvas (width) */
+            trail.size /* The size of the cut on the canvas (height) */
+        );
+        trail.size = doggo.xVel / 10 + 10;
+        if (trail.size>256){
+            trail.size=256;
+        }
+        nextSpriteFrame(trail);
+    }
+
+
+
+
+
+
+    function nextSpriteFrame(entity) {
+        entity.frameCD++;
+        if (entity.frameCD >= entity.frameDelay) {
+            entity.frame += entity.currentSprite.width;
+            entity.frameCD = 0;
+        }
+        if (entity.frame >= entity.currentSprite.height) {
+            if (entity.currentSprite == DOGGO_JUMP) {
+                entity.action = "idle";
+                entity.R = false;
+            }
+            entity.frame = 0;
+        }
+    }
+
+    function renderMap() {
+        c.drawImage(bg_4, 0, 0, canvas.width, canvas.height);
+        for (it = 0; it < 48; it++) {
+            c.drawImage(bg_3, -mapmove / 24 + canvas.width * it, 0, canvas.width, canvas.height);
+            c.drawImage(bg_2, -mapmove / 6 + canvas.width * it, 0, canvas.width, canvas.height);
+        }
+    }
+
+    function renderGrass() {
+        for (it = 0; it < 48; it++) {
+            c.drawImage(bg_1, -mapmove + canvas.width * it, 0, canvas.width, canvas.height);
+        }
+    }
+
+
+    function directionCheck() {
+        if (doggo.L || doggo.R) {
+            if (doggo.R && doggo.xVel < doggo.speed) {
+                doggo.xVel += doggo.accel;
+            }
+            if (doggo.L && doggo.xVel > -doggo.speed) {
+                doggo.xVel -= doggo.accel;
+            }
+        } else {
+            if (doggo.xVel === 0) {
+                doggo.action = "idle";
+            } else if (doggo.xVel !== 0) {
+
+                (doggo.xVel > 0) ? (doggo.action = "run", doggo.xVel -= doggo.accel * 8 + speedGain / 128) : doggo.xVel += doggo.accel / 4;
+            }
+        }
+        if (doggo.xVel < 0) {
+            doggo.xVel = 0;
+        }
+    }
+    var speedGain = 2.7;
+    var mult_1 = 10;
+
+
+    speedBuy1.onclick = function () {
+        if (doggo.xVel > mult_1) {
+            doggo.xVel -= mult_1;
+            speedGain *= 1.2;
+            mult_1 *= 2;
+            speedBuy1.innerHTML = "buy SPEED<br/><br/>(" + mult_1 * 2 + " Km/h)";
+        }
+    }
+
+    /*
+    window.addEventListener("touchstart",rightButtonDown);
+    window.addEventListener("touchend",rightButtonUp);
+    window.addEventListener("dblclick",leftButtonDown);
+    */
+    run.addEventListener("click", clickFunc);
+
+    function clickFunc() {
+        doggo.xVel += speedGain;
+        if (once) {
+            doggo_theme.play();
+            once = 0;
+        }
+    }
+
+    /*
+    window.addEventListener("keydown", function (event) {
+        var key = event.keyCode;
+        switch (key) {
+            case 39: //right key down
+                rightButtonDown();
+                break;
+            case 37: //left key down
+                leftButtonDown();
+                break;
+        }
+    });
+    window.addEventListener("keyup", function (event) {
+        var key = event.keyCode;
+        switch (key) {
+            case 39: //right key up
+                rightButtonUp();
+                break;
+        }
+    });
+    */
+
+
+
+
+};

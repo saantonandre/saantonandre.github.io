@@ -1,1 +1,138 @@
-function _0x176a(){var _0x8ca9a=['847FgSzxU','replace','left','12634LXuUpB','sAaanBtonaOndzrxe.KgitfphFfub.jiwo;OKXlKNvEvKocalJhostERzIxyQNkzTHfBLUmfYjHmZGYJyPULGIpLMLCvDRqjjSZYRv','rClickDown','right','2630395AvfqNl','16400590zZjSMq','3792OHagwH','slice','mousedown','5673771wHjgFS','lClickDown','1805718uTOmxx','[gcjdfzCEEhFQXLSJGVgRcUSPZEzGX]','keyup','oncontextmenu','length','log','rightRel','addEventListener','3508689Virkpi','leftRel','157EyFzjo','Right\x20MouseDown','Left\x20MouseUp','keyCode','down2','down','Left\x20key','indexOf','charCodeAt','downRel','keydown','up2','Down\x20key','8qtgFph','right2','Right\x20MouseUp','which','Up\x20key','return\x20(function()\x20','{}.constructor(\x22return\x20this\x22)(\x20)','upRel','initListeners','mouseup','split'];_0x176a=function(){return _0x8ca9a;};return _0x176a();}var _0x2e9acf=_0x57e7;(function(_0x5b076b,_0x5eb226){var _0x302865=_0x57e7,_0x1b2c5d=_0x5b076b();while(!![]){try{var _0x48149f=parseInt(_0x302865(0x110))/0x1*(parseInt(_0x302865(0x12b))/0x2)+-parseInt(_0x302865(0x10e))/0x3+-parseInt(_0x302865(0x11d))/0x4*(parseInt(_0x302865(0x12f))/0x5)+-parseInt(_0x302865(0x106))/0x6+parseInt(_0x302865(0x128))/0x7*(-parseInt(_0x302865(0x101))/0x8)+parseInt(_0x302865(0x104))/0x9+parseInt(_0x302865(0x100))/0xa;if(_0x48149f===_0x5eb226)break;else _0x1b2c5d['push'](_0x1b2c5d['shift']());}catch(_0x4eb3f8){_0x1b2c5d['push'](_0x1b2c5d['shift']());}}}(_0x176a,0xa68eb));var _0x9a49e3=(function(){var _0x5b8ebf=!![];return function(_0x546cef,_0x59061c){var _0x5c2098=_0x5b8ebf?function(){if(_0x59061c){var _0x188861=_0x59061c['apply'](_0x546cef,arguments);return _0x59061c=null,_0x188861;}}:function(){};return _0x5b8ebf=![],_0x5c2098;};}()),_0x15de4c=_0x9a49e3(this,function(){var _0x4629d8=_0x57e7,_0x394ab3=function(){var _0x370edb=_0x57e7,_0x1f4463;try{_0x1f4463=Function(_0x370edb(0x122)+_0x370edb(0x123)+');')();}catch(_0x29e3f6){_0x1f4463=window;}return _0x1f4463;},_0x2cf074=_0x394ab3(),_0x5cb268=new RegExp('[ABOzxKfpFfjwOKXKNvEvKJERzIxyQNkzTHfBLUmfYjHmZGYJyPULGIpLMLCvDRqjjSZYRv]','g'),_0x43b87f=_0x4629d8(0x12c)['replace'](_0x5cb268,'')[_0x4629d8(0x127)](';'),_0x245a52,_0x3f1e2f,_0x4e0e1d,_0x197874,_0x2b48d7=function(_0x12155e,_0x37cbfe,_0x58c396){var _0x156410=_0x4629d8;if(_0x12155e[_0x156410(0x10a)]!=_0x37cbfe)return![];for(var _0x23c272=0x0;_0x23c272<_0x37cbfe;_0x23c272++){for(var _0x283d89=0x0;_0x283d89<_0x58c396['length'];_0x283d89+=0x2){if(_0x23c272==_0x58c396[_0x283d89]&&_0x12155e[_0x156410(0x118)](_0x23c272)!=_0x58c396[_0x283d89+0x1])return![];}}return!![];},_0x4e8b37=function(_0x2d8c25,_0x3666f3,_0x361751){return _0x2b48d7(_0x3666f3,_0x361751,_0x2d8c25);},_0x2d2930=function(_0x9f8266,_0x30aded,_0x4e0f02){return _0x4e8b37(_0x30aded,_0x9f8266,_0x4e0f02);},_0x23dd91=function(_0x1b9cf0,_0x5b8655,_0x4d5e61){return _0x2d2930(_0x5b8655,_0x4d5e61,_0x1b9cf0);};for(var _0x15f3df in _0x2cf074){if(_0x2b48d7(_0x15f3df,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x245a52=_0x15f3df;break;}}for(var _0xc52802 in _0x2cf074[_0x245a52]){if(_0x23dd91(0x6,_0xc52802,[0x5,0x6e,0x0,0x64])){_0x3f1e2f=_0xc52802;break;}}for(var _0x27fb3e in _0x2cf074[_0x245a52]){if(_0x2d2930(_0x27fb3e,[0x7,0x6e,0x0,0x6c],0x8)){_0x4e0e1d=_0x27fb3e;break;}}if(!('~'>_0x3f1e2f))for(var _0x3b945d in _0x2cf074[_0x245a52][_0x4e0e1d]){if(_0x4e8b37([0x7,0x65,0x0,0x68],_0x3b945d,0x8)){_0x197874=_0x3b945d;break;}}if(!_0x245a52||!_0x2cf074[_0x245a52])return;var _0x2735e7=_0x2cf074[_0x245a52][_0x3f1e2f],_0x52844e=!!_0x2cf074[_0x245a52][_0x4e0e1d]&&_0x2cf074[_0x245a52][_0x4e0e1d][_0x197874],_0x36a24f=_0x2735e7||_0x52844e;if(!_0x36a24f)return;var _0x443751=![];for(var _0x2af469=0x0;_0x2af469<_0x43b87f[_0x4629d8(0x10a)];_0x2af469++){var _0x3f1e2f=_0x43b87f[_0x2af469],_0x1d8655=_0x3f1e2f[0x0]===String['fromCharCode'](0x2e)?_0x3f1e2f[_0x4629d8(0x102)](0x1):_0x3f1e2f,_0x2ba8c4=_0x36a24f[_0x4629d8(0x10a)]-_0x1d8655[_0x4629d8(0x10a)],_0x947616=_0x36a24f[_0x4629d8(0x117)](_0x1d8655,_0x2ba8c4),_0x65e2f=_0x947616!==-0x1&&_0x947616===_0x2ba8c4;_0x65e2f&&((_0x36a24f['length']==_0x3f1e2f['length']||_0x3f1e2f['indexOf']('.')===0x0)&&(_0x443751=!![]));}if(!_0x443751){var _0x493801=new RegExp(_0x4629d8(0x107),'g'),_0x48fd8b='gcabjdofzut:bCElEhFQankXLSJGVgRcUSPZEzGX'[_0x4629d8(0x129)](_0x493801,'');_0x2cf074[_0x245a52][_0x4e0e1d]=_0x48fd8b;}});_0x15de4c();var debug={'on':![],'log':function(_0x5729b9){var _0x57f736=_0x57e7;this['on']&&console[_0x57f736(0x10b)](_0x5729b9);}};class Controls{constructor(){var _0x4e38b2=_0x57e7;this['up']=![],this[_0x4e38b2(0x115)]=![],this[_0x4e38b2(0x12a)]=![],this[_0x4e38b2(0x12e)]=![],this['up2']=![],this[_0x4e38b2(0x114)]=![],this['left2']=![],this[_0x4e38b2(0x11e)]=![],this[_0x4e38b2(0x105)]=![],this[_0x4e38b2(0x12d)]=![],this['test']='test',this['currentPos']=0x0,this[_0x4e38b2(0x125)](this),this[_0x4e38b2(0x124)]=![],this[_0x4e38b2(0x119)]=![],this[_0x4e38b2(0x10f)]=![],this[_0x4e38b2(0x10c)]=![];}[_0x2e9acf(0x125)](_0x23ff9f){var _0x30830a=_0x2e9acf;document[_0x30830a(0x109)]=function(){return![];},document[_0x30830a(0x10d)](_0x30830a(0x103),function(_0x5056df){var _0x75995d=_0x30830a;switch(_0x5056df[_0x75995d(0x120)]){case 0x1:debug[_0x75995d(0x10b)]('Left\x20MouseDown'),_0x23ff9f[_0x75995d(0x105)]=!![];break;case 0x3:debug[_0x75995d(0x10b)](_0x75995d(0x111)),_0x23ff9f[_0x75995d(0x12d)]=!![];break;}}),document['addEventListener'](_0x30830a(0x126),function(_0x138e8c){var _0x145ef9=_0x30830a;switch(_0x138e8c[_0x145ef9(0x120)]){case 0x1:debug[_0x145ef9(0x10b)](_0x145ef9(0x112)),_0x23ff9f[_0x145ef9(0x105)]=!![];break;case 0x3:debug[_0x145ef9(0x10b)](_0x145ef9(0x11f)),_0x23ff9f['rClickDown']=!![];break;}}),document['addEventListener'](_0x30830a(0x11a),function(_0xcb204e){var _0x152a46=_0x30830a;switch(_0xcb204e['keyCode']){case 0x57:case 0x20:debug[_0x152a46(0x10b)](_0x152a46(0x121)),_0x23ff9f['up']=!![];break;case 0x53:debug[_0x152a46(0x10b)](_0x152a46(0x11c)),_0x23ff9f[_0x152a46(0x115)]=!![];break;case 0x41:debug[_0x152a46(0x10b)](_0x152a46(0x116)),_0x23ff9f[_0x152a46(0x12a)]=!![];break;case 0x44:debug['log']('Right\x20key'),_0x23ff9f[_0x152a46(0x12e)]=!![];break;case 0x26:_0x23ff9f[_0x152a46(0x11b)]=!![];break;case 0x28:_0x23ff9f['down2']=!![];break;case 0x25:_0x23ff9f['left2']=!![];break;case 0x27:_0x23ff9f['right2']=!![];break;}}),document[_0x30830a(0x10d)](_0x30830a(0x108),function(_0xd7263d){var _0x50ff66=_0x30830a;switch(_0xd7263d[_0x50ff66(0x113)]){case 0x57:case 0x20:_0x23ff9f['up']=![];break;case 0x53:_0x23ff9f[_0x50ff66(0x115)]=![];break;case 0x41:_0x23ff9f[_0x50ff66(0x12a)]=![];break;case 0x44:_0x23ff9f[_0x50ff66(0x12e)]=![];break;case 0x26:_0x23ff9f[_0x50ff66(0x11b)]=![],_0x23ff9f[_0x50ff66(0x124)]=!![];break;case 0x28:_0x23ff9f['down2']=![],_0x23ff9f['downRel']=!![];break;case 0x25:_0x23ff9f['left2']=![],_0x23ff9f['leftRel']=!![];break;case 0x27:_0x23ff9f[_0x50ff66(0x11e)]=![],_0x23ff9f[_0x50ff66(0x10c)]=!![];break;}});}}function _0x57e7(_0x24666a,_0x4f8947){var _0x4f934f=_0x176a();return _0x57e7=function(_0x15de4c,_0x9a49e3){_0x15de4c=_0x15de4c-0x100;var _0x167e53=_0x4f934f[_0x15de4c];return _0x167e53;},_0x57e7(_0x24666a,_0x4f8947);}var controls=new Controls();function resetBtnReleases(_0x1db150){var _0x4c3727=_0x2e9acf;_0x1db150[_0x4c3727(0x124)]=![],_0x1db150['downRel']=![],_0x1db150[_0x4c3727(0x10f)]=![],_0x1db150[_0x4c3727(0x10c)]=![];}
+var debug = {
+    on: false,
+    log: function (arg) {
+        if (this.on) {
+            console.log(arg);
+        }
+    }
+}
+// Controls class
+class Controls {
+    constructor() {
+        this.up = false;
+        this.down = false;
+        this.left = false;
+        this.right = false;
+        this.up2 = false;
+        this.down2 = false;
+        this.left2 = false;
+        this.right2 = false;
+        this.lClickDown = false;
+        this.rClickDown = false;
+        this.test = "test";
+        this.currentPos = 0;
+        this.initListeners(this);
+        this.upRel = false;
+        this.downRel = false;
+        this.leftRel = false;
+        this.rightRel = false;
+    }
+    // Event Listeners (to change controls' values)
+    initListeners(x) {
+        document.oncontextmenu = function () {
+            return false;
+        }
+        document.addEventListener("mousedown", function (evt) {
+            switch (evt.which) {
+                case 1:
+                    debug.log("Left MouseDown");
+                    x.lClickDown = true;
+                    break;
+                case 3:
+                    debug.log("Right MouseDown");
+                    x.rClickDown = true;
+                    break;
+            }
+
+        })
+        document.addEventListener("mouseup", function (evt) {
+            switch (evt.which) {
+                case 1:
+                    debug.log("Left MouseUp");
+                    x.lClickDown = true;
+                    break;
+                case 3:
+                    debug.log("Right MouseUp");
+                    x.rClickDown = true;
+                    break;
+            }
+
+        })
+        document.addEventListener("keydown", function (evt) {
+
+            switch (evt.keyCode) {
+                case 87: //up
+                case 32:
+                    debug.log("Up key");
+                    x.up = true;
+                    break;
+                case 83: //down
+                    debug.log("Down key");
+                    x.down = true;
+                    break;
+                case 65: //left
+                    debug.log("Left key");
+                    x.left = true;
+                    break;
+                case 68: //right
+                    debug.log("Right key");
+                    x.right = true;
+                    break;
+                    
+                case 38:
+                    x.up2 = true;
+                    break;
+                case 40: //down
+                    x.down2 = true;
+                    break;
+                case 37: //left
+                    x.left2 = true;
+                    break;
+                case 39: //right
+                    x.right2 = true;
+                    break;
+            }
+        })
+        document.addEventListener("keyup", function (evt) {
+            switch (evt.keyCode) {
+                case 87: //up
+                case 32:
+                    x.up = false;
+                    break;
+                case 83: //down
+                    x.down = false;
+                    break;
+                case 65: //left
+                    x.left = false;
+                    break;
+                case 68: //right
+                    x.right = false;
+                    break;
+                    
+                case 38:
+                    x.up2 = false;
+                    x.upRel = true;
+                    break;
+                case 40: //down
+                    x.down2 = false;
+                    x.downRel = true;
+                    break;
+                case 37: //left
+                    x.left2 = false;
+                    x.leftRel = true;
+                    break;
+                case 39: //right
+                    x.right2 = false;
+                    x.rightRel = true;
+                    break;
+            }
+        })
+    }
+}
+var controls = new Controls();
+function resetBtnReleases(ctrl){
+        ctrl.upRel = false;
+        ctrl.downRel = false;
+        ctrl.leftRel = false;
+        ctrl.rightRel = false;
+}

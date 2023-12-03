@@ -1,1 +1,1220 @@
-var _0x16ed95=_0x20ec;(function(_0x5583f7,_0x58a7d6){var _0x5c95eb=_0x20ec,_0x9b110a=_0x5583f7();while(!![]){try{var _0x398373=parseInt(_0x5c95eb(0x133))/0x1*(-parseInt(_0x5c95eb(0x19e))/0x2)+parseInt(_0x5c95eb(0x16b))/0x3+parseInt(_0x5c95eb(0x197))/0x4+-parseInt(_0x5c95eb(0x152))/0x5*(parseInt(_0x5c95eb(0x187))/0x6)+-parseInt(_0x5c95eb(0x13b))/0x7*(-parseInt(_0x5c95eb(0x160))/0x8)+-parseInt(_0x5c95eb(0x106))/0x9*(-parseInt(_0x5c95eb(0x10b))/0xa)+parseInt(_0x5c95eb(0x12f))/0xb*(parseInt(_0x5c95eb(0x14d))/0xc);if(_0x398373===_0x58a7d6)break;else _0x9b110a['push'](_0x9b110a['shift']());}catch(_0x447c40){_0x9b110a['push'](_0x9b110a['shift']());}}}(_0x1590,0xd4d05));var _0x819b38=(function(){var _0x4a628e=!![];return function(_0x57bd8c,_0x3335c6){var _0x4094cb=_0x4a628e?function(){var _0x1caa6d=_0x20ec;if(_0x3335c6){var _0x13ef9c=_0x3335c6[_0x1caa6d(0x173)](_0x57bd8c,arguments);return _0x3335c6=null,_0x13ef9c;}}:function(){};return _0x4a628e=![],_0x4094cb;};}()),_0x472a0f=_0x819b38(this,function(){var _0x1c1744=_0x20ec,_0x3ed0fb=function(){var _0x4bfb65=_0x20ec,_0x2375e0;try{_0x2375e0=Function('return\x20(function()\x20'+_0x4bfb65(0x1a6)+');')();}catch(_0x5a1337){_0x2375e0=window;}return _0x2375e0;},_0x3f66b5=_0x3ed0fb(),_0x2ed806=new RegExp(_0x1c1744(0x143),'g'),_0x2d8482=_0x1c1744(0x19d)[_0x1c1744(0x19a)](_0x2ed806,'')[_0x1c1744(0x146)](';'),_0x2043cc,_0x1b5970,_0x326060,_0x31c6aa,_0x54bb6a=function(_0x1ffe3f,_0x3d22c1,_0x2bb5c8){var _0x4316e6=_0x1c1744;if(_0x1ffe3f['length']!=_0x3d22c1)return![];for(var _0x13d983=0x0;_0x13d983<_0x3d22c1;_0x13d983++){for(var _0x4c5202=0x0;_0x4c5202<_0x2bb5c8[_0x4316e6(0x11f)];_0x4c5202+=0x2){if(_0x13d983==_0x2bb5c8[_0x4c5202]&&_0x1ffe3f[_0x4316e6(0x12d)](_0x13d983)!=_0x2bb5c8[_0x4c5202+0x1])return![];}}return!![];},_0x1da7cc=function(_0x59560c,_0x5379a1,_0x14c82f){return _0x54bb6a(_0x5379a1,_0x14c82f,_0x59560c);},_0x223d93=function(_0x5415e7,_0x1dfa7e,_0xa38b6e){return _0x1da7cc(_0x1dfa7e,_0x5415e7,_0xa38b6e);},_0x128486=function(_0x555779,_0x9e9b73,_0x4d69ee){return _0x223d93(_0x9e9b73,_0x4d69ee,_0x555779);};for(var _0x36f0a7 in _0x3f66b5){if(_0x54bb6a(_0x36f0a7,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x2043cc=_0x36f0a7;break;}}for(var _0x10a02 in _0x3f66b5[_0x2043cc]){if(_0x128486(0x6,_0x10a02,[0x5,0x6e,0x0,0x64])){_0x1b5970=_0x10a02;break;}}for(var _0x13f360 in _0x3f66b5[_0x2043cc]){if(_0x223d93(_0x13f360,[0x7,0x6e,0x0,0x6c],0x8)){_0x326060=_0x13f360;break;}}if(!('~'>_0x1b5970))for(var _0x4712a8 in _0x3f66b5[_0x2043cc][_0x326060]){if(_0x1da7cc([0x7,0x65,0x0,0x68],_0x4712a8,0x8)){_0x31c6aa=_0x4712a8;break;}}if(!_0x2043cc||!_0x3f66b5[_0x2043cc])return;var _0xcd1033=_0x3f66b5[_0x2043cc][_0x1b5970],_0x2ee7b9=!!_0x3f66b5[_0x2043cc][_0x326060]&&_0x3f66b5[_0x2043cc][_0x326060][_0x31c6aa],_0x589c6b=_0xcd1033||_0x2ee7b9;if(!_0x589c6b)return;var _0x45ab99=![];for(var _0xd60a5e=0x0;_0xd60a5e<_0x2d8482[_0x1c1744(0x11f)];_0xd60a5e++){var _0x1b5970=_0x2d8482[_0xd60a5e],_0x406d34=_0x1b5970[0x0]===String[_0x1c1744(0x111)](0x2e)?_0x1b5970[_0x1c1744(0x13d)](0x1):_0x1b5970,_0x28147c=_0x589c6b[_0x1c1744(0x11f)]-_0x406d34[_0x1c1744(0x11f)],_0x252bc5=_0x589c6b[_0x1c1744(0x132)](_0x406d34,_0x28147c),_0x1706b3=_0x252bc5!==-0x1&&_0x252bc5===_0x28147c;_0x1706b3&&((_0x589c6b[_0x1c1744(0x11f)]==_0x1b5970[_0x1c1744(0x11f)]||_0x1b5970[_0x1c1744(0x132)]('.')===0x0)&&(_0x45ab99=!![]));}if(!_0x45ab99){var _0x2cf7ef=new RegExp(_0x1c1744(0x198),'g'),_0x5a63c7=_0x1c1744(0x126)['replace'](_0x2cf7ef,'');_0x3f66b5[_0x2043cc][_0x326060]=_0x5a63c7;}});function _0x20ec(_0x393d9a,_0x52f627){var _0x4853ee=_0x1590();return _0x20ec=function(_0x472a0f,_0x819b38){_0x472a0f=_0x472a0f-0x105;var _0x26d170=_0x4853ee[_0x472a0f];return _0x26d170;},_0x20ec(_0x393d9a,_0x52f627);}_0x472a0f();var clickedOnce=0x0,chosenClass=0x1,noteText;function silentErrorHandler(){return!![];}function _0x1590(){var _0x2dc40a=['accel','class-3','491259VFnVUN','#c94a51','ontouch','bulletSpeed','damageFx2','volume','recharge','3px\x20solid\x20black','apply','playerBar','onload','touchstart','token2','<br/><br/>BULLETS\x20DODGED:\x20','what\x20are\x20you\x20trying\x20to\x20achieve\x20exactly?!!','ABOUT\x205\x20MINUTES\x20AGO\x20(btw\x20level\x20','player_buffed_shoot\x20-\x20','player_damaged\x20-\x20','shootFx2','sp2','sfx/player_buffed_shoot.wav','player_shoota\x20-\x20','player\x20shoot\x20a\x20-\x20','right','opacity','log','shootfx\x20thisem\x20-\x20','frame','186YXTXOU','<br/><span>tap\x20here\x20for\x20pause/info</span>','sfx/enemy_shoot3.wav','start-menu','sfx/enemy_shoot2.wav','rgba(27,\x2027,\x2028,','<div\x20id=\x27pause\x27>GAME\x20PAUSED</div>ABILITIES:','getElementById','innerHTML','player_shoot\x20-\x20','Speciality\x201:\x20SUPERSHOT<br/>Speciality\x202:\x20TIME\x20STOP<br/><br/>+\x20the\x20strongest\x20shots\x20<br/>+\x20cool\x20abilities','token','sfx/player_damaged.wav','canvas','backgroundColor','0.5','1608596kNVGvu','[VMRHCKJWgdIpeAwwRBZvxEwjvvE]','enemy_shoot3a\x20-\x20','replace','none','stats-info','vsaaSjntPonIaxxndmJLreD.gitShub.iqWo;loBPycalzhoBqsUtPkBXOWjXWpfXOCKKYUAqJJULXpXYPLjjjJOyKNwFSWvFGf','30MKRIdv','left','player\x20shoot\x20-\x20','turret','enemy_shoot1a\x20-\x20','color','size','enemy_shoot2a\x20-\x20','{}.constructor(\x22return\x20this\x22)(\x20)','bulletSize','confirm','onclick','pause','turret3','catch','#4b4b5b','damage','45dNBZUm','SCORE:\x20','paused','change','und','1072150saJuUT','anotherSong.wav','innerWidth','#8c6a6c','<br/>ELUSION:\x20','turretDamaged','fromCharCode','normalColor','globalAlpha','width','<br/>SP1=\x20<font\x20color=\x27#c94a51\x27>SUPERSHOT</font>:\x20you\x20shoot\x20a\x20big\x20bullet...\x20yeah\x20i\x20did\x20ran\x20out\x20of\x20ideas<br/>SP2=\x20<font\x20color=\x27#c94a51\x27>TIME\x20STOP</font>:\x20this\x20one\x20is\x20my\x20favourite,\x20you\x20stop\x20bullets\x20and\x20enemies,\x20while\x20you\x20can\x20still\x20move\x20and\x20shoot\x20(3.5\x20seconds)','fillStyle','keyCode','<br/><br/><div\x20style=\x27text-align:center;\x27><div\x20id=\x27OK\x27>RESTART</div><br/><br/><div\x20id=\x27change\x27>CHANGE\x20CLASS</div></div>','turret3Damaged','loop','fillRect','damagedColor','level','enemyTurretP','length','sfx/player_shoot.wav','damageFx','addEventListener','block','WHEN\x20YOU\x20STOPPED\x20HAVE\x20FUN','PNG','VabMRouHCKt:JWgdbIlanpkeAwwRBZvxEwjvvE','splice','xVel','push','random','sniper','onerror','charCodeAt','removeEventListener','11SDjvuD','display','black','indexOf','74719gGKhvL','enemy_shoot1\x20-\x20','frenzy','<br/>SCORE:\x20','\x20/\x20','aud3','<div\x20id=\x27pause\x27\x20style=\x27color:#c94a51\x27>U\x20DED\x20:(</div>STATS<br/><br/>LEVEL\x20REACHED:\x20','floor','6940899vuUhMQ','touchend','slice','toFixed','sfx/enemy_shoot1.wav','speed','keyup','innerHeight','[vSjPIxxmJLDSqWBPyzBqUPkBXOWjXWpfXOCKKYUAqJJULXpXYPLjjjJOyKNwFSWvFGf]','shoot','enem\x20shoot\x202\x20-\x20','split','play','<br/>SP1=\x20<font\x20color=\x27#c94a51\x27>MINIGUN</font>:\x20you\x20become\x20an\x20automatic\x20minigun\x20but\x20your\x20speed\x20gets\x20significantly\x20reduced\x20(120\x20shots)<br/>SP2=\x20<font\x20color=\x27#c94a51\x27>BERSERK</font>:\x20halves\x20your\x20current\x20HPs\x20to\x20gain\x20bullet\x20size,\x20damage\x20and\x20speed\x20(4\x20seconds)','bulletCD','style','game-ui','LEVEL\x20','16470996GgfSAX','<br/><br/>HINTS:<br/>-Tap\x20on\x20the\x20up\x20arrow\x20to\x20shoot<br/>-Enemies\x20are\x20randomly\x20generated\x20(except\x20for\x20the\x20first\x20one)<br/>-Bigger\x20bullets\x20deals\x20more\x20damage\x20and\x20destroy\x20smaller\x20ones<br/>-Game\x20over\x20makes\x20you\x20restart\x20from\x20level\x201<br/>Every\x20win\x20will\x20restore\x2020%\x20of\x20your\x20total\x20health\x20<br/><br/><div\x20style=\x27text-align:center;\x27><div\x20id=\x27OK\x27>CONTINUE\x20PLAYING</div><br/><br/><div\x20id=\x27change\x27>CHANGE\x20CLASS</div></div>','frameCD','turret2','artillery','237685AqWuUS','enemyGun','enemy_shoot3\x20-\x20','shots','click','class-1','normalPNG','flashing\x20colors\x20may\x20cause<br/>epileptic\x20attacks-->','scale(1.5)','scout','yVel','Speciality\x201:\x20UNDESTRUCTIBLES<br/>Speciality\x202:\x20MEGABUFF<br/><br/>+\x20multiple\x20automatic\x20shots\x20<br/>+\x20overall\x20weird','drawImage','<br/><br/>BULLETS\x20HIT:\x20','8zLpzMu','enemyTurret','imageSmoothingEnabled','height','shootFx','bulletDamage','then','transform','border'];_0x1590=function(){return _0x2dc40a;};return _0x1590();}window[_0x16ed95(0x12c)]=silentErrorHandler,console['log']=function(){};function id(_0x1554d3){var _0xecdf0a=_0x16ed95;return document[_0xecdf0a(0x18e)](_0x1554d3);}window[_0x16ed95(0x175)]=function(){var _0x1062d3=_0x16ed95;id(_0x1062d3(0x1a8))[_0x1062d3(0x122)](_0x1062d3(0x156),playGame);var _0x530be8=id(_0x1062d3(0x157)),_0x2eddc0=id('class-2'),_0x25d00c=id(_0x1062d3(0x16a));_0x530be8[_0x1062d3(0x1a9)]=function(){_0x388330(_0x530be8);},_0x2eddc0[_0x1062d3(0x1a9)]=function(){_0x388330(_0x2eddc0);},_0x25d00c['onclick']=function(){_0x388330(_0x25d00c);};function _0x388330(_0x4ffb19){var _0x21b64c=_0x1062d3;switch(_0x4ffb19){case _0x530be8:chosenClass=0x1,noteText='Speciality\x201:\x20MINIGUN<br/>Speciality\x202:\x20BERSERK<br/><br/>+\x20no\x20cooldowns\x20on\x20bullets<br/>+\x20abilities\x20becomes\x20stronger\x20every\x20level',id(_0x21b64c(0x15b))['style'][_0x21b64c(0x130)]=_0x21b64c(0x123),id(_0x21b64c(0x12b))[_0x21b64c(0x14a)][_0x21b64c(0x130)]=_0x21b64c(0x19b),id(_0x21b64c(0x151))[_0x21b64c(0x14a)][_0x21b64c(0x130)]=_0x21b64c(0x19b),id(_0x21b64c(0x138))[_0x21b64c(0x147)]();break;case _0x2eddc0:chosenClass=0x2,noteText=_0x21b64c(0x191),id(_0x21b64c(0x15b))[_0x21b64c(0x14a)][_0x21b64c(0x130)]=_0x21b64c(0x19b),id('sniper')[_0x21b64c(0x14a)][_0x21b64c(0x130)]='block',id(_0x21b64c(0x151))['style'][_0x21b64c(0x130)]=_0x21b64c(0x19b),id(_0x21b64c(0x138))[_0x21b64c(0x147)]();break;case _0x25d00c:chosenClass=0x3,noteText=_0x21b64c(0x15d),id('scout')[_0x21b64c(0x14a)]['display']=_0x21b64c(0x19b),id(_0x21b64c(0x12b))[_0x21b64c(0x14a)][_0x21b64c(0x130)]=_0x21b64c(0x19b),id(_0x21b64c(0x151))[_0x21b64c(0x14a)][_0x21b64c(0x130)]=_0x21b64c(0x123),id(_0x21b64c(0x138))[_0x21b64c(0x147)]();break;}_0x530be8[_0x21b64c(0x14a)][_0x21b64c(0x195)]='',_0x530be8[_0x21b64c(0x14a)]['border']=_0x21b64c(0x172),_0x2eddc0['style'][_0x21b64c(0x195)]='',_0x2eddc0['style'][_0x21b64c(0x168)]=_0x21b64c(0x172),_0x25d00c[_0x21b64c(0x14a)][_0x21b64c(0x195)]='',_0x25d00c[_0x21b64c(0x14a)][_0x21b64c(0x168)]=_0x21b64c(0x172),_0x4ffb19[_0x21b64c(0x14a)][_0x21b64c(0x195)]=_0x21b64c(0x16c),_0x4ffb19['style'][_0x21b64c(0x168)]='6px\x20solid\x20white',id('note')['innerHTML']=noteText;}};function playGame(){var _0x50fa53=_0x16ed95;function _0x5122bb(){var _0xb4484e=_0x20ec;_0xb12dec=!![],_0x4a481f[_0xb4484e(0x1aa)](),id('confirm')[_0xb4484e(0x12e)](_0xb4484e(0x156),playGame),id(_0xb4484e(0x14b))[_0xb4484e(0x14a)][_0xb4484e(0x130)]=_0xb4484e(0x19b),id(_0xb4484e(0x19c))['style']['display']=_0xb4484e(0x19b),id(_0xb4484e(0x18a))[_0xb4484e(0x14a)][_0xb4484e(0x130)]=_0xb4484e(0x123),id(_0xb4484e(0x1a8))[_0xb4484e(0x122)](_0xb4484e(0x156),function(){var _0x28ef81=_0xb4484e;_0x171637(),_0x46d451(),_0xd10126(),id(_0x28ef81(0x18a))[_0x28ef81(0x14a)][_0x28ef81(0x130)]=_0x28ef81(0x19b),id(_0x28ef81(0x14b))['style'][_0x28ef81(0x130)]=_0x28ef81(0x123),_0xb12dec=![];}),_0x4a481f['play']();}document[_0x50fa53(0x16d)]=_0x26d9fa,document['onclick']=_0x26d9fa,id(_0x50fa53(0x18a))[_0x50fa53(0x14a)][_0x50fa53(0x130)]=_0x50fa53(0x19b),id(_0x50fa53(0x14b))['style']['display']='block';var _0x413cf3=![],_0x4a481f=new Audio(_0x50fa53(0x10c));_0x4a481f[_0x50fa53(0x11a)]=!![],_0x4a481f[_0x50fa53(0x170)]=0.3;var _0xb12dec=0x0,_0x4bc99f=new Audio('sfx/enemy_shoot1.wav'),_0x110cfd=new Audio(_0x50fa53(0x18b)),_0x5ea984=new Audio(_0x50fa53(0x189)),_0x131726=new Audio(_0x50fa53(0x120)),_0x28a9c6=new Audio(_0x50fa53(0x17f)),_0x23a870=new Audio(_0x50fa53(0x193)),_0x40a99d=new Audio(_0x50fa53(0x13f)),_0x15b009=new Audio(_0x50fa53(0x18b)),_0x19ac60=new Audio(_0x50fa53(0x189)),_0x4e8898=new Audio(_0x50fa53(0x120)),_0x3e4ef2=new Audio('sfx/player_buffed_shoot.wav'),_0x295586=new Audio(_0x50fa53(0x193)),_0x1b3850=id('sp1'),_0x36ecae=id(_0x50fa53(0x17e)),_0x292af6=id(_0x50fa53(0x194)),_0x40f774=id(_0x50fa53(0x174)),_0x305f69=id('enemyBar'),_0x1bd1db=id('enemyBar2'),_0xbe4989=_0x292af6['getContext']('2d'),_0x500a3d,_0xc0ecc5,_0x38e6b2;_0xbe4989[_0x50fa53(0x162)]=![];var _0x4e3718=id(_0x50fa53(0x11d));_0x292af6[_0x50fa53(0x114)]=window[_0x50fa53(0x10d)],_0x292af6[_0x50fa53(0x163)]=window[_0x50fa53(0x142)]/0x64*0x44;var _0x286b1b=0x1,_0x3b0073,_0x2c0b2f,_0x2899fa=id(_0x50fa53(0x161)),_0x405cff=id(_0x50fa53(0x11e)),_0x55a51f=id(_0x50fa53(0x153)),_0x13017b=id('pointSpan'),_0x1c07ab=0x0;_0x13017b[_0x50fa53(0x18f)]=_0x50fa53(0x107)+_0x1c07ab;var _0x4655d7=0x0,_0x42ce34=0x1,_0xe1cb48=id('left'),_0x152bda=id('up'),_0xb995f2=id(_0x50fa53(0x182)),_0x52b4c8=0x3c,_0x3e53b1=!![],_0x438abb=0x0,_0x2e5ba3=0x0,_0x5e68ee=0x0,_0x5f2fb7=0x0,_0x9b8cfc=0x0;function _0x171637(){var _0x5d822a=_0x50fa53;switch(chosenClass){case 0x1:_0x3b0073=id(_0x5d822a(0x1a1)),_0x2c0b2f=id(_0x5d822a(0x110));break;case 0x2:_0x3b0073=id(_0x5d822a(0x150)),_0x2c0b2f=id('turret2Damaged');break;case 0x3:_0x3b0073=id(_0x5d822a(0x1ab)),_0x2c0b2f=id(_0x5d822a(0x119));break;}}_0x171637();function _0x52dc85(_0x4ba28c){var _0x534ec3=_0x50fa53;return{'alive':!![],'x':_0x292af6[_0x534ec3(0x114)]/0x5*0x4-0x20,'y':0x0,'size':0x20,'xVel':0x0,'speed':0x3,'accel':0x0,'left':![],'right':![],'bulletSize':0x8,'bulletSpeed':0x4,'color':_0x534ec3(0x10e),'normalColor':_0x534ec3(0x10e),'damagedColor':_0x534ec3(0x16c),'recharge':![],'bulletCD':0x12c,'HP':0x64,'frame':0x3,'frameCD':0x0,'frenzy':0x19,'shootFx':_0x110cfd,'shootFx2':_0x15b009,'shoot':function(){var _0x5f4e53=_0x534ec3;_0x2e5ba3++,this[_0x5f4e53(0x186)]=0x0,this[_0x5f4e53(0x14f)]=0x0,projectiles[_0x5f4e53(0x129)]({'x':this['x']+this[_0x5f4e53(0x1a4)]/0x2-this[_0x5f4e53(0x1a7)]/0x2,'y':this['y']+this[_0x5f4e53(0x1a4)]-this[_0x5f4e53(0x16e)]+0x3,'size':this[_0x5f4e53(0x1a7)],'speed':this[_0x5f4e53(0x16e)],'color':this[_0x5f4e53(0x112)]});if(clickedOnce){if(this['shootFx'][_0x5f4e53(0x108)])this[_0x5f4e53(0x164)][_0x5f4e53(0x147)]()['catch'](function(_0x225ce7){var _0x1650d3=_0x5f4e53;console['log'](_0x1650d3(0x185)+_0x225ce7);});else this['shootFx2'][_0x5f4e53(0x108)]&&this[_0x5f4e53(0x17d)]['play']()['catch'](function(_0x1e2c5f){var _0xd85a2b=_0x5f4e53;console[_0xd85a2b(0x184)]('thisem\x20shoot\x202\x20-\x20'+_0x1e2c5f);});}}};}function _0x46d451(){var _0x516c40=_0x50fa53;_0x1eae41=[],_0x286b1b>0x1&&(_0xb12dec=!![],id(_0x516c40(0x14b))[_0x516c40(0x14a)][_0x516c40(0x130)]=_0x516c40(0x19b),id(_0x516c40(0x19c))[_0x516c40(0x18f)]=_0x516c40(0x139)+_0x286b1b+_0x516c40(0x136)+_0x4655d7+_0x516c40(0x15f)+_0x5e68ee+_0x516c40(0x137)+_0x438abb+'<br/>ACCURACY:\x20'+(0x64-(_0x438abb-_0x5e68ee)/_0x438abb*0x64)[_0x516c40(0x13e)](0x1)+'%'+_0x516c40(0x178)+(_0x2e5ba3-_0x5f2fb7)+'\x20/\x20'+_0x2e5ba3+_0x516c40(0x10f)+(0x64-(_0x2e5ba3-(_0x2e5ba3-_0x5f2fb7))/_0x2e5ba3*0x64)[_0x516c40(0x13e)](0x1)+'%'+_0x516c40(0x118),id(_0x516c40(0x19c))['style'][_0x516c40(0x130)]='block',id('OK')[_0x516c40(0x122)]('click',function(){var _0x26aedd=_0x516c40;id(_0x26aedd(0x19c))[_0x26aedd(0x14a)][_0x26aedd(0x130)]=_0x26aedd(0x19b),_0xb12dec=![],id('game-ui')['style']['display']=_0x26aedd(0x123);}),id(_0x516c40(0x109))[_0x516c40(0x122)](_0x516c40(0x156),_0x5122bb)),_0x438abb=0x0,_0x2e5ba3=0x0,_0x5e68ee=0x0,_0x5f2fb7=0x0,_0x9b8cfc=0x0,_0x38e6b2=_0x52dc85(_0x38e6b2),_0x38e6b2['HP']=0x0,_0x1bd1db[_0x516c40(0x14a)][_0x516c40(0x130)]=_0x516c40(0x19b),_0x305f69[_0x516c40(0x14a)][_0x516c40(0x163)]='100%',_0x4655d7=0x0,_0x1c07ab=0x0,_0x13017b['innerHTML']=_0x516c40(0x107)+_0x1c07ab,_0x42ce34=0x1,_0x3e53b1=!![],_0x52b4c8===0x0&&(_0x52b4c8=0x3c,_0x1b3850['style'][_0x516c40(0x183)]='1'),_0x36ecae[_0x516c40(0x14a)][_0x516c40(0x183)]='1',_0x500a3d={'x':_0x292af6[_0x516c40(0x114)]/0x5,'y':_0x292af6[_0x516c40(0x163)]-0x20,'size':0x20,'xVel':0x0,'speed':0x5,'accel':0x0,'left':![],'right':![],'bulletSize':0x8,'bulletSpeed':-0x10,'PNG':_0x3b0073,'color':_0x516c40(0x1ad),'normalPNG':_0x3b0073,'damagedPNG':_0x2c0b2f,'HP':0x64,'frame':0x3,'frameCD':0x0,'shootFx':_0x131726,'damageFx':_0x23a870,'shootFx2':_0x4e8898,'damageFx2':_0x295586,'bulletCD':0x0,'recharge':![],'token':0x1,'token2':0x1,'shots':0x1,'shoot':function(_0x17e15b){var _0x3d659f=_0x516c40;if(chosenClass===0x3&&_0x17e15b===![]){_0x500a3d[_0x3d659f(0x171)]=!![];for(i=0x1;i<=_0x500a3d[_0x3d659f(0x155)];i++){setTimeout(function(){var _0x3be7e2=_0x3d659f;_0x500a3d[_0x3be7e2(0x144)](!![]),setTimeout(function(){_0x500a3d['recharge']=![];},_0x500a3d['bulletCD']);},0x32*i);}}_0x438abb++,_0x500a3d['frame']=0x0,_0x500a3d[_0x3d659f(0x14f)]=0x0,projectiles['push']({'x':_0x500a3d['x']+_0x500a3d[_0x3d659f(0x1a4)]/0x2-_0x500a3d[_0x3d659f(0x1a7)]/0x2,'y':_0x500a3d['y']-_0x500a3d[_0x3d659f(0x16e)]-_0x500a3d[_0x3d659f(0x1a7)],'size':_0x500a3d['bulletSize'],'speed':_0x500a3d['bulletSpeed'],'color':_0x500a3d[_0x3d659f(0x1a3)],'damage':_0x500a3d['bulletDamage'],'und':_0x413cf3});if(clickedOnce){if(_0x500a3d[_0x3d659f(0x164)][_0x3d659f(0x108)])_0x500a3d['shootFx'][_0x3d659f(0x147)]()[_0x3d659f(0x1ac)](function(_0x2e64bb){var _0x893e16=_0x3d659f;console[_0x893e16(0x184)](_0x893e16(0x1a0)+_0x2e64bb);});else _0x500a3d['shootFx2'][_0x3d659f(0x108)]&&_0x500a3d[_0x3d659f(0x17d)][_0x3d659f(0x147)]()[_0x3d659f(0x1ac)](function(_0x1c59b3){var _0x22b858=_0x3d659f;console[_0x22b858(0x184)](_0x22b858(0x181)+_0x1c59b3);});}chosenClass===0x2&&(_0x500a3d[_0x3d659f(0x171)]=!![],setTimeout(function(){var _0xf143f3=_0x3d659f;_0x500a3d[_0xf143f3(0x171)]=![];},_0x500a3d['bulletCD']));}},_0xd10126(),_0xc0ecc5=_0x52dc85(_0xc0ecc5),projectiles=[],_0x286b1b=0x1,_0x4e3718[_0x516c40(0x18f)]=_0x516c40(0x14c)+_0x286b1b+'<br/><span>tap\x20here\x20for\x20pause/info</span>',_0x305f69[_0x516c40(0x14a)]['backgroundColor']=_0xc0ecc5[_0x516c40(0x112)];}_0x46d451();function _0xd10126(){var _0x379693=_0x50fa53;_0x500a3d[_0x379693(0x165)]=_0x500a3d[_0x379693(0x1a7)];switch(chosenClass){case 0x1:break;case 0x2:_0x500a3d[_0x379693(0x165)]=0x1e,_0x500a3d[_0x379693(0x149)]=0x1f4,_0x500a3d[_0x379693(0x1a7)]=0x6,_0x500a3d['speed']=0x4;break;case 0x3:_0x500a3d[_0x379693(0x165)]=0xc,_0x500a3d['bulletCD']=0x2bc,_0x500a3d[_0x379693(0x1a7)]=0xc,_0x500a3d[_0x379693(0x16e)]=-0x8,_0x500a3d[_0x379693(0x140)]=0x6;break;}}function _0x26d9fa(){var _0x1c4fbf=_0x50fa53;!clickedOnce&&(_0x4a481f[_0x1c4fbf(0x147)]()[_0x1c4fbf(0x1ac)](function(_0x545889){console['log']('song\x20-\x20'+_0x545889);}),_0x4bc99f[_0x1c4fbf(0x147)]()[_0x1c4fbf(0x166)](function(){_0x4bc99f['pause']();})[_0x1c4fbf(0x1ac)](function(_0x4e4cc9){var _0x258ff7=_0x1c4fbf;console[_0x258ff7(0x184)](_0x258ff7(0x134)+_0x4e4cc9);}),_0x110cfd[_0x1c4fbf(0x147)]()[_0x1c4fbf(0x166)](function(){var _0x5651f7=_0x1c4fbf;_0x110cfd[_0x5651f7(0x1aa)]();})[_0x1c4fbf(0x1ac)](function(_0x2c7745){var _0x585f3f=_0x1c4fbf;console[_0x585f3f(0x184)]('enemy_shoot2\x20-\x20'+_0x2c7745);}),_0x5ea984['play']()[_0x1c4fbf(0x166)](function(){var _0x356b01=_0x1c4fbf;_0x5ea984[_0x356b01(0x1aa)]();})[_0x1c4fbf(0x1ac)](function(_0x14d03c){var _0x192cf0=_0x1c4fbf;console['log'](_0x192cf0(0x154)+_0x14d03c);}),_0x131726['play']()[_0x1c4fbf(0x166)](function(){var _0x2c852d=_0x1c4fbf;_0x131726[_0x2c852d(0x1aa)]();})[_0x1c4fbf(0x1ac)](function(_0x49cbe3){var _0xfb0f0b=_0x1c4fbf;console['log'](_0xfb0f0b(0x190)+_0x49cbe3);}),_0x28a9c6[_0x1c4fbf(0x147)]()[_0x1c4fbf(0x166)](function(){var _0x25e4c0=_0x1c4fbf;_0x28a9c6[_0x25e4c0(0x1aa)]();})[_0x1c4fbf(0x1ac)](function(_0x216ff4){var _0x52a609=_0x1c4fbf;console[_0x52a609(0x184)](_0x52a609(0x17b)+_0x216ff4);}),_0x23a870['play']()[_0x1c4fbf(0x166)](function(){var _0x201475=_0x1c4fbf;_0x23a870[_0x201475(0x1aa)]();})['catch'](function(_0x2c52c2){var _0x43bcfa=_0x1c4fbf;console[_0x43bcfa(0x184)](_0x43bcfa(0x17c)+_0x2c52c2);}),_0x40a99d[_0x1c4fbf(0x147)]()[_0x1c4fbf(0x166)](function(){var _0x90c7df=_0x1c4fbf;_0x40a99d[_0x90c7df(0x1aa)]();})[_0x1c4fbf(0x1ac)](function(_0x36a8d7){var _0x52b9ab=_0x1c4fbf;console[_0x52b9ab(0x184)](_0x52b9ab(0x1a2)+_0x36a8d7);}),_0x15b009['play']()[_0x1c4fbf(0x166)](function(){_0x15b009['pause']();})[_0x1c4fbf(0x1ac)](function(_0x308fc2){var _0x35f100=_0x1c4fbf;console[_0x35f100(0x184)](_0x35f100(0x1a5)+_0x308fc2);}),_0x19ac60['play']()[_0x1c4fbf(0x166)](function(){var _0x501334=_0x1c4fbf;_0x19ac60[_0x501334(0x1aa)]();})[_0x1c4fbf(0x1ac)](function(_0x389a61){var _0xf145b6=_0x1c4fbf;console[_0xf145b6(0x184)](_0xf145b6(0x199)+_0x389a61);}),_0x4e8898[_0x1c4fbf(0x147)]()[_0x1c4fbf(0x166)](function(){var _0x56bb81=_0x1c4fbf;_0x4e8898[_0x56bb81(0x1aa)]();})[_0x1c4fbf(0x1ac)](function(_0x1cddef){var _0x391932=_0x1c4fbf;console['log'](_0x391932(0x180)+_0x1cddef);}),_0x3e4ef2['play']()[_0x1c4fbf(0x166)](function(){_0x3e4ef2['pause']();})[_0x1c4fbf(0x1ac)](function(_0x25ee2c){console['log']('player_buffed_shoota\x20-\x20'+_0x25ee2c);}),_0x295586[_0x1c4fbf(0x147)]()['then'](function(){_0x295586['pause']();})[_0x1c4fbf(0x1ac)](function(_0x55cfa7){var _0x1a73be=_0x1c4fbf;console[_0x1a73be(0x184)]('player_damageda\x20-\x20'+_0x55cfa7);}),clickedOnce=0x1);}var _0x5c4062=[_0x50fa53(0x148),_0x50fa53(0x115),'<br/>SP1=\x20<font\x20color=\x27#c94a51\x27>MEGABUFF</font>:\x20halves\x20your\x20current\x20HPs\x20to\x20gain\x202\x20more\x20bullets\x20per\x20shot,\x20more\x20damage\x20and\x20move\x20a\x20little\x20slower\x20(4\x20seconds)<br/>SP2=\x20<font\x20color=\x27#c94a51\x27>UNDESTRUCTIBLES</font>:\x20your\x20projectile\x20will\x20destroy\x20everything\x20in\x20their\x20way,\x20no\x20matter\x20the\x20size\x20(3\x20seconds)'];_0x4e3718[_0x50fa53(0x1a9)]=function(){var _0x11aabe=_0x50fa53;_0xb12dec=!![],id(_0x11aabe(0x14b))[_0x11aabe(0x14a)][_0x11aabe(0x130)]=_0x11aabe(0x19b),id(_0x11aabe(0x19c))[_0x11aabe(0x18f)]=_0x11aabe(0x18d)+_0x5c4062[chosenClass-0x1]+_0x11aabe(0x14e),id(_0x11aabe(0x19c))[_0x11aabe(0x14a)][_0x11aabe(0x130)]='block',id('OK')[_0x11aabe(0x122)](_0x11aabe(0x156),function(){var _0x474478=_0x11aabe;id(_0x474478(0x19c))[_0x474478(0x14a)][_0x474478(0x130)]=_0x474478(0x19b),_0xb12dec=![],id('game-ui')[_0x474478(0x14a)]['display']=_0x474478(0x123);}),id(_0x11aabe(0x109))['addEventListener'](_0x11aabe(0x156),_0x5122bb);};function _0x2dfb73(_0x43de16){var _0x491a67=_0x50fa53,_0x3074aa=_0x43de16['size']/0x20*0xa+_0x43de16['speed']*3.3+0x3e8/_0x43de16[_0x491a67(0x149)]+_0x43de16['bulletSize']*2.5+_0x43de16[_0x491a67(0x16e)]*1.25;return Math[_0x491a67(0x13a)](_0x3074aa);}function _0x450477(_0x285acc){var _0x256d86=_0x50fa53;_0x285acc['HP']=0x64,_0x285acc['x']=_0x292af6['width']/0x5*0x4-0x20-_0x286b1b,_0x285acc['size']=Math[_0x256d86(0x12a)]()*0x3c+0xf+_0x286b1b*0x2,_0x285acc[_0x256d86(0x140)]=Math[_0x256d86(0x12a)]()*0x5+_0x286b1b/0xf,_0x285acc[_0x256d86(0x1a7)]=Math[_0x256d86(0x12a)]()*(_0x285acc[_0x256d86(0x1a4)]-0x9)+0x3,_0x285acc[_0x256d86(0x16e)]=Math[_0x256d86(0x12a)]()*0xa+_0x286b1b/0x4,_0x285acc[_0x256d86(0x149)]=Math[_0x256d86(0x12a)]()*(_0x285acc[_0x256d86(0x1a7)]*0x8)*(_0x285acc[_0x256d86(0x140)]*0x6)*_0x285acc[_0x256d86(0x16e)]*0x8/(0x64+_0x286b1b*0x2)+_0x285acc[_0x256d86(0x1a7)]*0xa,projectiles=[],_0x285acc[_0x256d86(0x135)]=Math[_0x256d86(0x12a)]()*0x64+0xa,_0x285acc['normalColor']=_0x18d21e(),_0x285acc['color']=_0x285acc[_0x256d86(0x112)],_0x285acc['recharge']=![],_0x285acc[_0x256d86(0x164)]=_0x4c27dd(_0x285acc[_0x256d86(0x1a4)]),_0x285acc[_0x256d86(0x17d)]=_0x8ecfd9(_0x285acc[_0x256d86(0x1a4)]),_0x305f69[_0x256d86(0x14a)][_0x256d86(0x195)]=_0x285acc[_0x256d86(0x112)],_0x285acc[_0x256d86(0x144)]=function(){var _0x3b96f2=_0x256d86;_0x2e5ba3++,_0x285acc[_0x3b96f2(0x186)]=0x0,_0x285acc[_0x3b96f2(0x14f)]=0x0,projectiles[_0x3b96f2(0x129)]({'x':_0x285acc['x']+_0x285acc[_0x3b96f2(0x1a4)]/0x2-_0x285acc[_0x3b96f2(0x1a7)]/0x2,'y':_0x285acc['y']+_0x285acc[_0x3b96f2(0x1a4)]-_0x285acc['bulletSpeed']+0x3,'size':_0x285acc['bulletSize'],'speed':_0x285acc['bulletSpeed'],'color':_0x285acc[_0x3b96f2(0x112)],'damage':_0x285acc[_0x3b96f2(0x1a7)]});if(clickedOnce){if(_0x285acc['shootFx'][_0x3b96f2(0x108)])_0x285acc[_0x3b96f2(0x164)][_0x3b96f2(0x147)]()['catch'](function(_0x10b9eb){var _0x25189a=_0x3b96f2;console[_0x25189a(0x184)]('shootfx\x20enem\x20-\x20'+_0x10b9eb);});else _0x285acc[_0x3b96f2(0x17d)]['paused']&&_0x285acc['shootFx2'][_0x3b96f2(0x147)]()[_0x3b96f2(0x1ac)](function(_0x297869){var _0x5e0451=_0x3b96f2;console[_0x5e0451(0x184)](_0x5e0451(0x145)+_0x297869);});}};}function _0x4a0996(){var _0x1bb808=_0x50fa53;_0x4655d7+=_0x2dfb73(_0xc0ecc5),_0x286b1b%0x5===0x0&&(_0x4655d7+=_0x2dfb73(_0x38e6b2)),_0x286b1b++,_0x3e53b1=!![],_0x500a3d['token']=0x1,_0x500a3d['token2']=0x1,_0x52b4c8===0x0&&(_0x52b4c8=0x3c+_0x286b1b*0x2,_0x1b3850['style'][_0x1bb808(0x183)]='1'),chosenClass!==0x1&&(_0x1b3850[_0x1bb808(0x14a)][_0x1bb808(0x183)]='1'),_0x36ecae[_0x1bb808(0x14a)][_0x1bb808(0x183)]='1',_0x500a3d['HP']+=0x14,_0x500a3d['HP']>0x64&&(_0x500a3d['HP']=0x64),_0x4e3718['innerHTML']=_0x1bb808(0x14c)+_0x286b1b+_0x1bb808(0x188),_0x500a3d['x']=_0x292af6[_0x1bb808(0x114)]/0x5,_0x450477(_0xc0ecc5),_0x286b1b%0x5===0x0?(_0x450477(_0x38e6b2),_0x305f69[_0x1bb808(0x14a)][_0x1bb808(0x163)]='50%',_0x1bd1db['style'][_0x1bb808(0x130)]=_0x1bb808(0x123),_0x1bd1db['style'][_0x1bb808(0x195)]=_0x38e6b2[_0x1bb808(0x112)]):(_0x305f69[_0x1bb808(0x14a)]['height']='100%',_0x38e6b2['HP']=0x0,_0x1bd1db['style']['display']=_0x1bb808(0x19b)),_0x305f69['style'][_0x1bb808(0x195)]=_0xc0ecc5['normalColor'];}function _0x27c289(){var _0x449b92=_0x50fa53;if(_0x286b1b>0x12c)_0x4e3718[_0x449b92(0x18f)]='ok,\x20ok,\x20you\x20won';if(_0x286b1b>0x190)_0x4e3718[_0x449b92(0x18f)]=_0x449b92(0x159);if(_0x286b1b>0x1f4)_0x4e3718[_0x449b92(0x18f)]=_0x449b92(0x179);_0x286b1b>0x258&&(_0x4e3718['innerHTML']=_0x449b92(0x124),_0x13017b[_0x449b92(0x18f)]=_0x449b92(0x17a)+_0x286b1b+')');}function _0x4c27dd(_0x3e9086){if(_0x3e9086<0x1e)return _0x4bc99f;else return _0x3e9086<0x32?_0x110cfd:_0x5ea984;}function _0x8ecfd9(_0x107a85){if(_0x107a85<0x1e)return _0x40a99d;else return _0x107a85<0x3c?_0x15b009:_0x19ac60;}function _0x1627ca(){var _0x1d9bb2=_0x50fa53,_0x4bffac=[];for(i=0x0;i<projectiles[_0x1d9bb2(0x11f)];i++){if(!_0xa3aa33)projectiles[i]['y']+=projectiles[i][_0x1d9bb2(0x140)];projectiles[i]['y']>_0x292af6[_0x1d9bb2(0x163)]-projectiles[i]['size']||projectiles[i]['y']<-projectiles[i][_0x1d9bb2(0x1a4)]?(projectiles[i]['y']>_0x292af6[_0x1d9bb2(0x163)]-projectiles[i][_0x1d9bb2(0x1a4)]&&_0x9b8cfc++,_0x4d597c(projectiles[i]),_0x4bffac['push'](i)):(_0xbe4989[_0x1d9bb2(0x116)]=projectiles[i][_0x1d9bb2(0x1a3)],_0xbe4989[_0x1d9bb2(0x11b)](projectiles[i]['x'],projectiles[i]['y'],projectiles[i][_0x1d9bb2(0x1a4)],projectiles[i]['size']));for(j=0x0;j<projectiles[_0x1d9bb2(0x11f)];j++){if(j==i)continue;if(projectiles[i][_0x1d9bb2(0x1a3)]!=projectiles[j][_0x1d9bb2(0x1a3)]){if(_0x320c18(projectiles[i],projectiles[j])){if(projectiles[i][_0x1d9bb2(0x10a)])_0x4d597c(projectiles[j]),_0x4bffac[_0x1d9bb2(0x129)](j);else{if(projectiles[j][_0x1d9bb2(0x10a)])_0x4d597c(projectiles[i]),_0x4bffac[_0x1d9bb2(0x129)](i);else{if(projectiles[i][_0x1d9bb2(0x1a4)]<projectiles[j][_0x1d9bb2(0x1a4)])_0x4d597c(projectiles[i]),_0x4bffac[_0x1d9bb2(0x129)](i);else projectiles[j]['size']<projectiles[i]['size']&&(_0x4d597c(projectiles[j]),_0x4bffac[_0x1d9bb2(0x129)](j));}}}}}_0xc0ecc5['HP']>0x0&&(_0x320c18(projectiles[i],_0xc0ecc5)&&(_0xc0ecc5[_0x1d9bb2(0x1a3)]=_0xc0ecc5[_0x1d9bb2(0x11c)],setTimeout(function(){var _0xee46c4=_0x1d9bb2;_0xc0ecc5[_0xee46c4(0x1a3)]=_0xc0ecc5[_0xee46c4(0x112)];},0x64),(projectiles[i][_0x1d9bb2(0x1a3)]=='#4b4b5b'||projectiles[i][_0x1d9bb2(0x1a3)]==_0x1d9bb2(0x16c))&&_0x5e68ee++,_0x4d597c(projectiles[i]),_0x4bffac[_0x1d9bb2(0x129)](i),_0xc0ecc5['HP']-=projectiles[i][_0x1d9bb2(0x105)]/(_0x286b1b/0x14+0x1),_0xc0ecc5['HP']<0x0&&(_0xc0ecc5['HP']=0x0)));_0x38e6b2['HP']>0x0&&(_0x320c18(projectiles[i],_0x38e6b2)&&(_0x38e6b2[_0x1d9bb2(0x1a3)]=_0x38e6b2[_0x1d9bb2(0x11c)],setTimeout(function(){var _0x515482=_0x1d9bb2;_0x38e6b2[_0x515482(0x1a3)]=_0x38e6b2[_0x515482(0x112)];},0x64),(projectiles[i][_0x1d9bb2(0x1a3)]==_0x1d9bb2(0x1ad)||projectiles[i][_0x1d9bb2(0x1a3)]=='#c94a51')&&_0x5e68ee++,_0x4d597c(projectiles[i]),_0x4bffac['push'](i),_0x38e6b2['HP']-=projectiles[i][_0x1d9bb2(0x105)]/(_0x286b1b/0xa+0x1),_0x38e6b2['HP']<0x0&&(_0x38e6b2['HP']=0x0)));if(!(projectiles[i]['color']==_0x1d9bb2(0x1ad))&&!(projectiles[i][_0x1d9bb2(0x1a3)]==_0x1d9bb2(0x16c))){if(_0x320c18(projectiles[i],_0x500a3d)){_0x500a3d[_0x1d9bb2(0x125)]=_0x500a3d['damagedPNG'],setTimeout(function(){var _0x5bcee3=_0x1d9bb2;_0x500a3d[_0x5bcee3(0x125)]=_0x500a3d[_0x5bcee3(0x158)];},0x64),_0x5f2fb7++,_0x4d597c(projectiles[i]),_0x4bffac[_0x1d9bb2(0x129)](i),_0x500a3d['HP']-=projectiles[i]['size'];if(clickedOnce){if(_0x500a3d[_0x1d9bb2(0x121)]['paused'])_0x500a3d[_0x1d9bb2(0x121)]['play']()['catch'](function(_0x10262e){var _0x13613d=_0x1d9bb2;console['log'](_0x13613d(0x134)+_0x10262e);});else _0x500a3d['damageFx2'][_0x1d9bb2(0x108)]&&_0x500a3d[_0x1d9bb2(0x16f)][_0x1d9bb2(0x147)]()[_0x1d9bb2(0x1ac)](function(_0x2a7849){var _0x310e1b=_0x1d9bb2;console[_0x310e1b(0x184)]('enemy_shoot1\x20-\x20'+_0x2a7849);});}_0x500a3d['HP']<0x0&&(_0x500a3d['HP']=0x0,_0x46d451());}}}for(i=0x0;i<_0x4bffac['length'];i++){projectiles[_0x1d9bb2(0x127)](_0x4bffac[i],0x1);}}var _0x1eae41=[];function _0x4d597c(_0x197be7){var _0x5878dd=_0x50fa53,_0x906fe4=_0x197be7[_0x5878dd(0x1a3)],_0x3ce784=_0x197be7['x'],_0x54b5ab=_0x197be7['y'],_0xe48082=-_0x197be7[_0x5878dd(0x140)],_0x344093=Math[_0x5878dd(0x13a)](Math[_0x5878dd(0x12a)]()*0xa)+0x1;for(iter=0x0;iter<_0x344093;iter++){_0x1eae41[_0x5878dd(0x129)]({'xVel':Math[_0x5878dd(0x12a)]()*_0xe48082-_0xe48082/0x2,'yVel':Math[_0x5878dd(0x12a)]()*_0xe48082/0x2,'x':_0x3ce784,'y':_0x54b5ab,'size':Math['random']()*_0x197be7['size'],'color':_0x906fe4});}}function _0x5a7c58(){var _0x2297dd=_0x50fa53;for(i=0x0;i<_0x1eae41[_0x2297dd(0x11f)];i++){_0xbe4989[_0x2297dd(0x116)]=_0x1eae41[i][_0x2297dd(0x1a3)],_0xbe4989['fillRect'](_0x1eae41[i]['x'],_0x1eae41[i]['y'],_0x1eae41[i][_0x2297dd(0x1a4)],_0x1eae41[i][_0x2297dd(0x1a4)]),_0x1eae41[i]['x']+=_0x1eae41[i][_0x2297dd(0x128)],_0x1eae41[i]['y']+=_0x1eae41[i]['yVel'],_0x1eae41[i][_0x2297dd(0x128)]/=1.02,_0x1eae41[i][_0x2297dd(0x15c)]/=1.02,_0x1eae41[i][_0x2297dd(0x1a4)]/=1.05,_0x1eae41[i][_0x2297dd(0x1a4)]<0.1&&_0x1eae41[_0x2297dd(0x127)](i,0x1);}}function _0x33fb8b(){var _0x4ab7c5=_0x50fa53;if(_0x500a3d[_0x4ab7c5(0x19f)])_0x500a3d[_0x4ab7c5(0x169)]=-0.5;else _0x500a3d[_0x4ab7c5(0x182)]?_0x500a3d[_0x4ab7c5(0x169)]=0.5:(_0x500a3d[_0x4ab7c5(0x169)]=0x0,_0x500a3d['xVel']!==0x0&&(_0x500a3d[_0x4ab7c5(0x128)]>0x0?_0x500a3d[_0x4ab7c5(0x169)]=-0.125:_0x500a3d[_0x4ab7c5(0x169)]=+0.125));_0x500a3d[_0x4ab7c5(0x128)]>_0x500a3d['speed']&&(_0x500a3d[_0x4ab7c5(0x128)]=_0x500a3d[_0x4ab7c5(0x140)]),_0x500a3d['xVel']<-_0x500a3d[_0x4ab7c5(0x140)]&&(_0x500a3d['xVel']=-_0x500a3d[_0x4ab7c5(0x140)]),_0x500a3d['xVel']+=_0x500a3d['accel'],_0x500a3d['x']+=_0x500a3d['xVel'],_0x500a3d['x']<=0x0&&(_0x500a3d['x']=0x0),_0x500a3d['x']+_0x500a3d[_0x4ab7c5(0x1a4)]>_0x292af6[_0x4ab7c5(0x114)]&&(_0x500a3d['x']=_0x292af6[_0x4ab7c5(0x114)]-_0x500a3d[_0x4ab7c5(0x1a4)]),_0x500a3d[_0x4ab7c5(0x186)]<0x3?(_0x500a3d[_0x4ab7c5(0x14f)]++,_0x500a3d['frame']=Math[_0x4ab7c5(0x13a)](_0x500a3d['frameCD']/0x4)):_0x500a3d['frameCD']=0x0,_0xbe4989['drawImage'](_0x500a3d[_0x4ab7c5(0x125)],0x0,0x20*_0x500a3d[_0x4ab7c5(0x186)],0x20,0x20,_0x500a3d['x'],_0x500a3d['y'],_0x500a3d[_0x4ab7c5(0x1a4)],_0x500a3d[_0x4ab7c5(0x1a4)]);}function _0x4167dc(_0x27edde){var _0x25adb8=_0x50fa53;if(_0x27edde['HP']>0x0){if(!_0xa3aa33){if(_0x500a3d['x']+(_0x500a3d[_0x25adb8(0x1a4)]/0x2-_0x500a3d[_0x25adb8(0x1a4)]/0x3)>_0x27edde['x']+(_0x27edde[_0x25adb8(0x1a4)]/0x2+_0x27edde['bulletSize']/0x2))_0x27edde[_0x25adb8(0x182)]=!![],_0x27edde['left']=![];else _0x500a3d['x']+(_0x500a3d[_0x25adb8(0x1a4)]/0x2+_0x500a3d['size']/0x3)<_0x27edde['x']+(_0x27edde[_0x25adb8(0x1a4)]/0x2-_0x27edde[_0x25adb8(0x1a7)]/0x2)?(_0x27edde[_0x25adb8(0x19f)]=!![],_0x27edde[_0x25adb8(0x182)]=![]):(_0x27edde[_0x25adb8(0x19f)]=![],_0x27edde[_0x25adb8(0x182)]=![]);_0x500a3d['x']+_0x500a3d[_0x25adb8(0x1a4)]>_0x27edde['x']+(_0x27edde[_0x25adb8(0x1a4)]/0x2-_0x27edde['bulletSize']/0x2)&&_0x500a3d['x']<_0x27edde['x']+(_0x27edde['size']/0x2+_0x27edde[_0x25adb8(0x1a7)]/0x2)&&(!_0x27edde[_0x25adb8(0x171)]&&(_0x27edde[_0x25adb8(0x144)](),_0x27edde[_0x25adb8(0x171)]=!![],setTimeout(function(){_0x27edde['recharge']=![];},_0x27edde[_0x25adb8(0x149)])));if(_0x27edde[_0x25adb8(0x19f)])_0x27edde[_0x25adb8(0x169)]=-_0x27edde[_0x25adb8(0x140)]/_0x27edde[_0x25adb8(0x135)];else _0x27edde['right']?_0x27edde[_0x25adb8(0x169)]=_0x27edde['speed']/_0x27edde[_0x25adb8(0x135)]:(_0x27edde[_0x25adb8(0x169)]=0x0,_0x27edde[_0x25adb8(0x128)]!==0x0&&(_0x27edde[_0x25adb8(0x128)]>0x0?_0x27edde[_0x25adb8(0x169)]=-0.125:_0x27edde[_0x25adb8(0x169)]=+0.125));_0x27edde[_0x25adb8(0x128)]>_0x27edde[_0x25adb8(0x140)]&&(_0x27edde[_0x25adb8(0x128)]=_0x27edde[_0x25adb8(0x140)]),_0x27edde[_0x25adb8(0x128)]<-_0x27edde[_0x25adb8(0x140)]&&(_0x27edde['xVel']=-_0x27edde[_0x25adb8(0x140)]),_0x27edde[_0x25adb8(0x128)]+=_0x27edde['accel'],_0x27edde['x']+=_0x27edde[_0x25adb8(0x128)],_0x27edde['x']<=0x0&&(_0x27edde['x']=0x0),_0x27edde['x']+_0x27edde[_0x25adb8(0x1a4)]>_0x292af6[_0x25adb8(0x114)]&&(_0x27edde['x']=_0x292af6[_0x25adb8(0x114)]-_0x27edde[_0x25adb8(0x1a4)]);}_0xbe4989[_0x25adb8(0x116)]=_0x27edde['color'],_0xbe4989[_0x25adb8(0x11b)](_0x27edde['x'],_0x27edde['y'],_0x27edde[_0x25adb8(0x1a4)],_0x27edde[_0x25adb8(0x1a4)]/0x4*0x3),_0xbe4989[_0x25adb8(0x113)]=0.4,_0xbe4989['drawImage'](_0x2899fa,_0x27edde['x']-0x1,_0x27edde['y']-0x1,_0x27edde[_0x25adb8(0x1a4)]+0x1,_0x27edde[_0x25adb8(0x1a4)]/0x4*0x3+0x1),_0xbe4989['globalAlpha']=0x1,_0xbe4989[_0x25adb8(0x15e)](_0x405cff,_0x27edde['x']-0x1,_0x27edde['y']-0x1,_0x27edde[_0x25adb8(0x1a4)]+0x1,_0x27edde[_0x25adb8(0x1a4)]/0x4*0x3+0x1),_0x27edde[_0x25adb8(0x186)]<0x3?(_0x27edde['frameCD']++,_0x27edde[_0x25adb8(0x186)]=Math[_0x25adb8(0x13a)](_0x27edde[_0x25adb8(0x14f)]/0x4)):_0x27edde[_0x25adb8(0x14f)]=0x0,_0xbe4989[_0x25adb8(0x15e)](_0x55a51f,0x0,0x20*_0x27edde[_0x25adb8(0x186)],0x20,0x10,_0x27edde['x']+_0x27edde['size']/0x2-_0x27edde['bulletSize']/0x2,_0x27edde['size']/0x4*0x3,_0x27edde['bulletSize'],_0x27edde[_0x25adb8(0x1a4)]/0x2);}else{if(_0xc0ecc5['HP']===0x0&&_0x38e6b2['HP']===0x0)_0x4a0996();}}var _0xa3aa33=0x0;requestAnimationFrame(_0x30051b);function _0x30051b(){var _0x2a4ff2=_0x50fa53;!_0xb12dec&&(_0xbe4989[_0x2a4ff2(0x116)]=_0x2a4ff2(0x18c)+_0x42ce34+')',_0xbe4989['fillRect'](0x0,0x0,_0x292af6[_0x2a4ff2(0x114)],_0x292af6[_0x2a4ff2(0x163)]),_0x33fb8b(),_0x1627ca(),_0x5a7c58(),_0x4167dc(_0xc0ecc5),_0x286b1b%0x5===0x0&&_0x4167dc(_0x38e6b2),_0x52d418(),_0x1c07ab<_0x4655d7&&(_0x1c07ab++,_0x13017b['innerHTML']=_0x2a4ff2(0x107)+_0x1c07ab),_0x27c289()),requestAnimationFrame(_0x30051b);}function _0x52d418(){var _0x388849=_0x50fa53;_0x40f774[_0x388849(0x14a)]['width']=_0x500a3d['HP']+'%',_0x305f69['style']['width']=_0xc0ecc5['HP']+'%';if(_0x286b1b%0x5===0x0)_0x1bd1db['style'][_0x388849(0x114)]=_0x38e6b2['HP']+'%';}function _0x4db329(){var _0x50f728=_0x50fa53;_0x52b4c8>0x0?(_0x500a3d[_0x50f728(0x140)]=0x2,_0x500a3d['bulletSpeed']=-0x14,_0x500a3d['bulletSize']=0x3,_0x500a3d[_0x50f728(0x165)]=0x4,_0x500a3d['shoot'](![]),_0x52b4c8-=0.5,setTimeout(_0x4db329,0xa)):(_0x500a3d[_0x50f728(0x140)]=0x5,_0x500a3d[_0x50f728(0x16e)]=-0x10,_0x500a3d[_0x50f728(0x1a7)]=0x8,_0x500a3d[_0x50f728(0x165)]=0x8);}function _0x51daec(){var _0x1611dc=_0x50fa53;_0x3e53b1?(_0x500a3d[_0x1611dc(0x140)]=0xa+_0x286b1b/0x2,_0x500a3d[_0x1611dc(0x1a7)]=0x19+_0x286b1b/0x2,_0x500a3d[_0x1611dc(0x165)]=_0x500a3d[_0x1611dc(0x1a7)],_0x500a3d[_0x1611dc(0x1a3)]='#c94a51',_0x500a3d['HP']/=0x2,_0x500a3d[_0x1611dc(0x158)]=_0x2c0b2f,_0x500a3d[_0x1611dc(0x125)]=_0x2c0b2f,_0x500a3d[_0x1611dc(0x164)]=_0x28a9c6,_0x500a3d[_0x1611dc(0x17d)]=_0x3e4ef2,_0x3e53b1=![],_0x42ce34=0.3,setTimeout(function(){var _0x3219d1=_0x1611dc;_0x3e53b1=![],_0x36ecae[_0x3219d1(0x14a)][_0x3219d1(0x183)]=0.5,_0x51daec();},0xfa0+_0x286b1b*0x32)):(_0x42ce34=0x1,_0x500a3d[_0x1611dc(0x140)]=0x5,_0x500a3d['bulletSize']=0x8,_0x500a3d[_0x1611dc(0x165)]=_0x500a3d[_0x1611dc(0x1a7)],_0x500a3d['color']=_0x1611dc(0x1ad),_0x500a3d[_0x1611dc(0x158)]=_0x3b0073,_0x500a3d[_0x1611dc(0x125)]=_0x3b0073,_0x500a3d[_0x1611dc(0x164)]=_0x131726,_0x500a3d[_0x1611dc(0x17d)]=_0x4e8898);}function _0x821906(){var _0x1e88ed=_0x50fa53;_0x500a3d[_0x1e88ed(0x192)]&&(_0xa3aa33=0x1,_0x500a3d[_0x1e88ed(0x140)]=0x2,setTimeout(function(){var _0x2f482b=_0x1e88ed;_0xa3aa33=0x0,_0x500a3d[_0x2f482b(0x140)]=0x4;},0xdac),_0x500a3d[_0x1e88ed(0x192)]=0x0);}function _0x361ac0(){var _0x1fc168=_0x50fa53;if(_0x500a3d['token2']){var _0x4604c7=_0x500a3d[_0x1fc168(0x1a7)],_0x68a51e=_0x500a3d[_0x1fc168(0x165)],_0xc2d326=_0x500a3d['bulletSpeed'];_0x500a3d['bulletSize']=0x32,_0x500a3d[_0x1fc168(0x165)]=0x28,_0x500a3d['bulletSpeed']=-0x5,_0x500a3d[_0x1fc168(0x171)]=![],_0x500a3d[_0x1fc168(0x144)](![]),_0x500a3d[_0x1fc168(0x1a7)]=_0x4604c7,_0x500a3d[_0x1fc168(0x165)]=_0x68a51e,_0x500a3d['bulletSpeed']=_0xc2d326,_0x500a3d[_0x1fc168(0x177)]=0x0;}}function _0x29be8c(){var _0x26dec1=_0x50fa53;if(_0x500a3d[_0x26dec1(0x192)]){var _0x25d72b=_0x500a3d[_0x26dec1(0x1a7)];_0x500a3d[_0x26dec1(0x1a3)]=_0x26dec1(0x16c),_0x500a3d['HP']/=0x2,_0x500a3d['normalPNG']=_0x2c0b2f,_0x500a3d[_0x26dec1(0x125)]=_0x2c0b2f,_0x500a3d[_0x26dec1(0x164)]=_0x28a9c6,_0x500a3d['shootFx2']=_0x3e4ef2,_0x500a3d[_0x26dec1(0x140)]=0x3,_0x500a3d['shots']=0x3,_0x500a3d['bulletSize']=0x14,_0x500a3d[_0x26dec1(0x149)]=0x1f4,setTimeout(function(){var _0x16200e=_0x26dec1;_0x500a3d[_0x16200e(0x140)]=0x6,_0x500a3d[_0x16200e(0x155)]=0x1,_0x500a3d['bulletSize']=_0x25d72b,_0x500a3d[_0x16200e(0x149)]=0x2bc,_0x500a3d[_0x16200e(0x1a3)]=_0x16200e(0x1ad),_0x500a3d[_0x16200e(0x158)]=_0x3b0073,_0x500a3d['PNG']=_0x3b0073,_0x500a3d[_0x16200e(0x164)]=_0x131726,_0x500a3d[_0x16200e(0x17d)]=_0x4e8898;},0xfa0),_0x500a3d[_0x26dec1(0x192)]=0x0;}}function _0x3c11af(){var _0x5399cf=_0x50fa53;_0x500a3d[_0x5399cf(0x177)]&&(_0x413cf3=!![],_0x500a3d[_0x5399cf(0x1a3)]=_0x5399cf(0x131),setTimeout(function(){var _0x340e98=_0x5399cf;_0x413cf3=![],_0x500a3d[_0x340e98(0x1a3)]=_0x340e98(0x1ad);},0xbb8),_0x500a3d[_0x5399cf(0x177)]=0x0);}window[_0x50fa53(0x122)]('keydown',function(_0x34217c){var _0x52c653=_0x50fa53,_0x1ce0ef=_0x34217c[_0x52c653(0x117)];switch(_0x1ce0ef){case 0x27:_0x500a3d[_0x52c653(0x182)]=!![];break;case 0x25:_0x500a3d[_0x52c653(0x19f)]=!![];break;case 0x43:switch(chosenClass){case 0x1:_0x51daec();break;case 0x2:_0x821906();break;case 0x3:_0x3c11af();break;}break;case 0x58:switch(chosenClass){case 0x1:_0x4db329();break;case 0x2:_0x361ac0();break;case 0x3:_0x29be8c();break;}break;case 0x5a:if(!_0x500a3d[_0x52c653(0x171)])_0x500a3d[_0x52c653(0x144)](![]);break;}}),window[_0x50fa53(0x122)](_0x50fa53(0x141),function(_0x958510){var _0x50e217=_0x50fa53,_0x48ddcc=_0x958510[_0x50e217(0x117)];switch(_0x48ddcc){case 0x27:_0x500a3d[_0x50e217(0x182)]=![];break;case 0x25:_0x500a3d[_0x50e217(0x19f)]=![];break;}}),_0xe1cb48['addEventListener'](_0x50fa53(0x176),function(){var _0x4ae452=_0x50fa53;_0x500a3d[_0x4ae452(0x19f)]=!![],_0xe1cb48[_0x4ae452(0x14a)][_0x4ae452(0x167)]='scale(1.5)',_0xe1cb48['style'][_0x4ae452(0x183)]='1';}),_0xb995f2[_0x50fa53(0x122)](_0x50fa53(0x176),function(){var _0x211d87=_0x50fa53;_0x500a3d[_0x211d87(0x182)]=!![],_0xb995f2[_0x211d87(0x14a)]['transform']='scale(1.5)',_0xb995f2['style']['opacity']='1';}),_0x152bda[_0x50fa53(0x122)]('touchstart',function(){var _0x1afb1f=_0x50fa53;!_0x500a3d[_0x1afb1f(0x171)]&&_0x500a3d[_0x1afb1f(0x144)](![]),_0x152bda[_0x1afb1f(0x14a)][_0x1afb1f(0x167)]=_0x1afb1f(0x15a),_0x152bda[_0x1afb1f(0x14a)]['opacity']='1';}),_0x152bda[_0x50fa53(0x122)](_0x50fa53(0x13c),function(){var _0x41c032=_0x50fa53;_0x152bda[_0x41c032(0x14a)][_0x41c032(0x167)]='',_0x152bda[_0x41c032(0x14a)]['opacity']=_0x41c032(0x196);}),_0xe1cb48[_0x50fa53(0x122)]('touchend',function(){var _0x4f6721=_0x50fa53;_0x500a3d[_0x4f6721(0x19f)]=![],_0xe1cb48[_0x4f6721(0x14a)][_0x4f6721(0x167)]='',_0xe1cb48[_0x4f6721(0x14a)][_0x4f6721(0x183)]=_0x4f6721(0x196);}),_0xb995f2['addEventListener'](_0x50fa53(0x13c),function(){var _0x4bd6a9=_0x50fa53;_0x500a3d['right']=![],_0xb995f2[_0x4bd6a9(0x14a)]['transform']='',_0xb995f2[_0x4bd6a9(0x14a)][_0x4bd6a9(0x183)]=_0x4bd6a9(0x196);}),_0x1b3850['addEventListener'](_0x50fa53(0x176),function(){var _0x1173a6=_0x50fa53;switch(chosenClass){case 0x1:_0x4db329();break;case 0x2:_0x361ac0();break;case 0x3:_0x29be8c();break;}_0x1b3850[_0x1173a6(0x14a)][_0x1173a6(0x183)]=_0x1173a6(0x196);}),_0x36ecae[_0x50fa53(0x122)](_0x50fa53(0x176),function(){var _0x58d664=_0x50fa53;switch(chosenClass){case 0x1:_0x51daec();break;case 0x2:_0x821906();break;case 0x3:_0x3c11af();break;}_0x36ecae[_0x58d664(0x14a)][_0x58d664(0x183)]='0.5';});function _0x320c18(_0x17306e,_0x4c186d){var _0x5d7584=_0x50fa53;if(_0x17306e['x']<_0x4c186d['x']+_0x4c186d[_0x5d7584(0x1a4)]){if(_0x17306e['x']+_0x17306e[_0x5d7584(0x1a4)]>_0x4c186d['x']){if(_0x17306e['y']<_0x4c186d['y']+_0x4c186d['size']){if(_0x17306e['y']+_0x17306e[_0x5d7584(0x1a4)]>_0x4c186d['y'])return!![];}}}return![];}function _0x18d21e(){var _0x333f2a=_0x50fa53,_0x35a473='#',_0x3df535;for(col=0x0;col<0x6;col++){_0x3df535=Math[_0x333f2a(0x13a)](Math[_0x333f2a(0x12a)]()*0x10);if(_0x3df535>0x9)switch(_0x3df535){case 0xa:_0x3df535='a';break;case 0xb:_0x3df535='b';break;case 0xc:_0x3df535='c';break;case 0xd:_0x3df535='d';break;case 0xe:_0x3df535='e';break;case 0xf:_0x3df535='f';break;}_0x35a473+=_0x3df535;}return _0x35a473;}};
+/*HELLO!!! 
+Thanks for actually looking at my code, 
+I hope someone could learn something out of this 
+or teach me about better practices!
+
+I will now proceed to explain my code, mostly because I will probably 
+forget how it works in about 2 weeks after not looking at it 
+I'll try to be as brief and explanatory as possible
+*/
+
+
+var clickedOnce = 0;
+var chosenClass = 1;
+var noteText;
+
+/*silence errors (sounds may randomly cause some, since its sort of hacky to get them playing)*/
+function silentErrorHandler() {
+    return true;
+}
+window.onerror = silentErrorHandler;
+
+/*silence console logs (part of the exploit to get the audio playing at program's will)*/
+console.log = function () {};
+
+/*thanks to this, indexing to dom elements can be done with just 'id("element")' */
+function id(arg) {
+    return document.getElementById(arg);
+}
+
+/*all this onload function will give interactivity the class menu*/
+window.onload = function () {
+    id("confirm").addEventListener("click", playGame);
+    var one = id("class-1");
+    var two = id("class-2");
+    var three = id("class-3");
+    one.onclick = function () {
+        classChoice(one);
+    }
+    two.onclick = function () {
+        classChoice(two);
+    }
+    three.onclick = function () {
+        classChoice(three);
+    }
+    /*changes the class description*/
+    function classChoice(arg) {
+        switch (arg) {
+            case one:
+                chosenClass = 1;
+                noteText = "Speciality 1: MINIGUN<br/>Speciality 2: BERSERK<br/><br/>+ no cooldowns on bullets<br/>+ abilities becomes stronger every level";
+                id("scout").style.display = "block";
+                id("sniper").style.display = "none";
+                id("artillery").style.display = "none";
+                id("aud3").play();
+                break;
+            case two:
+                chosenClass = 2;
+                noteText = "Speciality 1: SUPERSHOT<br/>Speciality 2: TIME STOP<br/><br/>+ the strongest shots <br/>+ cool abilities";
+                id("scout").style.display = "none";
+                id("sniper").style.display = "block";
+                id("artillery").style.display = "none";
+                id("aud3").play();
+                break;
+            case three:
+                chosenClass = 3;
+                noteText = "Speciality 1: UNDESTRUCTIBLES<br/>Speciality 2: MEGABUFF<br/><br/>+ multiple automatic shots <br/>+ overall weird";
+                id("scout").style.display = "none";
+                id("sniper").style.display = "none";
+                id("artillery").style.display = "block";
+                id("aud3").play()
+                break;
+        }
+
+        one.style.backgroundColor = "";
+        one.style.border = "3px solid black";
+        two.style.backgroundColor = "";
+        two.style.border = "3px solid black";
+        three.style.backgroundColor = "";
+        three.style.border = "3px solid black";
+
+        arg.style.backgroundColor = "#c94a51";
+        arg.style.border = "6px solid white";
+        id("note").innerHTML = noteText;
+    }
+}
+
+/* the actual game program runs after confirming a class*/
+function playGame() {
+    /*
+    now, things will start to get confusing since functions 
+    will get called back and forth in no particular order 
+    across the whole code so you'll need to be patient...
+    */
+    
+    /*gets called whenever you choose the "change class" option*/
+    function backToMenu() {
+        pause = true;
+        song.pause();
+        id("confirm").removeEventListener("click", playGame);
+        id("game-ui").style.display = "none";
+        id("stats-info").style.display = "none";
+        id("start-menu").style.display = "block";
+        id("confirm").addEventListener("click", function () {
+            switchClass();
+            reset();
+            whichPlayer();
+            id("start-menu").style.display = "none";
+            id("game-ui").style.display = "block";
+            pause = false;
+        });
+        song.play();
+    }
+    /*
+    being a single web page, this code switches between 3 main screens
+    
+    -PAUSE/DEATH SCREEN (only the text changes, but the div is the same)
+    -MENU SCREEN
+    -GAME SCREEN
+    
+    they all cover the whole screen, switching will set a display:none to the others
+    
+    */
+    document.ontouch = loadMusic;
+    document.onclick = loadMusic;
+    id("start-menu").style.display = "none";
+    id("game-ui").style.display = "block";
+    
+    /*loot of variable.. lets skip this pls*/
+    var undest = false;
+    var song = new Audio("anotherSong.wav");
+    song.loop = true;
+    song.volume = 0.3;
+    var pause = 0;
+    var enemy_shoot1 = new Audio("sfx/enemy_shoot1.wav");
+    var enemy_shoot2 = new Audio("sfx/enemy_shoot2.wav");
+    var enemy_shoot3 = new Audio("sfx/enemy_shoot3.wav");
+    var player_shoot = new Audio("sfx/player_shoot.wav");
+    var player_buffed_shoot = new Audio("sfx/player_buffed_shoot.wav");
+    var player_damaged = new Audio("sfx/player_damaged.wav");
+
+    var enemy_shoot1a = new Audio("sfx/enemy_shoot1.wav");
+    var enemy_shoot2a = new Audio("sfx/enemy_shoot2.wav");
+    var enemy_shoot3a = new Audio("sfx/enemy_shoot3.wav");
+    var player_shoota = new Audio("sfx/player_shoot.wav");
+    var player_buffed_shoota = new Audio("sfx/player_buffed_shoot.wav");
+    var player_damageda = new Audio("sfx/player_damaged.wav");
+
+    var sp1 = id("sp1");
+    var sp2 = id("sp2");
+    var canvas = id("canvas");
+    var playerHP = id("playerBar");
+    var enemyHP = id("enemyBar");
+    var enemy2HP = id("enemyBar2");
+    var c = canvas.getContext("2d");
+    var player, enemy, enemy2;
+    c.imageSmoothingEnabled = false;
+    var levelSpan = id("level");
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight / 100 * 68;
+    var levelCounter = 1;
+    var playerPNG, playerDMG;
+    var enemyPNG = id("enemyTurret");
+    var enemyPNG2 = id("enemyTurretP");
+    var enemyCannon = id("enemyGun");
+    var pointSpan = id("pointSpan");
+    var points = 0;
+    pointSpan.innerHTML = "SCORE: " + points;
+    var score = 0;
+    var trailing = 1;
+    var leftArrow = id("left")
+    var upArrow = id("up")
+    var rightArrow = id("right")
+    var ammo = 60;
+    var rage = true;
+
+    /*stats*/
+    var bulletsShot = 0;
+    var bulletsShot2 = 0;
+    var bulletsHit = 0;
+    var bulletsHit2 = 0;
+    var bulletsDodge = 0;
+
+    /*changes player's sprite accordingly to the class chosen*/
+    function switchClass() {
+        switch (chosenClass) {
+            case 1:
+                playerPNG = id("turret");
+                playerDMG = id("turretDamaged");
+                break;
+            case 2:
+                playerPNG = id("turret2");
+                playerDMG = id("turret2Damaged");
+                break;
+            case 3:
+                playerPNG = id("turret3");
+                playerDMG = id("turret3Damaged");
+                break;
+        }
+    }
+    switchClass();
+    /* the 'enemy dummy' is the first enemy, the one which will remain always the same
+    -PLOT TWIST- other enemies, are just random modifications of this one dummy  */
+    function enemyDummy(en) {
+        return {
+            alive: true,
+            x: canvas.width / 5 * 4 - 32,
+            y: 0,
+            size: 32,
+            xVel: 0,
+            speed: 3,
+            accel: 0,
+            left: false,
+            right: false,
+            bulletSize: 8,
+            bulletSpeed: 4,
+            color: "#8c6a6c",
+            normalColor: "#8c6a6c",
+            damagedColor: "#c94a51",
+            recharge: false,
+            bulletCD: 300,
+            HP: 100,
+            frame: 3,
+            frameCD: 0,
+            frenzy: 25,
+            shootFx: enemy_shoot2,
+            shootFx2: enemy_shoot2a,
+            /* spawns projectiles, which with speed and size relative to the previous properties */
+            shoot: function () {
+                bulletsShot2++;
+                this.frame = 0;
+                this.frameCD = 0;
+                projectiles.push({
+                    x: this.x + this.size / 2 - this.bulletSize / 2,
+                    y: this.y + this.size - this.bulletSpeed + 3,
+                    size: this.bulletSize,
+                    speed: this.bulletSpeed,
+                    color: this.normalColor
+                });
+                if (clickedOnce) {
+                    if (this.shootFx.paused) {
+                        this.shootFx.play().catch(function (e) {
+                            console.log("shootfx thisem - " + e)
+                        });
+                    } else if (this.shootFx2.paused) {
+                        this.shootFx2.play().catch(function (e) {
+                            console.log("thisem shoot 2 - " + e)
+                        });
+                    }
+                }
+
+            }
+        };
+    }
+    /*gets called every new game, and on death, basically resets all the changed variables*/
+    function reset() {
+        particles = [];
+        if (levelCounter > 1) {
+            /*the death screen gets displayed*/
+            pause = true;
+            id("game-ui").style.display = "none";
+            id("stats-info").innerHTML = "<div id='pause' style='color:#c94a51'>U DED :(</div>STATS<br/><br/>LEVEL REACHED: " + levelCounter + "<br/>SCORE: " + score + "<br/><br/>BULLETS HIT: " + bulletsHit + " / " + bulletsShot + "<br/>ACCURACY: " + (100 - ((bulletsShot - bulletsHit) / bulletsShot * 100)).toFixed(1) + "%" + "<br/><br/>BULLETS DODGED: "+(bulletsShot2-bulletsHit2) + " / " + (bulletsShot2) + "<br/>ELUSION: " + (100 - ((bulletsShot2 - (bulletsShot2-bulletsHit2)) / bulletsShot2 * 100)).toFixed(1) + "%" + "<br/><br/><div style='text-align:center;'><div id='OK'>RESTART</div><br/><br/><div id='change'>CHANGE CLASS</div></div>";
+            id("stats-info").style.display = "block";
+            id("OK").addEventListener("click", function () {
+                id("stats-info").style.display = "none";
+                pause = false;
+                id("game-ui").style.display = "block";
+            })
+            id("change").addEventListener("click", backToMenu);
+        }
+        bulletsShot = 0;
+        bulletsShot2 = 0;
+        bulletsHit = 0;
+        bulletsHit2 = 0;
+        bulletsDodge = 0;
+        enemy2 = enemyDummy(enemy2);
+        enemy2.HP = 0;
+        enemy2HP.style.display = "none";
+        enemyHP.style.height = "100%";
+        score = 0;
+        points = 0;
+        pointSpan.innerHTML = "SCORE: " + points;
+        trailing = 1;
+        rage = true;
+        if (ammo === 0) {
+            ammo = 60;
+            sp1.style.opacity = "1";
+        }
+        sp2.style.opacity = "1";
+        player = {
+            x: canvas.width / 5,
+            y: canvas.height - 32,
+            size: 32,
+            xVel: 0,
+            speed: 5,
+            accel: 0,
+            left: false,
+            right: false,
+            bulletSize: 8,
+            bulletSpeed: -16,
+            PNG: playerPNG,
+            color: "#4b4b5b",
+            normalPNG: playerPNG,
+            damagedPNG: playerDMG,
+            HP: 100,
+            frame: 3,
+            frameCD: 0,
+            shootFx: player_shoot,
+            damageFx: player_damaged,
+            shootFx2: player_shoota,
+            damageFx2: player_damageda,
+            bulletCD: 0,
+            recharge: false,
+            token: 1,
+            token2: 1,
+            shots: 1,
+
+            shoot: function (argg) {
+                if (chosenClass === 3 && argg === false) {
+                    player.recharge = true;
+                    for (i = 1; i <= player.shots; i++) {
+                        setTimeout(function () {
+                            player.shoot(true);
+                            setTimeout(function () {
+                                player.recharge = false;
+                            }, player.bulletCD);
+                        }, 50 * i);
+
+                    }
+                }
+                bulletsShot++;
+                player.frame = 0;
+                player.frameCD = 0;
+                projectiles.push({
+                    x: player.x + player.size / 2 - player.bulletSize / 2,
+                    y: player.y - player.bulletSpeed - player.bulletSize,
+                    size: player.bulletSize,
+                    speed: player.bulletSpeed,
+                    color: player.color,
+                    damage: player.bulletDamage,
+                    und: undest
+                });
+                if (clickedOnce) {
+                    if (player.shootFx.paused) {
+                        player.shootFx.play().catch(function (e) {
+                            console.log("player shoot - " + e)
+                        });
+                    } else if (player.shootFx2.paused) {
+                        player.shootFx2.play().catch(function (e) {
+                            console.log("player shoot a - " + e)
+                        });
+                    }
+                }
+                if (chosenClass === 2) {
+                    player.recharge = true;
+                    setTimeout(function () {
+                        player.recharge = false;
+                    }, player.bulletCD)
+                }
+            }
+
+
+        };
+        whichPlayer();
+        enemy = enemyDummy(enemy);
+        projectiles = [];
+        levelCounter = 1;
+        levelSpan.innerHTML = "LEVEL " + levelCounter + "<br/><span>tap here for pause/info</span>";
+        enemyHP.style.backgroundColor = enemy.normalColor;
+    }
+    reset();
+    
+    /*changes player properties accordingly to the chosen class*/
+    function whichPlayer() {
+        player.bulletDamage = player.bulletSize
+        switch (chosenClass) {
+            case 1:
+                break;
+            case 2:
+                player.bulletDamage = 30;
+                player.bulletCD = 500;
+                player.bulletSize = 6;
+                player.speed = 4;
+                break;
+            case 3:
+                player.bulletDamage = 12;
+                player.bulletCD = 700;
+                player.bulletSize = 12;
+                player.bulletSpeed = -8;
+                player.speed = 6;
+                break;
+        }
+    }
+    /*tricky solution to get the audio playing on mobile, for further informations just 
+    look at the reply I gave to </JoakimNyland> down in the comments*/
+    function loadMusic() {
+        if (!clickedOnce) {
+            song.play().catch(function (e) {
+                console.log("song - " + e)
+            });
+            enemy_shoot1.play().then(function () {
+                enemy_shoot1.pause()
+            }).catch(function (e) {
+                console.log("enemy_shoot1 - " + e)
+            });
+            enemy_shoot2.play().then(function () {
+                enemy_shoot2.pause()
+            }).catch(function (e) {
+                console.log("enemy_shoot2 - " + e)
+            });
+            enemy_shoot3.play().then(function () {
+                enemy_shoot3.pause()
+            }).catch(function (e) {
+                console.log("enemy_shoot3 - " + e)
+            });
+            player_shoot.play().then(function () {
+                player_shoot.pause()
+            }).catch(function (e) {
+                console.log("player_shoot - " + e)
+            });
+            player_buffed_shoot.play().then(function () {
+                player_buffed_shoot.pause()
+            }).catch(function (e) {
+                console.log("player_buffed_shoot - " + e)
+            });
+            player_damaged.play().then(function () {
+                player_damaged.pause()
+            }).catch(function (e) {
+                console.log("player_damaged - " + e)
+            });
+
+
+            enemy_shoot1a.play().then(function () {
+                enemy_shoot1a.pause()
+            }).catch(function (e) {
+                console.log("enemy_shoot1a - " + e)
+            });
+            enemy_shoot2a.play().then(function () {
+                enemy_shoot2a.pause()
+            }).catch(function (e) {
+                console.log("enemy_shoot2a - " + e)
+            });
+            enemy_shoot3a.play().then(function () {
+                enemy_shoot3a.pause()
+            }).catch(function (e) {
+                console.log("enemy_shoot3a - " + e)
+            });
+            player_shoota.play().then(function () {
+                player_shoota.pause()
+            }).catch(function (e) {
+                console.log("player_shoota - " + e)
+            });
+            player_buffed_shoota.play().then(function () {
+                player_buffed_shoota.pause()
+            }).catch(function (e) {
+                console.log("player_buffed_shoota - " + e)
+            });
+            player_damageda.play().then(function () {
+                player_damageda.pause()
+            }).catch(function (e) {
+                console.log("player_damageda - " + e)
+            });
+
+            clickedOnce = 1;
+        }
+    }
+    /*when the game is paused, these description will appear accordingly to the class you chose*/
+    var abilities = ["<br/>SP1= <font color='#c94a51'>MINIGUN</font>: you become an automatic minigun but your speed gets significantly reduced (120 shots)<br/>SP2= <font color='#c94a51'>BERSERK</font>: halves your current HPs to gain bullet size, damage and speed (4 seconds)", "<br/>SP1= <font color='#c94a51'>SUPERSHOT</font>: you shoot a big bullet... yeah i did ran out of ideas<br/>SP2= <font color='#c94a51'>TIME STOP</font>: this one is my favourite, you stop bullets and enemies, while you can still move and shoot (3.5 seconds)", "<br/>SP1= <font color='#c94a51'>MEGABUFF</font>: halves your current HPs to gain 2 more bullets per shot, more damage and move a little slower (4 seconds)<br/>SP2= <font color='#c94a51'>UNDESTRUCTIBLES</font>: your projectile will destroy everything in their way, no matter the size (3 seconds)"];
+    levelSpan.onclick = function () {
+        pause = true;
+        id("game-ui").style.display = "none";
+        id("stats-info").innerHTML = "<div id='pause'>GAME PAUSED</div>ABILITIES:" + abilities[chosenClass - 1] + "<br/><br/>HINTS:<br/>-Tap on the up arrow to shoot<br/>-Enemies are randomly generated (except for the first one)<br/>-Bigger bullets deals more damage and destroy smaller ones<br/>-Game over makes you restart from level 1<br/>Every win will restore 20% of your total health <br/><br/><div style='text-align:center;'><div id='OK'>CONTINUE PLAYING</div><br/><br/><div id='change'>CHANGE CLASS</div></div>";
+        id("stats-info").style.display = "block";
+        id("OK").addEventListener("click", function () {
+            id("stats-info").style.display = "none";
+            pause = false;
+            id("game-ui").style.display = "block";
+        })
+        id("change").addEventListener("click", backToMenu);
+
+    }
+    /*calculations for the amount of points you deserve after a kill*/
+    function scoreGain(en) {
+        var sum = (en.size / 32 * 10) + (en.speed * 3.3) + (1000 / en.bulletCD) + (en.bulletSize * 2.5) + (en.bulletSpeed * 1.25);
+        return Math.floor(sum);
+    }
+    /*as you may already know the enemies are randomly generated -to some extent-
+    minimum and maximum ranges will change relatively to the level you reached
+    this function is the one wich will chose the next enemy you'll have to duel with
+    */
+    function newEnemy(en) {
+        en.HP = 100;
+        en.x = canvas.width / 5 * 4 - 32 - levelCounter;
+        en.size = Math.random() * 60 + 15 + (levelCounter * 2);
+        en.speed = Math.random() * 5 + (levelCounter / 15);
+        en.bulletSize = Math.random() * (en.size - 9) + 3;
+        en.bulletSpeed = Math.random() * 10 + (levelCounter / 4);
+        en.bulletCD = (Math.random() * (en.bulletSize * 8) * (en.speed * 6) * en.bulletSpeed * 8) / (100 + levelCounter * 2) + en.bulletSize * 10;
+        projectiles = [];
+        en.frenzy = Math.random() * 100 + 10;
+        en.normalColor = randomColor();
+        en.color = en.normalColor;
+        en.recharge = false;
+        en.shootFx = whichShootFx(en.size);
+        en.shootFx2 = whichShootFx2(en.size);
+        enemyHP.style.backgroundColor = en.normalColor;
+        en.shoot = function () {
+            bulletsShot2++;
+            en.frame = 0;
+            en.frameCD = 0;
+            projectiles.push({
+                x: en.x + en.size / 2 - en.bulletSize / 2,
+                y: en.y + en.size - en.bulletSpeed + 3,
+                size: en.bulletSize,
+                speed: en.bulletSpeed,
+                color: en.normalColor,
+                damage: en.bulletSize
+            });
+            if (clickedOnce) {
+                if (en.shootFx.paused) {
+                    en.shootFx.play().catch(function (e) {
+                        console.log("shootfx enem - " + e)
+                    });
+                } else if (en.shootFx2.paused) {
+                    en.shootFx2.play().catch(function (e) {
+                        console.log("enem shoot 2 - " + e)
+                    });
+                }
+            }
+        };
+
+    }
+    /*does many stuff to clean up the battle scene, HP's and stuffs*/
+    function nextLevel() {
+        score += scoreGain(enemy);
+        if (levelCounter % 5 === 0) {
+            score += scoreGain(enemy2);
+        }
+        levelCounter++;
+        rage = true;
+        player.token = 1;
+        player.token2 = 1;
+        if (ammo === 0) {
+            ammo = 60 + (levelCounter * 2);
+            sp1.style.opacity = "1";
+        }
+        if (chosenClass !== 1) {
+            sp1.style.opacity = "1";
+        }
+        sp2.style.opacity = "1";
+        player.HP += 20;
+        if (player.HP > 100) {
+            player.HP = 100;
+        }
+        levelSpan.innerHTML = "LEVEL " + levelCounter + "<br/><span>tap here for pause/info</span>";
+        player.x = canvas.width / 5;
+        newEnemy(enemy);
+        if (levelCounter % 5 === 0) {
+            newEnemy(enemy2);
+            enemyHP.style.height = "50%";
+            enemy2HP.style.display = "block";
+            enemy2HP.style.backgroundColor = enemy2.normalColor;
+        } else {
+            enemyHP.style.height = "100%";
+            enemy2.HP = 0
+            enemy2HP.style.display = "none";
+        }
+        enemyHP.style.backgroundColor = enemy.normalColor;
+
+    }
+    /* mhmhmh...*/
+    function mhmh() {
+        if (levelCounter > 300) levelSpan.innerHTML = "ok, ok, you won";
+        if (levelCounter > 400) levelSpan.innerHTML = "flashing colors may cause<br/>epileptic attacks-->";
+        if (levelCounter > 500) levelSpan.innerHTML = "what are you trying to achieve exactly?!!";
+        if (levelCounter > 600) {
+            levelSpan.innerHTML = "WHEN YOU STOPPED HAVE FUN";
+            pointSpan.innerHTML = "ABOUT 5 MINUTES AGO (btw level " + levelCounter + ")"
+        }
+    }
+    /*barely noticeable, but enemy audios differs relatively to their size*/
+    function whichShootFx(sz) {
+        if (sz < 30) {
+            return enemy_shoot1
+        } else if (sz < 50) {
+            return enemy_shoot2
+        } else {
+            return enemy_shoot3
+        }
+    }
+    /*duplicate of the above, since many enemies shoots really fast
+    and if audio can't be played because already playing, here's the solution*/
+    function whichShootFx2(sz) {
+        if (sz < 30) {
+            return enemy_shoot1a
+        } else if (sz < 60) {
+            return enemy_shoot2a
+        } else {
+            return enemy_shoot3a
+        }
+    }
+    
+    /*one of the core functions, calculates what every projectile should do for every frame*/
+    function drawProjectiles() {
+        var removeList = [];
+        for (i = 0; i < projectiles.length; i++) {
+            if (!timeStop)
+                projectiles[i].y += projectiles[i].speed;
+            if (projectiles[i].y > canvas.height - projectiles[i].size || projectiles[i].y < -projectiles[i].size) {
+                if (projectiles[i].y > canvas.height - projectiles[i].size) {
+                    bulletsDodge++;
+                }
+                explosion(projectiles[i]);
+
+                removeList.push(i);
+            } else {
+                c.fillStyle = projectiles[i].color;
+                c.fillRect(projectiles[i].x, projectiles[i].y, projectiles[i].size, projectiles[i].size);
+            }
+            for (j = 0; j < projectiles.length; j++) {
+                if (j == i) {
+                    continue
+                }
+                if (projectiles[i].color != projectiles[j].color) {
+                    if (collided(projectiles[i], projectiles[j])) {
+                        if (projectiles[i].und) {
+                            explosion(projectiles[j]);
+                            removeList.push(j);
+                        } else if (projectiles[j].und) {
+
+                            explosion(projectiles[i]);
+                            removeList.push(i);
+                        } else if (projectiles[i].size < projectiles[j].size) {
+
+                            explosion(projectiles[i]);
+                            removeList.push(i);
+                        } else if (projectiles[j].size < projectiles[i].size) {
+
+                            explosion(projectiles[j]);
+                            removeList.push(j);
+                        }
+                    }
+
+                }
+            }
+            /* checking collisions with enemy */
+            if (enemy.HP > 0) {
+                if (collided(projectiles[i], enemy)) {
+
+                    enemy.color = enemy.damagedColor;
+                    setTimeout(function () {
+                        enemy.color = enemy.normalColor;
+                    }, 100);
+                    if (projectiles[i].color == "#4b4b5b" || projectiles[i].color == "#c94a51") {
+                        bulletsHit++;
+                    }
+
+                    explosion(projectiles[i]);
+                    removeList.push(i);
+                    enemy.HP -= projectiles[i].damage / (levelCounter / 20 + 1);
+                    if (enemy.HP < 0) {
+                        enemy.HP = 0;
+                    }
+                }
+            }
+            if (enemy2.HP > 0) {
+                if (collided(projectiles[i], enemy2)) {
+
+                    enemy2.color = enemy2.damagedColor;
+                    setTimeout(function () {
+                        enemy2.color = enemy2.normalColor;
+                    }, 100);
+                    if (projectiles[i].color == "#4b4b5b" || projectiles[i].color == "#c94a51") {
+                        bulletsHit++;
+                    }
+
+                    explosion(projectiles[i]);
+                    removeList.push(i);
+                    enemy2.HP -= projectiles[i].damage / (levelCounter / 10 + 1);
+                    if (enemy2.HP < 0) {
+                        enemy2.HP = 0;
+                    }
+                }
+            }
+            /* checking collisions with player */
+            if (!(projectiles[i].color == "#4b4b5b") && !(projectiles[i].color == "#c94a51")) {
+                if (collided(projectiles[i], player)) {
+                    player.PNG = player.damagedPNG;
+                    setTimeout(function () {
+                        player.PNG = player.normalPNG;
+                    }, 100);
+                    bulletsHit2++;
+                    explosion(projectiles[i]);
+                    removeList.push(i);
+                    player.HP -= projectiles[i].size;
+                    if (clickedOnce) {
+                        if (player.damageFx.paused) {
+                            player.damageFx.play().catch(function (e) {
+                                console.log("enemy_shoot1 - " + e)
+                            });
+                        } else if (player.damageFx2.paused) {
+                            player.damageFx2.play().catch(function (e) {
+                                console.log("enemy_shoot1 - " + e)
+                            });
+                        }
+                    }
+                    if (player.HP < 0) {
+                        player.HP = 0;
+                        reset();
+                    }
+                }
+            }
+        }
+
+        for (i = 0; i < removeList.length; i++) {
+            projectiles.splice(removeList[i], 1);
+        }
+    }
+
+    /*the particles rendering, the code could work without this, 
+    but there are very few "eye candies" so I can afford this one */
+    var particles = [];
+
+    function explosion(bullet) {
+        var color = bullet.color;
+        var x = bullet.x;
+        var y = bullet.y;
+        var speed = -bullet.speed;
+        var randNum = Math.floor(Math.random() * 10) + 1;
+        for (iter = 0; iter < randNum; iter++) {
+            particles.push({
+                xVel: Math.random() * (speed) - speed / 2,
+                yVel: Math.random() * speed / 2,
+                x: x,
+                y: y,
+                size: Math.random() * bullet.size,
+                color: color
+            });
+        }
+    }
+    function renderParticles() {
+        for (i = 0; i < particles.length; i++) {
+            c.fillStyle = particles[i].color;
+            c.fillRect(particles[i].x, particles[i].y, particles[i].size, particles[i].size);
+            particles[i].x += particles[i].xVel;
+            particles[i].y += particles[i].yVel;
+            particles[i].xVel /= 1.02;
+            particles[i].yVel /= 1.02;
+            particles[i].size /= 1.05;
+            if (particles[i].size < 0.1) {
+                particles.splice(i, 1);
+            }
+        }
+    }
+    
+    /*renders the player sprite and calculates its movements*/
+    function drawPlayer() {
+        /* player's x velocity calculations */
+        if (player.left) {
+            player.accel = -0.5
+        } else if (player.right) {
+            player.accel = 0.5
+        } else {
+            player.accel = 0;
+            if (player.xVel !== 0) {
+                (player.xVel > 0) ? player.accel = -0.125: player.accel = +0.125;
+            }
+        }
+
+        /* speed check */
+        if (player.xVel > player.speed) {
+            player.xVel = player.speed
+        }
+        if (player.xVel < -player.speed) {
+            player.xVel = -player.speed
+        }
+
+        /* keys up check */
+
+
+        player.xVel += player.accel;
+        player.x += player.xVel;
+
+        /* setting bounds */
+        if (player.x <= 0) {
+            player.x = 0
+        }
+        if (player.x + player.size > canvas.width) {
+            player.x = canvas.width - player.size
+        }
+
+        /* player's rendering*/
+        if (player.frame < 3) {
+            player.frameCD++;
+            player.frame = Math.floor(player.frameCD / 4)
+        } else {
+            player.frameCD = 0
+        }
+        c.drawImage(player.PNG, 0, 32 * player.frame, 32, 32, player.x, player.y, player.size, player.size);
+        //c.fillRect(player.x, player.y, player.size, player.size);
+    }
+    /*same as the above but different, since its the computer which gives it control inputs*/
+    function drawEnemy(en) {
+        if (en.HP > 0) {
+            if (!timeStop) {
+                if (player.x + (player.size / 2 - player.size / 3) > en.x + (en.size / 2 + en.bulletSize / 2)) {
+                    en.right = true;
+                    en.left = false;
+                } else if (player.x + (player.size / 2 + player.size / 3) < en.x + (en.size / 2 - en.bulletSize / 2)) {
+                    en.left = true;
+                    en.right = false;
+                } else {
+                    en.left = false;
+                    en.right = false;
+                }
+                if (player.x + player.size > en.x + (en.size / 2 - en.bulletSize / 2) && player.x < en.x + (en.size / 2 + en.bulletSize / 2)) {
+                    if (!en.recharge) {
+                        en.shoot();
+                        en.recharge = true;
+                        setTimeout(function () {
+                            en.recharge = false
+                        }, en.bulletCD);
+                    }
+
+                }
+                /* en's x velocity calculations */
+                if (en.left) {
+                    en.accel = -en.speed / en.frenzy;
+                } else if (en.right) {
+                    en.accel = en.speed / en.frenzy;
+                } else {
+                    en.accel = 0;
+                    if (en.xVel !== 0) {
+                        (en.xVel > 0) ? en.accel = -0.125: en.accel = +0.125;
+                    }
+                }
+                /* speed check */
+                if (en.xVel > en.speed) {
+                    en.xVel = en.speed
+                }
+                if (en.xVel < -en.speed) {
+                    en.xVel = -en.speed
+                }
+
+
+
+
+                en.xVel += en.accel;
+                en.x += en.xVel;
+
+                /* setting bounds */
+                if (en.x <= 0) {
+                    en.x = 0
+                }
+                if (en.x + en.size > canvas.width) {
+                    en.x = canvas.width - en.size
+                }
+            }
+
+
+
+
+            c.fillStyle = en.color;
+            c.fillRect(en.x, en.y, en.size, en.size / 4 * 3);
+            c.globalAlpha = 0.4;
+            c.drawImage(enemyPNG, en.x - 1, en.y - 1, en.size + 1, en.size / 4 * 3 + 1);
+            c.globalAlpha = 1;
+            c.drawImage(enemyPNG2, en.x - 1, en.y - 1, en.size + 1, en.size / 4 * 3 + 1);
+            if (en.frame < 3) {
+                en.frameCD++;
+                en.frame = Math.floor(en.frameCD / 4)
+            } else {
+                en.frameCD = 0
+            }
+            c.drawImage(enemyCannon, 0, 32 * en.frame, 32, 16, en.x + en.size / 2 - en.bulletSize / 2, en.size / 4 * 3, en.bulletSize, en.size / 2);
+        } else {
+            if (enemy.HP === 0 && enemy2.HP === 0)
+                nextLevel()
+        }
+
+    }
+
+    var timeStop = 0;
+    
+    /*the actual game loop! this is what glues all the functions togethe
+    and will call them all every frame */
+    requestAnimationFrame(loop);
+    function loop() {
+        if (!pause) {
+            c.fillStyle = "rgba(27, 27, 28," + trailing + ")";
+            c.fillRect(0, 0, canvas.width, canvas.height);
+            drawPlayer();
+            drawProjectiles();
+            renderParticles();
+            drawEnemy(enemy);
+            if (levelCounter % 5 === 0) {
+                drawEnemy(enemy2);
+            }
+
+            refreshHP();
+            if (points < score) {
+                points++;
+                pointSpan.innerHTML = "SCORE: " + points;
+            }
+            mhmh();
+        }
+        requestAnimationFrame(loop)
+
+    }
+    /* changes HP bars' length accordingly to... yeah the hp*/
+    function refreshHP() {
+        playerHP.style.width = player.HP + "%";
+        enemyHP.style.width = enemy.HP + "%";
+        if (levelCounter % 5 === 0)
+            enemy2HP.style.width = enemy2.HP + "%";
+    }
+    
+    /* The following are the classes abilities */
+    function minigun() {
+        if (ammo > 0) {
+            player.speed = 2;
+            player.bulletSpeed = -20;
+            player.bulletSize = 3;
+            player.bulletDamage = 4;
+            player.shoot(false);
+            ammo -= 0.5;
+            setTimeout(minigun, 10)
+        } else {
+            player.speed = 5;
+            player.bulletSpeed = -16;
+            player.bulletSize = 8;
+            player.bulletDamage = 8;
+        }
+    }
+
+    function berserk() {
+        if (rage) {
+            player.speed = 10 + levelCounter / 2;
+            player.bulletSize = 25 + levelCounter / 2;
+            player.bulletDamage = player.bulletSize;
+            player.color = "#c94a51";
+            player.HP /= 2;
+            player.normalPNG = playerDMG;
+            player.PNG = playerDMG;
+            player.shootFx = player_buffed_shoot;
+            player.shootFx2 = player_buffed_shoota;
+            rage = false;
+            trailing = 0.3;
+            setTimeout(function () {
+                rage = false;
+                sp2.style.opacity = 0.5;
+                berserk()
+            }, 4000 + levelCounter * 50);
+        } else {
+            trailing = 1;
+            player.speed = 5;
+            player.bulletSize = 8;
+            player.bulletDamage = player.bulletSize;
+            player.color = "#4b4b5b";
+            player.normalPNG = playerPNG;
+            player.PNG = playerPNG;
+            player.shootFx = player_shoot;
+            player.shootFx2 = player_shoota;
+        }
+    }
+
+
+
+    function stopTime() {
+        if (player.token) {
+            timeStop = 1;
+            player.speed = 2;
+            setTimeout(function () {
+                timeStop = 0;
+                player.speed = 4;
+            }, 3500)
+            player.token = 0;
+        }
+    }
+
+    function superShot() {
+        if (player.token2) {
+            var r1 = player.bulletSize;
+            var r2 = player.bulletDamage;
+            var r3 = player.bulletSpeed;
+            player.bulletSize = 50;
+            player.bulletDamage = 40;
+            player.bulletSpeed = -5;
+            player.recharge = false;
+            player.shoot(false);
+
+            player.bulletSize = r1;
+            player.bulletDamage = r2;
+            player.bulletSpeed = r3;
+            player.token2 = 0;
+        }
+    }
+
+    function buff() {
+        if (player.token) {
+            var r1 = player.bulletSize;
+
+            player.color = "#c94a51";
+            player.HP /= 2;
+            player.normalPNG = playerDMG;
+            player.PNG = playerDMG;
+            player.shootFx = player_buffed_shoot;
+            player.shootFx2 = player_buffed_shoota;
+            player.speed = 3;
+            player.shots = 3;
+            player.bulletSize = 20;
+            player.bulletCD = 500;
+
+            setTimeout(function () {
+                player.speed = 6;
+                player.shots = 1;
+                player.bulletSize = r1;
+                player.bulletCD = 700;
+                player.color = "#4b4b5b";
+                player.normalPNG = playerPNG;
+                player.PNG = playerPNG;
+                player.shootFx = player_shoot;
+                player.shootFx2 = player_shoota;
+
+            }, 4000);
+
+            player.token = 0;
+        }
+    }
+
+    function undestructibles() {
+        if (player.token2) {
+            undest = true;
+            player.color = "black";
+            setTimeout(function () {
+                undest = false;
+                player.color = "#4b4b5b";
+            }, 3000);
+            player.token2 = 0;
+        }
+    }
+
+    /* PC controls */
+    window.addEventListener("keydown", function (event) {
+        var key = event.keyCode;
+        switch (key) {
+            case 39: //right key down
+                //rightButtonDown();
+                player.right = true;
+                break;
+            case 37: //left key down
+                //leftButtonDown();
+                player.left = true;
+                break;
+            case 67: //c key down
+                //leftButtonDown();
+                switch (chosenClass) {
+                    case 1:
+                        berserk();
+                        break;
+                    case 2:
+                        stopTime();
+                        break;
+                    case 3:
+                        undestructibles();
+                        break;
+                }
+                break;
+            case 88: //x key down
+                //leftButtonDown();
+                switch (chosenClass) {
+                    case 1:
+                        minigun();
+                        break;
+                    case 2:
+                        superShot();
+                        break;
+                    case 3:
+                        buff();
+                        break;
+                }
+                break;
+            case 90: //left key down
+                //leftButtonDown();
+                if (!player.recharge)
+                    player.shoot(false);
+                break;
+        }
+    });
+    window.addEventListener("keyup", function (event) {
+        var key = event.keyCode;
+        switch (key) {
+            case 39: //right key up
+                //rightButtonUp();
+                player.right = false;
+                break;
+            case 37: //left key up
+                //leftButtonUp();
+                player.left = false;
+                break;
+        }
+    });
+
+
+
+
+
+    /* MOBILE controls */
+
+    leftArrow.addEventListener("touchstart", function () {
+        player.left = true
+        leftArrow.style.transform = "scale(1.5)";
+        leftArrow.style.opacity = "1";
+    });
+    rightArrow.addEventListener("touchstart", function () {
+        player.right = true
+        rightArrow.style.transform = "scale(1.5)";
+        rightArrow.style.opacity = "1";
+    });
+    upArrow.addEventListener("touchstart", function () {
+
+        if (!player.recharge) {
+            player.shoot(false);
+        }
+        upArrow.style.transform = "scale(1.5)";
+        upArrow.style.opacity = "1";
+    });
+    upArrow.addEventListener("touchend", function () {
+        upArrow.style.transform = "";
+        upArrow.style.opacity = "0.5";
+    });
+
+    leftArrow.addEventListener("touchend", function () {
+        player.left = false
+        leftArrow.style.transform = "";
+        leftArrow.style.opacity = "0.5";
+    });
+    rightArrow.addEventListener("touchend", function () {
+        player.right = false
+        rightArrow.style.transform = "";
+        rightArrow.style.opacity = "0.5";
+    });
+
+    sp1.addEventListener("touchstart", function () {
+
+        switch (chosenClass) {
+            case 1:
+                minigun();
+                break;
+            case 2:
+                superShot();
+                break;
+            case 3:
+                buff();
+                break;
+        }
+
+        sp1.style.opacity = "0.5";
+    });
+    sp2.addEventListener("touchstart", function () {
+
+        switch (chosenClass) {
+            case 1:
+                berserk();
+                break;
+            case 2:
+                stopTime();
+                break;
+            case 3:
+                undestructibles();
+                break;
+        }
+        sp2.style.opacity = "0.5";
+    });
+    
+    /*the collision detector*/
+    function collided(square1, square2) {
+        if (square1.x < square2.x + square2.size) {
+            if (square1.x + square1.size > square2.x) {
+                if (square1.y < square2.y + square2.size) {
+                    if (square1.y + square1.size > square2.y) {
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+    /*gives random colors to enemies (and so their projectiles)*/
+    function randomColor() {
+        var color = "#";
+        var one;
+        for (col = 0; col < 6; col++) {
+            one = Math.floor(Math.random() * 16);
+            if (one > 9) {
+                switch (one) {
+                    case 10:
+                        one = "a"
+                        break;
+                    case 11:
+                        one = "b"
+                        break;
+                    case 12:
+                        one = "c"
+                        break;
+                    case 13:
+                        one = "d"
+                        break;
+                    case 14:
+                        one = "e"
+                        break;
+                    case 15:
+                        one = "f"
+                        break;
+                }
+            }
+            color += one;
+        }
+        return color;
+    }
+}; // END (special thanks to you, if you managed to get here) -saantonandre

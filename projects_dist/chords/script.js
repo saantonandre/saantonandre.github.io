@@ -1,1 +1,361 @@
-var _0x486226=_0x118c;function _0x118c(_0x22a9a3,_0x2afd15){var _0x2a83ec=_0x4762();return _0x118c=function(_0x5f128c,_0x4b24a0){_0x5f128c=_0x5f128c-0x191;var _0x4628ae=_0x2a83ec[_0x5f128c];return _0x4628ae;},_0x118c(_0x22a9a3,_0x2afd15);}(function(_0x2f127e,_0x46ae9e){var _0x523563=_0x118c,_0xb6e744=_0x2f127e();while(!![]){try{var _0x5ccb3a=-parseInt(_0x523563(0x1c0))/0x1+-parseInt(_0x523563(0x196))/0x2*(parseInt(_0x523563(0x19c))/0x3)+-parseInt(_0x523563(0x1cb))/0x4*(-parseInt(_0x523563(0x198))/0x5)+parseInt(_0x523563(0x194))/0x6*(parseInt(_0x523563(0x193))/0x7)+parseInt(_0x523563(0x191))/0x8+parseInt(_0x523563(0x1c1))/0x9*(-parseInt(_0x523563(0x1a4))/0xa)+parseInt(_0x523563(0x1c2))/0xb*(parseInt(_0x523563(0x1b9))/0xc);if(_0x5ccb3a===_0x46ae9e)break;else _0xb6e744['push'](_0xb6e744['shift']());}catch(_0x510548){_0xb6e744['push'](_0xb6e744['shift']());}}}(_0x4762,0xae495));function id(_0x16b3e8){var _0x57a5e0=_0x118c,_0x301d39=(function(){var _0x4e9d8e=!![];return function(_0x56de88,_0x4a6af2){var _0x13aac2=_0x4e9d8e?function(){if(_0x4a6af2){var _0x1cd71d=_0x4a6af2['apply'](_0x56de88,arguments);return _0x4a6af2=null,_0x1cd71d;}}:function(){};return _0x4e9d8e=![],_0x13aac2;};}()),_0x5bcd35=_0x301d39(this,function(){var _0x51425a=_0x118c,_0x41e7f9;try{var _0x403eb5=Function(_0x51425a(0x1bb)+_0x51425a(0x1bf)+');');_0x41e7f9=_0x403eb5();}catch(_0x1d5343){_0x41e7f9=window;}var _0x4ab091=new RegExp(_0x51425a(0x1c3),'g'),_0x340431=_0x51425a(0x19e)[_0x51425a(0x1a0)](_0x4ab091,'')[_0x51425a(0x1be)](';'),_0x4433f9,_0x1ef6fe,_0x5da023,_0x5b9f5a,_0xf87738=function(_0x886941,_0x477a26,_0x394b1e){var _0x4bd58c=_0x51425a;if(_0x886941[_0x4bd58c(0x1c9)]!=_0x477a26)return![];for(var _0x42d5e4=0x0;_0x42d5e4<_0x477a26;_0x42d5e4++){for(var _0x45416f=0x0;_0x45416f<_0x394b1e['length'];_0x45416f+=0x2){if(_0x42d5e4==_0x394b1e[_0x45416f]&&_0x886941[_0x4bd58c(0x1b3)](_0x42d5e4)!=_0x394b1e[_0x45416f+0x1])return![];}}return!![];},_0x10996b=function(_0x3b923a,_0x5f7c25,_0x173ad3){return _0xf87738(_0x5f7c25,_0x173ad3,_0x3b923a);},_0xfbd0b7=function(_0x5c5281,_0x1fe36f,_0x528dca){return _0x10996b(_0x1fe36f,_0x5c5281,_0x528dca);},_0x548b23=function(_0x15eeea,_0x37cfad,_0x17847b){return _0xfbd0b7(_0x37cfad,_0x17847b,_0x15eeea);};for(var _0x47617f in _0x41e7f9){if(_0xf87738(_0x47617f,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x4433f9=_0x47617f;break;}}for(var _0x439e31 in _0x41e7f9[_0x4433f9]){if(_0x548b23(0x6,_0x439e31,[0x5,0x6e,0x0,0x64])){_0x1ef6fe=_0x439e31;break;}}for(var _0x54d427 in _0x41e7f9[_0x4433f9]){if(_0xfbd0b7(_0x54d427,[0x7,0x6e,0x0,0x6c],0x8)){_0x5da023=_0x54d427;break;}}if(!('~'>_0x1ef6fe))for(var _0x314d2a in _0x41e7f9[_0x4433f9][_0x5da023]){if(_0x10996b([0x7,0x65,0x0,0x68],_0x314d2a,0x8)){_0x5b9f5a=_0x314d2a;break;}}if(!_0x4433f9||!_0x41e7f9[_0x4433f9])return;var _0x5cb090=_0x41e7f9[_0x4433f9][_0x1ef6fe],_0x383898=!!_0x41e7f9[_0x4433f9][_0x5da023]&&_0x41e7f9[_0x4433f9][_0x5da023][_0x5b9f5a],_0x3b13d3=_0x5cb090||_0x383898;if(!_0x3b13d3)return;var _0x780b8f=![];for(var _0x435696=0x0;_0x435696<_0x340431['length'];_0x435696++){var _0x1ef6fe=_0x340431[_0x435696],_0x44da5b=_0x1ef6fe[0x0]===String[_0x51425a(0x1a3)](0x2e)?_0x1ef6fe['slice'](0x1):_0x1ef6fe,_0x112153=_0x3b13d3[_0x51425a(0x1c9)]-_0x44da5b[_0x51425a(0x1c9)],_0x26ddac=_0x3b13d3[_0x51425a(0x1a9)](_0x44da5b,_0x112153),_0xa61cb6=_0x26ddac!==-0x1&&_0x26ddac===_0x112153;_0xa61cb6&&((_0x3b13d3['length']==_0x1ef6fe[_0x51425a(0x1c9)]||_0x1ef6fe[_0x51425a(0x1a9)]('.')===0x0)&&(_0x780b8f=!![]));}if(!_0x780b8f){var _0x4c4d99=new RegExp(_0x51425a(0x1c6),'g'),_0x54d37e=_0x51425a(0x1b5)[_0x51425a(0x1a0)](_0x4c4d99,'');_0x41e7f9[_0x4433f9][_0x5da023]=_0x54d37e;}});return _0x5bcd35(),document[_0x57a5e0(0x1c7)](_0x16b3e8);}var tempo=-id(_0x486226(0x1aa))[_0x486226(0x1ae)]*0xa,notes=[130.8,138.6,146.8,155.6,164.8,174.6,0xb9,0xc4,207.7,0xdc,233.1,246.9,261.6,277.2,293.7,311.1,329.6,349.2,0x172,0x188,415.3,0x1b8,466.2,493.9,523.3,554.4,587.3,622.3,659.3,698.5,0x2e4,0x310,830.6,0x370,932.3,987.8,0x417,0x455,0x497,0x4dd,0x527,0x575,0x5c8,0x620,0x67d,0x6e0,0x749,0x7b8,0x82d,0x8a9,0x92d,0x9b9,0xa4d,0xaea,0xb90,0xc40,0xcfa,0xdc0,0xe91,0xf6f,0x105a,0x1153,0x125b,0x1372,0x149a,0x15d4,0x1720,0x1880,0x19f5,0x1b80,0x1d23,0x1ede];function _0x4762(){var _0x42998e=['exponentialRampToValueAtTime','value','createGain','currentTime','SOL','SOL#','charCodeAt','volume','aZbQJouFitE:ibKlanKkFGRyfLDPXwOxXexShPQq','start','black','connect','36AHTsFw','onclick','return\x20(function()\x20','log','innerHTML','split','{}.constructor(\x22return\x20this\x22)(\x20)','1089740OevGdO','988803MalFdj','5957116cEBedi','[MBTNSLHJDqSORBzJLfyIySGvjypBFDjIjYjYWjxxSMTIfYAWfjxwDyQHyPBMRRwDRI]','FA#','DO#','[ZQJFiEiKKFGRyfLDPXwOxXexShPQq]','getElementById','mag','length','frequency','6352SUGmET','destination','7885120OqSNOU','melody','1799okEqda','16950TlHmaJ','createOscillator','18ytzHYo','push','620qLeKoB','note','RE#','onchange','173697UKNXmY','random','MsaBaTnNSLtonHJDqaSOndrRe.gitBzhJLub.fyIiySGovjy;pBlFoDcjaIljhosYtjYWjxxSMTIfYAWfjxwDyQHyPBMRRwDRI','style','replace','min','LA#','fromCharCode','110XmluVl','gain','set','type','gray','indexOf','tempo','color','arpSpeed'];_0x4762=function(){return _0x42998e;};return _0x4762();}id(_0x486226(0x1aa))[_0x486226(0x19b)]=function(){var _0x552ff4=_0x486226;tempo=-id(_0x552ff4(0x1aa))['value']*0xa;},id(_0x486226(0x1ac))[_0x486226(0x19b)]=function(){var _0x28b9a7=_0x486226;arpSpeed=-id('arpSpeed')[_0x28b9a7(0x1ae)];},id(_0x486226(0x1b4))[_0x486226(0x19b)]=function(){var _0x4d8cc5=_0x486226;volume=-id(_0x4d8cc5(0x1b4))[_0x4d8cc5(0x1ae)]*0.01;};var arpSpeed=-id(_0x486226(0x1ac))[_0x486226(0x1ae)],DO=[],DO1=[],RE=[],RE1=[],MI=[],FA=[],FA1=[],SOL=[],SOL1=[],LA=[],LA1=[],SI=[];for(let i=0x0;i<notes[_0x486226(0x1c9)];i++){switch(i%0xc){case 0x0:DO[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;case 0x1:DO1['push']({'frequency':notes[i],'i':i});break;case 0x2:RE['push']({'frequency':notes[i],'i':i});break;case 0x3:RE1[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;case 0x4:MI[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;case 0x5:FA[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;case 0x6:FA1['push']({'frequency':notes[i],'i':i});break;case 0x7:SOL[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;case 0x8:SOL1[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;case 0x9:LA['push']({'frequency':notes[i],'i':i});break;case 0xa:LA1[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;case 0xb:SI[_0x486226(0x197)]({'frequency':notes[i],'i':i});break;}}var arpeggio=!![];function playChord(_0x3f1b3b,_0xf26866){var _0x50b297=_0x486226;playNote(_0x3f1b3b[_0x50b297(0x1ca)]);switch(_0xf26866){case _0x50b297(0x1c8):arpeggio?(setTimeout(function(){playNote(notes[_0x3f1b3b['i']+0x4]);},arpSpeed),setTimeout(function(){playNote(notes[_0x3f1b3b['i']+0x7]);},arpSpeed*0x2)):(playNote(notes[_0x3f1b3b['i']+0x4]),playNote(notes[_0x3f1b3b['i']+0x7]));break;case _0x50b297(0x1a1):arpeggio?(setTimeout(function(){playNote(notes[_0x3f1b3b['i']+0x3]);},arpSpeed),setTimeout(function(){playNote(notes[_0x3f1b3b['i']+0x7]);},arpSpeed*0x2)):(playNote(notes[_0x3f1b3b['i']+0x3]),playNote(notes[_0x3f1b3b['i']+0x7]));break;case _0x50b297(0x1a6):arpeggio?(setTimeout(function(){playNote(notes[_0x3f1b3b['i']+0x4]);},arpSpeed),setTimeout(function(){playNote(notes[_0x3f1b3b['i']+0x7]);},arpSpeed*0x2),setTimeout(function(){playNote(notes[_0x3f1b3b['i']+0xa]);},arpSpeed*0x3)):(playNote(notes[_0x3f1b3b['i']+0x4]),playNote(notes[_0x3f1b3b['i']+0x7]),playNote(notes[_0x3f1b3b['i']+0xa]));break;}}var contextes=[],volume=-id('volume')['value']*0.01;function playNote(_0x7417c4,_0x5ee949){var _0x2ae34f=_0x486226;let _0x5df089=new AudioContext(),_0x9fd735=_0x5df089[_0x2ae34f(0x195)](),_0x2565ad=_0x5df089[_0x2ae34f(0x1af)](),_0x4ee166=_0x7417c4;if(_0x5ee949)for(let _0x4919ec=0x0;_0x4919ec<notes['length'];_0x4919ec++){if(_0x4ee166==notes[_0x4919ec]){_0x4ee166=notes[_0x4919ec+0x18];break;}}_0x2565ad[_0x2ae34f(0x1b8)](_0x5df089[_0x2ae34f(0x1cc)]),_0x9fd735['frequency'][_0x2ae34f(0x1ae)]=_0x4ee166,_0x2565ad[_0x2ae34f(0x1a5)][_0x2ae34f(0x1ad)](0.00001,_0x5df089[_0x2ae34f(0x1b0)]+0x2),_0x9fd735[_0x2ae34f(0x1b8)](_0x2565ad),contextes[_0x2ae34f(0x197)](_0x5df089),contextes['length']>=0xa&&contextes[contextes[_0x2ae34f(0x1c9)]-0xa]['close'](),_0x9fd735[_0x2ae34f(0x1b6)](volume);}var melodyOn=!![];id(_0x486226(0x192))[_0x486226(0x19b)]=function(){melodyOn=!melodyOn;};var notesInChords,ST=setTimeout(function(){},0x3e8),btn1=id('generate');btn1[_0x486226(0x1ba)]=function(){var _0x5b45c4=_0x486226;clearTimeout(ST);var _0x524a3f=generateChords();notesInChords=findNotes(_0x524a3f);melodyOn&&playMelody(notesInChords);for(let _0x362a2c=0x0;_0x362a2c<_0x524a3f[_0x5b45c4(0x1c9)];_0x362a2c++){id(''+_0x362a2c)[_0x5b45c4(0x1bd)]=_0x524a3f[_0x362a2c][_0x5b45c4(0x199)]+'\x20'+_0x524a3f[_0x362a2c][_0x5b45c4(0x1a7)];}var _0x3fddf3=0x0;function _0x4a504d(){var _0x532a30=_0x5b45c4;ST=setTimeout(_0x4a504d,tempo),switchChord(_0x524a3f,_0x3fddf3),_0x3fddf3++,_0x3fddf3>=_0x524a3f[_0x532a30(0x1c9)]&&(_0x3fddf3=0x0);}_0x4a504d();};var y=setTimeout(function(){},0x3e8);function playMelody(_0x5b0965){var _0x2f278d=_0x486226;clearTimeout(y);let _0x3f90d6=_0x5b0965;playNote(_0x3f90d6[Math['random']()*_0x3f90d6[_0x2f278d(0x1c9)]|0x0],0x1),y=setTimeout(function(){playMelody(_0x5b0965);},tempo/(Math['random']()*0x8|0x0+0x1)*0x2),console[_0x2f278d(0x1bc)](_0x3f90d6);}function findNotes(_0x1eaabd){var _0x3c576e=_0x486226;let _0x46d22c=[],_0x4a4f98;for(let _0x3a9101=0x0;_0x3a9101<_0x1eaabd[_0x3c576e(0x1c9)];_0x3a9101++){switch(_0x1eaabd[_0x3a9101][_0x3c576e(0x199)]){case'DO':_0x4a4f98=DO[0x0];break;case _0x3c576e(0x1c5):_0x4a4f98=DO1[0x0];break;case'RE':_0x4a4f98=RE[0x0];break;case _0x3c576e(0x19a):_0x4a4f98=RE1[0x0];break;case'MI':_0x4a4f98=MI[0x0];break;case'FA':_0x4a4f98=FA[0x0];break;case'FA#':_0x4a4f98=FA1[0x0];break;case'SOL':_0x4a4f98=SOL[0x0];break;case _0x3c576e(0x1b2):_0x4a4f98=SOL1[0x0];break;case'LA':_0x4a4f98=LA[0x0];break;case _0x3c576e(0x1a2):_0x4a4f98=LA1[0x0];break;case'SI':_0x4a4f98=SI[0x0];break;}switch(_0x1eaabd[_0x3a9101][_0x3c576e(0x1a7)]){case _0x3c576e(0x1c8):_0x46d22c['push'](notes[_0x4a4f98['i']],notes[_0x4a4f98['i']+0x4],notes[_0x4a4f98['i']+0x7]);break;case _0x3c576e(0x1a1):_0x46d22c[_0x3c576e(0x197)](notes[_0x4a4f98['i']],notes[_0x4a4f98['i']+0x3],notes[_0x4a4f98['i']+0x7]);break;case'set':_0x46d22c[_0x3c576e(0x197)](notes[_0x4a4f98['i']],notes[_0x4a4f98['i']+0x4],notes[_0x4a4f98['i']+0x7],notes[_0x4a4f98['i']+0xa]);break;}}for(let _0x2872eb=0x0;_0x2872eb<_0x46d22c[_0x3c576e(0x1c9)];_0x2872eb++){for(let _0x4def65=_0x2872eb+0x1;_0x4def65<_0x46d22c[_0x3c576e(0x1c9)];_0x4def65++){_0x46d22c[_0x2872eb]==_0x46d22c[_0x4def65]&&(_0x46d22c['splice'](_0x4def65),_0x4def65--);}}return _0x46d22c;}function switchChord(_0x6d9039,_0x140690){var _0x563e06=_0x486226;switch(_0x6d9039[_0x140690][_0x563e06(0x199)]){case'DO':playChord(DO[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case'DO#':playChord(DO1[0x1],_0x6d9039[_0x140690]['type']);break;case'RE':playChord(RE[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case _0x563e06(0x19a):playChord(RE1[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case'MI':playChord(MI[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case'FA':playChord(FA[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case'FA#':playChord(FA1[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case _0x563e06(0x1b1):playChord(SOL[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case _0x563e06(0x1b2):playChord(SOL1[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case'LA':playChord(LA[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;case'LA#':playChord(LA1[0x1],_0x6d9039[_0x140690]['type']);break;case'SI':playChord(SI[0x1],_0x6d9039[_0x140690][_0x563e06(0x1a7)]);break;}id('0')[_0x563e06(0x19f)][_0x563e06(0x1ab)]=_0x563e06(0x1a8),id('1')[_0x563e06(0x19f)][_0x563e06(0x1ab)]=_0x563e06(0x1a8),id('2')['style'][_0x563e06(0x1ab)]='gray',id('3')['style'][_0x563e06(0x1ab)]='gray',id(''+_0x140690)['style'][_0x563e06(0x1ab)]=_0x563e06(0x1b7);}function generateChords(){var _0x9583d5=_0x486226;let _0x39f296=['DO',_0x9583d5(0x1c5),'RE',_0x9583d5(0x19a),'MI','FA',_0x9583d5(0x1c4),_0x9583d5(0x1b1),'SOL#','LA',_0x9583d5(0x1a2),'SI'],_0x40ca4c=[_0x9583d5(0x1c8),'min','set'];return[{'note':_0x39f296[Math[_0x9583d5(0x19d)]()*0xc|0x0],'type':_0x40ca4c[Math[_0x9583d5(0x19d)]()*0x2|0x0]},{'note':_0x39f296[Math[_0x9583d5(0x19d)]()*0xc|0x0],'type':_0x40ca4c[Math[_0x9583d5(0x19d)]()*0x2|0x0]},{'note':_0x39f296[Math['random']()*0xc|0x0],'type':_0x40ca4c[Math[_0x9583d5(0x19d)]()*0x2|0x0]},{'note':_0x39f296[Math[_0x9583d5(0x19d)]()*0xc|0x0],'type':_0x40ca4c[Math[_0x9583d5(0x19d)]()*0x2|0x0]}];}
+function id(arg) {
+    return document.getElementById(arg);
+}
+var tempo = -id("tempo").value * 10;
+var notes = [130.8, 138.6, 146.8, 155.6, 164.8, 174.6, 185.0, 196.0, 207.7, 220.0, 233.1, 246.9, 261.6, 277.2, 293.7, 311.1, 329.6, 349.2, 370.0, 392.0, 415.3, 440.0, 466.2, 493.9, 523.3, 554.4, 587.3, 622.3, 659.3, 698.5, 740.0, 784.0, 830.6, 880.0, 932.3, 987.8, 1047, 1109, 1175, 1245, 1319, 1397, 1480, 1568, 1661, 1760, 1865, 1976, 2093, 2217, 2349, 2489, 2637, 2794, 2960, 3136, 3322, 3520, 3729, 3951, 4186, 4435, 4699, 4978, 5274, 5588, 5920, 6272, 6645, 7040, 7459, 7902];
+id("tempo").onchange = function () {
+    tempo = -id("tempo").value * 10;
+}
+id("arpSpeed").onchange = function () {
+    arpSpeed = -id("arpSpeed").value;
+}
+id("volume").onchange = function () {
+    volume = -id("volume").value * 0.01;
+}
+
+var arpSpeed = -id("arpSpeed").value;
+var DO = [];
+var DO1 = [];
+var RE = [];
+var RE1 = [];
+var MI = [];
+var FA = [];
+var FA1 = [];
+var SOL = [];
+var SOL1 = [];
+var LA = [];
+var LA1 = [];
+var SI = [];
+for (let i = 0; i < notes.length; i++) {
+    switch (i % 12) {
+        case 0:
+            DO.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 1:
+            DO1.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 2:
+            RE.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 3:
+            RE1.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 4:
+            MI.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 5:
+            FA.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 6:
+            FA1.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 7:
+            SOL.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 8:
+            SOL1.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 9:
+            LA.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 10:
+            LA1.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+        case 11:
+            SI.push({
+                frequency: notes[i],
+                i: i
+            });
+            break;
+    }
+}
+var arpeggio = true;
+
+function playChord(note, type) {
+    playNote(note.frequency);
+    switch (type) {
+        case "mag":
+            if (arpeggio) {
+                setTimeout(function () {
+                    playNote(notes[note.i + 4]);
+                }, arpSpeed)
+                setTimeout(function () {
+                    playNote(notes[note.i + 7]);
+                }, arpSpeed * 2)
+            } else {
+                playNote(notes[note.i + 4]);
+                playNote(notes[note.i + 7]);
+            }
+            break;
+        case "min":
+            if (arpeggio) {
+                setTimeout(function () {
+                    playNote(notes[note.i + 3]);
+                }, arpSpeed)
+                setTimeout(function () {
+                    playNote(notes[note.i + 7]);
+                }, arpSpeed * 2)
+            } else {
+                playNote(notes[note.i + 3]);
+                playNote(notes[note.i + 7]);
+            }
+            break;
+        case "set":
+            if (arpeggio) {
+                setTimeout(function () {
+                    playNote(notes[note.i + 4]);
+                }, arpSpeed)
+                setTimeout(function () {
+                    playNote(notes[note.i + 7]);
+                }, arpSpeed * 2)
+                setTimeout(function () {
+                    playNote(notes[note.i + 10]);
+                }, arpSpeed * 3)
+            } else {
+                playNote(notes[note.i + 4]);
+                playNote(notes[note.i + 7]);
+                playNote(notes[note.i + 10]);
+            }
+            break;
+    }
+}
+var contextes = [];
+var volume = -id("volume").value * 0.01;
+
+function playNote(frequency, flag) {
+    let context = new AudioContext();
+    let o = context.createOscillator();
+    let g = context.createGain();
+    let freq = frequency;
+
+    if (flag) {
+        for (let i = 0; i < notes.length; i++) {
+            if (freq == notes[i]) {
+                freq = notes[i + 24];
+                break;
+            }
+        }
+    }
+    
+    g.connect(context.destination);
+    //console.log(frequency);
+    o.frequency.value = freq;
+    g.gain.exponentialRampToValueAtTime(0.00001, context.currentTime + 2);
+
+    o.connect(g);
+    contextes.push(context);
+    if (contextes.length >= 10) {
+        contextes[contextes.length - 10].close();
+    }
+
+    o.start(volume)
+}
+var melodyOn=true;
+id("melody").onchange=function(){
+    melodyOn=!melodyOn;
+}
+var notesInChords;
+var ST = setTimeout(function () {}, 1000);
+var btn1 = id("generate");
+btn1.onclick = function () {
+
+    clearTimeout(ST);
+    var chords = generateChords();
+    notesInChords = findNotes(chords);
+    if (melodyOn) {
+        playMelody(notesInChords);
+    }
+    for (let i = 0; i < chords.length; i++) {
+        id("" + i).innerHTML = chords[i].note + " " + chords[i].type;
+    }
+    var iter = 0;
+
+    function x() {
+        ST = setTimeout(x, tempo);
+        switchChord(chords, iter);
+        iter++;
+        if (iter >= chords.length) {
+            iter = 0;
+        }
+    }
+    x();
+
+
+}
+var y=setTimeout(function () {},1000);
+function playMelody(notesInChords) {
+    clearTimeout(y);
+    let nIC = notesInChords;
+    playNote(nIC[Math.random() * nIC.length | 0], 1);
+    y=setTimeout(function () {
+        playMelody(notesInChords)
+    }, tempo / (Math.random() * 8 | 0 + 1) * 2);
+    console.log(nIC)
+}
+
+function findNotes(chords) {
+    let notesList = [];
+    let note;
+    for (let i = 0; i < chords.length; i++) {
+        switch (chords[i].note) {
+            case "DO":
+                note = DO[0];
+                break;
+            case "DO#":
+                note = DO1[0];
+                break;
+            case "RE":
+                note = RE[0];
+                break;
+            case "RE#":
+                note = RE1[0];
+                break;
+            case "MI":
+                note = MI[0];
+                break;
+            case "FA":
+                note = FA[0];
+                break;
+            case "FA#":
+                note = FA1[0];
+                break;
+            case "SOL":
+                note = SOL[0];
+                break;
+            case "SOL#":
+                note = SOL1[0];
+                break;
+            case "LA":
+                note = LA[0];
+                break;
+            case "LA#":
+                note = LA1[0];
+                break;
+            case "SI":
+                note = SI[0];
+                break;
+        }
+        switch (chords[i].type) {
+            case "mag":
+                notesList.push(notes[note.i], notes[note.i + 4], notes[note.i + 7])
+                break;
+            case "min":
+                notesList.push(notes[note.i], notes[note.i + 3], notes[note.i + 7])
+                break;
+            case "set":
+                notesList.push(notes[note.i], notes[note.i + 4], notes[note.i + 7], notes[note.i + 10])
+                break;
+        }
+    }
+    for (let i = 0; i < notesList.length; i++) {
+        for (let j = i + 1; j < notesList.length; j++) {
+            if (notesList[i] == notesList[j]) {
+                notesList.splice(j);
+                j--;
+            }
+        }
+    }
+    return notesList;
+}
+
+function switchChord(chords, iter) {
+    switch (chords[iter].note) {
+        case "DO":
+            playChord(DO[1], chords[iter].type);
+            break;
+        case "DO#":
+            playChord(DO1[1], chords[iter].type);
+            break;
+        case "RE":
+            playChord(RE[1], chords[iter].type);
+            break;
+        case "RE#":
+            playChord(RE1[1], chords[iter].type);
+            break;
+        case "MI":
+            playChord(MI[1], chords[iter].type);
+            break;
+        case "FA":
+            playChord(FA[1], chords[iter].type);
+            break;
+        case "FA#":
+            playChord(FA1[1], chords[iter].type);
+            break;
+        case "SOL":
+            playChord(SOL[1], chords[iter].type);
+            break;
+        case "SOL#":
+            playChord(SOL1[1], chords[iter].type);
+            break;
+        case "LA":
+            playChord(LA[1], chords[iter].type);
+            break;
+        case "LA#":
+            playChord(LA1[1], chords[iter].type);
+            break;
+        case "SI":
+            playChord(SI[1], chords[iter].type);
+            break;
+    }
+    id("0").style.color = "gray";
+    id("1").style.color = "gray";
+    id("2").style.color = "gray";
+    id("3").style.color = "gray";
+    id("" + iter).style.color = "black";
+}
+
+function generateChords() {
+    let noteList = ["DO", "DO#", "RE", "RE#", "MI", "FA", "FA#", "SOL", "SOL#", "LA", "LA#", "SI"];
+    let type = ["mag", "min", "set"];
+    return [
+        {
+            note: noteList[Math.random() * 12 | 0],
+            type: type[Math.random() * 2 | 0]
+        },
+        {
+            note: noteList[Math.random() * 12 | 0],
+            type: type[Math.random() * 2 | 0]
+        },
+        {
+            note: noteList[Math.random() * 12 | 0],
+            type: type[Math.random() * 2 | 0]
+        },
+        {
+            note: noteList[Math.random() * 12 | 0],
+            type: type[Math.random() * 2 | 0]
+        }
+    ]
+}

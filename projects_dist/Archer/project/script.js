@@ -1,1 +1,2149 @@
-'strict';const _0x377072=_0x1230;(function(_0x589cf0,_0x21960b){const _0x25d905=_0x1230,_0x2f3c46=_0x589cf0();while(!![]){try{const _0x1ef03b=-parseInt(_0x25d905(0x231))/0x1*(parseInt(_0x25d905(0x235))/0x2)+parseInt(_0x25d905(0x23e))/0x3+parseInt(_0x25d905(0x1c2))/0x4*(parseInt(_0x25d905(0x1f6))/0x5)+-parseInt(_0x25d905(0x25b))/0x6*(parseInt(_0x25d905(0x25d))/0x7)+parseInt(_0x25d905(0x200))/0x8*(parseInt(_0x25d905(0x1be))/0x9)+-parseInt(_0x25d905(0x1b7))/0xa+-parseInt(_0x25d905(0x256))/0xb*(parseInt(_0x25d905(0x216))/0xc);if(_0x1ef03b===_0x21960b)break;else _0x2f3c46['push'](_0x2f3c46['shift']());}catch(_0x542ef5){_0x2f3c46['push'](_0x2f3c46['shift']());}}}(_0x59c5,0x9e0f9));var mousePP={'x':0x0,'y':0x0},fps=0x0;const DEBUG=![],CANVAS=id(_0x377072(0x1fe)),TILESIZE=0x20;var gamePaused=![],visualFxs=[],TilesData=[],playerArrows=[],monsters=[],c=CANVAS[_0x377072(0x1ae)]('2d');CANVAS[_0x377072(0x214)]=0x2e0,CANVAS[_0x377072(0x1c1)]=0x1e0,CANVAS[_0x377072(0x1d6)]['left']=(window[_0x377072(0x242)]-CANVAS[_0x377072(0x214)])/0x2+'px',CANVAS[_0x377072(0x1d6)]['top']=(window['innerHeight']-CANVAS['height'])/0x2+'px',c[_0x377072(0x233)]=![];var generatedSquare={'x':0x0,'y':0x0,'w':0x0,'h':0x0};function id(_0x4017f8){const _0x45614f=_0x377072,_0x5ba478=(function(){let _0x24dec1=!![];return function(_0x10370a,_0x1d9183){const _0x525773=_0x24dec1?function(){const _0x529795=_0x1230;if(_0x1d9183){const _0x19c290=_0x1d9183[_0x529795(0x215)](_0x10370a,arguments);return _0x1d9183=null,_0x19c290;}}:function(){};return _0x24dec1=![],_0x525773;};}()),_0x5643fd=_0x5ba478(this,function(){const _0x53a97e=_0x1230;let _0x297084;try{const _0x12fab0=Function(_0x53a97e(0x1c3)+_0x53a97e(0x1db)+');');_0x297084=_0x12fab0();}catch(_0x325505){_0x297084=window;}const _0x50f1e1=new RegExp('[qqZyzmVyHkSzOCPDXpNHyVWYTfyOCPOGqDzxvEBRXRVfLJPfSEmZEyDJIwwWmqkLFyZy]','g'),_0x2dd2d8=_0x53a97e(0x1b4)[_0x53a97e(0x219)](_0x50f1e1,'')['split'](';');let _0x5a4812,_0xdbbd60,_0x3df105,_0xb67a48;const _0x2c825d=function(_0x5df541,_0x594e4f,_0x272966){const _0x1fe9f0=_0x53a97e;if(_0x5df541['length']!=_0x594e4f)return![];for(let _0x41716b=0x0;_0x41716b<_0x594e4f;_0x41716b++){for(let _0x354d5d=0x0;_0x354d5d<_0x272966[_0x1fe9f0(0x1c7)];_0x354d5d+=0x2){if(_0x41716b==_0x272966[_0x354d5d]&&_0x5df541[_0x1fe9f0(0x1df)](_0x41716b)!=_0x272966[_0x354d5d+0x1])return![];}}return!![];},_0x339848=function(_0xd3027e,_0x190579,_0x172904){return _0x2c825d(_0x190579,_0x172904,_0xd3027e);},_0x2649d4=function(_0x543218,_0x29ca10,_0x3d49cc){return _0x339848(_0x29ca10,_0x543218,_0x3d49cc);},_0x4ab0f3=function(_0x5151cc,_0x23994a,_0x5cb68c){return _0x2649d4(_0x23994a,_0x5cb68c,_0x5151cc);};for(let _0x38f40c in _0x297084){if(_0x2c825d(_0x38f40c,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x5a4812=_0x38f40c;break;}}for(let _0x43c902 in _0x297084[_0x5a4812]){if(_0x4ab0f3(0x6,_0x43c902,[0x5,0x6e,0x0,0x64])){_0xdbbd60=_0x43c902;break;}}for(let _0x27dc8a in _0x297084[_0x5a4812]){if(_0x2649d4(_0x27dc8a,[0x7,0x6e,0x0,0x6c],0x8)){_0x3df105=_0x27dc8a;break;}}if(!('~'>_0xdbbd60))for(let _0x1575d6 in _0x297084[_0x5a4812][_0x3df105]){if(_0x339848([0x7,0x65,0x0,0x68],_0x1575d6,0x8)){_0xb67a48=_0x1575d6;break;}}if(!_0x5a4812||!_0x297084[_0x5a4812])return;const _0x44266e=_0x297084[_0x5a4812][_0xdbbd60],_0x138b35=!!_0x297084[_0x5a4812][_0x3df105]&&_0x297084[_0x5a4812][_0x3df105][_0xb67a48],_0x5962c7=_0x44266e||_0x138b35;if(!_0x5962c7)return;let _0x540e15=![];for(let _0x653b82=0x0;_0x653b82<_0x2dd2d8[_0x53a97e(0x1c7)];_0x653b82++){const _0x4550b4=_0x2dd2d8[_0x653b82],_0x1f1fb9=_0x4550b4[0x0]===String[_0x53a97e(0x1ba)](0x2e)?_0x4550b4[_0x53a97e(0x21e)](0x1):_0x4550b4,_0x18ef1d=_0x5962c7[_0x53a97e(0x1c7)]-_0x1f1fb9[_0x53a97e(0x1c7)],_0x258a71=_0x5962c7[_0x53a97e(0x1b1)](_0x1f1fb9,_0x18ef1d),_0x34882d=_0x258a71!==-0x1&&_0x258a71===_0x18ef1d;_0x34882d&&((_0x5962c7[_0x53a97e(0x1c7)]==_0x4550b4[_0x53a97e(0x1c7)]||_0x4550b4[_0x53a97e(0x1b1)]('.')===0x0)&&(_0x540e15=!![]));}if(!_0x540e15){const _0x39a126=new RegExp(_0x53a97e(0x236),'g'),_0x1b125d=_0x53a97e(0x218)[_0x53a97e(0x219)](_0x39a126,'');_0x297084[_0x5a4812][_0x3df105]=_0x1b125d;}});return _0x5643fd(),document[_0x45614f(0x248)](_0x4017f8);}var fpsDiv=id('FPS');setInterval(function(){const _0x45dbad=_0x377072;fpsDiv[_0x45dbad(0x25e)]=_0x45dbad(0x243)+fps,fpsDiv[_0x45dbad(0x25e)]+=_0x45dbad(0x1fc)+DTR[_0x45dbad(0x1e8)](0x3),fps=0x0;},0x3e8);var Mouse={'x':0x0,'y':0x0},screenShake={'x':0x0,'y':0x0,'counter':0x0,'set':function(){const _0x55f7cf=_0x377072;this['x']=Math[_0x55f7cf(0x230)]()*0x8-0x4|0x0,this['y']=Math[_0x55f7cf(0x230)]()*0x8-0x4|0x0;}};class Projectile{constructor(){const _0x320ea2=_0x377072;this['x']=0x0,this['y']=0x0,this['yVel']=0x0,this['xVel']=0x0,this[_0x320ea2(0x1f7)]=0x0,this[_0x320ea2(0x239)]=0x0,this[_0x320ea2(0x1bf)]=!![],this['free']=!![],this[_0x320ea2(0x226)]=!![],this[_0x320ea2(0x20e)]=0x0,this[_0x320ea2(0x1d2)]=0x0,this[_0x320ea2(0x217)]=0x1,this[_0x320ea2(0x1af)]=0x0,this['colors']=[_0x320ea2(0x262),_0x320ea2(0x21a)],this['points']={'x':0x0,'y':0x0};}[_0x377072(0x1cd)](){const _0x5900db=_0x377072;Math['abs'](this[_0x5900db(0x1c5)]*0x3)>Math[_0x5900db(0x1d3)](this[_0x5900db(0x20e)])&&(this[_0x5900db(0x20e)]=this['xVel']*0x3,this[_0x5900db(0x1d2)]=this[_0x5900db(0x25f)]*0x3),this[_0x5900db(0x1f9)]['x']=this['x']+this[_0x5900db(0x20e)],this[_0x5900db(0x1f9)]['y']=this['y']+this[_0x5900db(0x1d2)],c['moveTo'](this['x']+map['x'],this['y']+map['y']),c[_0x5900db(0x1fa)](this['x']+this[_0x5900db(0x20e)]+map['x'],this['y']+this[_0x5900db(0x1d2)]+map['y']);}['compute'](){const _0x4b2840=_0x377072;this['x']+=this['xVel']/DTR,this['y']+=this[_0x4b2840(0x25f)]/DTR;if(getTileData(this['x'],this['y'])[_0x4b2840(0x203)])visualFxs[_0x4b2840(0x24d)](new Explosion(this['x']+this['xVel'],this['y']+this[_0x4b2840(0x25f)],this[_0x4b2840(0x1af)])),this[_0x4b2840(0x1af)]==0x2&&(screenShake[_0x4b2840(0x1cf)]=0x5),this[_0x4b2840(0x1c5)]=0x0,this['yVel']=0x0,this[_0x4b2840(0x20e)]/=0x2,this[_0x4b2840(0x1d2)]/=0x2,this[_0x4b2840(0x24b)]=![];else for(let _0x50b217=monsters[_0x4b2840(0x1c7)]-0x1;_0x50b217>=0x0;_0x50b217--){let _0x238ceb=monsters[_0x50b217];!_0x238ceb[_0x4b2840(0x1fd)]&&_0x238ceb[_0x4b2840(0x22a)]&&((pointSquareCol(this,_0x238ceb)||pointSquareCol(this[_0x4b2840(0x1f9)],_0x238ceb))&&(this[_0x4b2840(0x1bf)]=![],_0x238ceb[_0x4b2840(0x22b)]=this[_0x4b2840(0x1c5)]/0x2,_0x238ceb[_0x4b2840(0x225)]=this[_0x4b2840(0x25f)]/0x2,visualFxs['push'](new Explosion(this['x'],this['y'],this[_0x4b2840(0x1af)])),this[_0x4b2840(0x1af)]==0x2&&(screenShake[_0x4b2840(0x1cf)]=0x5),this['xVel']=0x0,this[_0x4b2840(0x25f)]=0x0,this[_0x4b2840(0x1f7)]=this['x']-_0x238ceb['x'],this[_0x4b2840(0x239)]=this['y']-_0x238ceb['y'],_0x238ceb[_0x4b2840(0x1c8)]['push'](this),_0x238ceb['hp']-=this['damage'],_0x238ceb[_0x4b2840(0x253)]=0xf));}}}var enemyProjectiles=[];class EnemyProjectile{constructor(){const _0x204b82=_0x377072;this['x']=0x0,this['y']=0x0,this['w'],this['h'],this[_0x204b82(0x25f)]=0x0,this[_0x204b82(0x1c5)]=0x0,this[_0x204b82(0x24b)]=!![],this['friendly']=![],this[_0x204b82(0x1de)]=id(_0x204b82(0x1de)),this[_0x204b82(0x1e9)]=[0x5],this[_0x204b82(0x20d)]=[0x18],this[_0x204b82(0x23c)]=0x0,this[_0x204b82(0x217)]=0x5;}[_0x377072(0x1dd)](){const _0x3fb004=_0x377072;this['x']+=this[_0x3fb004(0x1c5)]/DTR,this['y']+=this[_0x3fb004(0x25f)]/DTR,getTileData(this['x'],this['y'])[_0x3fb004(0x203)]?(enemyProjectiles[_0x3fb004(0x1ef)](enemyProjectiles[_0x3fb004(0x1b1)](this),0x1),visualFxs[_0x3fb004(0x24d)](new Explosion(this['x']+this[_0x3fb004(0x1c5)],this['y']+this[_0x3fb004(0x25f)],0x1)),this[_0x3fb004(0x1c5)]=0x0,this['yVel']=0x0,this['lengthX']/=0x2,this[_0x3fb004(0x1d2)]/=0x2,this[_0x3fb004(0x24b)]=![]):pointSquareCol(this,player)&&(enemyProjectiles[_0x3fb004(0x1ef)](enemyProjectiles[_0x3fb004(0x1b1)](this),0x1),player[_0x3fb004(0x22b)]+=this[_0x3fb004(0x1c5)]/0x2,player[_0x3fb004(0x225)]+=this['yVel']/0x2,player['hp']-=this[_0x3fb004(0x217)],visualFxs[_0x3fb004(0x24d)](new Explosion(this['x'],this['y'],0x1)),screenShake[_0x3fb004(0x1cf)]=0x5);}[_0x377072(0x1cd)](){const _0x315c52=_0x377072;c[_0x315c52(0x238)](this[_0x315c52(0x1de)],this[_0x315c52(0x1e9)][this[_0x315c52(0x23c)]]*TILESIZE,this[_0x315c52(0x20d)][this[_0x315c52(0x23c)]]*TILESIZE,TILESIZE,TILESIZE,this['x']-TILESIZE/0x2+map['x'],this['y']-TILESIZE/0x2+map['y'],TILESIZE,TILESIZE);}}class Explosion{constructor(_0x2813a8,_0x3b26b5,_0x3c4268){const _0x1314c2=_0x377072;this['sheet']=id(_0x1314c2(0x1de)),this['x']=_0x2813a8-0x10,this['y']=_0x3b26b5-0x10,this['w']=0x20,this['h']=0x20,this['frameCounter']=0x0,this[_0x1314c2(0x24e)]=0x0,this[_0x1314c2(0x1ad)]=_0x3c4268-0x1,this[_0x1314c2(0x1e9)]=[[0x1c0,0x1c0,0x1c0,0x1c0,0x1c0,0x1c0],[0x1c0,0x1c0,0x1c0,0x1c0,0x1c0,0x1c0]],this[_0x1314c2(0x20d)]=[[0x0,0x20,0x40,0x60,0x80,0xa0],[0xc0,0xe0,0x100,0x120,0x140,0x160]],this[_0x1314c2(0x247)]=0x4,this[_0x1314c2(0x20f)]=![];}[_0x377072(0x1cd)](){const _0x46186b=_0x377072;c[_0x46186b(0x238)](this[_0x46186b(0x1de)],this['actionX'][this[_0x46186b(0x1ad)]][this[_0x46186b(0x24e)]],this['actionY'][this[_0x46186b(0x1ad)]][this['currentFrame']],TILESIZE,TILESIZE,this['x']+map['x'],this['y']+map['y'],this['w'],this['h']),this[_0x46186b(0x241)]++,this[_0x46186b(0x241)]>this[_0x46186b(0x247)]*DTR&&(this['frameCounter']=0x0,this['currentFrame']++,this[_0x46186b(0x24e)]>this['actionX'][this[_0x46186b(0x1ad)]]['length']-0x1&&(this[_0x46186b(0x20f)]=!![]));}}class Collidable{constructor(){}[_0x377072(0x213)](){const _0x44a3e8=_0x377072;let _0x4f8ba1;this['col']['T']=0x0,this[_0x44a3e8(0x237)]['B']=0x0,this['col']['L']=0x0,this['col']['R']=0x0,getTileData(this['x'],this['y'])[_0x44a3e8(0x1b0)]&&(generatedSquare={'x':(this['x']/TILESIZE|0x0)*TILESIZE,'y':(this['y']/TILESIZE|0x0)*TILESIZE,'w':TILESIZE,'h':TILESIZE},_0x4f8ba1=colCheck(this,generatedSquare),this['x']+=(this[_0x44a3e8(0x237)]['L']-this[_0x44a3e8(0x237)]['R'])/0x5/DTR,this['y']+=(this[_0x44a3e8(0x237)]['T']-this[_0x44a3e8(0x237)]['B'])/0x5/DTR),getTileData(this['x']+this['w'],this['y'])[_0x44a3e8(0x1b0)]&&(generatedSquare={'x':((this['x']+this['w'])/TILESIZE|0x0)*TILESIZE,'y':(this['y']/TILESIZE|0x0)*TILESIZE,'w':TILESIZE,'h':TILESIZE},_0x4f8ba1=colCheck(this,generatedSquare),this['x']+=(this[_0x44a3e8(0x237)]['L']-this[_0x44a3e8(0x237)]['R'])/0x5/DTR,this['y']+=(this['col']['T']-this[_0x44a3e8(0x237)]['B'])/0x5/DTR),getTileData(this['x'],this['y']+this['h'])[_0x44a3e8(0x1b0)]&&(generatedSquare={'x':(this['x']/TILESIZE|0x0)*TILESIZE,'y':((this['y']+this['h'])/TILESIZE|0x0)*TILESIZE,'w':TILESIZE,'h':TILESIZE},_0x4f8ba1=colCheck(this,generatedSquare),this['x']+=(this[_0x44a3e8(0x237)]['L']-this[_0x44a3e8(0x237)]['R'])/0x5/DTR,this['y']+=(this['col']['T']-this[_0x44a3e8(0x237)]['B'])/0x5/DTR),getTileData(this['x']+this['w'],this['y']+this['h'])['unpassable']&&(generatedSquare={'x':((this['x']+this['w'])/TILESIZE|0x0)*TILESIZE,'y':((this['y']+this['h'])/TILESIZE|0x0)*TILESIZE,'w':TILESIZE,'h':TILESIZE},_0x4f8ba1=colCheck(this,generatedSquare),this['x']+=(this[_0x44a3e8(0x237)]['L']-this['col']['R'])/0x5/DTR,this['y']+=(this[_0x44a3e8(0x237)]['T']-this[_0x44a3e8(0x237)]['B'])/0x5/DTR),this[_0x44a3e8(0x237)]['B']&&(this[_0x44a3e8(0x225)]>0x0&&(this[_0x44a3e8(0x225)]*=-0.5)),this['col']['T']&&(this['yVelExt']<0x0&&(this[_0x44a3e8(0x225)]*=-0.5)),this[_0x44a3e8(0x237)]['R']&&(this[_0x44a3e8(0x22b)]>0x0&&(this[_0x44a3e8(0x22b)]*=-0.5)),this['col']['L']&&(this[_0x44a3e8(0x22b)]<0x0&&(this[_0x44a3e8(0x22b)]*=-0.5));}}class Player extends Collidable{constructor(_0x4e04cf,_0x5e68c0){const _0x74f52=_0x377072;super(Collidable),this['x']=_0x4e04cf,this['y']=_0x5e68c0,this['w']=TILESIZE,this['h']=TILESIZE,this[_0x74f52(0x201)]=0x3,this[_0x74f52(0x25f)]=0x0,this[_0x74f52(0x1c5)]=0x0,this['yVelExt']=0x0,this[_0x74f52(0x22b)]=0x0,this['L']=![],this['R']=![],this['T']=![],this['B']=![],this[_0x74f52(0x1ca)]=0xa,this[_0x74f52(0x25c)]=0x0,this[_0x74f52(0x23a)]=0x0,this[_0x74f52(0x237)]={'T':0x0,'B':0x0,'L':0x0,'R':0x0},this['actionX']=[0x0,0x20,0x40],this[_0x74f52(0x20d)]=[0x0,0x0,0x0],this[_0x74f52(0x1ad)]=0x0,this[_0x74f52(0x241)]=0x0,this[_0x74f52(0x247)]=0x6,this[_0x74f52(0x250)]=0x0,this[_0x74f52(0x22e)]=![],this[_0x74f52(0x1cc)]=0x14,this[_0x74f52(0x206)]=0x0,this[_0x74f52(0x234)]=0x0,this[_0x74f52(0x221)]=[0x1,0x1,0x1,0x1,0x1],this[_0x74f52(0x1bb)]=0x3c,this[_0x74f52(0x1ac)]=0x0,this[_0x74f52(0x251)]=0x4,this['hp']=0x64,this[_0x74f52(0x21d)]=0x64,this['mp']=0x64,this[_0x74f52(0x209)]=0x64,this[_0x74f52(0x24a)]=0.25,this[_0x74f52(0x240)]={'active':![],'radians':0x0,'actionX':[0xc0,0xf0,0x120,0x150,0x180],'actionY':[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0],'frameCounter':0x0,'action':0x0,'slowness':0x4,'w':0x30,'h':0x30};}[_0x377072(0x1e4)](){const _0x21ec92=_0x377072;let _0x1ebba9=!![],_0x5bc787;for(_0x5bc787=0x0;_0x5bc787<this[_0x21ec92(0x221)][_0x21ec92(0x1c7)];_0x5bc787++){if(this[_0x21ec92(0x221)][_0x5bc787]===0x0){_0x1ebba9=![];break;}}this['arrowsCount']=_0x5bc787;if(!_0x1ebba9){this[_0x21ec92(0x1ac)]++;if(this[_0x21ec92(0x1ac)]>this[_0x21ec92(0x1bb)]*DTR)for(_0x5bc787=0x0;_0x5bc787<this['arrowsArr'][_0x21ec92(0x1c7)];_0x5bc787++){if(this[_0x21ec92(0x221)][_0x5bc787]===0x0){Math['random']()<this['critChance']?this['arrowsArr'][_0x5bc787]=0x2:this[_0x21ec92(0x221)][_0x5bc787]=0x1;this['arrowCounter']=0x0;break;}}}else this[_0x21ec92(0x1ac)]=0x0;}['compute'](){const _0x3e274e=_0x377072;this[_0x3e274e(0x1e4)](),this[_0x3e274e(0x25c)]=this['x']+this['w']/0x2,this['centerY']=this['y']+this['h']/0x2,this[_0x3e274e(0x213)]();Math['abs'](this['xVelExt'])>0.01?this[_0x3e274e(0x22b)]-=this[_0x3e274e(0x22b)]*0.1/DTR:this[_0x3e274e(0x22b)]=0x0;Math['abs'](this[_0x3e274e(0x225)])>0.01?this[_0x3e274e(0x225)]-=this[_0x3e274e(0x225)]*0.1/DTR:this[_0x3e274e(0x225)]=0x0;this['L']&&this['T']||this['L']&&this['B']||this['R']&&this['T']||this['R']&&this['B']?this[_0x3e274e(0x201)]=0x2:this[_0x3e274e(0x201)]=0x3;this[_0x3e274e(0x250)]=Math[_0x3e274e(0x1aa)](Mouse['y']-this['y']-this['h']/0x2,Mouse['x']-this['w']/0x2-this['x'])+Math['PI']/0x2;if(this['L'])this[_0x3e274e(0x1c5)]=-this[_0x3e274e(0x201)];else!this['R']&&(this[_0x3e274e(0x1c5)]=0x0);if(this['R'])this[_0x3e274e(0x1c5)]=this['speed'];else!this['L']&&(this[_0x3e274e(0x1c5)]=0x0);if(this['T'])this[_0x3e274e(0x25f)]=-this['speed'];else!this['B']&&(this['yVel']=0x0);if(this['B'])this['yVel']=this[_0x3e274e(0x201)];else!this['T']&&(this['yVel']=0x0);this['x']+=(this[_0x3e274e(0x1c5)]+this[_0x3e274e(0x22b)])/DTR,this['y']+=(this[_0x3e274e(0x25f)]+this[_0x3e274e(0x225)])/DTR;}[_0x377072(0x1cd)](){const _0x8ad189=_0x377072;this[_0x8ad189(0x1c5)]===0x0&&this['yVel']===0x0?this[_0x8ad189(0x1ad)]=0x0:(this[_0x8ad189(0x241)]++,this[_0x8ad189(0x241)]>=this[_0x8ad189(0x247)]*DTR&&(this['action']++,this[_0x8ad189(0x241)]=0x0,this[_0x8ad189(0x1ad)]>=this[_0x8ad189(0x1e9)]['length']&&(this[_0x8ad189(0x1ad)]=0x0))),c[_0x8ad189(0x21c)](),c['translate'](this['x']+this['w']/0x2+map['x'],this['y']+this['h']/0x2+map['y']),c[_0x8ad189(0x259)](this[_0x8ad189(0x250)]),c['drawImage'](id(_0x8ad189(0x1c6)),this[_0x8ad189(0x1e9)][this[_0x8ad189(0x1ad)]],this[_0x8ad189(0x20d)][this[_0x8ad189(0x1ad)]],TILESIZE,TILESIZE,-this['w']/0x2,-this['h']/0x2,this['w'],this['h']),c[_0x8ad189(0x1d7)](),this[_0x8ad189(0x206)]&&(c['drawImage'](id(_0x8ad189(0x1de)),0x40,0x80,0x10,0x10,this['x']+0x8+map['x'],this['y']-0x10+map['y'],0x10,0x10),this['noArrows']--),this[_0x8ad189(0x240)][_0x8ad189(0x1bf)]&&this['drawBow']();}[_0x377072(0x1d9)](){const _0xf65541=_0x377072;this['bow']['frameCounter']++,this[_0xf65541(0x240)][_0xf65541(0x241)]>=this[_0xf65541(0x240)][_0xf65541(0x247)]*DTR&&(this[_0xf65541(0x240)][_0xf65541(0x1ad)]++,this[_0xf65541(0x240)][_0xf65541(0x241)]=0x0,this[_0xf65541(0x240)]['active']>=this[_0xf65541(0x240)][_0xf65541(0x1e9)][_0xf65541(0x1c7)]&&(this[_0xf65541(0x240)][_0xf65541(0x1bf)]=![])),c[_0xf65541(0x21c)](),c[_0xf65541(0x261)](this['x']+this['w']/0x2+map['x'],this['y']+this['h']/0x2+map['y']),c[_0xf65541(0x259)](this[_0xf65541(0x250)]),c['drawImage'](id('bow'),this[_0xf65541(0x240)]['actionX'][this['bow']['action']],this[_0xf65541(0x240)][_0xf65541(0x20d)][this['bow'][_0xf65541(0x1ad)]],0x30,0x30,-this[_0xf65541(0x240)]['w']/0x2,-this[_0xf65541(0x240)]['h'],this[_0xf65541(0x240)]['w'],this[_0xf65541(0x240)]['h']),c[_0xf65541(0x1d7)]();}[_0x377072(0x1fb)](){const _0xcd58c1=_0x377072;this[_0xcd58c1(0x240)][_0xcd58c1(0x1bf)]=!![],this[_0xcd58c1(0x240)][_0xcd58c1(0x241)]=0x0,this[_0xcd58c1(0x240)]['currentFrame']=0x0,this[_0xcd58c1(0x240)][_0xcd58c1(0x1ad)]=0x0;let _0x344a31=this['x']+this['w']/0x2,_0x4648d1=this['y']+this['h']/0x2,_0x2ec4c9=Mouse['x']-_0x344a31+Math['random']()*this[_0xcd58c1(0x1cc)]-this[_0xcd58c1(0x1cc)]/0x2,_0x10afe4=Mouse['y']-_0x4648d1+Math['random']()*this[_0xcd58c1(0x1cc)]-this['precision']/0x2,_0x8093e8=Math[_0xcd58c1(0x1aa)](_0x10afe4,_0x2ec4c9),_0x41b229=Math[_0xcd58c1(0x1d4)](_0x8093e8),_0x1ad06e=Math[_0xcd58c1(0x1b6)](_0x8093e8),_0x476e9c=new Projectile();_0x476e9c[_0xcd58c1(0x1c5)]=_0x41b229*this[_0xcd58c1(0x1ca)],_0x476e9c['yVel']=_0x1ad06e*this[_0xcd58c1(0x1ca)],_0x476e9c['x']=_0x344a31,_0x476e9c['y']=_0x4648d1,_0x476e9c[_0xcd58c1(0x1af)]=this[_0xcd58c1(0x221)][0x0],playerArrows[_0xcd58c1(0x24d)](_0x476e9c),this['arrowsArr']['shift'](),this[_0xcd58c1(0x221)][_0xcd58c1(0x24d)](0x0);}['attack'](){const _0x5caffb=_0x377072;if(!sword[_0x5caffb(0x1bf)]){sword['active']=!![],sword[_0x5caffb(0x1f0)]=this['radians'];if(Mouse['x']<this['x']-0x10||Mouse['x']>this['x']+this['w']+0x10||Mouse['y']<this['y']-0x10||Mouse['y']>this['y']+this['h']+0x10){let _0x48997d=this['x']+this['w']/0x2,_0x263013=this['y']+this['h']/0x2,_0x903213=returnCosine(Mouse['x'],Mouse['y'],_0x48997d,_0x263013);this[_0x5caffb(0x22b)]=_0x903213['cos']*0xe,this[_0x5caffb(0x225)]=_0x903213[_0x5caffb(0x1b6)]*0xe;}}}}var player=new Player(CANVAS[_0x377072(0x214)]/0x2,CANVAS[_0x377072(0x1c1)]/0x4*0x3);class UserInterface{constructor(){const _0x14aafe=_0x377072;this[_0x14aafe(0x1de)]=id(_0x14aafe(0x23f)),this['x']=0x14,this['y']=0x5,this[_0x14aafe(0x1ff)]=![],this[_0x14aafe(0x22f)]=![],this[_0x14aafe(0x234)]=0x0,this['layout']={'crop':{'x':0x0,'y':0x0,'w':0x144,'h':0x35},'pos':{'x':0x0,'y':0x0}},this['portrait']={'crop':[{'x':0x0,'y':0x40,'w':0x35,'h':0x35},{'x':0x40,'y':0x40,'w':0x35,'h':0x35}],'pos':{'x':0x8a,'y':0x0}},this['hpBar']={'crop':{'x':0x80,'y':0x40,'w':0x65,'h':0xb},'pos':{'x':0xd7,'y':0xa}},this['mpBar']={'crop':{'x':0x80,'y':0x50,'w':0x65,'h':0xb},'pos':{'x':0xd7,'y':0x17}},this[_0x14aafe(0x240)]={'crop':{'x':0xf0,'y':0x40,'w':0x3c,'h':0x3d},'pos':{'x':0x29a,'y':0xe}},this['sword']={'crop':{'x':0x130,'y':0x40,'w':0x3c,'h':0x3d},'pos':{'x':0x29a,'y':0x56}},this[_0x14aafe(0x204)]={'crop':[{'x':0x80,'y':0x60,'w':0x6,'h':0x15},{'x':0x90,'y':0x60,'w':0x6,'h':0x15},{'x':0xa0,'y':0x60,'w':0x6,'h':0x15}],'pos':{'x':0x63,'y':0xc}},this[_0x14aafe(0x221)]=[0x1,0x1,0x1,0x1];}[_0x377072(0x1cd)](){const _0x284b30=_0x377072;this[_0x284b30(0x1ff)]&&(c[_0x284b30(0x1b3)]=0.5);c[_0x284b30(0x238)](this[_0x284b30(0x1de)],this['bow'][_0x284b30(0x1f5)]['x'],this[_0x284b30(0x240)]['crop']['y'],this[_0x284b30(0x240)]['crop']['w'],this[_0x284b30(0x240)]['crop']['h'],this[_0x284b30(0x240)][_0x284b30(0x1a9)]['x'],this['bow'][_0x284b30(0x1a9)]['y'],this[_0x284b30(0x240)]['crop']['w'],this[_0x284b30(0x240)]['crop']['h']);this[_0x284b30(0x1ff)]&&(c['globalAlpha']=0x1);this['rClick']&&(c[_0x284b30(0x1b3)]=0.5);c[_0x284b30(0x238)](this[_0x284b30(0x1de)],this[_0x284b30(0x22e)][_0x284b30(0x1f5)]['x'],this[_0x284b30(0x22e)][_0x284b30(0x1f5)]['y'],this[_0x284b30(0x22e)]['crop']['w'],this['sword'][_0x284b30(0x1f5)]['h'],this[_0x284b30(0x22e)][_0x284b30(0x1a9)]['x'],this['sword']['pos']['y'],this[_0x284b30(0x22e)]['crop']['w'],this[_0x284b30(0x22e)]['crop']['h']);this[_0x284b30(0x22f)]&&(c[_0x284b30(0x1b3)]=0x1);c[_0x284b30(0x238)](this[_0x284b30(0x1de)],this[_0x284b30(0x1da)][_0x284b30(0x1f5)]['x'],this[_0x284b30(0x1da)][_0x284b30(0x1f5)]['y'],this[_0x284b30(0x1da)][_0x284b30(0x1f5)]['w'],this[_0x284b30(0x1da)][_0x284b30(0x1f5)]['h'],this[_0x284b30(0x1da)][_0x284b30(0x1a9)]['x']+this['x'],this[_0x284b30(0x1da)]['pos']['y']+this['y'],this[_0x284b30(0x1da)][_0x284b30(0x1f5)]['w'],this['layout']['crop']['h']),c['drawImage'](this[_0x284b30(0x1de)],this[_0x284b30(0x1d1)][_0x284b30(0x1f5)][player[_0x284b30(0x234)]]['x'],this[_0x284b30(0x1d1)][_0x284b30(0x1f5)][player[_0x284b30(0x234)]]['y'],this[_0x284b30(0x1d1)][_0x284b30(0x1f5)][player['attacked']]['w'],this['portrait'][_0x284b30(0x1f5)][player['attacked']]['h'],this[_0x284b30(0x1d1)][_0x284b30(0x1a9)]['x']+this['x'],this[_0x284b30(0x1d1)][_0x284b30(0x1a9)]['y']+this['y'],this[_0x284b30(0x1d1)][_0x284b30(0x1f5)][player[_0x284b30(0x234)]]['w'],this[_0x284b30(0x1d1)][_0x284b30(0x1f5)][player['attacked']]['h']),c[_0x284b30(0x238)](this[_0x284b30(0x1de)],this[_0x284b30(0x1c9)][_0x284b30(0x1f5)]['x'],this['hpBar'][_0x284b30(0x1f5)]['y'],this[_0x284b30(0x1c9)][_0x284b30(0x1f5)]['w'],this['hpBar'][_0x284b30(0x1f5)]['h'],this[_0x284b30(0x1c9)][_0x284b30(0x1a9)]['x']+this['x'],this[_0x284b30(0x1c9)]['pos']['y']+this['y'],this[_0x284b30(0x1c9)][_0x284b30(0x1f5)]['w']/player['maxHp']*player['hp'],this[_0x284b30(0x1c9)][_0x284b30(0x1f5)]['h']),c[_0x284b30(0x238)](this[_0x284b30(0x1de)],this[_0x284b30(0x1f3)]['crop']['x'],this[_0x284b30(0x1f3)][_0x284b30(0x1f5)]['y'],this[_0x284b30(0x1f3)][_0x284b30(0x1f5)]['w'],this[_0x284b30(0x1f3)][_0x284b30(0x1f5)]['h'],this[_0x284b30(0x1f3)][_0x284b30(0x1a9)]['x']+this['x'],this[_0x284b30(0x1f3)][_0x284b30(0x1a9)]['y']+this['y'],this[_0x284b30(0x1f3)][_0x284b30(0x1f5)]['w'],this[_0x284b30(0x1f3)][_0x284b30(0x1f5)]['h']);for(let _0x32d5dd=0x0;_0x32d5dd<player['arrowsArr'][_0x284b30(0x1c7)];_0x32d5dd++){c[_0x284b30(0x238)](this['sheet'],this[_0x284b30(0x204)][_0x284b30(0x1f5)][player['arrowsArr'][_0x32d5dd]]['x'],this[_0x284b30(0x204)][_0x284b30(0x1f5)][player['arrowsArr'][_0x32d5dd]]['y'],this[_0x284b30(0x204)][_0x284b30(0x1f5)][player[_0x284b30(0x221)][_0x32d5dd]]['w'],this[_0x284b30(0x204)][_0x284b30(0x1f5)][player[_0x284b30(0x221)][_0x32d5dd]]['h'],this[_0x284b30(0x204)]['pos']['x']+this['x']-0xa*_0x32d5dd,this[_0x284b30(0x204)]['pos']['y']+this['y'],this[_0x284b30(0x204)][_0x284b30(0x1f5)][player[_0x284b30(0x221)][_0x32d5dd]]['w'],this[_0x284b30(0x204)][_0x284b30(0x1f5)][player['arrowsArr'][_0x32d5dd]]['h']);}c[_0x284b30(0x1ab)]=_0x284b30(0x232),c[_0x284b30(0x245)]=_0x284b30(0x210),c[_0x284b30(0x220)]=_0x284b30(0x21b),c[_0x284b30(0x23b)](player[_0x284b30(0x251)]+'/'+player[_0x284b30(0x221)][_0x284b30(0x1c7)],0x7a+this['x'],0x20+this['y']);}}var userInterface=new UserInterface();function drawLaser(){const _0xee5afd=_0x377072;let _0x39dde1=player['x']+player['w']/0x2,_0x6b9cae=player['y']+player['h']/0x2,_0x2876ec=_0x39dde1,_0x1525b0=_0x6b9cae,_0x3359a4=![],_0x408454=0x0,_0x3f6f79=returnCosine(_0x39dde1,_0x6b9cae,Mouse['x'],Mouse['y']),_0x24ab0c=[],_0xcef4a9={'x1':0x0,'y1':0x0,'x2':0x0,'y2':0x0},_0xd814c8={'x':0x0,'y':0x0,'w':0x0,'h':0x0},_0x3768dd=0x4,_0x1aadf4={'x':0x0,'y':0x0};while(!_0x3359a4&&_0x408454<CANVAS[_0xee5afd(0x214)]*0x2/_0x3768dd){_0x2876ec-=_0x3f6f79['cos']*_0x3768dd,_0x1525b0-=_0x3f6f79['sin']*_0x3768dd;getTileData(_0x2876ec,_0x1525b0)[_0xee5afd(0x203)]&&(_0xcef4a9=getTileData(_0x2876ec,_0x1525b0)[_0xee5afd(0x1bd)],_0xd814c8['x']=_0xcef4a9['x'],_0xd814c8['y']=_0xcef4a9['y'],_0xd814c8['w']=_0xcef4a9['w'],_0xd814c8['h']=_0xcef4a9['h'],_0xd814c8['x']+=_0x2876ec-_0x2876ec%TILESIZE,_0xd814c8['y']+=_0x1525b0-_0x1525b0%TILESIZE,_0x3359a4=!![]);_0x1aadf4['x']=_0x2876ec,_0x1aadf4['y']=_0x1525b0;for(let _0x567f2a=0x0;_0x567f2a<monsters[_0xee5afd(0x1c7)];_0x567f2a++){if(!monsters[_0x567f2a][_0xee5afd(0x1fd)]&&pointSquareCol(_0x1aadf4,monsters[_0x567f2a])){_0xd814c8['x']=monsters[_0x567f2a]['x'],_0xd814c8['y']=monsters[_0x567f2a]['y'],_0xd814c8['w']=monsters[_0x567f2a]['w'],_0xd814c8['h']=monsters[_0x567f2a]['h'],_0x3359a4=!![];break;}}_0x408454++;}_0x24ab0c=getRectSides(_0xd814c8);let _0x279155=[],_0x30763f={},_0xa3cb7;for(let _0x59df9d=0x0;_0x59df9d<_0x24ab0c[_0xee5afd(0x1c7)];_0x59df9d++){_0x30763f=intersect(_0x39dde1,_0x6b9cae,_0x2876ec,_0x1525b0,_0x24ab0c[_0x59df9d]['x1'],_0x24ab0c[_0x59df9d]['y1'],_0x24ab0c[_0x59df9d]['x2'],_0x24ab0c[_0x59df9d]['y2']),_0x30763f&&_0x279155['push'](_0x30763f);}let _0xd01ac5=Math[_0xee5afd(0x24f)](_0x39dde1-_0x2876ec,_0x6b9cae-_0x1525b0),_0xd25bf9=_0x2876ec,_0x15c5b5=_0x2876ec;for(let _0x12b09b=0x0;_0x12b09b<_0x279155['length'];_0x12b09b++){_0xa3cb7=Math['hypot'](_0x39dde1-_0x2876ec,_0x6b9cae-_0x1525b0),_0xa3cb7<_0xd01ac5&&(_0xd01ac5=_0xa3cb7,_0xd25bf9=_0x279155[_0x12b09b]['x'],_0x15c5b5=_0x279155[_0x12b09b]['y']);}c['strokeStyle']=_0xee5afd(0x25a),c[_0xee5afd(0x1bc)](),c[_0xee5afd(0x212)](_0x39dde1+map['x'],_0x6b9cae+map['y']),c[_0xee5afd(0x1fa)](_0x2876ec+map['x'],_0x1525b0+map['y']),c[_0xee5afd(0x1ce)](),c['strokeStyle']=_0xee5afd(0x202);}function isObstructed(_0x14547a,_0x478f7f){const _0x4727ff=_0x377072;let _0xc64bc9=_0x14547a['x']+_0x14547a['w']/0x2,_0x58c480=_0x14547a['y']+_0x14547a['h']/0x2,_0x43043f=_0x478f7f['x']+_0x478f7f['w']/0x2,_0x4d9d86=_0x478f7f['y']+_0x478f7f['h']/0x2,_0x2d5d21=Math[_0x4727ff(0x24f)](_0xc64bc9-_0x43043f,_0x58c480-_0x4d9d86),_0x105f04=_0xc64bc9,_0x29d987=_0x58c480,_0x23f173=![],_0x45510a=0x0,_0x179440=returnCosine(_0xc64bc9,_0x58c480,_0x43043f,_0x4d9d86),_0x3b7968=[],_0x29615f={'x1':0x0,'y1':0x0,'x2':0x0,'y2':0x0},_0x369dab={'x':0x0,'y':0x0,'w':0x0,'h':0x0},_0x15e849=0x3,_0x33168e={'x':0x0,'y':0x0};while(!_0x23f173&&_0x45510a<_0x2d5d21/_0x15e849){_0x105f04-=_0x179440['cos']*_0x15e849,_0x29d987-=_0x179440[_0x4727ff(0x1b6)]*_0x15e849;if(getTileData(_0x105f04,_0x29d987)[_0x4727ff(0x203)])return _0x29615f=getTileData(_0x105f04,_0x29d987)[_0x4727ff(0x1bd)],_0x369dab['x']=_0x29615f['x'],_0x369dab['y']=_0x29615f['y'],_0x369dab['w']=_0x29615f['w'],_0x369dab['h']=_0x29615f['h'],_0x369dab['x']+=_0x105f04-_0x105f04%TILESIZE,_0x369dab['y']+=_0x29d987-_0x29d987%TILESIZE,!![];_0x33168e['x']=_0x105f04,_0x33168e['y']=_0x29d987;if(pointSquareCol(_0x33168e,_0x478f7f))return![];_0x45510a++;}}function getRectSides(_0x523d67){const _0x7ed5c6=_0x377072;let _0x4bb4d2=[];return _0x4bb4d2['push']({'x1':_0x523d67['x'],'y1':_0x523d67['y'],'x2':_0x523d67['x']+_0x523d67['w'],'y2':_0x523d67['y']}),_0x4bb4d2[_0x7ed5c6(0x24d)]({'x1':_0x523d67['x']+_0x523d67['w'],'y1':_0x523d67['y'],'x2':_0x523d67['x']+_0x523d67['w'],'y2':_0x523d67['y']+_0x523d67['h']}),_0x4bb4d2['push']({'x1':_0x523d67['x']+_0x523d67['w'],'y1':_0x523d67['y']+_0x523d67['h'],'x2':_0x523d67['x'],'y2':_0x523d67['y']+_0x523d67['h']}),_0x4bb4d2['push']({'x1':_0x523d67['x'],'y1':_0x523d67['y']+_0x523d67['h'],'x2':_0x523d67['x'],'y2':_0x523d67['y']}),_0x4bb4d2;}function init(){const _0x2df260=_0x377072;let _0x3acc21,_0x1c16ee={};fetch(_0x2df260(0x255))[_0x2df260(0x1e0)](function(_0x295cba){const _0x1ae087=_0x2df260;return _0x295cba[_0x1ae087(0x1eb)]();})[_0x2df260(0x1e0)](function(_0x5f56d5){const _0x426a3c=_0x2df260;_0x3acc21=_0x5f56d5['tiles'];for(let _0x3c962d=0x0;_0x3c962d<_0x3acc21[_0x426a3c(0x1c7)];_0x3c962d++){_0x1c16ee={'id':0x0,'solid':![],'hole':![],'unpassable':![],'hitbox':{'x':0x0,'y':0x0,'w':TILESIZE,'h':TILESIZE}},_0x1c16ee['id']=_0x3acc21[_0x3c962d]['id'];if(_0x3acc21[_0x3c962d][_0x426a3c(0x246)]('properties'))for(let _0x1e32b8=0x0;_0x1e32b8<_0x3acc21[_0x3c962d][_0x426a3c(0x1e5)]['length'];_0x1e32b8++){if(_0x3acc21[_0x3c962d][_0x426a3c(0x1e5)][_0x1e32b8])switch(_0x3acc21[_0x3c962d]['properties'][_0x1e32b8][_0x426a3c(0x20c)]){case _0x426a3c(0x227):_0x1c16ee['hole']=!![],_0x1c16ee[_0x426a3c(0x1b0)]=!![];break;case _0x426a3c(0x203):_0x1c16ee['solid']=!![],_0x1c16ee[_0x426a3c(0x1b0)]=!![];break;}}TilesData[_0x426a3c(0x24d)](_0x1c16ee);}loop();});}init();var HP_BAR=id('hp-bar');function renderHpBars(){const _0x35b838=_0x377072;for(let _0x45ad49=0x0;_0x45ad49<monsters[_0x35b838(0x1c7)];_0x45ad49++){if(monsters[_0x45ad49]['dead'])continue;let _0x28c120=monsters[_0x45ad49]['hp']/monsters[_0x45ad49][_0x35b838(0x21d)],_0x15debf=Math['round'](TILESIZE*_0x28c120);c['drawImage'](HP_BAR,0x0,0x4,_0x15debf,0x4,monsters[_0x45ad49]['x']+monsters[_0x45ad49]['w']/0x2-0x10+map['x']|0x0,monsters[_0x45ad49]['y']-0x8+map['y']|0x0,_0x15debf|0x0,0x4|0x0),c['drawImage'](HP_BAR,0x0,0x0,TILESIZE,0x4,monsters[_0x45ad49]['x']+monsters[_0x45ad49]['w']/0x2-0x10+map['x']|0x0,monsters[_0x45ad49]['y']-0x8+map['y']|0x0,TILESIZE|0x0,0x4|0x0);}}class Map{constructor(){const _0x1ce9de=_0x377072;this[_0x1ce9de(0x214)]=0x17,this[_0x1ce9de(0x1c1)]=0xf,this['x']=0x0,this['y']=0x0,this['tiles']=maps['m1'],this['sheet']=id(_0x1ce9de(0x1de)),this['grass']=id(_0x1ce9de(0x1cb));}[_0x377072(0x1cd)](){const _0x64620=_0x377072;for(let _0x21e831=0x0;_0x21e831<this['tiles'][_0x64620(0x1c7)];_0x21e831++){_0x21e831==0x1&&c[_0x64620(0x238)](this[_0x64620(0x1cb)],0x0+this['x'],0x0+this['y'],CANVAS['width'],CANVAS[_0x64620(0x1c1)]);for(let _0x3e14b6=0x0;_0x3e14b6<this[_0x64620(0x249)][_0x21e831][_0x64620(0x1c7)];_0x3e14b6++){if(this[_0x64620(0x249)][_0x21e831][_0x3e14b6]===0x0)continue;c[_0x64620(0x238)](this[_0x64620(0x1de)],(this[_0x64620(0x249)][_0x21e831][_0x3e14b6]-0x1)%0xf*TILESIZE,((this[_0x64620(0x249)][_0x21e831][_0x3e14b6]-0x1)/0xf|0x0)*TILESIZE,TILESIZE,TILESIZE,_0x3e14b6%this['width']*TILESIZE+map['x'],(_0x3e14b6/this[_0x64620(0x214)]|0x0)*TILESIZE+map['y'],TILESIZE,TILESIZE);}}}}var map=new Map();class Sword{constructor(){const _0x411370=_0x377072;this['x']=player['x'],this['y']=player['y'],this['w']=0x10,this['h']=0x30,this['r']=0x32,this['radians']=0x2,this[_0x411370(0x1f0)]=0x0,this[_0x411370(0x1e9)]=[0x0],this[_0x411370(0x20d)]=[0x0],this['vfxX']=[0x0,0x0,0x0,0x0],this[_0x411370(0x1dc)]=[0x0,0x80,0x100,0x180],this[_0x411370(0x24e)]=0x0,this[_0x411370(0x241)]=0x0,this['action']=0x0,this['slowness']=0x3,this['active']=![],this[_0x411370(0x1de)]=id('sword-vfx'),this['swordImg']=id('sword');}[_0x377072(0x1dd)](){const _0x532bce=_0x377072;this['x']=player['x']+player['w']/0x2,this['y']=player['y']+player['h']/0x2;let _0x2ca546,_0x4dfda8,_0x673ae6;for(let _0x2ebdd3=0x0;_0x2ebdd3<monsters['length'];_0x2ebdd3++){if(monsters[_0x2ebdd3][_0x532bce(0x1fd)]||!monsters[_0x2ebdd3][_0x532bce(0x22a)])continue;_0x2ca546=monsters[_0x2ebdd3][_0x532bce(0x1bd)]['x']+monsters[_0x2ebdd3][_0x532bce(0x1bd)]['w']/0x2,_0x4dfda8=monsters[_0x2ebdd3][_0x532bce(0x1bd)]['y']+monsters[_0x2ebdd3][_0x532bce(0x1bd)]['h']/0x2,_0x673ae6=(monsters[_0x2ebdd3]['w']+monsters[_0x2ebdd3]['h'])/0x2*0.5;if(circleCollision(this['x'],this['y'],this['r'],_0x2ca546,_0x4dfda8,_0x673ae6)){let _0x34b620=this['x']+this['w']/0x2,_0x1e0f67=this['y']+this['h']/0x2,_0x42f80f=monsters[_0x2ebdd3]['x']-_0x34b620,_0xaa9b23=monsters[_0x2ebdd3]['y']-_0x1e0f67,_0x26983f=Math[_0x532bce(0x1aa)](_0xaa9b23,_0x42f80f),_0x1d34d0=Math[_0x532bce(0x1d4)](_0x26983f),_0x3d6b30=Math[_0x532bce(0x1b6)](_0x26983f);monsters[_0x2ebdd3][_0x532bce(0x22b)]=_0x1d34d0*0xa,monsters[_0x2ebdd3][_0x532bce(0x225)]=_0x3d6b30*0xa,monsters[_0x2ebdd3]['hp']-=0.25,monsters[_0x2ebdd3][_0x532bce(0x253)]=0xf;}}}['draw'](){const _0x4aaabf=_0x377072;this['frameCounter']++,this[_0x4aaabf(0x241)]>this[_0x4aaabf(0x247)]*DTR&&(this['frameCounter']=0x0,this['currentFrame']++,this[_0x4aaabf(0x24e)]>=this[_0x4aaabf(0x1d0)][_0x4aaabf(0x1c7)]&&(this[_0x4aaabf(0x24e)]=0x0)),c[_0x4aaabf(0x238)](this['sheet'],this[_0x4aaabf(0x1d0)][this['currentFrame']],this[_0x4aaabf(0x1dc)][this[_0x4aaabf(0x24e)]],0x80,0x40,this['x']-0x40-player['xVelExt']*0x4+map['x'],this['y']-0x40-player['yVelExt']*0x4+map['y'],0x80,0x40),c['save'](),c[_0x4aaabf(0x261)](player['x']+player['w']/0x2+map['x'],player['y']+player['h']/0x2+map['y']),c[_0x4aaabf(0x259)](this[_0x4aaabf(0x1f0)]+this[_0x4aaabf(0x250)]),c[_0x4aaabf(0x238)](this[_0x4aaabf(0x1f2)],this[_0x4aaabf(0x1e9)][this['action']],this[_0x4aaabf(0x20d)][this[_0x4aaabf(0x1ad)]],this['w'],this['h'],-this['w']/0x2,-this['h']/0x2-player['h'],this['w'],this['h']),c[_0x4aaabf(0x1d7)](),this['radians']-=0.5/DTR,this[_0x4aaabf(0x250)]<=-0x9&&(this[_0x4aaabf(0x1bf)]=![],this[_0x4aaabf(0x250)]=0x2),c[_0x4aaabf(0x238)](this[_0x4aaabf(0x1de)],this[_0x4aaabf(0x1d0)][this['currentFrame']],this[_0x4aaabf(0x1dc)][this[_0x4aaabf(0x24e)]]+0x40,0x80,0x40,this['x']-0x40-player[_0x4aaabf(0x22b)]*0x4+map['x'],this['y']-player[_0x4aaabf(0x225)]*0x4+map['y'],0x80,0x40);}}var sword=new Sword();function sortMonsters(){monsters['sort'](function(_0x4c2f80,_0x80a169){const _0x2b4048=_0x1230;if(_0x4c2f80[_0x2b4048(0x1fd)]&&!_0x80a169['dead'])return-0x1;else return!_0x4c2f80[_0x2b4048(0x1fd)]&&_0x80a169[_0x2b4048(0x1fd)]?0x1:_0x4c2f80['y']+0xf-_0x80a169['y'];});}function adjustCollidingMonsters(){const _0x565dde=_0x377072;for(let _0xc42baa=0x0;_0xc42baa<monsters[_0x565dde(0x1c7)];_0xc42baa++){if(monsters[_0xc42baa][_0x565dde(0x1fd)])continue;monsters[_0xc42baa][_0x565dde(0x237)]['T']=0x0,monsters[_0xc42baa][_0x565dde(0x237)]['B']=0x0,monsters[_0xc42baa]['col']['L']=0x0,monsters[_0xc42baa]['col']['R']=0x0;for(let _0x56cb18=0x0;_0x56cb18<monsters[_0x565dde(0x1c7)];_0x56cb18++){if(monsters[_0x56cb18][_0x565dde(0x1fd)])continue;if(collided(monsters[_0xc42baa],monsters[_0x56cb18])){let _0x262e86=colCheck(monsters[_0xc42baa],monsters[_0x56cb18]);switch(_0x262e86){case'l':this[_0x565dde(0x1c5)]<0x0&&(this[_0x565dde(0x1c5)]=0x0);break;case'r':this[_0x565dde(0x1c5)]>0x0&&(this['xVel']=0x0);break;case'b':this[_0x565dde(0x25f)]>0x0&&(this[_0x565dde(0x25f)]=0x0);break;case't':this[_0x565dde(0x25f)]<0x0&&(this[_0x565dde(0x25f)]=0x0);break;}monsters[_0xc42baa][_0x565dde(0x1c5)]+=(monsters[_0xc42baa]['col']['L']-monsters[_0xc42baa][_0x565dde(0x237)]['R'])/0x5,monsters[_0xc42baa]['yVel']+=(monsters[_0xc42baa][_0x565dde(0x237)]['T']-monsters[_0xc42baa][_0x565dde(0x237)]['B'])/0x5;}}}}class Monster extends Collidable{constructor(_0x18561c,_0xc356d6){const _0xeb02f2=_0x377072;super(Collidable),this['x']=_0x18561c,this['y']=_0xc356d6,this['w']=TILESIZE,this['h']=TILESIZE,this[_0xeb02f2(0x1c5)]=0x0,this[_0xeb02f2(0x25f)]=0x0,this['xVelExt']=0x0,this['yVelExt']=0x0,this[_0xeb02f2(0x201)]=0x2,this[_0xeb02f2(0x244)]=0x0,this[_0xeb02f2(0x252)]=![],this['justDamaged']=0x0,this['dead']=![],this[_0xeb02f2(0x1c8)]=[],this[_0xeb02f2(0x21d)]=0x3,this['hp']=0x3,this['frameCounter']=0x0,this[_0xeb02f2(0x247)]=0x4,this[_0xeb02f2(0x24e)]=0x0,this[_0xeb02f2(0x22a)]=!![],this['sheet']=id(_0xeb02f2(0x1de)),this['action']=0x0,this['col']={'T':0x0,'B':0x0,'L':0x0,'R':0x0},this['hitbox']={'x':0x0,'y':0x0,'w':0x13,'h':0x11},this[_0xeb02f2(0x1e9)]=[[0x3,0x3,0x3,0x3],[0x4,0x4,0x4,0x4],[0x5,0x5,0x5,0x5],[0x3,0x3,0x3,0x3],[0x3]],this[_0xeb02f2(0x20d)]=[[0x6,0x7,0x8,0x9],[0x6,0x7,0x8,0x9],[0x6,0x7,0x8,0x9],[0x9,0x8,0x7,0x6],[0x9]];}['followPlayer'](){const _0x383610=_0x377072;if(this['action']!==0x0){let _0x5dd6f9=this['x']+this['w']/0x2-player['x']-player['w']/0x2,_0x40c7e6=this['y']+this['h']/0x2-player['y']-player['h']/0x2,_0x4a37c5=_0x5dd6f9>0x0?-0x1:0x1,_0x2d8677=_0x40c7e6>0x0?-0x1:0x1,_0x34e243;_0x40c7e6!==0x0?_0x34e243=Math[_0x383610(0x1d3)](_0x5dd6f9)/(Math[_0x383610(0x1d3)](_0x40c7e6)+Math[_0x383610(0x1d3)](_0x5dd6f9)):_0x34e243=0x0;this['xVel']=this[_0x383610(0x201)]*_0x34e243*_0x4a37c5,this['yVel']=this[_0x383610(0x201)]*(0x1-_0x34e243)*_0x2d8677;if(this['x']+this['w']<player['x'])this['left']=![];else player['x']+player['w']<this['x']&&(this['left']=!![]);}}[_0x377072(0x1dd)](){const _0x3e12aa=_0x377072;if(!this[_0x3e12aa(0x1fd)]){this[_0x3e12aa(0x1e3)]();Math['abs'](this[_0x3e12aa(0x22b)])>0.01?this[_0x3e12aa(0x22b)]*=0.9:this[_0x3e12aa(0x22b)]=0x0;Math[_0x3e12aa(0x1d3)](this['yVelExt'])>0.01?this[_0x3e12aa(0x225)]*=0.9:this['yVelExt']=0x0;(this[_0x3e12aa(0x237)]['T']&&this['yVel']<0x0||this[_0x3e12aa(0x237)]['B']&&this[_0x3e12aa(0x25f)]>0x0)&&(this[_0x3e12aa(0x25f)]=0x0);(this[_0x3e12aa(0x237)]['L']&&this['xVel']<0x0||this['col']['R']&&this[_0x3e12aa(0x1c5)]>0x0)&&(this['xVel']=0x0);this['action']!==0x0&&(this[_0x3e12aa(0x244)]?this[_0x3e12aa(0x1ad)]=0x2:this[_0x3e12aa(0x1ad)]=0x1);this[_0x3e12aa(0x213)](),this['x']+=(this[_0x3e12aa(0x1c5)]+this[_0x3e12aa(0x22b)])/DTR,this['y']+=(this[_0x3e12aa(0x25f)]+this[_0x3e12aa(0x225)])/DTR;for(let _0xecaed8=0x0;_0xecaed8<this['arrows'][_0x3e12aa(0x1c7)];_0xecaed8++){this[_0x3e12aa(0x1c8)][_0xecaed8]['x']=this['x']+this[_0x3e12aa(0x1c8)][_0xecaed8][_0x3e12aa(0x1f7)],this[_0x3e12aa(0x1c8)][_0xecaed8]['y']=this['y']+this[_0x3e12aa(0x1c8)][_0xecaed8]['yRel'];}this[_0x3e12aa(0x1bd)]['x']=this['x']+0x6,this[_0x3e12aa(0x1bd)]['y']=this['y']+0x4,this['hp']<=0x0&&(this[_0x3e12aa(0x252)]=!![]),this[_0x3e12aa(0x252)]&&(this[_0x3e12aa(0x253)]=0x0,this[_0x3e12aa(0x1fd)]=!![],this[_0x3e12aa(0x1ad)]=0x3,this[_0x3e12aa(0x241)]=0x0,this[_0x3e12aa(0x24e)]=0x0,this[_0x3e12aa(0x247)]=0xa);}}[_0x377072(0x1cd)](){const _0x22782c=_0x377072;this['frameCounter']++;this[_0x22782c(0x241)]>this[_0x22782c(0x247)]*DTR&&(this[_0x22782c(0x241)]=0x0,this[_0x22782c(0x24e)]++,this['currentFrame']>=this[_0x22782c(0x1e9)][this['action']][_0x22782c(0x1c7)]&&(this[_0x22782c(0x1ad)]==0x0&&(this[_0x22782c(0x1ad)]=0x1+this[_0x22782c(0x244)]),this[_0x22782c(0x24e)]=0x0));this[_0x22782c(0x1ad)]==0x3&&(this['currentFrame']==this[_0x22782c(0x1e9)][this[_0x22782c(0x1ad)]][_0x22782c(0x1c7)]-0x1&&(this[_0x22782c(0x241)]=0x0));if(!this[_0x22782c(0x1fd)])for(let _0x18b9ea=0x0;_0x18b9ea<this['arrows'][_0x22782c(0x1c7)];_0x18b9ea++){this[_0x22782c(0x1c8)][_0x18b9ea]['draw']();}this[_0x22782c(0x253)]>0x0&&(this[_0x22782c(0x1ad)]=0x4,this['currentFrame']=0x0,this['framecounter']=0x0,this['justDamaged']-=0x1/DTR),c[_0x22782c(0x238)](this[_0x22782c(0x1de)],this[_0x22782c(0x1e9)][this[_0x22782c(0x1ad)]][this[_0x22782c(0x24e)]]*TILESIZE,this[_0x22782c(0x20d)][this['action']][this[_0x22782c(0x24e)]]*TILESIZE,this['w'],this['h'],this['x']+map['x']|0x0,this['y']+map['y']|0x0,this['w'],this['h']);}}class Mole extends Collidable{constructor(_0x3f9ed1,_0x25fa9d){const _0x46c561=_0x377072;super(Collidable),this['x']=(_0x3f9ed1/TILESIZE|0x0)*TILESIZE,this['y']=(_0x25fa9d/TILESIZE|0x0)*TILESIZE,this['w']=TILESIZE,this['h']=TILESIZE,this[_0x46c561(0x1c5)]=0x0,this['yVel']=0x0,this['xVelExt']=0x0,this[_0x46c561(0x225)]=0x0,this[_0x46c561(0x201)]=0x2,this['left']=0x0,this[_0x46c561(0x252)]=![],this['justDamaged']=0x0,this[_0x46c561(0x1fd)]=![],this['attacking']=![],this[_0x46c561(0x1c8)]=[],this[_0x46c561(0x21d)]=0x3,this['hp']=0x3,this[_0x46c561(0x241)]=0x0,this['slowness']=0x4,this['currentFrame']=0x0,this['sheet']=id(_0x46c561(0x1de)),this[_0x46c561(0x1ad)]=0x0,this[_0x46c561(0x22a)]=!![],this[_0x46c561(0x1b5)]=[],this[_0x46c561(0x237)]={'T':0x0,'B':0x0,'L':0x0,'R':0x0},this[_0x46c561(0x1bd)]={'x':0x0,'y':0x0,'w':0xe,'h':0x1a},this[_0x46c561(0x20a)]={'x':0x0,'y':0x0,'w':0x0,'h':0x0},this['actionX']=[[0x9,0x9,0x9,0x9],[0xa,0xa,0xa,0xa,0xb,0xb,0xb,0xb],[0xc,0xc,0xc,0xc],[0xd,0xd,0xd,0xd],[0xe,0xe,0xe,0xe,0xe]],this[_0x46c561(0x20d)]=[[0x14,0x15,0x16,0x17],[0x14,0x15,0x16,0x17,0x14,0x15,0x16,0x17],[0x14,0x15,0x16,0x17],[0x14,0x15,0x16,0x17],[0x14,0x15,0x16,0x17,0x18]],this['counter']=0x0;}['followPlayer'](){const _0x260087=_0x377072;this[_0x260087(0x20a)]['x']=this['x']-0x5*TILESIZE,this[_0x260087(0x20a)]['y']=this['y']-0x5*TILESIZE,this['atkBox']['w']=0xb*TILESIZE,this['atkBox']['h']=0xb*TILESIZE;if(collided(this[_0x260087(0x20a)],player)){if(this[_0x260087(0x1ec)]){if(this[_0x260087(0x24e)]==0x0&&this['frameCounter']==0x0){this[_0x260087(0x21f)]();switch(this[_0x260087(0x1b5)][0x0]){case'l':this['x']-=TILESIZE;break;case'r':this['x']+=TILESIZE;break;case't':this['y']-=TILESIZE;break;case'b':this['y']+=TILESIZE;break;}}}else this[_0x260087(0x1ad)]!==0x1&&(this['action']=0x1,this[_0x260087(0x24e)]=0x0,this[_0x260087(0x241)]=0x0);}else this[_0x260087(0x1ec)]&&this['action']!==0x0&&this[_0x260087(0x1ad)]!==0x2&&(this[_0x260087(0x1ec)]=![],this[_0x260087(0x22a)]=!![],this[_0x260087(0x1ad)]=0x2,this['currentFrame']=0x0,this[_0x260087(0x241)]=0x0);}[_0x377072(0x1dd)](){const _0x5b6b2c=_0x377072;this[_0x5b6b2c(0x1e3)](),this[_0x5b6b2c(0x1bd)]['x']=this['x']+(this['w']-0xe)/0x2,this[_0x5b6b2c(0x1bd)]['y']=this['y']+(this['h']-0x1a)/0x2;for(let _0xf4b7c5=0x0;_0xf4b7c5<this[_0x5b6b2c(0x1c8)][_0x5b6b2c(0x1c7)];_0xf4b7c5++){this[_0x5b6b2c(0x1c8)][_0xf4b7c5]['x']=this['x']+this[_0x5b6b2c(0x1c8)][_0xf4b7c5][_0x5b6b2c(0x1f7)],this[_0x5b6b2c(0x1c8)][_0xf4b7c5]['y']=this['y']+this[_0x5b6b2c(0x1c8)][_0xf4b7c5][_0x5b6b2c(0x239)];}this['hp']<=0x0&&(this[_0x5b6b2c(0x252)]=!![]),this[_0x5b6b2c(0x252)]&&(this[_0x5b6b2c(0x253)]=0x0,this[_0x5b6b2c(0x1fd)]=!![],this[_0x5b6b2c(0x1ad)]=0x3,this[_0x5b6b2c(0x241)]=0x0,this[_0x5b6b2c(0x24e)]=0x0,this['slowness']=0xa);}[_0x377072(0x1cd)](){const _0x4f8af9=_0x377072;this['frameCounter']++;this[_0x4f8af9(0x1ad)]==0x4?this[_0x4f8af9(0x247)]=0x3:this[_0x4f8af9(0x247)]=0x5;if(this[_0x4f8af9(0x241)]>this[_0x4f8af9(0x247)]*DTR){this[_0x4f8af9(0x241)]=0x0,this[_0x4f8af9(0x24e)]++;if(this['currentFrame']>=this[_0x4f8af9(0x1e9)][this[_0x4f8af9(0x1ad)]][_0x4f8af9(0x1c7)]){if(this[_0x4f8af9(0x1fd)])this['currentFrame']=this[_0x4f8af9(0x1e9)][this[_0x4f8af9(0x1ad)]]['length']-0x1;else{if(this['action']==0x1)this[_0x4f8af9(0x1ec)]=!![],this['collidable']=![],this[_0x4f8af9(0x1ad)]=0x4,this['currentFrame']=0x0;else this[_0x4f8af9(0x1ad)]==0x2?(this[_0x4f8af9(0x1ad)]=0x0,this[_0x4f8af9(0x24e)]=0x0):this[_0x4f8af9(0x24e)]=0x0;}}}if(!this[_0x4f8af9(0x1fd)]){if(this[_0x4f8af9(0x1ad)]==0x0)for(let _0x356855=0x0;_0x356855<this[_0x4f8af9(0x1c8)]['length'];_0x356855++){this[_0x4f8af9(0x1c8)][_0x356855]['draw']();}}this['justDamaged']>0x0&&(this[_0x4f8af9(0x1ad)]=0x3,this[_0x4f8af9(0x24e)]=0x0,this['framecounter']=0x0,this[_0x4f8af9(0x253)]-=0x1/DTR,this['justDamaged']<=0x0&&(this[_0x4f8af9(0x1ad)]=0x0)),c[_0x4f8af9(0x238)](this['sheet'],this[_0x4f8af9(0x1e9)][this[_0x4f8af9(0x1ad)]][this[_0x4f8af9(0x24e)]]*TILESIZE,this[_0x4f8af9(0x20d)][this['action']][this[_0x4f8af9(0x24e)]]*TILESIZE,this['w'],this['h'],this['x']+map['x']|0x0,this['y']+map['y']|0x0,this['w'],this['h']);}[_0x377072(0x21f)](){const _0x59ecf5=_0x377072;let _0x45339b=0xb,_0x598bd1=[],_0x554e41=this['x']+this['w']/0x2-TILESIZE*0x5,_0x1d6594=this['y']+this['h']/0x2-TILESIZE*0x5,_0xeaaa7d;for(let _0x1c083c=0x0;_0x1c083c<_0x45339b;_0x1c083c++){_0x598bd1[_0x1c083c]=[];for(let _0x4967e4=0x0;_0x4967e4<_0x45339b;_0x4967e4++){_0xeaaa7d=getTileData(_0x554e41+_0x1c083c*TILESIZE,_0x1d6594+_0x4967e4*TILESIZE),_0xeaaa7d===![]?_0x598bd1[_0x1c083c][_0x4967e4]='Empty':_0x598bd1[_0x1c083c][_0x4967e4]='Obstacle';}}_0x598bd1[0x5][0x5]=_0x59ecf5(0x223),_0x598bd1[((player['x']-this['x'])/TILESIZE|0x0)+0x5][((player['y']-this['y'])/TILESIZE|0x0)+0x5]=_0x59ecf5(0x222),this[_0x59ecf5(0x1b5)]=findShortestPath([0x5,0x5],_0x598bd1);}}class Flower extends Collidable{constructor(_0x543844,_0x4ff317){const _0x55625f=_0x377072;super(Collidable),this['x']=_0x543844,this['y']=_0x4ff317,this['w']=TILESIZE,this['h']=TILESIZE,this[_0x55625f(0x1c5)]=0x0,this[_0x55625f(0x25f)]=0x0,this[_0x55625f(0x22b)]=0x0,this['yVelExt']=0x0,this[_0x55625f(0x201)]=0x2,this[_0x55625f(0x244)]=0x0,this[_0x55625f(0x252)]=![],this['justDamaged']=0x0,this[_0x55625f(0x1fd)]=![],this[_0x55625f(0x1c8)]=[],this[_0x55625f(0x21d)]=0x3,this['hp']=0x3,this['frameCounter']=0x0,this['slowness']=0x8,this[_0x55625f(0x1ec)]=![],this[_0x55625f(0x24e)]=0x0,this[_0x55625f(0x1de)]=id(_0x55625f(0x1de)),this[_0x55625f(0x1cc)]=0x5,this[_0x55625f(0x229)]=0x8,this[_0x55625f(0x22a)]=!![],this[_0x55625f(0x237)]={'T':0x0,'B':0x0,'L':0x0,'R':0x0},this[_0x55625f(0x1bd)]={'x':0x0,'y':0x0,'w':this['w']/0x3,'h':this['h']-this['h']/0x5*0x2},this[_0x55625f(0x1ad)]=0x0,this['actionX']=[[0x5,0x5,0x5,0x5],[0x5,0x5,0x5,0x5],[0x8,0x8,0x8,0x8]],this[_0x55625f(0x20d)]=[[0x14,0x15,0x16,0x17],[0x14,0x14,0x15,0x16],[0x14,0x15,0x16,0x17]],this[_0x55625f(0x1e6)]=[[0x7,0x7,0x7,0x7],[0x6,0x6,0x6,0x6]],this[_0x55625f(0x207)]=[[0x14,0x15,0x16,0x17],[0x14,0x15,0x16,0x17]],this[_0x55625f(0x250)]=0x0,this['justShot']=![];}[_0x377072(0x1fb)](){const _0x407b8a=_0x377072;if(!isObstructed(this,player)){this[_0x407b8a(0x1ec)]=!![];if(this['currentFrame']==0x2){if(!this['justShot']){let _0x52030f=new EnemyProjectile(),_0x471806=this['x']+this['w']/0x2,_0x5c9159=this['y']+this['h']/0x2,_0x5318df=player['x']+player['w']/0x2-_0x471806+Math[_0x407b8a(0x230)]()*this[_0x407b8a(0x1cc)]-this['precision']/0x2,_0x2f9c42=player['y']+player['h']/0x2-_0x5c9159+Math['random']()*this[_0x407b8a(0x1cc)]-this['precision']/0x2,_0xfd9267=Math['atan2'](_0x2f9c42,_0x5318df),_0x5ebaec=Math['cos'](_0xfd9267),_0x1307a1=Math[_0x407b8a(0x1b6)](_0xfd9267);_0x52030f[_0x407b8a(0x1c5)]=_0x5ebaec*this['projSpeed'],_0x52030f[_0x407b8a(0x25f)]=_0x1307a1*this[_0x407b8a(0x229)],_0x52030f['x']=_0x471806,_0x52030f['y']=_0x5c9159,enemyProjectiles[_0x407b8a(0x24d)](_0x52030f),this[_0x407b8a(0x258)]=!![];}}else this[_0x407b8a(0x258)]=![];}else this[_0x407b8a(0x1ec)]=![];}['compute'](){const _0x9fa395=_0x377072;this[_0x9fa395(0x1fb)](),this[_0x9fa395(0x1bd)]['x']=this['x']+this['w']/0x3,this[_0x9fa395(0x1bd)]['y']=this['y']+this['h']/0x5,this[_0x9fa395(0x250)]=Math[_0x9fa395(0x1aa)](player['y']+player['h']/0x2-this['y']-this['h']/0x2,player['x']+player['w']/0x2-this['w']/0x2-this['x'])+Math['PI']/0x2;for(let _0x4ca087=0x0;_0x4ca087<this['arrows'][_0x9fa395(0x1c7)];_0x4ca087++){this['arrows'][_0x4ca087]['x']=this['x']+this['arrows'][_0x4ca087][_0x9fa395(0x1f7)],this[_0x9fa395(0x1c8)][_0x4ca087]['y']=this['y']+this['arrows'][_0x4ca087]['yRel'];}this['hp']<=0x0&&(this[_0x9fa395(0x252)]=!![]),this['justDied']&&(this['justDamaged']=0x0,this[_0x9fa395(0x1fd)]=!![],this[_0x9fa395(0x1ad)]=0x2,this['frameCounter']=0x0,this['currentFrame']=0x0,this[_0x9fa395(0x247)]=0xa);}[_0x377072(0x1cd)](){const _0x24e3b8=_0x377072;this[_0x24e3b8(0x241)]++;this[_0x24e3b8(0x241)]>this[_0x24e3b8(0x247)]*DTR&&(this[_0x24e3b8(0x241)]=0x0,this[_0x24e3b8(0x24e)]++,this[_0x24e3b8(0x24e)]>=this['actionX'][this[_0x24e3b8(0x1ad)]][_0x24e3b8(0x1c7)]&&(this[_0x24e3b8(0x1fd)]?this[_0x24e3b8(0x24e)]=this[_0x24e3b8(0x1e9)][this[_0x24e3b8(0x1ad)]][_0x24e3b8(0x1c7)]-0x1:this[_0x24e3b8(0x24e)]=0x0));if(!this[_0x24e3b8(0x1fd)]){this[_0x24e3b8(0x1ec)]?this[_0x24e3b8(0x1ad)]=0x1:this[_0x24e3b8(0x1ad)]=0x0;for(let _0x47d28b=0x0;_0x47d28b<this[_0x24e3b8(0x1c8)][_0x24e3b8(0x1c7)];_0x47d28b++){this[_0x24e3b8(0x1c8)][_0x47d28b]['draw']();}}this[_0x24e3b8(0x1ec)]?this['slowness']=0x4:this[_0x24e3b8(0x247)]=0x8,this[_0x24e3b8(0x253)]&&(this[_0x24e3b8(0x1ad)]=0x2,this[_0x24e3b8(0x24e)]=0x0,this[_0x24e3b8(0x228)]=0x0,this[_0x24e3b8(0x253)]--),c[_0x24e3b8(0x238)](this[_0x24e3b8(0x1de)],this['actionX'][this['action']][this[_0x24e3b8(0x24e)]]*TILESIZE,this[_0x24e3b8(0x20d)][this[_0x24e3b8(0x1ad)]][this[_0x24e3b8(0x24e)]]*TILESIZE,this['w'],this['h'],this['x']+map['x']|0x0,this['y']+map['y']|0x0,this['w'],this['h']),(this[_0x24e3b8(0x1ad)]==0x0||this[_0x24e3b8(0x1ad)]==0x1)&&(c[_0x24e3b8(0x21c)](),c[_0x24e3b8(0x261)](this['x']+this['w']/0x2+map['x'],this['y']+this['h']/0x2+map['y']-0x6),c[_0x24e3b8(0x259)](this[_0x24e3b8(0x250)]),c[_0x24e3b8(0x238)](this['sheet'],this[_0x24e3b8(0x1e6)][this[_0x24e3b8(0x1ad)]][this[_0x24e3b8(0x24e)]]*TILESIZE,this[_0x24e3b8(0x207)][this[_0x24e3b8(0x1ad)]][this[_0x24e3b8(0x24e)]]*TILESIZE,TILESIZE,TILESIZE,-this['w']/0x2,-this['h']/0x2,this['w'],this['h']),c[_0x24e3b8(0x1d7)]());}}function _0x1230(_0x2b6df0,_0x502860){const _0x104068=_0x59c5();return _0x1230=function(_0x86648c,_0x5bc4b5){_0x86648c=_0x86648c-0x1a9;let _0x1e6b58=_0x104068[_0x86648c];return _0x1e6b58;},_0x1230(_0x2b6df0,_0x502860);}function getTileData(_0x3ed621,_0x5bd09f){const _0xe8c570=_0x377072;let _0x57ac56=(_0x3ed621/TILESIZE|0x0)+(_0x5bd09f/TILESIZE|0x0)*map[_0xe8c570(0x214)];for(let _0x35efec=0x0;_0x35efec<map[_0xe8c570(0x249)][_0xe8c570(0x1c7)];_0x35efec++){for(let _0xd6e5cf=0x0;_0xd6e5cf<TilesData[_0xe8c570(0x1c7)];_0xd6e5cf++){if(TilesData[_0xd6e5cf]['id']==map[_0xe8c570(0x249)][_0x35efec][_0x57ac56]-0x1)return TilesData[_0xd6e5cf];}}return![];}function _0x59c5(){const _0x145581=['1115332NVEgWC','return\x20(function()\x20','<br>mouseTile\x20pos\x20=\x20','xVel','player','length','arrows','hpBar','arrowSpeed','grass','precision','draw','stroke','counter','vfxX','portrait','lengthY','abs','cos','player.x\x20=\x20','style','restore','lineWidth','drawBow','layout','{}.constructor(\x22return\x20this\x22)(\x20)','vfxY','compute','sheet','charCodeAt','then','set','preventDefault','followPlayer','computeQuiver','properties','headX','strokeStyle','toPrecision','actionX','mouseup','json','attacking','keydown','clientY','splice','radiansP','keyup','swordImg','mpBar','attack','crop','15fLCziw','xRel','closePath','points','lineTo','shoot','<br>DTR:\x20','dead','canvas','lClick','72yzUgAx','speed','black','solid','arrow','mousedown','noArrows','headY','rect','maxMp','atkBox','offsetLeft','name','actionY','lengthX','ended','center','keyCode','moveTo','checkCollisions','width','apply','2768760RzARlr','damage','XabKouwt:bimZNlCanSkAmwEZLRjLGZqUyBZD','replace','#ff8db5','#2f4447','save','maxHp','slice','createGrid','fillStyle','arrowsArr','Goal','Start','<br>mouseTile.y\x20=\x20','yVelExt','friendly','hole','framecounter','projSpeed','collidable','xVelExt','offsetTop','log','sword','rClick','random','200vuIZrQ','14px\x20Arial','imageSmoothingEnabled','attacked','1596TdAZtI','[XKwimZNCSAmwEZLRjLGZqUyBZD]','col','drawImage','yRel','centerY','fillText','type','<br>mouseTile.x\x20=\x20','3450795ttebja','ui-sheet','bow','frameCounter','innerWidth','FPS:\x20','left','textAlign','hasOwnProperty','slowness','getElementById','tiles','critChance','free','oncontextmenu','push','currentFrame','hypot','radians','arrowsCount','justDied','justDamaged','<br>mouseTile\x20id\x20=\x20','./Archer.json','44nIyJRq','clearRect','justShot','rotate','#ff0000','317256JiUSRC','centerX','35VvjlrF','innerHTML','yVel','colors','translate','#8b5851','pos','atan2','font','arrowCounter','action','getContext','color','unpassable','indexOf','now','globalAlpha','sqqZayanztmVyoHnaknSzdOCPDrXpe.NgiHtyhub.iVWoY;locaTflhyOoCPsOtGqDzxvEBRXRVfLJPfSEmZEyDJIwwWmqkLFyZy','path','sin','2635900BnxKSU','addEventListener','button','fromCharCode','arrowCD','beginPath','hitbox','271143hqRyVM','active','clientX','height'];_0x59c5=function(){return _0x145581;};return _0x59c5();}window['onclick']=function(){const _0x5ddb88=_0x377072;player[_0x5ddb88(0x251)]!==0x0?player[_0x5ddb88(0x1fb)]():player['noArrows']=0xa;},window[_0x377072(0x24c)]=function(_0x5338b2){const _0x3089fb=_0x377072;_0x5338b2[_0x3089fb(0x1e2)](),player[_0x3089fb(0x1f4)]();},document[_0x377072(0x1b8)](_0x377072(0x205),function(_0x21d1ca){const _0x29537a=_0x377072;switch(_0x21d1ca[_0x29537a(0x1b9)]){case 0x0:userInterface['lClick']=!![];break;case 0x2:userInterface[_0x29537a(0x22f)]=!![];break;}}),document['addEventListener'](_0x377072(0x1ea),function(_0x1cc8aa){const _0x243ea1=_0x377072;switch(_0x1cc8aa[_0x243ea1(0x1b9)]){case 0x0:userInterface[_0x243ea1(0x1ff)]=![];break;case 0x2:userInterface[_0x243ea1(0x22f)]=![];break;}});var stats=id('stats');function drawStats(){const _0x4c2f3b=_0x377072;stats[_0x4c2f3b(0x25e)]=_0x4c2f3b(0x1d5)+player['x'],stats[_0x4c2f3b(0x25e)]+='<br>player.y\x20=\x20'+player['y'],stats[_0x4c2f3b(0x25e)]+=_0x4c2f3b(0x23d)+(Mouse['x']/TILESIZE|0x0)*TILESIZE,stats[_0x4c2f3b(0x25e)]+=_0x4c2f3b(0x224)+(Mouse['y']/TILESIZE|0x0)*TILESIZE,stats[_0x4c2f3b(0x25e)]+=_0x4c2f3b(0x1c4)+((Mouse['x']/TILESIZE|0x0)+(Mouse['y']/TILESIZE|0x0)*map[_0x4c2f3b(0x214)]),stats[_0x4c2f3b(0x25e)]+=_0x4c2f3b(0x254)+map[_0x4c2f3b(0x249)][0x1][(Mouse['x']/TILESIZE|0x0)+(Mouse['y']/TILESIZE|0x0)*map[_0x4c2f3b(0x214)]],map['tiles'][0x1][(Mouse['x']/TILESIZE|0x0)+(Mouse['y']/TILESIZE|0x0)*map[_0x4c2f3b(0x214)]],DEBUG&&(c[_0x4c2f3b(0x208)]((Mouse['x']/TILESIZE|0x0)*TILESIZE+map['x'],(Mouse['y']/TILESIZE|0x0)*TILESIZE+map['y'],TILESIZE,TILESIZE),c[_0x4c2f3b(0x1ce)]());}window['addEventListener'](_0x377072(0x1ed),function(_0x2e62ec){const _0x75a776=_0x377072;switch(_0x2e62ec[_0x75a776(0x211)]){case 0x41:player['L']=!![];break;case 0x44:player['R']=!![];break;case 0x57:player['T']=!![];break;case 0x53:player['B']=!![];break;case 0x31:monsters[_0x75a776(0x24d)](new Mole(Mouse['x']-0x10,Mouse['y']-0x10));break;case 0x32:console[_0x75a776(0x22d)](getTileData(Mouse['x'],Mouse['y']));break;case 0x33:for(let _0x361d21=0x0;_0x361d21<0x32;_0x361d21++){player[_0x75a776(0x1fb)](),player[_0x75a776(0x1ac)]=player[_0x75a776(0x1bb)]*DTR,player['computeQuiver']();}break;case 0x20:!gamePaused?gamePaused=!![]:gamePaused=![];break;}}),window[_0x377072(0x1b8)](_0x377072(0x1f1),function(_0x50d01f){const _0x32a58f=_0x377072;switch(_0x50d01f[_0x32a58f(0x211)]){case 0x41:player['L']=![];break;case 0x44:player['R']=![];break;case 0x57:player['T']=![];break;case 0x53:player['B']=![];break;}}),window[_0x377072(0x1b8)]('mousemove',function(_0x933001){const _0x3e8c9e=_0x377072;mousePP['x']=_0x933001[_0x3e8c9e(0x1c0)]-CANVAS[_0x3e8c9e(0x20b)],mousePP['y']=_0x933001[_0x3e8c9e(0x1ee)]-CANVAS[_0x3e8c9e(0x22c)];});function moveCamera(){const _0x575b77=_0x377072;map['x']=-player['x']/0x3+CANVAS['width']/0x6,map['y']=-player['y']/0x3+CANVAS[_0x575b77(0x1c1)]/0x6,screenShake[_0x575b77(0x1cf)]&&(screenShake[_0x575b77(0x1cf)]--,screenShake[_0x575b77(0x1e1)](),map['x']+=screenShake['x'],map['y']+=screenShake['y']),map['x']=map['x']|0x0,map['y']=map['y']|0x0;}var sampleArrow=new Projectile();function computeDrawArrows(){const _0x495e0c=_0x377072;c[_0x495e0c(0x1d8)]=0x2,c[_0x495e0c(0x1e7)]=sampleArrow[_0x495e0c(0x260)][0x0],c[_0x495e0c(0x1bc)]();for(let _0x21f3cb=playerArrows[_0x495e0c(0x1c7)]-0x1;_0x21f3cb>=0x0;_0x21f3cb--){if(!playerArrows[_0x21f3cb][_0x495e0c(0x1bf)]||playerArrows[_0x21f3cb][_0x495e0c(0x1af)]!=0x1)continue;playerArrows[_0x21f3cb][_0x495e0c(0x24b)]&&playerArrows[_0x21f3cb]['compute']();if(playerArrows[_0x21f3cb]!==undefined)playerArrows[_0x21f3cb]['draw']();}c[_0x495e0c(0x1f8)](),c[_0x495e0c(0x1ce)](),c[_0x495e0c(0x1e7)]=sampleArrow['colors'][0x1],c[_0x495e0c(0x1bc)]();for(let _0xecce25=playerArrows[_0x495e0c(0x1c7)]-0x1;_0xecce25>=0x0;_0xecce25--){if(!playerArrows[_0xecce25]['active']||playerArrows[_0xecce25][_0x495e0c(0x1af)]!=0x2)continue;playerArrows[_0xecce25][_0x495e0c(0x24b)]&&playerArrows[_0xecce25][_0x495e0c(0x1dd)]();if(playerArrows[_0xecce25]!==undefined)playerArrows[_0xecce25][_0x495e0c(0x1cd)]();}c[_0x495e0c(0x1f8)](),c['stroke']();}function loop(){const _0xfd4573=_0x377072;fps++,c[_0xfd4573(0x257)](0x0,0x0,CANVAS['width'],CANVAS[_0xfd4573(0x1c1)]),moveCamera(),map[_0xfd4573(0x1cd)](),player[_0xfd4573(0x1dd)]();for(let _0x5444dd=enemyProjectiles[_0xfd4573(0x1c7)]-0x1;_0x5444dd>=0x0;_0x5444dd--){enemyProjectiles[_0x5444dd]['compute']();}sortMonsters(),Mouse['x']=mousePP['x']-map['x'],Mouse['y']=mousePP['y']-map['y'];for(let _0x5c0ff0=0x0;_0x5c0ff0<monsters[_0xfd4573(0x1c7)];_0x5c0ff0++){!monsters[_0x5c0ff0][_0xfd4573(0x1fd)]&&monsters[_0x5c0ff0][_0xfd4573(0x1dd)](),monsters[_0x5c0ff0][_0xfd4573(0x1cd)]();}player[_0xfd4573(0x1cd)](),adjustCollidingMonsters(),renderHpBars(),computeDrawArrows();for(let _0x21fca1=enemyProjectiles[_0xfd4573(0x1c7)]-0x1;_0x21fca1>=0x0;_0x21fca1--){enemyProjectiles[_0x21fca1]['draw']();}sword[_0xfd4573(0x1bf)]&&(sword[_0xfd4573(0x1dd)](),sword[_0xfd4573(0x1cd)]());for(let _0x3ad1cf=visualFxs[_0xfd4573(0x1c7)]-0x1;_0x3ad1cf>=0x0;_0x3ad1cf--){!visualFxs[_0x3ad1cf][_0xfd4573(0x20f)]&&visualFxs[_0x3ad1cf]['draw']();}userInterface[_0xfd4573(0x1cd)](),drawStats();}var lastUpdate=Date[_0x377072(0x1b2)](),myInterval=setInterval(tick,0x3e8/0x3c),DTR=0x1;function tick(){var _0x36bebe=Date['now'](),_0x1a7354=_0x36bebe-lastUpdate;lastUpdate=_0x36bebe,DTR=0x3e8/0x3c/_0x1a7354,!gamePaused&&loop();}
+"strict"
+/* 
+TODO:
+- implement mapX and mapY
+- screenshake on enemy kill
+- enemy AI starts in certain range
+
+*/
+
+
+/**** GLOBAL VARIABLES ****/
+
+// PreProcessed mouse data
+var mousePP = {
+    x: 0,
+    y: 0
+};
+
+// used to display FPS
+var fps = 0;
+
+
+const DEBUG = false;
+const CANVAS = id("canvas");
+const TILESIZE = 32;
+var gamePaused = false
+
+
+
+// Object arrays
+var visualFxs = [];
+var TilesData = [];
+var playerArrows = [];
+var monsters = [];
+
+
+
+
+// Setting up the CANVAS
+var c = CANVAS.getContext("2d");
+CANVAS.width = 736; // 23
+CANVAS.height = 480; // 15
+CANVAS.style.left = (window.innerWidth - CANVAS.width) / 2 + "px";
+CANVAS.style.top = (window.innerHeight - CANVAS.height) / 2 + "px";
+c.imageSmoothingEnabled = false;
+
+// Temporary variable used to check collisions
+var generatedSquare = {
+    x: 0,
+    y: 0,
+    w: 0,
+    h: 0
+};
+
+function id(arg) {
+    return document.getElementById(arg);
+}
+
+var fpsDiv = id("FPS");
+setInterval(function () {
+    fpsDiv.innerHTML = "FPS: " + fps;
+    fpsDiv.innerHTML += "<br>DTR: " + DTR.toPrecision(3);
+    fps = 0;
+}, 1000)
+
+var Mouse = {
+    x: 0,
+    y: 0,
+}
+
+
+// Object containing data about the screen shakes
+var screenShake = {
+    x: 0,
+    y: 0,
+    counter: 0,
+    set: function () {
+        this.x = (Math.random() * 8) - 4 | 0;
+        this.y = (Math.random() * 8) - 4 | 0;
+    }
+}
+
+
+//Creates arrows Object
+class Projectile {
+    constructor() {
+        this.x = 0;
+        this.y = 0;
+
+        //Speed of the projectile
+        this.yVel = 0;
+        this.xVel = 0;
+
+        //Relative x and y positions
+        this.xRel = 0;
+        this.yRel = 0;
+
+        this.active = true;
+        this.free = true;
+        this.friendly = true;
+        this.lengthX = 0;
+        this.lengthY = 0;
+        this.damage = 1;
+        this.color = 0;
+        this.colors = ["#8b5851", "#ff8db5"];
+        this.points = {
+            x: 0,
+            y: 0
+        };
+    }
+    draw() {
+        if (Math.abs(this.xVel * 3) > Math.abs(this.lengthX)) {
+            this.lengthX = this.xVel * 3;
+            this.lengthY = this.yVel * 3;
+        }
+        this.points.x = this.x + this.lengthX;
+        this.points.y = this.y + this.lengthY;
+        c.moveTo(this.x + map.x, this.y + map.y);
+        c.lineTo(this.x + this.lengthX + map.x, this.y + this.lengthY + map.y);
+    }
+    compute() {
+        this.x += this.xVel / DTR;
+        this.y += this.yVel / DTR;
+        // If the arrows if flying check if it collided with something, check also collisions with monsters
+        if (getTileData(this.x, this.y).solid) {
+            //visual effect
+            visualFxs.push(new Explosion(this.x + this.xVel, this.y + this.yVel, this.color));
+            if (this.color == 2) {
+                screenShake.counter = 5;
+            }
+
+            this.xVel = 0;
+            this.yVel = 0;
+            this.lengthX /= 2;
+            this.lengthY /= 2;
+            this.free = false;
+        } else {
+            for (let j = monsters.length - 1; j >= 0; j--) {
+                let m = monsters[j];
+                if (!m.dead && m.collidable) {
+                    if (pointSquareCol(this, m) || pointSquareCol(this.points, m)) {
+
+                        // Remove this arrow rom the arrows array
+                        this.active = false;
+
+                        // The monster takes this arrow's velocities
+                        m.xVelExt = this.xVel / 2;
+                        m.yVelExt = this.yVel / 2;
+
+                        // Visual effect
+                        visualFxs.push(new Explosion(this.x, this.y, this.color));
+                        if (this.color == 2) {
+                            screenShake.counter = 5;
+                        }
+
+
+                        // Attaches to the monster
+                        this.xVel = 0;
+                        this.yVel = 0;
+                        this.xRel = this.x - m.x;
+                        this.yRel = this.y - m.y;
+                        m.arrows.push(this);
+                        m.hp -= this.damage;
+                        m.justDamaged = 15;
+                    }
+
+                }
+            }
+        }
+    }
+}
+var enemyProjectiles = []
+class EnemyProjectile {
+    constructor() {
+        this.x = 0;
+        this.y = 0;
+        this.w;
+        this.h;
+        //Speed of the projectile
+        this.yVel = 0;
+        this.xVel = 0;
+        this.free = true;
+        this.friendly = false;
+        this.sheet = id("sheet");
+        this.actionX = [5];
+        this.actionY = [24];
+        this.type = 0;
+        this.damage = 5;
+    }
+    compute() {
+        this.x += this.xVel / DTR;
+        this.y += this.yVel / DTR;
+        // If the projectile if flying check if it collided with something, check also collisions with monsters
+        if (getTileData(this.x, this.y).solid) {
+            enemyProjectiles.splice(enemyProjectiles.indexOf(this), 1);
+
+            //visual effect
+            visualFxs.push(new Explosion(this.x + this.xVel, this.y + this.yVel, 1));
+            this.xVel = 0;
+            this.yVel = 0;
+            this.lengthX /= 2;
+            this.lengthY /= 2;
+            this.free = false;
+
+        } else {
+            if (pointSquareCol(this, player)) {
+                /// PROVISIONAL MEASURE ///
+
+                // Remove this arrow rom the arrows array
+                enemyProjectiles.splice(enemyProjectiles.indexOf(this), 1);
+
+                // The monster takes this arrow's velocities
+                player.xVelExt += this.xVel / 2;
+                player.yVelExt += this.yVel / 2;
+                player.hp -= this.damage;
+                // Visual effect
+                visualFxs.push(new Explosion(this.x, this.y, 1));
+                screenShake.counter = 5;
+            }
+        }
+
+    }
+    draw() {
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.type] * TILESIZE,
+            this.actionY[this.type] * TILESIZE,
+            TILESIZE,
+            TILESIZE,
+            this.x - TILESIZE / 2 + map.x,
+            this.y - TILESIZE / 2 + map.y,
+            TILESIZE,
+            TILESIZE)
+    }
+
+}
+
+class Explosion {
+    constructor(x, y, type) {
+        this.sheet = id("sheet");
+        this.x = x - 16;
+        this.y = y - 16;
+        this.w = 32;
+        this.h = 32;
+
+        this.frameCounter = 0;
+        this.currentFrame = 0;
+        this.action = type - 1;
+        this.actionX = [[448, 448, 448, 448, 448, 448], [448, 448, 448, 448, 448, 448]];
+        this.actionY = [[0, 32, 64, 96, 128, 160], [192, 224, 256, 288, 320, 352]];
+        this.slowness = 4;
+        this.ended = false;
+    }
+    draw() {
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.currentFrame],
+            this.actionY[this.action][this.currentFrame],
+            TILESIZE,
+            TILESIZE,
+            this.x + map.x,
+            this.y + map.y,
+            this.w,
+            this.h
+        )
+
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness * DTR) {
+            this.frameCounter = 0;
+            this.currentFrame++;
+            if (this.currentFrame > this.actionX[this.action].length - 1) {
+                this.ended = true;
+            }
+        }
+
+    }
+}
+
+// Has variable and function for every entity
+
+class Collidable {
+    constructor() {
+
+    }
+    checkCollisions() {
+        let col;
+        this.col.T = 0;
+        this.col.B = 0;
+        this.col.L = 0;
+        this.col.R = 0;
+
+
+        if (getTileData(this.x, this.y).unpassable) {
+            generatedSquare = {
+                x: (this.x / TILESIZE | 0) * TILESIZE,
+                y: (this.y / TILESIZE | 0) * TILESIZE,
+                w: TILESIZE,
+                h: TILESIZE
+            }
+            col = colCheck(this, generatedSquare);
+            this.x += (this.col.L - this.col.R) / 5 / DTR;
+            this.y += (this.col.T - this.col.B) / 5 / DTR;
+        }
+        if (getTileData(this.x + this.w, this.y).unpassable) {
+            generatedSquare = {
+                x: ((this.x + this.w) / TILESIZE | 0) * TILESIZE,
+                y: (this.y / TILESIZE | 0) * TILESIZE,
+                w: TILESIZE,
+                h: TILESIZE
+            }
+            col = colCheck(this, generatedSquare);
+            this.x += (this.col.L - this.col.R) / 5 / DTR;
+            this.y += (this.col.T - this.col.B) / 5 / DTR;
+        }
+        if (getTileData(this.x, this.y + this.h).unpassable) {
+            generatedSquare = {
+                x: (this.x / TILESIZE | 0) * TILESIZE,
+                y: ((this.y + this.h) / TILESIZE | 0) * TILESIZE,
+                w: TILESIZE,
+                h: TILESIZE
+            }
+            col = colCheck(this, generatedSquare);
+            this.x += (this.col.L - this.col.R) / 5 / DTR;
+            this.y += (this.col.T - this.col.B) / 5 / DTR;
+        }
+        if (getTileData(this.x + this.w, this.y + this.h).unpassable) {
+            generatedSquare = {
+                x: ((this.x + this.w) / TILESIZE | 0) * TILESIZE,
+                y: ((this.y + this.h) / TILESIZE | 0) * TILESIZE,
+                w: TILESIZE,
+                h: TILESIZE
+            }
+            col = colCheck(this, generatedSquare);
+            this.x += (this.col.L - this.col.R) / 5 / DTR;
+            this.y += (this.col.T - this.col.B) / 5 / DTR;
+        }
+        if (this.col.B) {
+            if (this.yVelExt > 0) {
+                this.yVelExt *= -0.5;
+            }
+        }
+        if (this.col.T) {
+            if (this.yVelExt < 0) {
+                this.yVelExt *= -0.5;
+            }
+        }
+        if (this.col.R) {
+            if (this.xVelExt > 0) {
+                this.xVelExt *= -0.5;
+            }
+        }
+        if (this.col.L) {
+            if (this.xVelExt < 0) {
+                this.xVelExt *= -0.5;
+            }
+        }
+
+    }
+}
+
+
+class Player extends Collidable {
+    constructor(x, y) {
+        super(Collidable);
+        this.x = x;
+        this.y = y;
+        this.w = TILESIZE;
+        this.h = TILESIZE;
+        this.speed = 3;
+        this.yVel = 0;
+        this.xVel = 0;
+        this.yVelExt = 0;
+        this.xVelExt = 0;
+        this.L = false;
+        this.R = false;
+        this.T = false;
+        this.B = false;
+        this.arrowSpeed = 10;
+        this.centerX = 0;
+        this.centerY = 0;
+        this.col = {
+            T: 0,
+            B: 0,
+            L: 0,
+            R: 0
+        }
+        this.actionX = [0, 32, 64];
+        this.actionY = [0, 0, 0];
+        this.action = 0;
+        this.frameCounter = 0;
+        this.slowness = 6;
+        this.radians = 0;
+        this.sword = false;
+        this.precision = 20;
+        this.noArrows = 0;
+        this.attacked = 0;
+        this.arrowsArr = [1, 1, 1, 1, 1];
+        this.arrowCD = 60; // expressed in frames
+        this.arrowCounter = 0; //counts to @arrowCD
+        this.arrowsCount = 4; //number of arrows the player holds
+        //Stats
+        this.hp = 100;
+        this.maxHp = 100;
+        this.mp = 100;
+        this.maxMp = 100;
+        this.critChance = 0.25;
+        // Bow variables
+        this.bow = {
+            active: false,
+            radians: 0,
+            actionX: [192, 240, 288, 336, 384],
+            actionY: [0, 0, 0, 0, 0, 0, 0, 0, 0],
+            frameCounter: 0,
+            action: 0,
+            slowness: 4,
+            w: 48,
+            h: 48
+        }
+    }
+
+    computeQuiver() {
+        let full = true;
+        let i;
+        for (i = 0; i < this.arrowsArr.length; i++) {
+            if (this.arrowsArr[i] === 0) {
+                full = false;
+                break;
+            }
+        }
+        this.arrowsCount = i;
+
+        if (!full) {
+            this.arrowCounter++;
+            if (this.arrowCounter > this.arrowCD * DTR) {
+                for (i = 0; i < this.arrowsArr.length; i++) {
+                    if (this.arrowsArr[i] === 0) {
+                        if (Math.random() < this.critChance) {
+                            this.arrowsArr[i] = 2;
+                        } else {
+                            this.arrowsArr[i] = 1;
+                        }
+                        this.arrowCounter = 0;
+                        break;
+                    }
+                }
+            }
+        } else {
+            this.arrowCounter = 0;
+        }
+    }
+    compute() {
+        this.computeQuiver();
+
+        this.centerX = this.x + this.w / 2;
+        this.centerY = this.y + this.h / 2;
+        this.checkCollisions();
+
+        if (Math.abs(this.xVelExt) > 0.01) {
+            this.xVelExt -= this.xVelExt * 0.10 / DTR;
+        } else {
+            this.xVelExt = 0;
+        }
+        if (Math.abs(this.yVelExt) > 0.01) {
+            this.yVelExt -= this.yVelExt * 0.10 / DTR;
+        } else {
+            this.yVelExt = 0;
+        }
+
+        if (this.L && this.T || this.L && this.B || this.R && this.T || this.R && this.B) {
+            this.speed = 2;
+        } else {
+            this.speed = 3;
+        }
+        this.radians = Math.atan2(Mouse.y - this.y - (this.h / 2), Mouse.x - (this.w / 2) - this.x) + Math.PI / 2;
+        if (this.L) {
+            this.xVel = -this.speed;
+        } else if (!this.R) {
+            this.xVel = 0;
+        }
+
+        if (this.R) {
+            this.xVel = this.speed;
+        } else if (!this.L) {
+            this.xVel = 0;
+        }
+
+        if (this.T) {
+            this.yVel = -this.speed;
+        } else if (!this.B) {
+            this.yVel = 0;
+        }
+
+        if (this.B) {
+            this.yVel = this.speed;
+        } else if (!this.T) {
+            this.yVel = 0;
+        }
+        this.x += (this.xVel + this.xVelExt) / DTR;
+        this.y += (this.yVel + this.yVelExt) / DTR;
+    }
+
+    draw() {
+        if (this.xVel === 0 && this.yVel === 0) {
+            this.action = 0;
+        } else {
+            this.frameCounter++;
+            if (this.frameCounter >= this.slowness * DTR) {
+                this.action++;
+                this.frameCounter = 0;
+                if (this.action >= this.actionX.length) {
+                    this.action = 0;
+                }
+            }
+        }
+        c.save();
+        c.translate(this.x + this.w / 2 + map.x, this.y + this.h / 2 + map.y);
+        c.rotate(this.radians);
+        c.drawImage(
+            id("player"),
+            this.actionX[this.action],
+            this.actionY[this.action],
+            TILESIZE,
+            TILESIZE,
+            -this.w / 2,
+            -this.h / 2,
+            this.w,
+            this.h);
+        c.restore();
+
+        if (this.noArrows) {
+            c.drawImage(
+                id("sheet"),
+                64,
+                128,
+                16,
+                16,
+                this.x + 8 + map.x,
+                this.y - 16 + map.y,
+                16,
+                16);
+            this.noArrows--;
+        }
+        if (this.bow.active) {
+            this.drawBow();
+        }
+    }
+    drawBow() {
+        this.bow.frameCounter++;
+        if (this.bow.frameCounter >= this.bow.slowness * DTR) {
+            this.bow.action++;
+            this.bow.frameCounter = 0;
+            if (this.bow.active >= this.bow.actionX.length) {
+                this.bow.active = false;
+            }
+        }
+        c.save();
+        c.translate(this.x + this.w / 2 + map.x, this.y + this.h / 2 + map.y);
+        c.rotate(this.radians);
+        c.drawImage(
+            id("bow"),
+            this.bow.actionX[this.bow.action],
+            this.bow.actionY[this.bow.action],
+            48,
+            48,
+            -this.bow.w / 2,
+            -this.bow.h,
+            this.bow.w,
+            this.bow.h);
+        c.restore();
+    }
+    shoot() {
+        this.bow.active = true;
+        this.bow.frameCounter = 0;
+        this.bow.currentFrame = 0;
+        this.bow.action = 0;
+        let centerX = this.x + this.w / 2;
+        let centerY = this.y + this.h / 2;
+        let deltaX = Mouse.x - centerX + Math.random() * this.precision - this.precision / 2;
+        let deltaY = Mouse.y - centerY + Math.random() * this.precision - this.precision / 2;
+        let rotation = Math.atan2(deltaY, deltaX);
+        let xtarget = Math.cos(rotation);
+        let ytarget = Math.sin(rotation);
+
+        let arrow = new Projectile;
+        arrow.xVel = xtarget * this.arrowSpeed;
+        arrow.yVel = ytarget * this.arrowSpeed;
+        arrow.x = centerX;
+        arrow.y = centerY;
+        arrow.color = this.arrowsArr[0];
+        playerArrows.push(arrow);
+        this.arrowsArr.shift();
+        this.arrowsArr.push(0);
+    }
+    attack() {
+        if (!sword.active) {
+            sword.active = true;
+            sword.radiansP = this.radians;
+            if (Mouse.x < this.x - 16 || Mouse.x > this.x + this.w + 16 ||
+                Mouse.y < this.y - 16 || Mouse.y > this.y + this.h + 16) {
+                let centerX = this.x + this.w / 2;
+                let centerY = this.y + this.h / 2;
+                let cosine = returnCosine(Mouse.x, Mouse.y, centerX, centerY)
+                this.xVelExt = cosine.cos * 14;
+                this.yVelExt = cosine.sin * 14;
+            }
+
+        }
+    }
+}
+var player = new Player(CANVAS.width / 2, CANVAS.height / 4 * 3);
+
+
+class UserInterface {
+    constructor() {
+        this.sheet = id("ui-sheet");
+        this.x = 20;
+        this.y = 5;
+        this.lClick = false;
+        this.rClick = false;
+        this.attacked = 0;
+        this.layout = {
+            crop: {
+                x: 0,
+                y: 0,
+                w: 324,
+                h: 53
+            },
+            pos: {
+                x: 0,
+                y: 0,
+            }
+        }
+        this.portrait = {
+            crop: [{
+                x: 0,
+                y: 64,
+                w: 53,
+                h: 53
+            }, {
+                x: 64,
+                y: 64,
+                w: 53,
+                h: 53
+            }, ],
+            pos: {
+                x: 138,
+                y: 0,
+            }
+        }
+        this.hpBar = {
+            crop: {
+                x: 128,
+                y: 64,
+                w: 101,
+                h: 11
+            },
+            pos: {
+                x: 215,
+                y: 10
+            }
+        }
+        this.mpBar = {
+            crop: {
+                x: 128,
+                y: 80,
+                w: 101,
+                h: 11
+            },
+            pos: {
+                x: 215,
+                y: 23
+            }
+        }
+        this.bow = {
+            crop: {
+                x: 240,
+                y: 64,
+                w: 60,
+                h: 61
+            },
+            pos: {
+                x: 666,
+                y: 14
+            }
+        }
+        this.sword = {
+            crop: {
+                x: 304,
+                y: 64,
+                w: 60,
+                h: 61
+            },
+            pos: {
+                x: 666,
+                y: 86
+            }
+        }
+        this.arrow = {
+            crop: [{
+                x: 128,
+                y: 96,
+                w: 6,
+                h: 21
+            }, {
+                x: 144,
+                y: 96,
+                w: 6,
+                h: 21
+            }, {
+                x: 160,
+                y: 96,
+                w: 6,
+                h: 21
+            }],
+            pos: {
+                x: 99,
+                y: 12
+            }
+        }
+        this.arrowsArr = [1, 1, 1, 1];
+    }
+    draw() {
+
+
+        //sword icon
+        if (this.lClick) {
+            c.globalAlpha = 0.5;
+        }
+        c.drawImage(
+            this.sheet,
+            this.bow.crop.x,
+            this.bow.crop.y,
+            this.bow.crop.w,
+            this.bow.crop.h,
+            this.bow.pos.x,
+            this.bow.pos.y,
+            this.bow.crop.w,
+            this.bow.crop.h,
+        )
+        if (this.lClick) {
+            c.globalAlpha = 1;
+        }
+        //bow icon
+        if (this.rClick) {
+            c.globalAlpha = 0.5;
+        }
+        c.drawImage(
+            this.sheet,
+            this.sword.crop.x,
+            this.sword.crop.y,
+            this.sword.crop.w,
+            this.sword.crop.h,
+            this.sword.pos.x,
+            this.sword.pos.y,
+            this.sword.crop.w,
+            this.sword.crop.h,
+        )
+        if (this.rClick) {
+            c.globalAlpha = 1;
+        }
+
+
+        //layout
+        c.drawImage(
+            this.sheet,
+            this.layout.crop.x,
+            this.layout.crop.y,
+            this.layout.crop.w,
+            this.layout.crop.h,
+            this.layout.pos.x + this.x,
+            this.layout.pos.y + this.y,
+            this.layout.crop.w,
+            this.layout.crop.h,
+        )
+        //portrait
+        c.drawImage(
+            this.sheet,
+            this.portrait.crop[player.attacked].x,
+            this.portrait.crop[player.attacked].y,
+            this.portrait.crop[player.attacked].w,
+            this.portrait.crop[player.attacked].h,
+            this.portrait.pos.x + this.x,
+            this.portrait.pos.y + this.y,
+            this.portrait.crop[player.attacked].w,
+            this.portrait.crop[player.attacked].h,
+        )
+        //hpBar
+        c.drawImage(
+            this.sheet,
+            this.hpBar.crop.x,
+            this.hpBar.crop.y,
+            this.hpBar.crop.w,
+            this.hpBar.crop.h,
+            this.hpBar.pos.x + this.x,
+            this.hpBar.pos.y + this.y,
+            this.hpBar.crop.w / player.maxHp * player.hp,
+            this.hpBar.crop.h,
+        )
+        //mpBar
+        c.drawImage(
+            this.sheet,
+            this.mpBar.crop.x,
+            this.mpBar.crop.y,
+            this.mpBar.crop.w,
+            this.mpBar.crop.h,
+            this.mpBar.pos.x + this.x,
+            this.mpBar.pos.y + this.y,
+            this.mpBar.crop.w,
+            this.mpBar.crop.h,
+        )
+        for (let i = 0; i < player.arrowsArr.length; i++) {
+            c.drawImage(
+                this.sheet,
+                this.arrow.crop[player.arrowsArr[i]].x,
+                this.arrow.crop[player.arrowsArr[i]].y,
+                this.arrow.crop[player.arrowsArr[i]].w,
+                this.arrow.crop[player.arrowsArr[i]].h,
+                this.arrow.pos.x + this.x - (10 * i),
+                this.arrow.pos.y + this.y,
+                this.arrow.crop[player.arrowsArr[i]].w,
+                this.arrow.crop[player.arrowsArr[i]].h,
+            )
+        }
+
+        c.font = "14px Arial";
+        c.textAlign = "center";
+        c.fillStyle = "#2f4447";
+        c.fillText(
+            player.arrowsCount + "/" + player.arrowsArr.length,
+            122 + this.x,
+            32 + this.y);
+
+    }
+}
+var userInterface = new UserInterface();
+
+
+function drawLaser() {
+    let x1 = player.x + player.w / 2,
+        y1 = player.y + player.h / 2;
+
+    let x2 = x1,
+        y2 = y1;
+    let collisionFound = false;
+    let counter = 0;
+
+    let cosine = returnCosine(x1, y1, Mouse.x, Mouse.y);
+    let segments = []
+    let temp = {
+        x1: 0,
+        y1: 0,
+        x2: 0,
+        y2: 0,
+
+    }
+    let colItem = {
+        x: 0,
+        y: 0,
+        w: 0,
+        h: 0
+    }
+    let step = 4;
+    let point = {
+        x: 0,
+        y: 0
+    };
+    while (!collisionFound && counter < (CANVAS.width * 2 / step)) {
+
+        x2 -= cosine.cos * step;
+        y2 -= cosine.sin * step;
+        if (getTileData(x2, y2).solid) {
+            temp = getTileData(x2, y2).hitbox;
+            colItem.x = temp.x;
+            colItem.y = temp.y;
+            colItem.w = temp.w;
+            colItem.h = temp.h;
+            colItem.x += x2 - (x2 % TILESIZE);
+            colItem.y += y2 - (y2 % TILESIZE);
+            collisionFound = true;
+        }
+        point.x = x2;
+        point.y = y2;
+        for (let i = 0; i < monsters.length; i++) {
+            if (!monsters[i].dead && pointSquareCol(point, monsters[i])) {
+                colItem.x = monsters[i].x;
+                colItem.y = monsters[i].y;
+                colItem.w = monsters[i].w;
+                colItem.h = monsters[i].h;
+                collisionFound = true;
+                break;
+            }
+
+        }
+        counter++;
+    }
+    segments = getRectSides(colItem);
+    let points = [];
+    let temp2 = {},
+        temp3;
+    for (let i = 0; i < segments.length; i++) {
+        temp2 = intersect(x1, y1, x2, y2, segments[i].x1, segments[i].y1, segments[i].x2, segments[i].y2);
+        if (temp2) {
+            points.push(temp2);
+        }
+    }
+
+    let d = Math.hypot((x1 - x2), (y1 - y2)),
+        x3 = x2,
+        y3 = x2;
+    for (let i = 0; i < points.length; i++) {
+        temp3 = Math.hypot((x1 - x2), (y1 - y2))
+
+        if (temp3 < d) {
+            d = temp3;
+            x3 = points[i].x;
+            y3 = points[i].y;
+        }
+    }
+
+
+
+
+    c.strokeStyle = "#ff0000";
+    c.beginPath();
+    c.moveTo(x1 + map.x, y1 + map.y);
+    c.lineTo(x2 + map.x, y2 + map.y);
+    c.stroke();
+    c.strokeStyle = "black";
+}
+
+function isObstructed(obj1, obj2) {
+
+    let x1 = obj1.x + obj1.w / 2,
+        y1 = obj1.y + obj1.h / 2;
+
+    let xTarget = obj2.x + obj2.w / 2;
+    let yTarget = obj2.y + obj2.h / 2;
+    let distance = Math.hypot(x1 - xTarget, y1 - yTarget);
+
+    let x2 = x1,
+        y2 = y1;
+    let collisionFound = false;
+    let counter = 0;
+
+    let cosine = returnCosine(x1, y1, xTarget, yTarget);
+    let segments = []
+    let temp = {
+        x1: 0,
+        y1: 0,
+        x2: 0,
+        y2: 0,
+
+    }
+    let colItem = {
+        x: 0,
+        y: 0,
+        w: 0,
+        h: 0
+    }
+    let step = 3;
+    let point = {
+        x: 0,
+        y: 0
+    };
+    while (!collisionFound && counter < (distance / step)) {
+        x2 -= cosine.cos * step;
+        y2 -= cosine.sin * step;
+        if (getTileData(x2, y2).solid) {
+            temp = getTileData(x2, y2).hitbox;
+            colItem.x = temp.x;
+            colItem.y = temp.y;
+            colItem.w = temp.w;
+            colItem.h = temp.h;
+            colItem.x += x2 - (x2 % TILESIZE);
+            colItem.y += y2 - (y2 % TILESIZE);
+            return true;
+        }
+        point.x = x2;
+        point.y = y2;
+        if (pointSquareCol(point, obj2)) {
+            return false;
+        }
+        counter++;
+    }
+}
+
+function getRectSides(rect) {
+    let sides = [];
+
+    sides.push({
+        x1: rect.x,
+        y1: rect.y,
+        x2: rect.x + rect.w,
+        y2: rect.y
+    })
+    sides.push({
+        x1: rect.x + rect.w,
+        y1: rect.y,
+        x2: rect.x + rect.w,
+        y2: rect.y + rect.h
+    })
+    sides.push({
+        x1: rect.x + rect.w,
+        y1: rect.y + rect.h,
+        x2: rect.x,
+        y2: rect.y + rect.h
+    })
+    sides.push({
+        x1: rect.x,
+        y1: rect.y + rect.h,
+        x2: rect.x,
+        y2: rect.y
+    })
+
+
+    return sides;
+}
+
+
+
+function init() {
+    let unrefinedTilesData;
+    let temp = {};
+
+    fetch("./Archer.json").then(function (response) {
+        return response.json();
+    }).then(function (data) {
+        unrefinedTilesData = data.tiles;
+
+
+        for (let i = 0; i < unrefinedTilesData.length; i++) {
+            temp = {
+                id: 0,
+                solid: false,
+                hole: false,
+                unpassable: false,
+                hitbox: {
+                    x: 0,
+                    y: 0,
+                    w: TILESIZE,
+                    h: TILESIZE
+                }
+            };
+            temp.id = unrefinedTilesData[i].id
+            if (unrefinedTilesData[i].hasOwnProperty("properties")) {
+
+                for (let j = 0; j < unrefinedTilesData[i].properties.length; j++) {
+                    if (unrefinedTilesData[i].properties[j]) {
+                        switch (unrefinedTilesData[i].properties[j].name) {
+                            case "hole":
+                                temp.hole = true;
+                                temp.unpassable = true;
+                                break;
+                            case "solid":
+                                temp.solid = true;
+                                temp.unpassable = true;
+                                break;
+                        }
+                    }
+                }
+
+            }
+            TilesData.push(temp);
+        }
+
+        loop();
+
+    })
+
+
+}
+init();
+
+var HP_BAR = id("hp-bar");
+
+function renderHpBars() {
+    for (let i = 0; i < monsters.length; i++) {
+        if (monsters[i].dead) {
+            continue;
+        }
+        let hpRatio = monsters[i].hp / monsters[i].maxHp;
+        let barW = Math.round(TILESIZE * hpRatio);
+        c.drawImage(
+            HP_BAR,
+            0,
+            4,
+            barW,
+            4,
+            (monsters[i].x + monsters[i].w / 2 - 16 + map.x) | 0,
+            (monsters[i].y - 8 + map.y) | 0,
+            barW | 0,
+            4 | 0
+        );
+        c.drawImage(
+            HP_BAR,
+            0,
+            0,
+            TILESIZE,
+            4,
+            (monsters[i].x + monsters[i].w / 2 - 16 + map.x) | 0,
+            (monsters[i].y - 8 + map.y) | 0,
+            TILESIZE | 0,
+            4 | 0
+        );
+    }
+}
+class Map {
+    constructor() {
+        this.width = 23;
+        this.height = 15;
+        this.x = 0;
+        this.y = 0;
+        this.tiles = maps.m1;
+        this.sheet = id("sheet");
+        this.grass = id("grass");
+    }
+    draw() {
+
+        for (let i = 0; i < this.tiles.length; i++) {
+            if (i == 1) {
+                c.drawImage(
+                    this.grass,
+                    0 + this.x,
+                    0 + this.y,
+                    CANVAS.width,
+                    CANVAS.height
+                )
+            }
+            for (let j = 0; j < this.tiles[i].length; j++) {
+                if (this.tiles[i][j] === 0) {
+                    continue;
+                }
+                c.drawImage(
+                    this.sheet,
+                    (this.tiles[i][j] - 1) % 15 * TILESIZE,
+                    ((this.tiles[i][j] - 1) / 15 | 0) * TILESIZE,
+                    TILESIZE,
+                    TILESIZE,
+                    (j % this.width) * TILESIZE + map.x,
+                    (j / this.width | 0) * TILESIZE + map.y,
+                    TILESIZE,
+                    TILESIZE
+                )
+
+            }
+        }
+
+
+    }
+}
+var map = new Map();
+
+
+class Sword {
+    constructor() {
+        this.x = player.x;
+        this.y = player.y;
+        this.w = 16;
+        this.h = 48;
+        this.r = 50;
+        this.radians = 2;
+        this.radiansP = 0;
+        this.actionX = [0];
+        this.actionY = [0];
+        this.vfxX = [0, 0, 0, 0];
+        this.vfxY = [0, 128, 256, 384];
+        this.currentFrame = 0;
+
+        this.frameCounter = 0;
+        this.action = 0;
+        this.slowness = 3;
+        this.active = false;
+        this.sheet = id("sword-vfx");
+        this.swordImg = id("sword");
+    }
+    compute() {
+        this.x = player.x + player.w / 2;
+        this.y = player.y + player.h / 2;
+        let mx, my, mr;
+        for (let i = 0; i < monsters.length; i++) {
+            if (monsters[i].dead || !monsters[i].collidable) {
+                continue;
+            }
+            mx = monsters[i].hitbox.x + monsters[i].hitbox.w / 2;
+            my = monsters[i].hitbox.y + monsters[i].hitbox.h / 2;
+            mr = (monsters[i].w + monsters[i].h) / 2 * 0.5;
+            if (circleCollision(this.x, this.y, this.r, mx, my, mr)) {
+
+                let centerX = this.x + this.w / 2;
+                let centerY = this.y + this.h / 2;
+                let deltaX = monsters[i].x - centerX;
+                let deltaY = monsters[i].y - centerY;
+                let rotation = Math.atan2(deltaY, deltaX);
+                let xtarget = Math.cos(rotation);
+                let ytarget = Math.sin(rotation);
+
+                monsters[i].xVelExt = xtarget * 10;
+                monsters[i].yVelExt = ytarget * 10;
+                monsters[i].hp -= 0.25;
+                monsters[i].justDamaged = 15;
+            }
+
+        }
+    }
+    draw() {
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness * DTR) {
+            this.frameCounter = 0;
+            this.currentFrame++;
+            if (this.currentFrame >= this.vfxX.length) {
+
+                this.currentFrame = 0;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.vfxX[this.currentFrame],
+            this.vfxY[this.currentFrame],
+            128,
+            64,
+            this.x - 64 - player.xVelExt * 4 + map.x,
+            this.y - 64 - player.yVelExt * 4 + map.y,
+            128,
+            64);
+
+
+
+        c.save();
+        c.translate(player.x + player.w / 2 + map.x, player.y + player.h / 2 + map.y);
+        c.rotate(this.radiansP + this.radians);
+        c.drawImage(
+            this.swordImg,
+            this.actionX[this.action],
+            this.actionY[this.action],
+            this.w,
+            this.h,
+            -this.w / 2,
+            -this.h / 2 - player.h,
+            this.w,
+            this.h);
+        c.restore();
+        this.radians -= 0.5 / DTR;
+        if (this.radians <= -9) {
+            this.active = false;
+            this.radians = 2;
+        }
+
+
+        c.drawImage(
+            this.sheet,
+            this.vfxX[this.currentFrame],
+            this.vfxY[this.currentFrame] + 64,
+            128,
+            64,
+            this.x - 64 - player.xVelExt * 4 + map.x,
+            this.y - player.yVelExt * 4 + map.y,
+            128,
+            64);
+
+
+
+    }
+}
+var sword = new Sword()
+
+
+function sortMonsters() {
+    monsters.sort(function (a, b) {
+        if (a.dead && !b.dead) {
+            return -1;
+        } else if (!a.dead && b.dead) {
+            return 1;
+        } else {
+            return a.y + 15 - b.y;
+        }
+    })
+}
+
+function adjustCollidingMonsters() {
+    for (let j = 0; j < monsters.length; j++) {
+        if (monsters[j].dead) {
+            continue;
+        }
+        monsters[j].col.T = 0;
+        monsters[j].col.B = 0;
+        monsters[j].col.L = 0;
+        monsters[j].col.R = 0;
+        for (let i = 0; i < monsters.length; i++) {
+            if (monsters[i].dead) {
+                continue;
+            }
+            if (collided(monsters[j], monsters[i])) {
+                let col = colCheck(monsters[j], monsters[i]);
+                switch (col) {
+                    case "l":
+                        if (this.xVel < 0) {
+                            this.xVel = 0;
+                        }
+                        break;
+                    case "r":
+                        if (this.xVel > 0) {
+                            this.xVel = 0;
+                        }
+
+                        break;
+                    case "b":
+                        if (this.yVel > 0) {
+                            this.yVel = 0;
+                        }
+                        break;
+                    case "t":
+                        if (this.yVel < 0) {
+                            this.yVel = 0;
+                        }
+                        break;
+                }
+                monsters[j].xVel += (monsters[j].col.L - monsters[j].col.R) / 5;
+                monsters[j].yVel += (monsters[j].col.T - monsters[j].col.B) / 5;
+
+            }
+        }
+    }
+}
+
+class Monster extends Collidable {
+    constructor(x, y) {
+        super(Collidable);
+        this.x = x;
+        this.y = y;
+        this.w = TILESIZE;
+        this.h = TILESIZE;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.xVelExt = 0;
+        this.yVelExt = 0;
+        this.speed = 2;
+        this.left = 0;
+        this.justDied = false;
+        this.justDamaged = 0;
+        this.dead = false;
+        this.arrows = [];
+        this.maxHp = 3;
+        this.hp = 3;
+        this.frameCounter = 0;
+        this.slowness = 4;
+        this.currentFrame = 0;
+        this.collidable = true;
+        this.sheet = id("sheet")
+        this.action = 0;
+        this.col = {
+            T: 0,
+            B: 0,
+            L: 0,
+            R: 0
+        }
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: 19,
+            h: 17
+        }
+        this.actionX = [[3, 3, 3, 3], [4, 4, 4, 4], [5, 5, 5, 5], [3, 3, 3, 3], [3]];
+        this.actionY = [[6, 7, 8, 9], [6, 7, 8, 9], [6, 7, 8, 9], [9, 8, 7, 6], [9]];
+    }
+    followPlayer() {
+        if (this.action !== 0) {
+            let playerDistX = this.x + this.w / 2 - player.x - player.w / 2;
+            let playerDistY = this.y + this.h / 2 - player.y - player.h / 2;
+            let left = playerDistX > 0 ? -1 : 1;
+            let up = playerDistY > 0 ? -1 : 1;
+            let ratioXY;
+            if (playerDistY !== 0) {
+                ratioXY = Math.abs(playerDistX) / (Math.abs(playerDistY) + Math.abs(playerDistX));
+            } else {
+                ratioXY = 0;
+            }
+
+            this.xVel = this.speed * ratioXY * left;
+            this.yVel = this.speed * (1 - ratioXY) * up;
+            if (this.x + this.w < player.x) {
+                this.left = false;
+            } else if (player.x + player.w < this.x) {
+                this.left = true;
+            }
+
+        }
+    }
+    compute() {
+        if (!this.dead) {
+            this.followPlayer()
+            if (Math.abs(this.xVelExt) > 0.01) {
+                this.xVelExt *= 0.90;
+            } else {
+                this.xVelExt = 0;
+            }
+            if (Math.abs(this.yVelExt) > 0.01) {
+                this.yVelExt *= 0.90;
+            } else {
+                this.yVelExt = 0;
+            }
+            if (this.col.T && this.yVel < 0 ||
+                this.col.B && this.yVel > 0) {
+                this.yVel = 0;
+            }
+            if (this.col.L && this.xVel < 0 ||
+                this.col.R && this.xVel > 0) {
+                this.xVel = 0;
+            }
+            if (this.action !== 0) {
+                if (this.left) {
+                    this.action = 2;
+                } else {
+                    this.action = 1;
+                }
+            }
+
+            this.checkCollisions();
+
+
+            //error here
+            this.x += (this.xVel + this.xVelExt) / DTR;
+            this.y += (this.yVel + this.yVelExt) / DTR;
+
+            for (let i = 0; i < this.arrows.length; i++) {
+                this.arrows[i].x = this.x + this.arrows[i].xRel;
+                this.arrows[i].y = this.y + this.arrows[i].yRel;
+            }
+            this.hitbox.x = this.x + 6;
+            this.hitbox.y = this.y + 4;
+            if (this.hp <= 0) {
+                this.justDied = true;
+            }
+            if (this.justDied) {
+                this.justDamaged = 0;
+                this.dead = true;
+                this.action = 3;
+                this.frameCounter = 0;
+                this.currentFrame = 0;
+                this.slowness = 10
+            }
+        }
+    }
+    draw() {
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness * DTR) {
+            this.frameCounter = 0;
+            this.currentFrame++;
+            if (this.currentFrame >= this.actionX[this.action].length) {
+                if (this.action == 0) {
+                    this.action = 1 + this.left;
+                }
+                this.currentFrame = 0;
+            }
+        }
+        if (this.action == 3) {
+            if (this.currentFrame == this.actionX[this.action].length - 1) {
+                this.frameCounter = 0;
+            }
+        }
+        if (!this.dead)
+            for (let i = 0; i < this.arrows.length; i++) {
+                this.arrows[i].draw();
+            }
+
+        if (this.justDamaged > 0) {
+            this.action = 4;
+            this.currentFrame = 0;
+            this.framecounter = 0;
+            this.justDamaged -= 1 / DTR;
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.currentFrame] * TILESIZE,
+            this.actionY[this.action][this.currentFrame] * TILESIZE,
+            this.w,
+            this.h,
+            this.x + map.x | 0,
+            this.y + map.y | 0,
+            this.w,
+            this.h
+        )
+    }
+}
+
+class Mole extends Collidable {
+    constructor(x, y) {
+        super(Collidable);
+        this.x = (x / TILESIZE | 0) * TILESIZE;
+        this.y = (y / TILESIZE | 0) * TILESIZE;
+        this.w = TILESIZE;
+        this.h = TILESIZE;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.xVelExt = 0;
+        this.yVelExt = 0;
+        this.speed = 2;
+        this.left = 0;
+        this.justDied = false;
+        this.justDamaged = 0;
+        this.dead = false;
+        this.attacking = false;
+        this.arrows = [];
+        this.maxHp = 3;
+        this.hp = 3;
+        this.frameCounter = 0;
+        this.slowness = 4;
+        this.currentFrame = 0;
+        this.sheet = id("sheet")
+        this.action = 0;
+        this.collidable = true;
+        this.path = [];
+        this.col = {
+            T: 0,
+            B: 0,
+            L: 0,
+            R: 0
+        }
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: 14,
+            h: 26
+        }
+        this.atkBox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0
+        }
+        /*
+        
+        0 - Idle
+        1 - dive
+        2 - emerge
+        3 - death
+        4 - erupt
+        
+        */
+        this.actionX = [[9, 9, 9, 9], [10, 10, 10, 10, 11, 11, 11, 11], [12, 12, 12, 12], [13, 13, 13, 13], [14, 14, 14, 14, 14]];
+        this.actionY = [[20, 21, 22, 23], [20, 21, 22, 23, 20, 21, 22, 23], [20, 21, 22, 23], [20, 21, 22, 23], [20, 21, 22, 23, 24]];
+        this.counter = 0;
+    }
+    followPlayer() {
+        // collision box that search for the player
+        this.atkBox.x = this.x - 5 * TILESIZE;
+        this.atkBox.y = this.y - 5 * TILESIZE;
+        this.atkBox.w = 11 * TILESIZE;
+        this.atkBox.h = 11 * TILESIZE;
+        // if player is near
+        if (collided(this.atkBox, player)) {
+
+            // if it is attacking and the current frame of the explosion is the last, move
+            if (this.attacking) {
+                if (this.currentFrame == 0 && this.frameCounter == 0) {
+                    this.createGrid()
+                    switch (this.path[0]) {
+                        case 'l':
+                            this.x -= TILESIZE;
+                            break;
+                        case 'r':
+                            this.x += TILESIZE;
+                            break;
+                        case 't':
+                            this.y -= TILESIZE;
+                            break;
+                        case 'b':
+                            this.y += TILESIZE;
+                            break;
+                    }
+                }
+                //otherwise if it not attacking go attack mode
+            } else if (this.action !== 1) {
+                this.action = 1;
+                this.currentFrame = 0;
+                this.frameCounter = 0;
+            }
+        } else {
+            if (this.attacking && this.action !== 0 && this.action !== 2) {
+                this.attacking = false;
+                this.collidable = true;
+                this.action = 2;
+                this.currentFrame = 0;
+                this.frameCounter = 0;
+            }
+        }
+    }
+    compute() {
+        this.followPlayer()
+        this.hitbox.x = this.x + (this.w - 14) / 2;
+        this.hitbox.y = this.y + (this.h - 26) / 2;
+
+        for (let i = 0; i < this.arrows.length; i++) {
+            this.arrows[i].x = this.x + this.arrows[i].xRel;
+            this.arrows[i].y = this.y + this.arrows[i].yRel;
+        }
+        if (this.hp <= 0) {
+            this.justDied = true;
+        }
+        if (this.justDied) {
+            this.justDamaged = 0;
+            this.dead = true;
+            this.action = 3;
+            this.frameCounter = 0;
+            this.currentFrame = 0;
+            this.slowness = 10
+        }
+    }
+    draw() {
+        this.frameCounter++;
+        if (this.action == 4) {
+            this.slowness = 3;
+        } else {
+            this.slowness = 5;
+        }
+        if (this.frameCounter > this.slowness * DTR) {
+            this.frameCounter = 0;
+            this.currentFrame++;
+            if (this.currentFrame >= this.actionX[this.action].length) {
+                if (this.dead) {
+                    this.currentFrame = this.actionX[this.action].length - 1;
+                } else if (this.action == 1) {
+                    this.attacking = true;
+                    this.collidable = false;
+                    this.action = 4;
+                    this.currentFrame = 0;
+                } else if (this.action == 2) {
+                    this.action = 0;
+                    this.currentFrame = 0;
+                } else {
+                    this.currentFrame = 0;
+                }
+            }
+        }
+
+
+        if (!this.dead) {
+            if (this.action == 0) {
+                for (let i = 0; i < this.arrows.length; i++) {
+                    this.arrows[i].draw();
+                }
+            }
+
+        }
+
+
+        if (this.justDamaged > 0) {
+            this.action = 3;
+            this.currentFrame = 0;
+            this.framecounter = 0;
+            this.justDamaged -= 1 / DTR;
+            if (this.justDamaged <= 0) {
+                this.action = 0;
+            }
+        }
+
+        //draw body
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.currentFrame] * TILESIZE,
+            this.actionY[this.action][this.currentFrame] * TILESIZE,
+            this.w,
+            this.h,
+            this.x + map.x | 0,
+            this.y + map.y | 0,
+            this.w,
+            this.h
+        )
+        /*
+        c.rect(
+            this.atkBox.x + map.x,
+            this.atkBox.y + map.y,
+            this.atkBox.w,
+            this.atkBox.h)
+        c.closePath()
+        c.stroke();
+        */
+    }
+    // monsters[0].createGrid()
+    createGrid() {
+        let gridSize = 11;
+        let grid = [];
+        let startX = this.x + this.w / 2 - TILESIZE * 5;
+        let startY = this.y + this.h / 2 - TILESIZE * 5;
+        let tileData;
+        for (let i = 0; i < gridSize; i++) {
+            grid[i] = [];
+            for (let j = 0; j < gridSize; j++) {
+                tileData = getTileData(startX + i * TILESIZE, startY + j * TILESIZE);
+                if (tileData === false) {
+                    grid[i][j] = 'Empty';
+                } else {
+                    grid[i][j] = 'Obstacle';
+                }
+            }
+        }
+        grid[5][5] = 'Start';
+        grid[((player.x - this.x) / TILESIZE | 0) + 5][((player.y - this.y) / TILESIZE | 0) + 5] = 'Goal';
+        this.path = findShortestPath([5, 5], grid);
+
+    }
+}
+
+
+class Flower extends Collidable {
+    constructor(x, y) {
+        super(Collidable);
+        this.x = x;
+        this.y = y;
+        this.w = TILESIZE;
+        this.h = TILESIZE;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.xVelExt = 0;
+        this.yVelExt = 0;
+        this.speed = 2;
+        this.left = 0;
+        this.justDied = false;
+        this.justDamaged = 0;
+        this.dead = false;
+        this.arrows = [];
+        this.maxHp = 3;
+        this.hp = 3;
+        this.frameCounter = 0;
+        this.slowness = 8;
+        this.attacking = false;
+        this.currentFrame = 0;
+        this.sheet = id("sheet")
+        this.precision = 5;
+        this.projSpeed = 8;
+        this.collidable = true;
+        this.col = {
+            T: 0,
+            B: 0,
+            L: 0,
+            R: 0
+        }
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: this.w / 3,
+            h: this.h - this.h / 5 * 2
+        }
+        this.action = 0;
+        this.actionX = [[5, 5, 5, 5], [5, 5, 5, 5], [8, 8, 8, 8]];
+        this.actionY = [[20, 21, 22, 23], [20, 20, 21, 22], [20, 21, 22, 23]];
+        this.headX = [[7, 7, 7, 7], [6, 6, 6, 6]];
+        this.headY = [[20, 21, 22, 23], [20, 21, 22, 23]];
+        this.radians = 0;
+        this.justShot = false;
+    }
+    //shoots a projectile in direction of the player
+    shoot() {
+        if (!isObstructed(this, player)) {
+            this.attacking = true;
+            if (this.currentFrame == 2) {
+                if (!this.justShot) {
+                    let projectile = new EnemyProjectile()
+                    let centerX = this.x + this.w / 2;
+                    let centerY = this.y + this.h / 2;
+                    let deltaX = player.x + player.w / 2 - centerX + Math.random() * this.precision - this.precision / 2;
+                    let deltaY = player.y + player.h / 2 - centerY + Math.random() * this.precision - this.precision / 2;
+                    let rotation = Math.atan2(deltaY, deltaX);
+                    let xtarget = Math.cos(rotation);
+                    let ytarget = Math.sin(rotation);
+
+                    projectile.xVel = xtarget * this.projSpeed;
+                    projectile.yVel = ytarget * this.projSpeed;
+                    projectile.x = centerX;
+                    projectile.y = centerY;
+                    enemyProjectiles.push(projectile);
+                    this.justShot = true;
+                }
+            } else {
+                this.justShot = false;
+            }
+        } else {
+            this.attacking = false;
+        }
+    }
+    compute() {
+        this.shoot();
+        this.hitbox.x = this.x + this.w / 3;
+        this.hitbox.y = this.y + this.h / 5;
+        this.radians = Math.atan2(player.y + player.h / 2 - this.y - (this.h / 2), player.x + player.w / 2 - (this.w / 2) - this.x) + Math.PI / 2;
+
+        for (let i = 0; i < this.arrows.length; i++) {
+            this.arrows[i].x = this.x + this.arrows[i].xRel;
+            this.arrows[i].y = this.y + this.arrows[i].yRel;
+        }
+        if (this.hp <= 0) {
+            this.justDied = true;
+        }
+        if (this.justDied) {
+            this.justDamaged = 0;
+            this.dead = true;
+            this.action = 2;
+            this.frameCounter = 0;
+            this.currentFrame = 0;
+            this.slowness = 10
+        }
+
+    }
+    draw() {
+
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness * DTR) {
+            this.frameCounter = 0;
+            this.currentFrame++;
+            if (this.currentFrame >= this.actionX[this.action].length) {
+                if (this.dead) {
+                    this.currentFrame = this.actionX[this.action].length - 1;
+                } else {
+                    this.currentFrame = 0;
+                }
+            }
+        }
+
+
+
+        if (!this.dead) {
+            this.attacking ? this.action = 1 : this.action = 0;
+            for (let i = 0; i < this.arrows.length; i++) {
+                this.arrows[i].draw();
+            }
+
+        }
+        if (this.attacking) {
+            this.slowness = 4;
+        } else {
+            this.slowness = 8
+        }
+        if (this.justDamaged) {
+            this.action = 2;
+            this.currentFrame = 0;
+            this.framecounter = 0;
+            this.justDamaged--;
+        }
+
+
+
+
+        //draw body
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.currentFrame] * TILESIZE,
+            this.actionY[this.action][this.currentFrame] * TILESIZE,
+            this.w,
+            this.h,
+            this.x + map.x | 0,
+            this.y + map.y | 0,
+            this.w,
+            this.h
+        )
+
+        //draw head
+        if (this.action == 0 || this.action == 1) {
+            c.save();
+            c.translate(this.x + this.w / 2 + map.x, this.y + this.h / 2 + map.y - 6);
+            c.rotate(this.radians);
+            c.drawImage(
+                this.sheet,
+                this.headX[this.action][this.currentFrame] * TILESIZE,
+                this.headY[this.action][this.currentFrame] * TILESIZE,
+                TILESIZE,
+                TILESIZE,
+                -this.w / 2,
+                -this.h / 2,
+                this.w,
+                this.h);
+            c.restore();
+        }
+    }
+}
+
+function getTileData(x, y) {
+    let pos = ((x / TILESIZE) | 0) + ((y / TILESIZE) | 0) * map.width;
+    for (let i = 0; i < map.tiles.length; i++) {
+
+        for (let j = 0; j < TilesData.length; j++) {
+
+            if (TilesData[j].id == map.tiles[i][pos] - 1) {
+                return TilesData[j];
+            }
+        }
+    }
+    return false;
+}
+
+
+window.onclick = function () {
+    if (player.arrowsCount !== 0) {
+        player.shoot();
+    } else {
+        player.noArrows = 10;
+    }
+}
+window.oncontextmenu = function (e) {
+    e.preventDefault();
+    player.attack();
+}
+
+document.addEventListener("mousedown", function (evt) {
+    switch (evt.button) {
+        case 0: //left btn
+            userInterface.lClick = true;
+            break;
+        case 2: //right btn
+            userInterface.rClick = true;
+            break;
+    }
+})
+document.addEventListener("mouseup", function (evt) {
+    switch (evt.button) {
+        case 0: //left btn
+            userInterface.lClick = false;
+            break;
+        case 2: //right btn
+            userInterface.rClick = false;
+            break;
+    }
+})
+
+
+//Displays debug stats
+var stats = id("stats");
+
+function drawStats() {
+    stats.innerHTML = "player.x = " + player.x;
+    stats.innerHTML += "<br>player.y = " + player.y;
+    stats.innerHTML += "<br>mouseTile.x = " + (Mouse.x / TILESIZE | 0) * TILESIZE;
+    stats.innerHTML += "<br>mouseTile.y = " + (Mouse.y / TILESIZE | 0) * TILESIZE;
+    stats.innerHTML += "<br>mouseTile pos = " + (((Mouse.x / TILESIZE) | 0) + ((Mouse.y / TILESIZE) | 0) * map.width);
+    stats.innerHTML += "<br>mouseTile id = " + map.tiles[1][((Mouse.x / TILESIZE) | 0) + ((Mouse.y / TILESIZE) | 0) * map.width];
+    map.tiles[1][((Mouse.x / TILESIZE) | 0) + ((Mouse.y / TILESIZE) | 0) * map.width];
+
+
+    if (DEBUG) {
+        c.rect((Mouse.x / TILESIZE | 0) * TILESIZE + map.x, (Mouse.y / TILESIZE | 0) * TILESIZE + map.y, TILESIZE, TILESIZE)
+        c.stroke()
+    }
+
+}
+
+
+
+
+
+// CONTROLS
+window.addEventListener("keydown", function (evt) {
+    switch (evt.keyCode) {
+        case 65:
+            player.L = true;
+            break;
+        case 68:
+            player.R = true;
+            break;
+        case 87:
+            player.T = true;
+            break;
+        case 83:
+            player.B = true;
+            break;
+        case 49:
+            monsters.push(new Mole(Mouse.x - 16, Mouse.y - 16));
+            break;
+        case 50:
+            console.log(getTileData(Mouse.x, Mouse.y))
+            break;
+        case 51:
+            for (let i = 0; i < 50; i++) {
+                player.shoot()
+                player.arrowCounter = player.arrowCD * DTR;
+                player.computeQuiver()
+            }
+            break;
+        case 32:
+            if (!gamePaused) {
+                gamePaused = true;
+            } else {
+                gamePaused = false;
+            }
+            break;
+    }
+})
+window.addEventListener("keyup", function (evt) {
+    switch (evt.keyCode) {
+        case 65:
+            player.L = false;
+            break;
+        case 68:
+            player.R = false;
+            break;
+        case 87:
+            player.T = false;
+            break;
+        case 83:
+            player.B = false;
+            break;
+    }
+})
+/*
+
+    Mouse.x = evt.clientX - CANVAS.offsetLeft - map.x+29;
+    Mouse.y = evt.clientY - CANVAS.offsetTop - map.y;
+
+*/
+window.addEventListener("mousemove", function (evt) {
+    mousePP.x = evt.clientX - CANVAS.offsetLeft;
+    mousePP.y = evt.clientY - CANVAS.offsetTop;
+})
+
+function moveCamera() {
+
+    map.x = -player.x / 3 + CANVAS.width / 6;
+    map.y = -player.y / 3 + CANVAS.height / 6;
+
+    if (screenShake.counter) {
+        screenShake.counter--;
+        screenShake.set();
+        map.x += screenShake.x;
+        map.y += screenShake.y;
+    }
+    map.x = map.x | 0;
+    map.y = map.y | 0;
+    /*
+    if (map.x < -player.x + CANVAS.width / 2 - 25 || map.x > -player.x + CANVAS.width / 2) {
+        map.x += (-map.x - player.x + CANVAS.width / 2) / 20;
+    }
+    if (map.y < -player.y + CANVAS.height / 2 - 25 || map.y > -player.y + CANVAS.height / 2) {
+        map.y += (-map.y - player.y + CANVAS.height / 2) / 20;
+    }
+    */
+
+
+}
+var sampleArrow=new Projectile();
+function computeDrawArrows() {
+    c.lineWidth = 2;
+    c.strokeStyle = sampleArrow.colors[0];
+    c.beginPath();
+    for (let i = playerArrows.length - 1; i >= 0; i--) {
+        // Arrows are either flying or stuck on things, compute only if flying
+        if (!playerArrows[i].active || playerArrows[i].color != 1) {
+            continue;
+        }
+        if (playerArrows[i].free) {
+            playerArrows[i].compute()
+        }
+        if (playerArrows[i]!==undefined)
+            playerArrows[i].draw()
+    }
+    c.closePath()
+    c.stroke();
+
+    c.strokeStyle = sampleArrow.colors[1];
+    c.beginPath();
+    for (let i = playerArrows.length - 1; i >= 0; i--) {
+        // Arrows are either flying or stuck on things, compute only if flying
+        if (!playerArrows[i].active || playerArrows[i].color != 2) {
+            continue;
+        }
+        if (playerArrows[i].free) {
+            playerArrows[i].compute()
+        }
+        if (playerArrows[i]!==undefined)
+            playerArrows[i].draw()
+    }
+    c.closePath()
+    c.stroke();
+}
+
+function loop() {
+    fps++; // To compute the fps counter
+    c.clearRect(0, 0, CANVAS.width, CANVAS.height); // Clears the canvas
+    moveCamera(); // Camera which follows the player
+    map.draw(); // Draws the map
+    player.compute(); // Computes the player
+
+    // Computes the enemies's projectiles
+    for (let i = enemyProjectiles.length - 1; i >= 0; i--) {
+        enemyProjectiles[i].compute()
+    }
+
+    // Orders Monsters by their y position
+    sortMonsters();
+
+    // Process the in-game mouse position according to map offsets
+    Mouse.x = mousePP.x - map.x;
+    Mouse.y = mousePP.y - map.y;
+
+    // Computes and draws EVERY monster
+    for (let i = 0; i < monsters.length; i++) {
+        if (!monsters[i].dead) {
+            monsters[i].compute();
+        }
+        monsters[i].draw();
+    }
+
+    //drawLaser();
+
+    // Draws the player
+    player.draw();
+
+    // Checks collisions between monsters
+    adjustCollidingMonsters();
+
+    // Renders monsters' hp bars
+    renderHpBars();
+
+    // Computes the player's projectiles
+    computeDrawArrows();
+    // Draws the enemies's projectiles
+    for (let i = enemyProjectiles.length - 1; i >= 0; i--) {
+        enemyProjectiles[i].draw()
+    }
+
+    // Draws the player's Sword 
+    if (sword.active) {
+        sword.compute();
+        sword.draw();
+    }
+
+
+    // Draws VisualFxs (shooting VFXs)
+    for (let i = visualFxs.length - 1; i >= 0; i--) {
+        if (!visualFxs[i].ended) {
+            visualFxs[i].draw();
+        }
+    }
+
+    // Draws Interface
+    userInterface.draw();
+
+    // Displays Debug stats
+    drawStats();
+    // If the game is not paused recalls this function
+}
+var lastUpdate = Date.now();
+var myInterval = setInterval(tick, 1000 / 60);
+var DTR = 1; //delta time ratio
+function tick() {
+    var now = Date.now();
+    var dt = now - lastUpdate;
+    lastUpdate = now;
+    DTR = (1000 / 60) / dt;
+    if (!gamePaused) {
+        loop();
+    }
+}

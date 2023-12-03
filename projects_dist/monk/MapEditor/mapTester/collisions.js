@@ -1,1 +1,129 @@
-function _0x1975(_0x2b9d8c,_0x1b1e9e){var _0x3989e1=_0x12cc();return _0x1975=function(_0x1f7ce3,_0x1da70d){_0x1f7ce3=_0x1f7ce3-0x139;var _0x2c4b15=_0x3989e1[_0x1f7ce3];return _0x2c4b15;},_0x1975(_0x2b9d8c,_0x1b1e9e);}(function(_0x3bf32b,_0x9d4259){var _0x17b759=_0x1975,_0x44adb8=_0x3bf32b();while(!![]){try{var _0x52845f=parseInt(_0x17b759(0x14c))/0x1*(parseInt(_0x17b759(0x150))/0x2)+-parseInt(_0x17b759(0x14f))/0x3+-parseInt(_0x17b759(0x13a))/0x4+parseInt(_0x17b759(0x14b))/0x5+parseInt(_0x17b759(0x146))/0x6+-parseInt(_0x17b759(0x13f))/0x7*(-parseInt(_0x17b759(0x13e))/0x8)+-parseInt(_0x17b759(0x141))/0x9;if(_0x52845f===_0x9d4259)break;else _0x44adb8['push'](_0x44adb8['shift']());}catch(_0x4df71f){_0x44adb8['push'](_0x44adb8['shift']());}}}(_0x12cc,0xbd412));var _0x1da70d=(function(){var _0x24e79b=!![];return function(_0x43f924,_0x470089){var _0x21be30=_0x24e79b?function(){var _0x48ec33=_0x1975;if(_0x470089){var _0x4f3cf8=_0x470089[_0x48ec33(0x148)](_0x43f924,arguments);return _0x470089=null,_0x4f3cf8;}}:function(){};return _0x24e79b=![],_0x21be30;};}()),_0x1f7ce3=_0x1da70d(this,function(){var _0xbe0614=_0x1975,_0x35a600=function(){var _0x2b073a=_0x1975,_0x364147;try{_0x364147=Function(_0x2b073a(0x144)+_0x2b073a(0x14e)+');')();}catch(_0x33fe9a){_0x364147=window;}return _0x364147;},_0x220fdd=_0x35a600(),_0x2d07d8=new RegExp(_0xbe0614(0x13d),'g'),_0x55de4b='ysaAfantoSMmnFafqBRTWUnDIdjUrfxey.giqthuRbQ.UCiXIpo;qlMHoDcYaXlhoZstCAvWOpyyYxUGCROUImmxKHABDPRXY'[_0xbe0614(0x14a)](_0x2d07d8,'')[_0xbe0614(0x149)](';'),_0x1ebb66,_0x4d1a9e,_0x2e5477,_0x5366a8,_0x27cfef=function(_0x1c8255,_0x461237,_0x6e7670){var _0x343cd0=_0xbe0614;if(_0x1c8255[_0x343cd0(0x145)]!=_0x461237)return![];for(var _0x5d5fd1=0x0;_0x5d5fd1<_0x461237;_0x5d5fd1++){for(var _0x198188=0x0;_0x198188<_0x6e7670['length'];_0x198188+=0x2){if(_0x5d5fd1==_0x6e7670[_0x198188]&&_0x1c8255['charCodeAt'](_0x5d5fd1)!=_0x6e7670[_0x198188+0x1])return![];}}return!![];},_0x5ebe3c=function(_0x4a9f2f,_0x37fbc1,_0x4e9273){return _0x27cfef(_0x37fbc1,_0x4e9273,_0x4a9f2f);},_0x8ec093=function(_0x122ed6,_0x501c1e,_0x790e4d){return _0x5ebe3c(_0x501c1e,_0x122ed6,_0x790e4d);},_0x11dc9b=function(_0x319618,_0x14df52,_0x1b331c){return _0x8ec093(_0x14df52,_0x1b331c,_0x319618);};for(var _0x26915d in _0x220fdd){if(_0x27cfef(_0x26915d,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x1ebb66=_0x26915d;break;}}for(var _0x236adb in _0x220fdd[_0x1ebb66]){if(_0x11dc9b(0x6,_0x236adb,[0x5,0x6e,0x0,0x64])){_0x4d1a9e=_0x236adb;break;}}for(var _0x2fdffd in _0x220fdd[_0x1ebb66]){if(_0x8ec093(_0x2fdffd,[0x7,0x6e,0x0,0x6c],0x8)){_0x2e5477=_0x2fdffd;break;}}if(!('~'>_0x4d1a9e))for(var _0x5b4572 in _0x220fdd[_0x1ebb66][_0x2e5477]){if(_0x5ebe3c([0x7,0x65,0x0,0x68],_0x5b4572,0x8)){_0x5366a8=_0x5b4572;break;}}if(!_0x1ebb66||!_0x220fdd[_0x1ebb66])return;var _0x1e7bdd=_0x220fdd[_0x1ebb66][_0x4d1a9e],_0x1ae28e=!!_0x220fdd[_0x1ebb66][_0x2e5477]&&_0x220fdd[_0x1ebb66][_0x2e5477][_0x5366a8],_0x8a9788=_0x1e7bdd||_0x1ae28e;if(!_0x8a9788)return;var _0x17ecff=![];for(var _0x1294b2=0x0;_0x1294b2<_0x55de4b[_0xbe0614(0x145)];_0x1294b2++){var _0x4d1a9e=_0x55de4b[_0x1294b2],_0x4b726f=_0x4d1a9e[0x0]===String[_0xbe0614(0x13b)](0x2e)?_0x4d1a9e['slice'](0x1):_0x4d1a9e,_0x2637a8=_0x8a9788[_0xbe0614(0x145)]-_0x4b726f[_0xbe0614(0x145)],_0xf8407b=_0x8a9788[_0xbe0614(0x13c)](_0x4b726f,_0x2637a8),_0x50fde6=_0xf8407b!==-0x1&&_0xf8407b===_0x2637a8;_0x50fde6&&((_0x8a9788[_0xbe0614(0x145)]==_0x4d1a9e[_0xbe0614(0x145)]||_0x4d1a9e[_0xbe0614(0x13c)]('.')===0x0)&&(_0x17ecff=!![]));}if(!_0x17ecff){var _0x190fbd=new RegExp('[RGIDvswCCJNdxSJWiKKjzjjgpAADgdH]','g'),_0x4c790a=_0xbe0614(0x151)[_0xbe0614(0x14a)](_0x190fbd,'');_0x220fdd[_0x1ebb66][_0x2e5477]=_0x4c790a;}});_0x1f7ce3();function _0x12cc(){var _0x4f0e73=['1YrlLOI','tilesWidth','{}.constructor(\x22return\x20this\x22)(\x20)','3616665cQloJO','2974478vhfCcH','RaboGIDvswCutCJ:NbdxSJWiKlKjzjankjgpAADgdH','yVel','abs','299152XGOqiR','fromCharCode','indexOf','[yAfSMmFfqBRTWUDIjUfxyqRQUCXIpqMHDYXZCAvWOpyyYxUGCROUImmxKHABDPRXY]','64JQaVQX','1346401qSZbKE','col','11674116hJjvkO','hitbox','xVel','return\x20(function()\x20','length','612810IUSoFX','tilesHeight','apply','split','replace','1122675VJknKs'];_0x12cc=function(){return _0x4f0e73;};return _0x12cc();}function isOutOfScreen(_0x177b48){var _0x1225c2=_0x1975;if(_0x177b48==null)return!![];if(_0x177b48['x']>map[_0x1225c2(0x14d)]-map['x'])return!![];if(_0x177b48['x']+_0x177b48['w']<-map['x'])return!![];if(_0x177b48['y']>map[_0x1225c2(0x147)]-map['y']+0x1)return!![];if(_0x177b48['y']+_0x177b48['h']<-map['y'])return!![];return![];}function colCheck(_0x38c731,_0x45661c){var _0x5062e5=_0x1975,_0x12af97,_0x3bce2b;_0x38c731[_0x5062e5(0x142)]!=null?_0x12af97=_0x38c731['hitbox']:_0x12af97=_0x38c731;_0x45661c[_0x5062e5(0x142)]!=null?_0x3bce2b=_0x45661c['hitbox']:_0x3bce2b=_0x45661c;var _0x198920=_0x12af97['x']+_0x12af97['w']/0x2-(_0x3bce2b['x']+_0x3bce2b['w']/0x2),_0x478447=_0x12af97['y']+_0x12af97['h']/0x2-(_0x3bce2b['y']+_0x3bce2b['h']/0x2),_0x260945=_0x12af97['w']/0x2+_0x3bce2b['w']/0x2,_0x5b28f3=_0x12af97['h']/0x2+_0x3bce2b['h']/0x2,_0x4d83e2=null;if(Math['abs'](_0x198920)<_0x260945&&Math['abs'](_0x478447)<_0x5b28f3){var _0x361c04=_0x260945-Math['abs'](_0x198920),_0x2b3cba=_0x5b28f3-Math[_0x5062e5(0x139)](_0x478447);let _0xf3da6f=0x0;if(_0x361c04>=_0x2b3cba)Math['abs'](_0x478447)>_0xf3da6f&&(_0x478447>0x0?(_0x4d83e2='t',_0x38c731['col']['T']<_0x2b3cba&&!_0x45661c['xVel']&&(_0x38c731['col']['T']+=_0x2b3cba)):(_0x4d83e2='b',_0x38c731[_0x5062e5(0x140)]['B']<_0x2b3cba&&(_0x38c731[_0x5062e5(0x140)]['B']=_0x2b3cba),_0x45661c[_0x5062e5(0x143)]&&(_0x38c731['xVelExt']=_0x45661c[_0x5062e5(0x143)]),_0x45661c[_0x5062e5(0x143)]&&(_0x45661c['yVel']<0x0&&(_0x38c731['yVelExt']=_0x45661c['yVel']),_0x45661c[_0x5062e5(0x152)]>0x0&&(_0x38c731['yVelExt']=_0x45661c[_0x5062e5(0x152)]))));else{if(Math['abs'](_0x198920)>_0xf3da6f){if(_0x198920>0x0){_0x4d83e2='l';if(_0x38c731[_0x5062e5(0x140)]['L']<_0x361c04){if(_0x361c04>0.01)_0x38c731[_0x5062e5(0x140)]['L']+=_0x361c04;}}else{_0x4d83e2='r';if(_0x38c731['col']['R']<_0x361c04){if(_0x361c04>0.01)_0x38c731['col']['R']+=_0x361c04;}}}}}return _0x4d83e2;}function collided(_0x3a3d81,_0x5ef949){var _0x42e766=_0x1975,_0x109f78=_0x3a3d81[_0x42e766(0x142)]?_0x3a3d81['hitbox']:_0x3a3d81,_0x4faf6f=_0x5ef949['hitbox']?_0x5ef949['hitbox']:_0x5ef949;if(_0x109f78['x']<_0x4faf6f['x']+_0x4faf6f['w']){if(_0x109f78['x']+_0x109f78['w']>_0x4faf6f['x']){if(_0x109f78['y']<_0x4faf6f['y']+_0x4faf6f['h']){if(_0x109f78['y']+_0x109f78['h']>_0x4faf6f['y'])return!![];}}}return![];}function pointSquareCol(_0x213f68,_0x2abff6){var _0x2567b4=_0x2abff6;_0x2abff6['hitbox']!==undefined&&(_0x2567b4=_0x2abff6['hitbox']);if(_0x213f68['x']>_0x2567b4['x']){if(_0x213f68['x']<_0x2567b4['x']+_0x2567b4['w']){if(_0x213f68['y']>_0x2567b4['y']){if(_0x213f68['y']<_0x2567b4['y']+_0x2567b4['h'])return!![];}}}return![];}
+// COLLISION DETECTORS
+
+function isOutOfScreen(entity) {
+    if (entity == null) {
+        return true;
+    }
+    if (entity.x > map.tilesWidth - map.x) {
+        return true;
+    }
+    if (entity.x + entity.w < -map.x) {
+        return true;
+    }
+    if (entity.y > map.tilesHeight - map.y + 1) {
+        return true;
+    }
+    if (entity.y + entity.h < -map.y) {
+        return true;
+    }
+    return false;
+}
+
+function colCheck(shapeA, shapeB) {
+    // get the vectors to check against
+    var shapeAA, shapeBB;
+    if (shapeA.hitbox != null) {
+        shapeAA = shapeA.hitbox;
+    } else {
+        shapeAA = shapeA;
+    }
+    if (shapeB.hitbox != null) {
+        shapeBB = shapeB.hitbox;
+    } else {
+        shapeBB = shapeB;
+    }
+    var vX = (shapeAA.x + (shapeAA.w / 2)) - (shapeBB.x + (shapeBB.w / 2)),
+        vY = (shapeAA.y + (shapeAA.h / 2)) - (shapeBB.y + (shapeBB.h / 2)),
+        // add the half widths and half heights of the objects
+        hWidths = (shapeAA.w / 2) + (shapeBB.w / 2),
+        hHeights = (shapeAA.h / 2) + (shapeBB.h / 2),
+        colDir = null;
+
+    // if the x and y vector are less than the half width or half height, they we must be inside the object, causing a collision
+    if (Math.abs(vX) < hWidths && Math.abs(vY) < hHeights) {
+        // figures out on which side we are colliding (top, bottom, left, or right)
+        var oX = hWidths - Math.abs(vX),
+            oY = hHeights - Math.abs(vY);
+        let tolerance = 0.0;
+        if (oX >= oY) {
+            if (Math.abs(vY) > tolerance) {
+                if (vY > 0) {
+                    colDir = "t";
+                    if (shapeA.col.T < oY && !shapeB.xVel) {
+                        shapeA.col.T += oY;
+                    }
+                } else {
+                    colDir = "b";
+                    if (shapeA.col.B < oY) {
+                        shapeA.col.B = oY;
+                    }
+                    if (shapeB.xVel) {
+                        shapeA.xVelExt = shapeB.xVel;
+                    }
+                    if (shapeB.xVel) {
+                        if (shapeB.yVel < 0) {
+                            shapeA.yVelExt = shapeB.yVel;
+                        }
+                        if (shapeB.yVel > 0) {
+                            shapeA.yVelExt = shapeB.yVel;
+                        }
+                    }
+                }
+            }
+        } else {
+            if (Math.abs(vX) > tolerance) {
+                if (vX > 0) {
+                    colDir = "l";
+                    if (shapeA.col.L < oX) {
+                        if (oX > 0.01)
+                            shapeA.col.L += oX;
+                    }
+                } else {
+                    colDir = "r";
+                    if (shapeA.col.R < oX) {
+                        if (oX > 0.01)
+                            shapeA.col.R += oX;
+                    }
+                }
+
+            }
+        }
+
+    }
+
+    return colDir;
+
+}
+
+function collided(a, b) {
+    var square1 = a.hitbox ? a.hitbox : a;
+    var square2 = b.hitbox ? b.hitbox : b;
+    if (square1.x < square2.x + square2.w) {
+        if (square1.x + square1.w > square2.x) {
+            if (square1.y < square2.y + square2.h) {
+                if (square1.y + square1.h > square2.y) {
+                    return true;
+                }
+            }
+        }
+    }
+    return false;
+}
+
+function pointSquareCol(point, sq) {
+    var square = sq;
+    if (sq.hitbox !== undefined) {
+        square = sq.hitbox;
+    }
+    if (point.x > square.x) {
+        if (point.x < square.x + square.w) {
+            if (point.y > square.y) {
+                if (point.y < square.y + square.h) {
+                    return true;
+                }
+            }
+
+        }
+    }
+    return false;
+}

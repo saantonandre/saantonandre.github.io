@@ -1,1 +1,1067 @@
-var _0x39f952=_0x1b5f;function _0x1b5f(_0x456906,_0x3bee4e){var _0x3b6307=_0x103a();return _0x1b5f=function(_0x249a08,_0x19dd04){_0x249a08=_0x249a08-0x122;var _0x30ec17=_0x3b6307[_0x249a08];return _0x30ec17;},_0x1b5f(_0x456906,_0x3bee4e);}(function(_0x340110,_0x5f5553){var _0x44f51a=_0x1b5f,_0x187bff=_0x340110();while(!![]){try{var _0x26cf4b=-parseInt(_0x44f51a(0x18d))/0x1+-parseInt(_0x44f51a(0x1a0))/0x2+parseInt(_0x44f51a(0x165))/0x3*(-parseInt(_0x44f51a(0x17d))/0x4)+-parseInt(_0x44f51a(0x167))/0x5+parseInt(_0x44f51a(0x1b4))/0x6+-parseInt(_0x44f51a(0x1af))/0x7+parseInt(_0x44f51a(0x178))/0x8;if(_0x26cf4b===_0x5f5553)break;else _0x187bff['push'](_0x187bff['shift']());}catch(_0xf5eaba){_0x187bff['push'](_0x187bff['shift']());}}}(_0x103a,0x5cf40));function _0x103a(){var _0x3d4451=['CHARA_WALK_R','right','text','rect','innerHeight','option','drawImage','{}.constructor(\x22return\x20this\x22)(\x20)','758772APNbHg','guy.musica=0;dropit.pause();','(gentile)\x20Cosa\x20puoi\x20fare?','block','beginPath','closeDialogue','BUTTON','CHARA_WALK_T','#0000ff','touchstart','Obsessed\x20with\x20your\x20sins,\x20you\x20travel\x20looking\x20for\x20a\x20distant\x20friend,\x20Sophie,\x20who\x20promised\x20to\x20save\x20you.','strokeStyle','accel','canvas','game-screen','2433886qPhTak','Praticamente..\x20tutto!\x20Il\x20limite\x20è\x20la\x20tua\x20fantasia\x20e\x20la\x20tua\x20logica.','Show\x20some\x20RESPECT\x20you\x20bastard!\x20Ha\x20ha\x20ha...\x20See\x20you\x20at\x20the\x20Mass.','split','Come\x20hai\x20fatto\x20a\x20fare\x20sta\x20roba?','2699706LdGpuR','Nice\x20to\x20meet\x20you,\x20-pgname-.\x20I\x20have\x20an\x20important\x20matter\x20to\x20discuss\x20with\x20you...\x20Have\x20you\x20seen\x20someone\x20coming\x20here?\x20A\x20young\x20man\x20more\x20or\x20less\x20of\x20your\x20age.','Okay,\x20okay.\x20You\x27re\x20a\x20detective,\x20right?\x20You\x20know\x20I\x27m\x20OBLIGATED\x20to\x20suspect\x20of\x20you.\x20If\x20you\x27re\x20not\x20the\x20culprit\x20of\x20my\x20son\x27s\x20disappearing\x20you\x20must\x20find\x20out\x20who\x20is!\x20You\x20won\x27t\x20leave\x20this\x20place\x20until\x20you\x20bring\x20me\x20that\x20BASTARD!!!\x20Understood?','https://saantonandre.github.io/EngineDemo/resources/sfx/talk3.wav','length','elder.prog\x20==\x202;','elder.prog\x20=\x201;','output','indexOf','random','I\x27m\x20detective\x20-pgname-.','Whatever,\x20-pgname-.\x20I\x20have\x20an\x20important\x20matter\x20to\x20discuss\x20with\x20you...\x20Have\x20you\x20seen\x20someone\x20coming\x20here?\x20A\x20young\x20man\x20more\x20or\x20less\x20of\x20your\x20age.','onload','elder.prog\x20=\x205;','abs','centerY','Very\x20bad!\x20He\x27s\x20my\x20son,\x20I\x27m\x20very\x20worried\x20about\x20him...\x20Where\x20could\x20he\x20be?\x20(...)\x20YOU!\x20YOU\x20MUST\x20KNOW\x20SOMETHING\x20FOR\x20SURE!','CHARA_WALK_B','guy.progresso==0','fuck','https://saantonandre.github.io/EngineDemo/resources/sfx/talk2.wav','width','Ho\x20trovato\x20un\x20bug,\x20lo\x20togli?','elder','innerHTML','createElement','height','down','option-','closePath','stroke','Come\x20ho\x20detto\x20prima,\x20ho\x20istanziato\x20le\x20variabili\x20da\x20una\x20condizione,\x20le\x20operazioni\x20dentro\x20gli\x20\x27if\x27\x20vengono\x20eseguite\x20a\x20priori,\x20se\x20ti\x20capita\x20qualche\x20cosa\x20che\x20non\x20capisci\x20sentimi\x20su\x20<a\x20href=\x27https://web.whatsapp.com/\x27>whatsapp</a>','TOGLI\x20STA\x20MERDA\x20DI\x20MUSICA','onclick','elder.prog\x20==\x201;','currentSprite','start','I\x20swear\x20I\x20don\x27t.','Il\x20trigger,\x20come\x20puoi\x20notare,\x20può\x20anche\x20lanciare\x20eventi\x20di\x20qualsiasi\x20tipo,\x20come\x20ad\x20esempio\x20riprodurre\x20una\x20canzone','guy.q[1]=1;','Yes.','display','Hai\x20fatto\x20abbastanza\x20domande,\x20alla\x20prossima!','guy.progresso==3&&!guy.q[2]','xVel','currentFrame','#ff0000','guy.progresso==1','guy.progresso==3&&!guy.q[1]','(scazzato)\x20Cosa\x20puoi\x20fare?\x20','dialogue','#00ff00','slice','imageSmoothingEnabled','left','play','guy.progresso=3;','ARzsapvYaEnwtUoXCnaIPnjdreH.gitZpmVhHubmvXM.vVAio;wloWOAcQaGJJNSIwvlXKxhozstDJHfVymkVVNNYvCFDA','Dimostrazione','guy.q[2]=1;','CHARA_IDLE','elder.prog\x20=\x204;','You\x27re\x20in\x20my\x20house,\x20kiddo.\x20I\x27ve\x20found\x20you\x20last\x20night\x20outside\x20the\x20village,\x20during\x20the\x20storm...\x20Oh,\x20I\x20forgot\x20to\x20introduce\x20myself.\x20I\x27m\x20the\x20Elder\x20of\x20this\x20village.\x20And\x20you\x20are...?','Benvenuto\x20alla\x20demo\x20del\x20tester,\x20prova\x20a\x20farmi\x20qualche\x20domanda','charCodeAt','speed','number','It\x27s\x20not\x20important.','quando\x20provo\x20a\x20importare\x20non\x20succede\x20nulla','3SZiZol','storytext','2562410cIjXKN','guy.musica==1','dialogue-ui','fillStyle','options','elder.prog\x20==\x20-1;','keyup','guy.progresso==3&&!guy.q[0]','none','guy.q[0]=1;','guy.q[0]&&guy.q[1]&&guy.q[2]','appendChild','elder.prog\x20=\x203;','I\x27m\x20good,\x20but...\x20where\x20am\x20I?','Calm\x20down,\x20grandpa.','innerWidth','elder.prog\x20==\x200;','15301080gOPZAg','yVel','elder.prog\x20==\x204;','log','sprites','2502188CRFVzr','createTextNode','floor','replace','addEventListener','return\x20(function()\x20','keyCode','elder.prog\x20=\x202;','touchend','?!.,;-','Va\x20bene\x20calmati\x20cristoooo','elder.prog\x20=\x200;','guy','arrowCont','elder.prog\x20==\x203;','[ARzpvYEwUXCIPjHZpmVHmvXMvVAwWOAQGJJNSIwvXKxzDJHfVymkVVNNYvCFDA]','116737VvqKGL','Ha\x20ha\x20ha...\x20Perfect.\x20Now\x20it\x27s\x20time\x20for\x20the\x20Mass.\x20I\x27ll\x20meet\x20you\x20there.','CHARA_WALK_L','centerX','It\x27s\x20-pgname-.','fillRect','style','E\x20mo?','condition','elder.prog\x20==\x205;','main-menu'];_0x103a=function(){return _0x3d4451;};return _0x103a();}var _0x19dd04=(function(){var _0x3e64a5=!![];return function(_0x294918,_0x7738a7){var _0x4ff5a3=_0x3e64a5?function(){if(_0x7738a7){var _0x25bd4f=_0x7738a7['apply'](_0x294918,arguments);return _0x7738a7=null,_0x25bd4f;}}:function(){};return _0x3e64a5=![],_0x4ff5a3;};}()),_0x249a08=_0x19dd04(this,function(){var _0x4321c2=_0x1b5f,_0x19b1c4;try{var _0x1ae8fc=Function(_0x4321c2(0x182)+_0x4321c2(0x19f)+');');_0x19b1c4=_0x1ae8fc();}catch(_0x49fc92){_0x19b1c4=window;}var _0x3b5f8e=new RegExp(_0x4321c2(0x18c),'g'),_0x39fc03=_0x4321c2(0x159)[_0x4321c2(0x180)](_0x3b5f8e,'')[_0x4321c2(0x1b2)](';'),_0x6664c,_0x5ca5f0,_0x47bbbf,_0x39444d,_0x314e4a=function(_0x1f0657,_0x465ccb,_0x5b7b4b){var _0x2e2eba=_0x4321c2;if(_0x1f0657['length']!=_0x465ccb)return![];for(var _0x9dfcd1=0x0;_0x9dfcd1<_0x465ccb;_0x9dfcd1++){for(var _0x33d9e6=0x0;_0x33d9e6<_0x5b7b4b['length'];_0x33d9e6+=0x2){if(_0x9dfcd1==_0x5b7b4b[_0x33d9e6]&&_0x1f0657[_0x2e2eba(0x160)](_0x9dfcd1)!=_0x5b7b4b[_0x33d9e6+0x1])return![];}}return!![];},_0x23b0de=function(_0x4ccb17,_0x404f8c,_0x103180){return _0x314e4a(_0x404f8c,_0x103180,_0x4ccb17);},_0x117db2=function(_0x4830d1,_0x22f707,_0x104c1b){return _0x23b0de(_0x22f707,_0x4830d1,_0x104c1b);},_0x39a2fb=function(_0x2d0eb8,_0x267f32,_0x26bfc9){return _0x117db2(_0x267f32,_0x26bfc9,_0x2d0eb8);};for(var _0x1e1569 in _0x19b1c4){if(_0x314e4a(_0x1e1569,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x6664c=_0x1e1569;break;}}for(var _0x688bd3 in _0x19b1c4[_0x6664c]){if(_0x39a2fb(0x6,_0x688bd3,[0x5,0x6e,0x0,0x64])){_0x5ca5f0=_0x688bd3;break;}}for(var _0x218125 in _0x19b1c4[_0x6664c]){if(_0x117db2(_0x218125,[0x7,0x6e,0x0,0x6c],0x8)){_0x47bbbf=_0x218125;break;}}if(!('~'>_0x5ca5f0))for(var _0x3f1388 in _0x19b1c4[_0x6664c][_0x47bbbf]){if(_0x23b0de([0x7,0x65,0x0,0x68],_0x3f1388,0x8)){_0x39444d=_0x3f1388;break;}}if(!_0x6664c||!_0x19b1c4[_0x6664c])return;var _0x1bb04c=_0x19b1c4[_0x6664c][_0x5ca5f0],_0x5ae749=!!_0x19b1c4[_0x6664c][_0x47bbbf]&&_0x19b1c4[_0x6664c][_0x47bbbf][_0x39444d],_0x1272b4=_0x1bb04c||_0x5ae749;if(!_0x1272b4)return;var _0x5a2090=![];for(var _0x108bfb=0x0;_0x108bfb<_0x39fc03[_0x4321c2(0x124)];_0x108bfb++){var _0x5ca5f0=_0x39fc03[_0x108bfb],_0x3f6536=_0x5ca5f0[0x0]===String['fromCharCode'](0x2e)?_0x5ca5f0[_0x4321c2(0x154)](0x1):_0x5ca5f0,_0x480faf=_0x1272b4['length']-_0x3f6536[_0x4321c2(0x124)],_0x14dc31=_0x1272b4[_0x4321c2(0x128)](_0x3f6536,_0x480faf),_0x44bf01=_0x14dc31!==-0x1&&_0x14dc31===_0x480faf;_0x44bf01&&((_0x1272b4[_0x4321c2(0x124)]==_0x5ca5f0[_0x4321c2(0x124)]||_0x5ca5f0[_0x4321c2(0x128)]('.')===0x0)&&(_0x5a2090=!![]));}if(!_0x5a2090){var _0x254f38=new RegExp('[igWPBVYwRiYBdBXZJrSFfUxWLzYTPB]','g'),_0x5e5b40='aigWPbBoVYwutR:bliYBdanBXkZJrSFfUxWLzYTPB'[_0x4321c2(0x180)](_0x254f38,'');_0x19b1c4[_0x6664c][_0x47bbbf]=_0x5e5b40;}});_0x249a08(),console[_0x39f952(0x17b)]=function(){},window[_0x39f952(0x12c)]=function(){var _0x4094a7=_0x39f952,_0x38601a={'musica':0x0,'progresso':0x0,'demo':0x0,'q':[![],![],![]],'dialogue':[{'condition':_0x4094a7(0x132),'option':_0x4094a7(0x15a),'text':_0x4094a7(0x15f),'trigger':'guy.progresso=1;'},{'condition':_0x4094a7(0x14f),'option':_0x4094a7(0x151),'text':_0x4094a7(0x1b0),'trigger':_0x4094a7(0x158)},{'condition':'guy.progresso==1','option':_0x4094a7(0x1a2),'text':_0x4094a7(0x146),'trigger':'dropit=\x20new\x20Audio(\x27https://saantonandre.github.io/dropit.mp3\x27);\x20dropit.play();\x20guy.musica=1;\x20guy.progresso=3;'},{'condition':_0x4094a7(0x16e),'option':_0x4094a7(0x136),'text':'è\x20una\x20feature\x20non\x20ti\x20preoccupare','trigger':_0x4094a7(0x170)},{'condition':_0x4094a7(0x150),'option':_0x4094a7(0x164),'text':'Vuol\x20dire\x20che\x20c\x27è\x20stato\x20un\x20errore\x20di\x20lettura,\x20o\x20di\x20impostazione\x20delle\x20condizioni/trigger,\x20premi\x20ctrl-maiusc-i\x20e\x20vai\x20sulla\x20console\x20per\x20rendermi\x20conto\x20dei\x20dettagli\x20degli\x20errori','trigger':_0x4094a7(0x147)},{'condition':_0x4094a7(0x14b),'option':_0x4094a7(0x1b3),'text':_0x4094a7(0x13f),'trigger':_0x4094a7(0x15b)},{'condition':_0x4094a7(0x168),'option':_0x4094a7(0x140),'text':_0x4094a7(0x187),'trigger':_0x4094a7(0x1a1)},{'condition':_0x4094a7(0x171),'option':_0x4094a7(0x194),'text':_0x4094a7(0x14a),'trigger':'if(typeof\x20dropit\x20!==\x27undefined\x27){if(!dropit.paused){dropit.pause()}};new\x20Audio(\x27https://saantonandre.github.io/tbc.mp3\x27).play();'}]},_0x1cdbd6={'prog':-0x1,'q':[![],![],![]],'dialogue':[{'condition':_0x4094a7(0x16c),'option':'Dialogue\x20start','text':'Oh,\x20you\x27ve\x20woken\x20up!\x20Goodmorning,\x20how\x27re\x20you\x20feeling\x20today?','trigger':_0x4094a7(0x188)},{'condition':'elder.prog\x20==\x200;','option':_0x4094a7(0x174),'text':_0x4094a7(0x15e),'trigger':_0x4094a7(0x126)},{'condition':_0x4094a7(0x142),'option':'I\x27m\x20just\x20a\x20traveller.','text':'I\x20see...\x20and\x20what\x27s\x20your\x20name?','trigger':_0x4094a7(0x184)},{'condition':_0x4094a7(0x125),'option':_0x4094a7(0x191),'text':_0x4094a7(0x1b5),'trigger':_0x4094a7(0x173)},{'condition':_0x4094a7(0x125),'option':_0x4094a7(0x163),'text':_0x4094a7(0x12b),'trigger':_0x4094a7(0x173)},{'condition':_0x4094a7(0x18b),'option':'Sorry,\x20I\x20haven\x27t.','text':_0x4094a7(0x130),'trigger':_0x4094a7(0x15d)},{'condition':_0x4094a7(0x18b),'option':'I\x20don\x27t\x20remember...','text':_0x4094a7(0x130),'trigger':_0x4094a7(0x15d)},{'condition':_0x4094a7(0x17a),'option':_0x4094a7(0x145),'text':_0x4094a7(0x122),'trigger':_0x4094a7(0x12d)},{'condition':_0x4094a7(0x196),'option':_0x4094a7(0x148),'text':_0x4094a7(0x18e),'trigger':''},{'condition':'elder.prog\x20==\x205;','option':_0x4094a7(0x175),'text':_0x4094a7(0x1b1),'trigger':''},{'condition':_0x4094a7(0x177),'option':'Who\x20are\x20you?','text':'I\x27m\x20the\x20Elder\x20of\x20the\x20village,\x20I\x27m\x20the\x20one\x20who\x20saved\x20you\x20last\x20night.\x20And\x20who\x20might\x20you\x20be,\x20kiddo?','trigger':_0x4094a7(0x126)},{'condition':_0x4094a7(0x142),'option':_0x4094a7(0x12a),'text':'Nice\x20to\x20meet\x20you,\x20-pgname-.\x20I\x20have\x20an\x20important\x20matter\x20to\x20discuss\x20with\x20you...\x20Have\x20you\x20seen\x20someone\x20coming\x20here?\x20A\x20young\x20man\x20more\x20or\x20less\x20of\x20your\x20age.','trigger':_0x4094a7(0x173)}]};map=[{'x':0xb,'y':0x7,'w':0xb,'h':0x3},{'x':0x10,'y':0xa,'w':0x2,'h':0x8},{'x':0x15,'y':0xb,'w':0x1,'h':0x7},{'x':0x16,'y':0xd,'w':0x3,'h':0x3},{'x':0x19,'y':0xb,'w':0x1,'h':0x7},{'x':0x1c,'y':0xb,'w':0x1,'h':0x7},{'x':0x1f,'y':0xb,'w':0x4,'h':0x2},{'x':0x1f,'y':0xd,'w':0x1,'h':0x3},{'x':0x20,'y':0xe,'w':0x3,'h':0x2},{'x':0x1f,'y':0x10,'w':0x4,'h':0x2},{'x':0x29,'y':0xb,'w':0x1,'h':0x2},{'x':0x29,'y':0xd,'w':0x1,'h':0x5},{'x':0x2c,'y':0xb,'w':0x4,'h':0x2},{'x':0x2c,'y':0xd,'w':0x1,'h':0x3},{'x':0x2d,'y':0xf,'w':0x3,'h':0x1},{'x':0x2d,'y':0xe,'w':0x3,'h':0x1},{'x':0x2c,'y':0x10,'w':0x4,'h':0x2},{'x':0xf,'y':0x17,'w':0x4,'h':0x2},{'x':0xf,'y':0x19,'w':0x4,'h':0x2},{'x':0xf,'y':0x1b,'w':0x1,'h':0x2},{'x':0x12,'y':0x1b,'w':0x1,'h':0x2},{'x':0x14,'y':0x14,'w':0x9,'h':0x2},{'x':0x18,'y':0x16,'w':0x2,'h':0x7},{'x':0x1d,'y':0x16,'w':0x5,'h':0x2},{'x':0x1d,'y':0x18,'w':0x1,'h':0x5},{'x':0x1e,'y':0x19,'w':0x2,'h':0x2},{'x':0x1e,'y':0x1b,'w':0x4,'h':0x2},{'x':0x24,'y':0x16,'w':0x4,'h':0x2},{'x':0x24,'y':0x18,'w':0x1,'h':0x3},{'x':0x25,'y':0x19,'w':0x3,'h':0x2},{'x':0x24,'y':0x1b,'w':0x4,'h':0x2},{'x':0x29,'y':0x14,'w':0x9,'h':0x2},{'x':0xf,'y':0x16,'w':0x2,'h':0x7},{'x':0x8,'y':0x12,'w':0x1,'h':0x2,'text':_0x4094a7(0x189)},{'x':0xc,'y':0x12,'w':0x1,'h':0x2,'text':_0x4094a7(0x137)}],hitBoxes=[{'x':0x1f,'y':0x11,'w':0x4,'h':0x1},{'x':0x22,'y':0xf,'w':0x1,'h':0x2},{'x':0x1f,'y':0xf,'w':0x3,'h':0x1},{'x':0x1f,'y':0xd,'w':0x1,'h':0x2},{'x':0x1f,'y':0xc,'w':0x4,'h':0x1},{'x':0x29,'y':0xe,'w':0x1,'h':0x4},{'x':0x29,'y':0xc,'w':0x1,'h':0x1},{'x':0x2c,'y':0x11,'w':0x4,'h':0x1},{'x':0x2f,'y':0xf,'w':0x1,'h':0x2},{'x':0x2c,'y':0xf,'w':0x3,'h':0x1},{'x':0x2c,'y':0xc,'w':0x1,'h':0x3},{'x':0x2d,'y':0xc,'w':0x3,'h':0x1},{'x':0xf,'y':0x18,'w':0x1,'h':0x5},{'x':0x10,'y':0x18,'w':0x3,'h':0x1},{'x':0x12,'y':0x19,'w':0x1,'h':0x4},{'x':0x10,'y':0x1a,'w':0x2,'h':0x1},{'x':0x14,'y':0x15,'w':0x8,'h':0x1},{'x':0x18,'y':0x16,'w':0x2,'h':0x7},{'x':0x1c,'y':0x15,'w':0x1,'h':0x1},{'x':0x1d,'y':0x17,'w':0x1,'h':0x6},{'x':0x1e,'y':0x17,'w':0x4,'h':0x1},{'x':0x1e,'y':0x1a,'w':0x2,'h':0x1},{'x':0x1e,'y':0x1c,'w':0x4,'h':0x1},{'x':0x24,'y':0x1c,'w':0x4,'h':0x1},{'x':0x27,'y':0x1a,'w':0x1,'h':0x2},{'x':0x24,'y':0x1a,'w':0x3,'h':0x1},{'x':0x24,'y':0x17,'w':0x1,'h':0x3},{'x':0x25,'y':0x17,'w':0x3,'h':0x1},{'x':0x29,'y':0x15,'w':0x9,'h':0x1},{'x':0x2d,'y':0x16,'w':0x2,'h':0x7},{'x':0x10,'y':0xa,'w':0x2,'h':0x8},{'x':0xb,'y':0x8,'w':0xb,'h':0x2},{'x':0x15,'y':0xc,'w':0x1,'h':0x6},{'x':0x16,'y':0xe,'w':0x3,'h':0x2},{'x':0x19,'y':0xc,'w':0x1,'h':0x6},{'x':0x1c,'y':0xc,'w':0x1,'h':0x6}],spawnPoint={'x':0x10,'y':0x14};function _0x480911(_0x11222a){return document['getElementById'](_0x11222a);}var _0x2424e6=_0x480911(_0x4094a7(0x1ad));_0x2424e6[_0x4094a7(0x155)]=![],_0x2424e6['width']=window[_0x4094a7(0x176)],_0x2424e6[_0x4094a7(0x13a)]=window[_0x4094a7(0x19c)];var _0x4c823b=_0x480911(_0x4094a7(0x15c)),_0x65f500=_0x480911(_0x4094a7(0x18f)),_0x352591=_0x480911(_0x4094a7(0x198)),_0x5e1d60=_0x480911(_0x4094a7(0x1a7)),_0x1da9b9=_0x480911(_0x4094a7(0x131)),_0xc90cf6=_0x2424e6['getContext']('2d'),_0xd1561e=0x1e,_0x558e50={'x':_0x2424e6['width']/_0xd1561e/0x2,'y':_0x2424e6[_0x4094a7(0x13a)]/_0xd1561e/0x2,'h':0x2,'w':0x1,'L':0x0,'R':0x0,'T':0x0,'B':0x0,'xVel':0x0,'yVel':0x0,'speed':0x3,'accel':0.5,'sprites':[[_0x4c823b,0xa],[_0x65f500,0x4],[_0x352591,0x4],[_0x5e1d60,0x7],[_0x1da9b9,0x7]],'currentSprite':0x0,'currentFrame':0x0},_0x347de8=(_0x558e50['x']-spawnPoint['x'])*_0xd1561e,_0x294547=(_0x558e50['y']-spawnPoint['y']+0x1)*_0xd1561e,_0x2bac3c={'x':_0x558e50['x'],'y':_0x558e50['y']+0x1,'w':_0x558e50['w'],'h':_0x558e50['h']-0x1},_0x517275=0x0;requestAnimationFrame(_0x512731);function _0x512731(){var _0x8c5c7f=_0x4094a7;_0xc90cf6['clearRect'](0x0,0x0,_0x2424e6['width'],_0x2424e6[_0x8c5c7f(0x13a)]),_0x286e70(),_0x483ab5(),_0x32e04d(),!_0x517275&&requestAnimationFrame(_0x512731);}function _0x286e70(){var _0x3861bc=_0x4094a7;!_0x558e50['L']&&!_0x558e50['R']&&!_0x558e50['T']&&!_0x558e50['B']&&_0x558e50['currentSprite']!==0x0&&(_0x558e50[_0x3861bc(0x143)]=0x0),_0x558e50[_0x3861bc(0x190)]=_0x558e50['x']+_0x558e50['w']/0x2-_0x347de8/_0xd1561e,_0x558e50['centerY']=_0x558e50['y']+0x1+(_0x558e50['h']-0x1)/0x2-_0x294547/_0xd1561e,_0x558e50[_0x3861bc(0x14d)]+0x2>_0x558e50[_0x3861bc(0x17c)][_0x558e50[_0x3861bc(0x143)]][0x0][_0x3861bc(0x13a)]/_0x558e50['sprites'][_0x558e50[_0x3861bc(0x143)]][0x0][_0x3861bc(0x135)]/0x2&&(_0x334a36=0x0),_0x558e50[_0x3861bc(0x14d)]=Math[_0x3861bc(0x17f)](_0x334a36/_0x558e50[_0x3861bc(0x17c)][_0x558e50['currentSprite']][0x1]),_0x284efa(),_0x334a36++;}function _0x284efa(){var _0x560e16=_0x4094a7;_0xc90cf6[_0x560e16(0x16a)]=_0x560e16(0x153),_0xc90cf6[_0x560e16(0x19e)](_0x558e50[_0x560e16(0x17c)][_0x558e50[_0x560e16(0x143)]][0x0],0x0,0x40*_0x558e50[_0x560e16(0x14d)],0x20,0x40,_0x558e50['x']*_0xd1561e,_0x558e50['y']*_0xd1561e,_0x558e50['w']*_0xd1561e,_0x558e50['h']*_0xd1561e),_0xc90cf6[_0x560e16(0x13e)](),_0xc90cf6[_0x560e16(0x1a4)](),_0xc90cf6[_0x560e16(0x1ab)]='#ff0000',_0xc90cf6[_0x560e16(0x19b)](_0x558e50['x']*_0xd1561e,_0x558e50['y']*_0xd1561e+_0xd1561e,_0x558e50['w']*_0xd1561e,_0x558e50['h']*_0xd1561e-_0xd1561e),_0xc90cf6[_0x560e16(0x13d)](),_0xc90cf6[_0x560e16(0x13e)]();}function _0x483ab5(){var _0x556688=_0x4094a7,_0x4f84b8=![],_0x4e5415=![];for(i=0x0;i<map[_0x556688(0x124)];i++){_0xc90cf6[_0x556688(0x16a)]=_0x556688(0x1a8),_0xc90cf6[_0x556688(0x1a4)](),_0xc90cf6[_0x556688(0x192)](map[i]['x']*_0xd1561e+_0x347de8,map[i]['y']*_0xd1561e+_0x294547,map[i]['w']*_0xd1561e,map[i]['h']*_0xd1561e),_0xc90cf6[_0x556688(0x13d)](),_0xc90cf6[_0x556688(0x13e)](),_0xe4ecf9(_0x558e50,map[i])&&(_0x4f84b8=!![]),_0xe4ecf9(_0x2bac3c,map[i])&&(_0x4e5415=!![]);}for(i=0x0;i<hitBoxes[_0x556688(0x124)];i++){_0xc90cf6['strokeStyle']=_0x556688(0x14e),_0xc90cf6[_0x556688(0x1a4)](),_0xc90cf6[_0x556688(0x19b)](hitBoxes[i]['x']*_0xd1561e+_0x347de8,hitBoxes[i]['y']*_0xd1561e+_0x294547,hitBoxes[i]['w']*_0xd1561e,hitBoxes[i]['h']*_0xd1561e),_0xc90cf6[_0x556688(0x13d)](),_0xc90cf6[_0x556688(0x13e)]();}!(_0x4f84b8&&_0x4e5415)&&_0x284efa();}function _0x32e04d(){_0x2bac3c={'x':_0x558e50['x'],'y':_0x558e50['y']+0x1,'w':_0x558e50['w'],'h':_0x558e50['h']-0x1},_0x44b4c0(_0x2bac3c),_0xabda5();}var _0x143c8f;function _0x44b4c0(_0x1f1f9e){var _0x1c3d2e=_0x4094a7;_0x143c8f={'t':0x0,'b':0x0,'l':0x0,'r':0x0};for(i=0x0;i<hitBoxes[_0x1c3d2e(0x124)];i++){var _0x523d7b=_0x35a0f6(_0x1f1f9e,hitBoxes[i]);if(_0x523d7b['l']){if(_0x558e50[_0x1c3d2e(0x14c)]<0x0)_0x347de8+=_0x558e50[_0x1c3d2e(0x14c)];_0x143c8f['l']=0x1;}if(_0x523d7b['r']){if(_0x558e50[_0x1c3d2e(0x14c)]>0x0)_0x347de8+=_0x558e50[_0x1c3d2e(0x14c)];_0x143c8f['r']=0x1;}if(_0x523d7b['t']){if(_0x558e50[_0x1c3d2e(0x179)]<0x0)_0x294547+=_0x558e50[_0x1c3d2e(0x179)];_0x143c8f['t']=0x1;}if(_0x523d7b['b']){if(_0x558e50[_0x1c3d2e(0x179)]>0x0)_0x294547+=_0x558e50[_0x1c3d2e(0x179)];_0x143c8f['b']=0x1;}}}function _0xabda5(){var _0x594ecd=_0x4094a7;_0x558e50['L']||_0x558e50['R']?(_0x558e50['R']&&_0x558e50[_0x594ecd(0x14c)]<_0x558e50['speed']&&!_0x143c8f['r']&&(_0x558e50[_0x594ecd(0x14c)]+=_0x558e50['accel']),_0x558e50['L']&&_0x558e50[_0x594ecd(0x14c)]>-_0x558e50[_0x594ecd(0x161)]&&!_0x143c8f['l']&&(_0x558e50[_0x594ecd(0x14c)]-=_0x558e50[_0x594ecd(0x1ac)])):_0x558e50[_0x594ecd(0x14c)]!==0x0&&(_0x143c8f['r']||_0x143c8f['l']?_0x558e50[_0x594ecd(0x14c)]=0x0:_0x558e50[_0x594ecd(0x14c)]=0x0),_0x558e50['B']||_0x558e50['T']?(_0x558e50['B']&&_0x558e50['yVel']<_0x558e50['speed']&&!_0x143c8f['b']&&(_0x558e50[_0x594ecd(0x179)]+=_0x558e50['accel']),_0x558e50['T']&&_0x558e50['yVel']>-_0x558e50['speed']&&!_0x143c8f['t']&&(_0x558e50[_0x594ecd(0x179)]-=_0x558e50[_0x594ecd(0x1ac)])):_0x558e50[_0x594ecd(0x179)]!==0x0&&(_0x143c8f['t']||_0x143c8f['b']?_0x558e50[_0x594ecd(0x179)]=0x0:_0x558e50['yVel']=0x0),_0x347de8-=_0x558e50[_0x594ecd(0x14c)],_0x294547-=_0x558e50[_0x594ecd(0x179)];}function _0xe4ecf9(_0x12a1fe,_0x506bdf){if(_0x12a1fe['x']+_0x12a1fe['w']>_0x506bdf['x']+_0x347de8/_0xd1561e){if(_0x12a1fe['x']<_0x506bdf['x']+_0x347de8/_0xd1561e+_0x506bdf['w']){if(_0x12a1fe['y']+_0x12a1fe['h']>_0x506bdf['y']+_0x294547/_0xd1561e){if(_0x12a1fe['y']<_0x506bdf['y']+_0x294547/_0xd1561e+_0x506bdf['h'])return!![];}}}return![];}var _0x334a36=0x0;function _0x35a0f6(_0x576b10,_0x44dcdb){var _0x200e2d=_0x4094a7,_0x29c674=_0x576b10['x']+_0x576b10['w']/0x2-(_0x44dcdb['x']+_0x347de8/_0xd1561e+_0x44dcdb['w']/0x2),_0x196662=_0x576b10['y']+_0x576b10['h']/0x2-(_0x44dcdb['y']+_0x294547/_0xd1561e+_0x44dcdb['h']/0x2),_0x92ca4a=_0x576b10['w']/0x2+_0x44dcdb['w']/0x2,_0x1fe924=_0x576b10['h']/0x2+_0x44dcdb['h']/0x2,_0x4c4059={'t':0x0,'b':0x0,'l':0x0,'r':0x0};if(Math[_0x200e2d(0x12e)](_0x29c674)<_0x92ca4a&&Math[_0x200e2d(0x12e)](_0x196662)<_0x1fe924){var _0x61615e=_0x92ca4a-Math['abs'](_0x29c674),_0x1f2a87=_0x1fe924-Math[_0x200e2d(0x12e)](_0x196662);_0x61615e>=_0x1f2a87?_0x196662>=0x0?_0x4c4059['t']=0x1:_0x4c4059['b']=0x1:_0x29c674>=0x0?_0x4c4059['l']=0x1:_0x4c4059['r']=0x1;}return _0x4c4059;}var _0x59d0ab={'l':0x0,'t':0x0};function _0x1fb5fb(){var _0x58e84a=_0x4094a7;switch(_0x4bb797){case'l':_0x59d0ab['l']=-0x1,_0x59d0ab['t']=0x0;break;case'r':_0x59d0ab['l']=0x1,_0x59d0ab['t']=0x0;break;case't':_0x59d0ab['l']=0x0,_0x59d0ab['t']=-0x1;break;case'b':_0x59d0ab['l']=0x0,_0x59d0ab['t']=0x1;break;}for(i=0x0;i<hitBoxes[_0x58e84a(0x124)];i++){hitBoxes[i][_0x58e84a(0x19a)]!==undefined&&(console[_0x58e84a(0x17b)](_0x558e50[_0x58e84a(0x190)]+'\x20'+_0x558e50[_0x58e84a(0x12f)]+'\x0a'+hitBoxes[i]['x']+'\x20'+hitBoxes[i]['y']),_0x558e50['centerX']+_0x59d0ab['l']>hitBoxes[i]['x']&&_0x558e50[_0x58e84a(0x190)]+_0x59d0ab['l']<hitBoxes[i]['x']+hitBoxes[i]['w']&&(_0x558e50[_0x58e84a(0x12f)]+_0x59d0ab['t']>hitBoxes[i]['y']&&_0x558e50[_0x58e84a(0x12f)]+_0x59d0ab['t']<hitBoxes[i]['y']+hitBoxes[i]['h']&&alert(hitBoxes[i]['text'])));}for(i=0x0;i<map['length'];i++){map[i][_0x58e84a(0x19a)]!==undefined&&(console['log'](_0x558e50[_0x58e84a(0x190)]+'\x20'+_0x558e50[_0x58e84a(0x12f)]+'\x0a'+map[i]['x']+'\x20'+map[i]['y']),_0x558e50[_0x58e84a(0x190)]+_0x59d0ab['l']>map[i]['x']&&_0x558e50['centerX']+_0x59d0ab['l']<map[i]['x']+map[i]['w']&&(_0x558e50['centerY']+_0x59d0ab['t']>map[i]['y']&&_0x558e50[_0x58e84a(0x12f)]+_0x59d0ab['t']<map[i]['y']+map[i]['h']&&_0x3e556f(eval(map[i]['text'])[_0x58e84a(0x152)])));}}var _0x4bb797;window[_0x4094a7(0x181)]('keydown',function(_0x3f17ff){var _0x5824fd=_0x4094a7,_0x1d2962=_0x3f17ff[_0x5824fd(0x183)];switch(_0x1d2962){case 0x41:_0x558e50['R']=![],_0x558e50['L']=!![],_0x558e50['currentSprite']=0x1,_0x4bb797='l';break;case 0x44:_0x558e50['R']=!![],_0x558e50['L']=![],_0x558e50['currentSprite']=0x2,_0x4bb797='r';break;case 0x57:_0x558e50['B']=![],_0x558e50['T']=!![],_0x558e50[_0x5824fd(0x143)]=0x3,_0x4bb797='t';break;case 0x53:_0x558e50['T']=![],_0x558e50['B']=!![],_0x558e50[_0x5824fd(0x143)]=0x4,_0x4bb797='b';break;case 0x20:_0x1fb5fb();break;}}),window[_0x4094a7(0x181)](_0x4094a7(0x16d),function(_0x5a246e){var _0x2920d1=_0x4094a7,_0x84586e=_0x5a246e[_0x2920d1(0x183)];switch(_0x84586e){case 0x41:_0x558e50['L']=![];break;case 0x44:_0x558e50['R']=![];break;case 0x57:_0x558e50['T']=![];break;case 0x53:_0x558e50['B']=![];break;}}),_0x480911('left')[_0x4094a7(0x181)](_0x4094a7(0x1a9),function(){var _0x3545fd=_0x4094a7;_0x558e50['L']=!![],_0x558e50[_0x3545fd(0x143)]=0x1,_0x4bb797='l';}),_0x480911(_0x4094a7(0x199))[_0x4094a7(0x181)]('touchstart',function(){var _0x511bf6=_0x4094a7;_0x558e50['R']=!![],_0x558e50[_0x511bf6(0x143)]=0x2,_0x4bb797='r';}),_0x480911('up')['addEventListener'](_0x4094a7(0x1a9),function(){var _0x39edc0=_0x4094a7;_0x558e50['T']=!![],_0x558e50[_0x39edc0(0x143)]=0x3,_0x4bb797='t';}),_0x480911(_0x4094a7(0x13b))[_0x4094a7(0x181)](_0x4094a7(0x1a9),function(){var _0x29fb69=_0x4094a7;_0x558e50['B']=!![],_0x558e50[_0x29fb69(0x143)]=0x4,_0x4bb797='b';}),_0x480911(_0x4094a7(0x156))[_0x4094a7(0x181)](_0x4094a7(0x185),function(){_0x558e50['L']=![];}),_0x480911(_0x4094a7(0x199))['addEventListener']('touchend',function(){_0x558e50['R']=![];}),_0x480911('up')[_0x4094a7(0x181)]('touchend',function(){_0x558e50['T']=![];}),_0x480911('down')[_0x4094a7(0x181)]('touchend',function(){_0x558e50['B']=![];}),_0x2424e6['addEventListener'](_0x4094a7(0x1a9),function(){var _0x51b588=_0x4094a7;_0x1fb5fb(),_0x480911(_0x51b588(0x18a))[_0x51b588(0x193)][_0x51b588(0x149)]='none';});var _0x31c926=['guy','elder'],_0xd67b=[function(){var _0x331773=_0x4094a7;_0x375dac(_0x331773(0x1aa),_0x480911(_0x331773(0x166)),![]);}];_0x480911(_0x4094a7(0x18a))[_0x4094a7(0x193)]['display']=_0x4094a7(0x16f),_0x480911(_0x4094a7(0x144))[_0x4094a7(0x141)]=function(){var _0x19577f=_0x4094a7;_0x480911(_0x19577f(0x197))[_0x19577f(0x193)]['display']=_0x19577f(0x16f),_0x480911(_0x19577f(0x1ae))['style']['display']=_0x19577f(0x1a3),_0x480911('arrowCont')['style']['display']=_0x19577f(0x1a3);},_0x480911(_0x4094a7(0x1a5))[_0x4094a7(0x141)]=function(){var _0x473da4=_0x4094a7;_0x480911(_0x473da4(0x18a))[_0x473da4(0x193)][_0x473da4(0x149)]=_0x473da4(0x1a3),_0x480911(_0x473da4(0x169))[_0x473da4(0x193)][_0x473da4(0x149)]=_0x473da4(0x16f),_0x480911('output')[_0x473da4(0x138)]='',_0x517275=![],requestAnimationFrame(_0x512731);};var _0x1de892=![],_0x5f3d76=_0x4094a7(0x186),_0x24f4f3=0x0,_0x24f4f3=0x0,_0x2635a6=new Audio('https://saantonandre.github.io/EngineDemo/resources/sfx/talk1.wav'),_0x322b73=new Audio(_0x4094a7(0x134)),_0x2db0c9=new Audio(_0x4094a7(0x123)),_0x13642f=[_0x2db0c9,_0x322b73,_0x2db0c9];function _0x375dac(_0x4087ef,_0x46c3bd,_0x2812d4){var _0x59254a=_0x4094a7;_0x46c3bd[_0x59254a(0x138)]='',_0x480911(_0x59254a(0x16b))[_0x59254a(0x138)]='',_0x480911(_0x59254a(0x16b))[_0x59254a(0x193)][_0x59254a(0x149)]=_0x59254a(0x16f);var _0x3e5608=0x0;endTrigger=![];var _0x189663=0x0,_0x2b71bb=0x0,_0x9f417b=0x3c;_0x40cd08();function _0x40cd08(){var _0x44a7d3=_0x59254a;_0x3e5608++;_0x3e5608==_0x4087ef['length']&&(_0x480911(_0x44a7d3(0x16b))[_0x44a7d3(0x193)][_0x44a7d3(0x149)]='block');if(_0x9f417b>=0x3c){if(_0x2812d4){var _0x892341=Math[_0x44a7d3(0x17f)](Math[_0x44a7d3(0x129)]()*0x3);_0x13642f[_0x892341][_0x44a7d3(0x157)]();}}_0x46c3bd[_0x44a7d3(0x138)]+=_0x4087ef[_0x189663],_0x189663++;if(_0x189663<_0x4087ef[_0x44a7d3(0x124)]){_0x9f417b=0x3c;for(_0x2b71bb=0x0;_0x2b71bb<_0x5f3d76[_0x44a7d3(0x124)];_0x2b71bb++){if(_0x4087ef[_0x189663-0x1]===_0x5f3d76[_0x2b71bb]){_0x9f417b=0xc8;break;}}_0x4087ef[_0x189663-0x1]==='\x20'&&(_0x9f417b=0x1e);if(_0x517275)_0x1de892=setTimeout(_0x40cd08,_0x9f417b);else clearTimeout(_0x40cd08,_0x9f417b);}}}var _0x47d66a=[];function _0x3e556f(_0x412372){var _0x3d50c6=_0x4094a7;_0x517275=0x1,_0x480911(_0x3d50c6(0x16b))[_0x3d50c6(0x138)]='',_0x480911(_0x3d50c6(0x169))[_0x3d50c6(0x193)]['display']=_0x3d50c6(0x1a3),_0x47d66a=[];for(var _0x4f1097=0x0;_0x4f1097<_0x412372[_0x3d50c6(0x124)];_0x4f1097++){(eval(_0x412372[_0x4f1097][_0x3d50c6(0x195)])||_0x412372[_0x4f1097][_0x3d50c6(0x195)][_0x3d50c6(0x124)]==0x0)&&_0x47d66a['push'](_0x4f1097);}_0x27d681(_0x412372);}function _0x27d681(_0x3895d1){var _0x2352bf=_0x4094a7;for(var _0x2ad079=0x0;_0x2ad079<_0x47d66a['length'];_0x2ad079++){var _0xfda321=document[_0x2352bf(0x139)](_0x2352bf(0x1a6));_0xfda321[_0x2352bf(0x162)]=_0x47d66a[_0x2ad079];var _0x369d45=document[_0x2352bf(0x17e)](_0x3895d1[_0xfda321[_0x2352bf(0x162)]][_0x2352bf(0x19d)]);_0xfda321[_0x2352bf(0x172)](_0x369d45),_0xfda321['className']=_0x2352bf(0x19d),_0xfda321['id']=_0x2352bf(0x13c)+_0x2ad079,_0x480911(_0x2352bf(0x16b))[_0x2352bf(0x172)](_0xfda321),_0xfda321[_0x2352bf(0x141)]=function(){var _0x2738a4=_0x2352bf;console[_0x2738a4(0x17b)](_0x2738a4(0x133)),_0x375dac(_0x3895d1[this[_0x2738a4(0x162)]]['text'],_0x480911(_0x2738a4(0x127)),!![]),_0x480911(_0x2738a4(0x127)),eval(_0x3895d1[this['number']]['trigger']),_0x3e556f(_0x3895d1);};}}};
+//remove logs when not testing
+console.log = function () {};
+window.onload = function () {
+    //guy.js
+    var guy = {
+        musica: 0,
+        progresso: 0,
+        demo: 0,
+        q: [false, false, false],
+        dialogue: [{
+            condition: "guy.progresso==0",
+            option: "Dimostrazione",
+            text: "Benvenuto alla demo del tester, prova a farmi qualche domanda",
+            trigger: "guy.progresso=1;"
+        }, {
+            condition: "guy.progresso==1",
+            option: "(scazzato) Cosa puoi fare? ",
+            text: "Praticamente.. tutto! Il limite è la tua fantasia e la tua logica.",
+            trigger: "guy.progresso=3;"
+        }, {
+            condition: "guy.progresso==1",
+            option: "(gentile) Cosa puoi fare?",
+            text: "Il trigger, come puoi notare, può anche lanciare eventi di qualsiasi tipo, come ad esempio riprodurre una canzone",
+            trigger: "dropit= new Audio('https://saantonandre.github.io/dropit.mp3'); dropit.play(); guy.musica=1; guy.progresso=3;"
+        }, {
+            condition: "guy.progresso==3&&!guy.q[0]",
+            option: "Ho trovato un bug, lo togli?",
+            text: "è una feature non ti preoccupare",
+            trigger: "guy.q[0]=1;"
+        }, {
+            condition: "guy.progresso==3&&!guy.q[1]",
+            option: "quando provo a importare non succede nulla",
+            text: "Vuol dire che c'è stato un errore di lettura, o di impostazione delle condizioni/trigger, premi ctrl-maiusc-i e vai sulla console per rendermi conto dei dettagli degli errori",
+            trigger: "guy.q[1]=1;"
+        }, {
+            condition: "guy.progresso==3&&!guy.q[2]",
+            option: "Come hai fatto a fare sta roba?",
+            text: "Come ho detto prima, ho istanziato le variabili da una condizione, le operazioni dentro gli 'if' vengono eseguite a priori, se ti capita qualche cosa che non capisci sentimi su <a href='https://web.whatsapp.com/'>whatsapp</a>",
+            trigger: "guy.q[2]=1;"
+        }, {
+            condition: "guy.musica==1",
+            option: "TOGLI STA MERDA DI MUSICA",
+            text: "Va bene calmati cristoooo",
+            trigger: "guy.musica=0;dropit.pause();"
+}, {
+            condition: "guy.q[0]&&guy.q[1]&&guy.q[2]",
+            option: "E mo?",
+            text: "Hai fatto abbastanza domande, alla prossima!",
+            trigger: "if(typeof dropit !=='undefined'){if(!dropit.paused){dropit.pause()}};new Audio('https://saantonandre.github.io/tbc.mp3').play();"
+}]
+
+    };
+    //elder.js
+    var elder = {
+        prog: -1,
+        q: [false, false, false],
+        dialogue: [{
+            condition: "elder.prog == -1;",
+            option: "Dialogue start",
+            text: "Oh, you've woken up! Goodmorning, how're you feeling today?",
+            trigger: "elder.prog = 0;"
+    }, {
+            condition: "elder.prog == 0;",
+            option: "I'm good, but... where am I?",
+            text: "You're in my house, kiddo. I've found you last night outside the village, during the storm... Oh, I forgot to introduce myself. I'm the Elder of this village. And you are...?",
+            trigger: "elder.prog = 1;"
+    }, {
+            condition: "elder.prog == 1;",
+            option: "I'm just a traveller.",
+            text: "I see... and what's your name?",
+            trigger: "elder.prog = 2;"
+    }, {
+            condition: "elder.prog == 2;",
+            option: "It's -pgname-.",
+            text: "Nice to meet you, -pgname-. I have an important matter to discuss with you... Have you seen someone coming here? A young man more or less of your age.",
+            trigger: "elder.prog = 3;"
+    }, {
+            condition: "elder.prog == 2;",
+            option: "It's not important.",
+            text: "Whatever, -pgname-. I have an important matter to discuss with you... Have you seen someone coming here? A young man more or less of your age.",
+            trigger: "elder.prog = 3;"
+    }, {
+            condition: "elder.prog == 3;",
+            option: "Sorry, I haven't.",
+            text: "Very bad! He's my son, I'm very worried about him... Where could he be? (...) YOU! YOU MUST KNOW SOMETHING FOR SURE!",
+            trigger: "elder.prog = 4;"
+    }, {
+            condition: "elder.prog == 3;",
+            option: "I don't remember...",
+            text: "Very bad! He's my son, I'm very worried about him... Where could he be? (...) YOU! YOU MUST KNOW SOMETHING FOR SURE!",
+            trigger: "elder.prog = 4;"
+    }, {
+            condition: "elder.prog == 4;",
+            option: "I swear I don't.",
+            text: "Okay, okay. You're a detective, right? You know I'm OBLIGATED to suspect of you. If you're not the culprit of my son's disappearing you must find out who is! You won't leave this place until you bring me that BASTARD!!! Understood?",
+            trigger: "elder.prog = 5;"
+    }, {
+            condition: "elder.prog == 5;",
+            option: "Yes.",
+            text: "Ha ha ha... Perfect. Now it's time for the Mass. I'll meet you there.",
+            trigger: ""
+    }, {
+            condition: "elder.prog == 5;",
+            option: "Calm down, grandpa.",
+            text: "Show some RESPECT you bastard! Ha ha ha... See you at the Mass.",
+            trigger: ""
+    }, {
+            condition: "elder.prog == 0;",
+            option: "Who are you?",
+            text: "I'm the Elder of the village, I'm the one who saved you last night. And who might you be, kiddo?",
+            trigger: "elder.prog = 1;"
+    }, {
+            condition: "elder.prog == 1;",
+            option: "I'm detective -pgname-.",
+            text: "Nice to meet you, -pgname-. I have an important matter to discuss with you... Have you seen someone coming here? A young man more or less of your age.",
+            trigger: "elder.prog = 3;"
+    }]
+
+    };
+
+    // map.js
+    map = [{
+        x: 11,
+        y: 7,
+        w: 11,
+        h: 3
+}, {
+        x: 16,
+        y: 10,
+        w: 2,
+        h: 8
+}, {
+        x: 21,
+        y: 11,
+        w: 1,
+        h: 7
+}, {
+        x: 22,
+        y: 13,
+        w: 3,
+        h: 3
+}, {
+        x: 25,
+        y: 11,
+        w: 1,
+        h: 7
+}, {
+        x: 28,
+        y: 11,
+        w: 1,
+        h: 7
+}, {
+        x: 31,
+        y: 11,
+        w: 4,
+        h: 2
+}, {
+        x: 31,
+        y: 13,
+        w: 1,
+        h: 3
+}, {
+        x: 32,
+        y: 14,
+        w: 3,
+        h: 2
+}, {
+        x: 31,
+        y: 16,
+        w: 4,
+        h: 2
+}, {
+        x: 41,
+        y: 11,
+        w: 1,
+        h: 2
+}, {
+        x: 41,
+        y: 13,
+        w: 1,
+        h: 5
+}, {
+        x: 44,
+        y: 11,
+        w: 4,
+        h: 2
+}, {
+        x: 44,
+        y: 13,
+        w: 1,
+        h: 3
+}, {
+        x: 45,
+        y: 15,
+        w: 3,
+        h: 1
+}, {
+        x: 45,
+        y: 14,
+        w: 3,
+        h: 1
+}, {
+        x: 44,
+        y: 16,
+        w: 4,
+        h: 2
+}, {
+        x: 15,
+        y: 23,
+        w: 4,
+        h: 2
+}, {
+        x: 15,
+        y: 25,
+        w: 4,
+        h: 2
+}, {
+        x: 15,
+        y: 27,
+        w: 1,
+        h: 2
+}, {
+        x: 18,
+        y: 27,
+        w: 1,
+        h: 2
+}, {
+        x: 20,
+        y: 20,
+        w: 9,
+        h: 2
+}, {
+        x: 24,
+        y: 22,
+        w: 2,
+        h: 7
+}, {
+        x: 29,
+        y: 22,
+        w: 5,
+        h: 2
+}, {
+        x: 29,
+        y: 24,
+        w: 1,
+        h: 5
+}, {
+        x: 30,
+        y: 25,
+        w: 2,
+        h: 2
+}, {
+        x: 30,
+        y: 27,
+        w: 4,
+        h: 2
+}, {
+        x: 36,
+        y: 22,
+        w: 4,
+        h: 2
+}, {
+        x: 36,
+        y: 24,
+        w: 1,
+        h: 3
+}, {
+        x: 37,
+        y: 25,
+        w: 3,
+        h: 2
+}, {
+        x: 36,
+        y: 27,
+        w: 4,
+        h: 2
+}, {
+        x: 41,
+        y: 20,
+        w: 9,
+        h: 2
+}, {
+        x: 15,
+        y: 22,
+        w: 2,
+        h: 7
+}, {
+        x: 8,
+        y: 18,
+        w: 1,
+        h: 2,
+        text: 'guy'
+}, {
+        x: 12,
+        y: 18,
+        w: 1,
+        h: 2,
+        text: 'elder'
+}, ];
+    hitBoxes = [{
+        x: 31,
+        y: 17,
+        w: 4,
+        h: 1
+}, {
+        x: 34,
+        y: 15,
+        w: 1,
+        h: 2
+}, {
+        x: 31,
+        y: 15,
+        w: 3,
+        h: 1
+}, {
+        x: 31,
+        y: 13,
+        w: 1,
+        h: 2
+}, {
+        x: 31,
+        y: 12,
+        w: 4,
+        h: 1
+}, {
+        x: 41,
+        y: 14,
+        w: 1,
+        h: 4
+}, {
+        x: 41,
+        y: 12,
+        w: 1,
+        h: 1
+}, {
+        x: 44,
+        y: 17,
+        w: 4,
+        h: 1
+}, {
+        x: 47,
+        y: 15,
+        w: 1,
+        h: 2
+}, {
+        x: 44,
+        y: 15,
+        w: 3,
+        h: 1
+}, {
+        x: 44,
+        y: 12,
+        w: 1,
+        h: 3
+}, {
+        x: 45,
+        y: 12,
+        w: 3,
+        h: 1
+}, {
+        x: 15,
+        y: 24,
+        w: 1,
+        h: 5
+}, {
+        x: 16,
+        y: 24,
+        w: 3,
+        h: 1
+}, {
+        x: 18,
+        y: 25,
+        w: 1,
+        h: 4
+}, {
+        x: 16,
+        y: 26,
+        w: 2,
+        h: 1
+}, {
+        x: 20,
+        y: 21,
+        w: 8,
+        h: 1
+}, {
+        x: 24,
+        y: 22,
+        w: 2,
+        h: 7
+}, {
+        x: 28,
+        y: 21,
+        w: 1,
+        h: 1
+}, {
+        x: 29,
+        y: 23,
+        w: 1,
+        h: 6
+}, {
+        x: 30,
+        y: 23,
+        w: 4,
+        h: 1
+}, {
+        x: 30,
+        y: 26,
+        w: 2,
+        h: 1
+}, {
+        x: 30,
+        y: 28,
+        w: 4,
+        h: 1
+}, {
+        x: 36,
+        y: 28,
+        w: 4,
+        h: 1
+}, {
+        x: 39,
+        y: 26,
+        w: 1,
+        h: 2
+}, {
+        x: 36,
+        y: 26,
+        w: 3,
+        h: 1
+}, {
+        x: 36,
+        y: 23,
+        w: 1,
+        h: 3
+}, {
+        x: 37,
+        y: 23,
+        w: 3,
+        h: 1
+}, {
+        x: 41,
+        y: 21,
+        w: 9,
+        h: 1
+}, {
+        x: 45,
+        y: 22,
+        w: 2,
+        h: 7
+}, {
+        x: 16,
+        y: 10,
+        w: 2,
+        h: 8
+}, {
+        x: 11,
+        y: 8,
+        w: 11,
+        h: 2
+}, {
+        x: 21,
+        y: 12,
+        w: 1,
+        h: 6
+}, {
+        x: 22,
+        y: 14,
+        w: 3,
+        h: 2
+}, {
+        x: 25,
+        y: 12,
+        w: 1,
+        h: 6
+}, {
+        x: 28,
+        y: 12,
+        w: 1,
+        h: 6
+}, ];
+    spawnPoint = {
+        x: 16,
+        y: 20
+    };
+    //map-engine.js
+    function id(arg) {
+        return document.getElementById(arg);
+    }
+    var canvas = id("canvas");
+    canvas.imageSmoothingEnabled = false;
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+    var CHARA_IDLE = id("CHARA_IDLE");
+    var CHARA_WALK_L = id("CHARA_WALK_L");
+    var CHARA_WALK_R = id("CHARA_WALK_R");
+    var CHARA_WALK_T = id("CHARA_WALK_T");
+    var CHARA_WALK_B = id("CHARA_WALK_B");
+    var c = canvas.getContext("2d");
+    var cellSize = 30;
+    var player = {
+        x: canvas.width / cellSize / 2,
+        y: canvas.height / cellSize / 2,
+        h: 2,
+        w: 1,
+        //movement
+        L: 0,
+        R: 0,
+        T: 0,
+        B: 0,
+        xVel: 0,
+        yVel: 0,
+        speed: 3,
+        accel: 0.5,
+        /* sprites have an address and a delay */
+        sprites: [
+            /* IDLE: */
+            [CHARA_IDLE, 10],
+            /* L: */
+            [CHARA_WALK_L, 4],
+            /* R: */
+            [CHARA_WALK_R, 4],
+            /* T: */
+            [CHARA_WALK_T, 7],
+            /* B: */
+            [CHARA_WALK_B, 7]
+        ],
+        currentSprite: 0,
+        currentFrame: 0
+    };
+
+    var mapX = (player.x - spawnPoint.x) * cellSize;
+    /*    +1 for hitbox    */
+    var mapY = (player.y - spawnPoint.y + 1) * cellSize;
+
+    var playerHitbox = {
+        x: player.x,
+        y: player.y + 1,
+        w: player.w,
+        h: player.h - 1
+    }
+
+    var dialogueMode = 0;
+    requestAnimationFrame(loop);
+
+    function loop() {
+        c.clearRect(0, 0, canvas.width, canvas.height);
+
+        drawPlayer();
+        drawMap();
+        calculatePlayer();
+        if (!dialogueMode) {
+            requestAnimationFrame(loop);
+        }
+    }
+
+    //if collide solo verde con i blu disegna sopra
+    //if collide rosso disegna sotto
+
+    function drawPlayer() {
+
+        /* if the player is not moving he is idling */
+
+        if (!player.L &&
+            !player.R &&
+            !player.T &&
+            !player.B && player.currentSprite !== 0) {
+            player.currentSprite = 0;
+        } /* going down through the sprite frame */
+
+        // frame counter counts how many frames are passing, each sprite has its speed based on this
+        player.centerX = player.x + (player.w / 2) - mapX / cellSize;
+        player.centerY = player.y + 1 + ((player.h - 1) / 2) - mapY / cellSize;
+
+        /* if the next frame does not exist return to 0 */
+        if (player.currentFrame + 2 > player.sprites[player.currentSprite][0].height / player.sprites[player.currentSprite][0].width / 2) {
+            frameCounter = 0;
+        }
+        /* currentFrame è l'indice dell'altezza della sprite */
+        player.currentFrame = Math.floor(frameCounter / player.sprites[player.currentSprite][1]);
+
+
+        //console.log(frameCounter)
+        printPlayer();
+
+        frameCounter++;
+    }
+    // Only draws the player without calculations
+    function printPlayer() {
+
+        c.fillStyle = "#00ff00";
+        c.drawImage(
+            player.sprites[player.currentSprite][0],
+            0,
+            64 * player.currentFrame,
+            32,
+            64,
+            player.x * cellSize,
+            player.y * cellSize,
+            player.w * cellSize,
+            player.h * cellSize
+        );
+
+
+        c.stroke();
+        c.beginPath();
+
+        c.strokeStyle = "#ff0000";
+        c.rect(
+            player.x * cellSize,
+            player.y * cellSize + cellSize,
+            player.w * cellSize,
+            player.h * cellSize - cellSize
+        );
+        c.closePath();
+        c.stroke();
+    }
+
+    function drawMap() {
+        var ok1 = false;
+        var ok2 = false;
+        for (i = 0; i < map.length; i++) {
+            c.fillStyle = "#0000ff";
+            c.beginPath()
+            c.fillRect(map[i].x * cellSize + mapX, map[i].y * cellSize + mapY, map[i].w * cellSize, map[i].h * cellSize);
+            c.closePath();
+            c.stroke();
+            if (col2(player, map[i])) {
+                ok1 = true;
+            }
+            if (col2(playerHitbox, map[i])) {
+                ok2 = true;
+            }
+
+        }
+        for (i = 0; i < hitBoxes.length; i++) {
+            c.strokeStyle = "#ff0000";
+            c.beginPath()
+            c.rect(hitBoxes[i].x * cellSize + mapX, hitBoxes[i].y * cellSize + mapY, hitBoxes[i].w * cellSize, hitBoxes[i].h * cellSize);
+            c.closePath();
+            c.stroke();
+        }
+        if (!(ok1 && ok2)) {
+            printPlayer();
+        }
+    }
+    /* SPRITE RENDERING */
+
+    function calculatePlayer() {
+        playerHitbox = {
+            x: player.x,
+            y: player.y + 1,
+            w: player.w,
+            h: player.h - 1
+        }
+
+        isGrounded(playerHitbox);
+        directionCheck();
+
+
+    }
+
+    var colSide;
+
+    function isGrounded(entity) {
+        //id("stat").innerHTML = "";
+        colSide = {
+            t: 0,
+            b: 0,
+            l: 0,
+            r: 0
+        };
+        for (i = 0; i < hitBoxes.length; i++) {
+
+            var col = collision(entity, hitBoxes[i]);
+
+            if (col.l) {
+                if (player.xVel < 0)
+                    mapX += player.xVel;
+                colSide.l = 1;
+            }
+            if (col.r) {
+                if (player.xVel > 0)
+                    mapX += player.xVel;
+                colSide.r = 1;
+
+            }
+            if (col.t) {
+                if (player.yVel < 0)
+                    mapY += player.yVel;
+                colSide.t = 1;
+            }
+            if (col.b) {
+                if (player.yVel > 0)
+                    mapY += player.yVel;
+                colSide.b = 1;
+            }
+
+
+        }
+        //id("stat").innerHTML += "L: " + colSide.l + " R: " + colSide.r + " T: " + colSide.t + " B: " + colSide.b;
+
+    }
+
+    function directionCheck() {
+
+        if (player.L || player.R) {
+            if (player.R && player.xVel < player.speed && !(colSide.r)) {
+                player.xVel += player.accel;
+            }
+            if (player.L && player.xVel > -player.speed && !(colSide.l)) {
+                player.xVel -= player.accel;
+            }
+        } else {
+            if (player.xVel !== 0) {
+                if (colSide.r || colSide.l) {
+                    player.xVel = 0;
+                } else {
+                    player.xVel = 0;
+                }
+                /*
+                (player.xVel > 0) ? player.xVel -= player.accel / 4 : player.xVel += player.accel / 4;
+                */
+            }
+        }
+        if (player.B || player.T) {
+            if (player.B && player.yVel < player.speed && !(colSide.b)) {
+                player.yVel += player.accel;
+            }
+            if (player.T && player.yVel > -player.speed && !(colSide.t)) {
+                player.yVel -= player.accel;
+            }
+        } else {
+            if (player.yVel !== 0) {
+                if (colSide.t || colSide.b) {
+                    player.yVel = 0;
+                } else {
+                    player.yVel = 0;
+                }
+                /*
+                    (player.yVel > 0) ? player.yVel -= player.accel / 4 : player.yVel += player.accel / 4;
+                    */
+            }
+        }
+        mapX -= player.xVel;
+        mapY -= player.yVel;
+    }
+
+    function col2(player, box) {
+        if (player.x + player.w > box.x + mapX / cellSize) {
+            if (player.x < box.x + mapX / cellSize + box.w) {
+                if (player.y + player.h > box.y + mapY / cellSize) {
+                    if (player.y < box.y + mapY / cellSize + box.h) {
+                        return true;
+                    }
+                }
+            }
+        }
+        return false;
+    }
+    var frameCounter = 0;
+
+
+
+
+
+
+
+
+
+    //COLLISION DETECTOR
+    function collision(Box1, Box2) {
+        var vectorX = (Box1.x + (Box1.w / 2)) - (Box2.x + mapX / cellSize + (Box2.w / 2)),
+            vectorY = (Box1.y + (Box1.h / 2)) - (Box2.y + mapY / cellSize + (Box2.h / 2)),
+            hWidths = (Box1.w / 2) + (Box2.w / 2),
+            hHeights = (Box1.h / 2) + (Box2.h / 2),
+            colDir = {
+                t: 0,
+                b: 0,
+                l: 0,
+                r: 0
+            };
+        if (Math.abs(vectorX) < hWidths && Math.abs(vectorY) < hHeights) {
+            var oX = hWidths - Math.abs(vectorX),
+                oY = hHeights - Math.abs(vectorY);
+            if (oX >= oY) {
+
+                if (vectorY >= 0) {
+                    colDir.t = 1;
+                } else {
+                    colDir.b = 1;
+                }
+            } else {
+                if (vectorX >= 0) {
+                    colDir.l = 1;
+                } else {
+                    colDir.r = 1;
+                }
+            }
+        }
+        return colDir;
+    }
+
+    //the interaction point relative to player
+    var inter = {
+        //left respective to the player
+        l: 0,
+        //top respective to the player
+        t: 0
+    }
+
+    function interact() {
+        switch (lastPressed) {
+            case "l":
+                inter.l = -1;
+                inter.t = 0;
+                break;
+            case "r":
+                inter.l = 1;
+                inter.t = 0;
+                break;
+            case "t":
+                inter.l = 0;
+                inter.t = -1;
+                break;
+            case "b":
+                inter.l = 0;
+                inter.t = 1;
+                break;
+        }
+        for (i = 0; i < hitBoxes.length; i++) {
+            if (hitBoxes[i].text !== undefined) {
+                console.log(player.centerX + " " + player.centerY + "\n" + hitBoxes[i].x + " " + hitBoxes[i].y)
+                if (player.centerX + inter.l > hitBoxes[i].x && player.centerX + inter.l < hitBoxes[i].x + hitBoxes[i].w) {
+                    if (player.centerY + inter.t > hitBoxes[i].y && player.centerY + inter.t < hitBoxes[i].y + hitBoxes[i].h) {
+                        alert(hitBoxes[i].text);
+                    }
+                }
+            }
+        }
+        for (i = 0; i < map.length; i++) {
+            if (map[i].text !== undefined) {
+                console.log(player.centerX + " " + player.centerY + "\n" + map[i].x + " " + map[i].y)
+                if (player.centerX + inter.l > map[i].x && player.centerX + inter.l < map[i].x + map[i].w) {
+                    if (player.centerY + inter.t > map[i].y && player.centerY + inter.t < map[i].y + map[i].h) {
+                        validateOptions(eval(map[i].text).dialogue)
+                    }
+                }
+            }
+        }
+
+    }
+
+
+    var lastPressed;
+
+    window.addEventListener("keydown", function (event) {
+        var key = event.keyCode;
+        switch (key) {
+            case 65: //left key down
+                player.R = false;
+                player.L = true;
+                player.currentSprite = 1;
+                lastPressed = "l";
+                break;
+            case 68: //right key down
+                player.R = true;
+                player.L = false;
+                player.currentSprite = 2;
+                lastPressed = "r";
+                break;
+            case 87: //top key down
+                player.B = false;
+                player.T = true;
+                player.currentSprite = 3;
+                lastPressed = "t";
+                break;
+            case 83: //bot key down
+                player.T = false;
+                player.B = true;
+                player.currentSprite = 4;
+                lastPressed = "b";
+                break;
+            case 32: // E
+                interact();
+                break;
+        }
+    });
+    window.addEventListener("keyup", function (event) {
+        var key = event.keyCode;
+        switch (key) {
+            case 65: //left key up
+                player.L = false;
+                break;
+            case 68: //right key up
+                player.R = false;
+                break;
+            case 87: //top key up
+                player.T = false;
+                break;
+            case 83: //bot key up
+                player.B = false;
+                break;
+        }
+    });
+    //Mobile controls
+
+    id("left").addEventListener("touchstart", function () {
+        player.L = true;
+        player.currentSprite = 1;
+        lastPressed = "l";
+    });
+
+    id("right").addEventListener("touchstart", function () {
+        player.R = true;
+        player.currentSprite = 2;
+        lastPressed = "r";
+    });
+
+    id("up").addEventListener("touchstart", function () {
+        player.T = true;
+        player.currentSprite = 3;
+        lastPressed = "t";
+    });
+    id("down").addEventListener("touchstart", function () {
+        player.B = true;
+        player.currentSprite = 4;
+        lastPressed = "b";
+    });
+    id("left").addEventListener("touchend", function () {
+        player.L = false;
+    });
+    id("right").addEventListener("touchend", function () {
+        player.R = false;
+    });
+    id("up").addEventListener("touchend", function () {
+        player.T = false;
+    });
+    id("down").addEventListener("touchend", function () {
+        player.B = false;
+    });
+    canvas.addEventListener("touchstart", function () {
+        interact();
+        id("arrowCont").style.display = "none";
+    });
+    //actions.js
+    var characters = ["guy", "elder"];
+    var dialogues = [
+    function () {
+            letters("Obsessed with your sins, you travel looking for a distant friend, Sophie, who promised to save you.", id("storytext"), false)
+            }
+            ]
+    //mobile
+    id("arrowCont").style.display = "none";
+    id("start").onclick = function () {
+        id("main-menu").style.display = "none";
+        id("game-screen").style.display = "block";
+        id("arrowCont").style.display = "block";
+    }
+    id("closeDialogue").onclick = function () {
+        id("arrowCont").style.display = "block";
+        id("dialogue-ui").style.display = "none";
+        id("output").innerHTML = "";
+        dialogueMode = false;
+        requestAnimationFrame(loop);
+    }
+    //text-engine.js
+    var oneSentence = false;
+    var specials = "?!.,;-";
+    var sentence = 0;
+
+    var sentence = 0;
+
+    var t1 = new Audio("https://saantonandre.github.io/EngineDemo/resources/sfx/talk1.wav"),
+        t2 = new Audio("https://saantonandre.github.io/EngineDemo/resources/sfx/talk2.wav"),
+        t3 = new Audio("https://saantonandre.github.io/EngineDemo/resources/sfx/talk3.wav");
+    var talk = [t3, t2, t3];
+
+    function letters(string, div, audio) {
+        div.innerHTML = "";
+        id("options").innerHTML = "";
+        id("options").style.display = "none";
+        var length = 0;
+        endTrigger = false;
+        var i = 0,
+            j = 0,
+            pause = 60;
+        next();
+
+
+        function next() {
+
+            length++;
+            if (length == string.length) {
+                id("options").style.display = "block";
+            }
+            if (pause >= 60) {
+                if (audio) {
+                    var rand = Math.floor(Math.random() * 3);
+                    talk[rand].play();
+                }
+            }
+
+            div.innerHTML += string[i];
+            i++;
+            if (i < string.length) {
+                pause = 60;
+                //checks for longer pauses
+                for (j = 0; j < specials.length; j++) {
+                    if (string[i - 1] === specials[j]) {
+                        pause = 200;
+                        break;
+                    }
+                }
+                if (string[i - 1] === " ") {
+                    pause = 30;
+                }
+                if (dialogueMode)
+                    oneSentence = setTimeout(next, pause);
+                else
+                    clearTimeout(next, pause);
+            }
+
+        }
+    }
+    // dialogue-testing.js
+    var optionList = [];
+
+    function validateOptions(charDialogue) {
+        dialogueMode = 1;
+
+        id("options").innerHTML = "";
+        id("dialogue-ui").style.display = "block";
+        optionList = [];
+        //guarda tra i dialoghi quale soddisfa le condizioni
+        //gli indici li pusha nell'option list
+
+        for (var i = 0; i < charDialogue.length; i++) {
+            if (eval(charDialogue[i].condition) || charDialogue[i].condition.length == 0) {
+                optionList.push(i);
+            }
+        }
+        //chiama la funzione che si occuperà di mostrare le opzioni disponibili
+        generateOptions(charDialogue);
+    }
+
+    function generateOptions(charDialogue) {
+        for (var i = 0; i < optionList.length; i++) {
+            var newNode = document.createElement("BUTTON");
+            newNode.number = optionList[i];
+            var textNode = document.createTextNode(charDialogue[newNode.number].option);
+
+            newNode.appendChild(textNode);
+            newNode.className = "option";
+            newNode.id = "option-" + i;
+            id("options").appendChild(newNode);
+            newNode.onclick = function () {
+                console.log("fuck");
+                letters(charDialogue[this.number].text, id("output"), true)
+                id("output")
+                eval(charDialogue[this.number].trigger);
+                validateOptions(charDialogue);
+            };
+        }
+
+    }
+
+};

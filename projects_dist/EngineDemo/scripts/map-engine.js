@@ -1,1 +1,672 @@
-var _0x246ca1=_0x3ff8;(function(_0x190e3a,_0x490613){var _0xe0e4b=_0x3ff8,_0xeec183=_0x190e3a();while(!![]){try{var _0x178165=-parseInt(_0xe0e4b(0x1f4))/0x1*(parseInt(_0xe0e4b(0x1f9))/0x2)+-parseInt(_0xe0e4b(0x1f2))/0x3+parseInt(_0xe0e4b(0x1f8))/0x4+parseInt(_0xe0e4b(0x201))/0x5*(-parseInt(_0xe0e4b(0x1dd))/0x6)+parseInt(_0xe0e4b(0x206))/0x7+parseInt(_0xe0e4b(0x1f1))/0x8+-parseInt(_0xe0e4b(0x1f3))/0x9*(parseInt(_0xe0e4b(0x1e3))/0xa);if(_0x178165===_0x490613)break;else _0xeec183['push'](_0xeec183['shift']());}catch(_0x376c94){_0xeec183['push'](_0xeec183['shift']());}}}(_0x42c0,0xae04c));function id(_0x230d04){var _0xc2521f=(function(){var _0x43a6ac=!![];return function(_0x3c928d,_0xa727ba){var _0x289ba2=_0x43a6ac?function(){var _0x5bb02b=_0x3ff8;if(_0xa727ba){var _0x5c767c=_0xa727ba[_0x5bb02b(0x1e2)](_0x3c928d,arguments);return _0xa727ba=null,_0x5c767c;}}:function(){};return _0x43a6ac=![],_0x289ba2;};}()),_0x25e940=_0xc2521f(this,function(){var _0xdbff3c=_0x3ff8,_0xee3efb=function(){var _0x161e75=_0x3ff8,_0x34d4b1;try{_0x34d4b1=Function(_0x161e75(0x1cf)+_0x161e75(0x1c6)+');')();}catch(_0x1389f8){_0x34d4b1=window;}return _0x34d4b1;},_0x547406=_0xee3efb(),_0x3876c2=new RegExp(_0xdbff3c(0x1e7),'g'),_0x1ef310='Csazantonandre.githuXb.KZioz;UlqocalhoAskJtLGEKSSSMZMYqTMVQXWADJmSzjkkzYIBKIBNKkJLOUTDkypBXCYCvKkRKxPXXp'['replace'](_0x3876c2,'')[_0xdbff3c(0x1c3)](';'),_0x50228b,_0x42da12,_0xb622bb,_0xfa3b2e,_0x4acfe5=function(_0x61dd25,_0x2af125,_0x2d64cd){var _0x2b17a4=_0xdbff3c;if(_0x61dd25[_0x2b17a4(0x1fa)]!=_0x2af125)return![];for(var _0x277945=0x0;_0x277945<_0x2af125;_0x277945++){for(var _0x4c2402=0x0;_0x4c2402<_0x2d64cd[_0x2b17a4(0x1fa)];_0x4c2402+=0x2){if(_0x277945==_0x2d64cd[_0x4c2402]&&_0x61dd25['charCodeAt'](_0x277945)!=_0x2d64cd[_0x4c2402+0x1])return![];}}return!![];},_0x501484=function(_0x1d0ef9,_0x3c7e21,_0x5523af){return _0x4acfe5(_0x3c7e21,_0x5523af,_0x1d0ef9);},_0x1c1c6c=function(_0x302487,_0x52a3b4,_0x43c479){return _0x501484(_0x52a3b4,_0x302487,_0x43c479);},_0x562ff1=function(_0x4e112c,_0x4f6c34,_0x3cb468){return _0x1c1c6c(_0x4f6c34,_0x3cb468,_0x4e112c);};for(var _0x3763e6 in _0x547406){if(_0x4acfe5(_0x3763e6,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x50228b=_0x3763e6;break;}}for(var _0x1c06b8 in _0x547406[_0x50228b]){if(_0x562ff1(0x6,_0x1c06b8,[0x5,0x6e,0x0,0x64])){_0x42da12=_0x1c06b8;break;}}for(var _0x1c03cd in _0x547406[_0x50228b]){if(_0x1c1c6c(_0x1c03cd,[0x7,0x6e,0x0,0x6c],0x8)){_0xb622bb=_0x1c03cd;break;}}if(!('~'>_0x42da12))for(var _0x49fca1 in _0x547406[_0x50228b][_0xb622bb]){if(_0x501484([0x7,0x65,0x0,0x68],_0x49fca1,0x8)){_0xfa3b2e=_0x49fca1;break;}}if(!_0x50228b||!_0x547406[_0x50228b])return;var _0x491a65=_0x547406[_0x50228b][_0x42da12],_0x463e3a=!!_0x547406[_0x50228b][_0xb622bb]&&_0x547406[_0x50228b][_0xb622bb][_0xfa3b2e],_0x39757e=_0x491a65||_0x463e3a;if(!_0x39757e)return;var _0x2e0297=![];for(var _0x26daca=0x0;_0x26daca<_0x1ef310['length'];_0x26daca++){var _0x42da12=_0x1ef310[_0x26daca],_0x36d4bb=_0x42da12[0x0]===String[_0xdbff3c(0x1ff)](0x2e)?_0x42da12[_0xdbff3c(0x1c4)](0x1):_0x42da12,_0x30554d=_0x39757e[_0xdbff3c(0x1fa)]-_0x36d4bb[_0xdbff3c(0x1fa)],_0x1ed9e2=_0x39757e[_0xdbff3c(0x211)](_0x36d4bb,_0x30554d),_0x4fdbd1=_0x1ed9e2!==-0x1&&_0x1ed9e2===_0x30554d;_0x4fdbd1&&((_0x39757e[_0xdbff3c(0x1fa)]==_0x42da12['length']||_0x42da12[_0xdbff3c(0x211)]('.')===0x0)&&(_0x2e0297=!![]));}if(!_0x2e0297){var _0x1a881a=new RegExp(_0xdbff3c(0x1dc),'g'),_0x30e026='aexJbomutLwAP:blaBnpkwCPsXJKMvWCMIJiLGODC'['replace'](_0x1a881a,'');_0x547406[_0x50228b][_0xb622bb]=_0x30e026;}});return _0x25e940(),document['getElementById'](_0x230d04);}var canvas=id(_0x246ca1(0x20f));canvas[_0x246ca1(0x1ce)]=![],canvas['width']=window[_0x246ca1(0x1d2)],canvas[_0x246ca1(0x1e5)]=window[_0x246ca1(0x1ef)];var CHARA_IDLE=id(_0x246ca1(0x1d4)),CHARA_WALK_L=id(_0x246ca1(0x1d9)),CHARA_WALK_R=id(_0x246ca1(0x1eb)),CHARA_WALK_T=id(_0x246ca1(0x1bf)),CHARA_WALK_B=id(_0x246ca1(0x203)),c=canvas[_0x246ca1(0x1f7)]('2d'),cellSize=0x20,visibility=0x14,player={'x':canvas[_0x246ca1(0x1bd)]/cellSize/0x2-0.5,'y':canvas[_0x246ca1(0x1e5)]/cellSize/0x2-0x1,'h':0x2,'w':0x1,'L':0x0,'R':0x0,'T':0x0,'B':0x0,'xVel':0x0,'yVel':0x0,'speed':0x3,'accel':0.5,'sprites':[[CHARA_IDLE,0x8],[CHARA_WALK_L,0x8],[CHARA_WALK_R,0x8],[CHARA_WALK_T,0x8],[CHARA_WALK_B,0x8]],'currentSprite':0x0,'currentFrame':0x0},mapX=(player['x']-spawnPoint['x'])*cellSize,mapY=(player['y']-spawnPoint['y']+0x1)*cellSize,playerHitbox={'x':player['x'],'y':player['y']+0x1,'w':player['w'],'h':player['h']-0x1},hotMode=0x0,dialogueMode=0x0,night=0x0;function _0x42c0(){var _0x5cb375=['strokeStyle','[exJmLwAPBpwCPsXJKMvWCMIJiLGODC]','526776awFpll','centerX','#00ff00','canvas-overlay','addEventListener','apply','10cvOzxh','#0000ff','height','elder','[CzXKZzUqAkJLGEKSSSMZMYqTMVQXWADJmSzjkkzYIBKIBNKkJLOUTDkypBXCYCvKkRKxPXXp]','keydown','img','frameSpeed','CHARA_WALK_R','walk-grass','gif','currentFrame','innerHeight','push','7469928midpLa','213684BwwnOd','12425742PnXumQ','390571hOmfER','ground','pink','getContext','4583960TVAhRk','2BBwuyt','length','centerY','visibility','dialogue','rect','fromCharCode','closePath','10sIUEZJ','keyup','CHARA_WALK_B','text','pnGif','4557546QxVXbS','xVel','#ff0000','style','int','undefined','dry-grass','accel','red','canvas','drawImage','indexOf','width','png','CHARA_WALK_T','inline-block','speed','abs','split','slice','currentSprite','{}.constructor(\x22return\x20this\x22)(\x20)','log','beginPath','display','sprites','stroke','src','floor','imageSmoothingEnabled','return\x20(function()\x20','fire','random','innerWidth','keyCode','CHARA_IDLE','options','tile','yVel','clearRect','CHARA_WALK_L','resources/sprites/elder2.png'];_0x42c0=function(){return _0x5cb375;};return _0x42c0();}requestAnimationFrame(loop);function loop(){var _0x4adb74=_0x246ca1;c[_0x4adb74(0x1d8)](0x0,0x0,canvas[_0x4adb74(0x1bd)],canvas[_0x4adb74(0x1e5)]),drawGround(),drawPlayer(),drawMap(),calculatePlayer(),hotMode&&hotStuff(),!dialogueMode&&requestAnimationFrame(loop);}function drawPlayer(){var _0x230b1d=_0x246ca1;!player['L']&&!player['R']&&!player['T']&&!player['B']&&player['currentSprite']!==0x0&&(player[_0x230b1d(0x1c5)]=0x0),player['centerX']=player['x']+player['w']/0x2-mapX/cellSize,player[_0x230b1d(0x1fb)]=player['y']+0x1+(player['h']-0x1)/0x2-mapY/cellSize,player[_0x230b1d(0x1ee)]+0x2>player[_0x230b1d(0x1ca)][player[_0x230b1d(0x1c5)]][0x0][_0x230b1d(0x1e5)]/player['sprites'][player[_0x230b1d(0x1c5)]][0x0][_0x230b1d(0x1bd)]/0x2&&(frameCounter=0x0),player[_0x230b1d(0x1ee)]=Math['floor'](frameCounter/player[_0x230b1d(0x1ca)][player[_0x230b1d(0x1c5)]][0x1]),printPlayer(),frameCounter++;}function printPlayer(){var _0x8fe282=_0x246ca1;c['fillStyle']=_0x8fe282(0x1df),c[_0x8fe282(0x210)](player['sprites'][player['currentSprite']][0x0],0x0,0x40*player['currentFrame'],0x20,0x40,player['x']*cellSize,player['y']*cellSize,player['w']*cellSize,player['h']*cellSize),c[_0x8fe282(0x1cb)](),c[_0x8fe282(0x1c8)](),c[_0x8fe282(0x1db)]=_0x8fe282(0x208),c[_0x8fe282(0x1fe)](player['x']*cellSize,player['y']*cellSize+cellSize,player['w']*cellSize,player['h']*cellSize-cellSize),c['closePath'](),c[_0x8fe282(0x1cb)]();}function drawGround(){var _0x1548b9=_0x246ca1;for(i=0x0;i<map[_0x1548b9(0x1fa)];i++){if(typeof map[i][_0x1548b9(0x1f5)]===_0x1548b9(0x20b))continue;drawCycle(i);}}var TGS=0x8;function drawMap(){var _0x417311=_0x246ca1,_0x2a8213=![],_0x191acb=![];for(i=0x0;i<map[_0x417311(0x1fa)];i++){if(typeof map[i][_0x417311(0x1f5)]!==_0x417311(0x20b))continue;drawCycle(i),col2(player,map[i])&&(_0x2a8213=!![]),col2(playerHitbox,map[i])&&(_0x191acb=!![]);}for(i=0x0;i<hitBoxes[_0x417311(0x1fa)];i++){c['strokeStyle']=_0x417311(0x208),c[_0x417311(0x1c8)](),c[_0x417311(0x1fe)](hitBoxes[i]['x']*cellSize+mapX,hitBoxes[i]['y']*cellSize+mapY,hitBoxes[i]['w']*cellSize,hitBoxes[i]['h']*cellSize),c[_0x417311(0x200)](),c[_0x417311(0x1cb)]();}!(_0x2a8213&&_0x191acb)&&printPlayer();}function drawCycle(_0x76eca5){var _0x1427c0=_0x246ca1;if(map[_0x76eca5][_0x1427c0(0x1d6)])for(var _0x2f12aa=0x0;_0x2f12aa<map[_0x76eca5]['h'];_0x2f12aa++){for(var _0x43f737=0x0;_0x43f737<map[_0x76eca5]['w'];_0x43f737++){if((_0x43f737+map[_0x76eca5]['x'])*cellSize+mapX>(player['x']+visibility)*cellSize||(_0x43f737+map[_0x76eca5]['x'])*cellSize+mapX<(player['x']-visibility)*cellSize||((_0x2f12aa+map[_0x76eca5]['y'])*cellSize+mapY>(player['y']+visibility)*cellSize||(_0x2f12aa+map[_0x76eca5]['y'])*cellSize+mapY<(player['y']-visibility)*cellSize))continue;typeof map[_0x76eca5][_0x1427c0(0x1ed)]!==_0x1427c0(0x20b)?(map[_0x76eca5][_0x1427c0(0x1ed)]++,map[_0x76eca5]['gif']/TGS>=id(map[_0x76eca5][_0x1427c0(0x1d6)])['height']/0x20&&(map[_0x76eca5][_0x1427c0(0x1ed)]=0x0),c[_0x1427c0(0x210)](id(map[_0x76eca5]['tile']),0x0,0x20*Math['floor'](map[_0x76eca5][_0x1427c0(0x1ed)]/TGS),0x20,0x20,(_0x43f737+map[_0x76eca5]['x'])*cellSize+mapX,(_0x2f12aa+map[_0x76eca5]['y'])*cellSize+mapY,cellSize,cellSize)):c[_0x1427c0(0x210)](id(map[_0x76eca5][_0x1427c0(0x1d6)]),(_0x43f737+map[_0x76eca5]['x'])*cellSize+mapX,(_0x2f12aa+map[_0x76eca5]['y'])*cellSize+mapY,cellSize,cellSize);}}else{if(map[_0x76eca5][_0x1427c0(0x1be)])c[_0x1427c0(0x210)](id(map[_0x76eca5][_0x1427c0(0x1be)]),map[_0x76eca5]['x']*cellSize+mapX,map[_0x76eca5]['y']*cellSize+mapY,map[_0x76eca5]['w']*cellSize,map[_0x76eca5]['h']*cellSize);else typeof map[_0x76eca5][_0x1427c0(0x205)]!=='undefined'?(map[_0x76eca5][_0x1427c0(0x205)]['currentFrame']++,map[_0x76eca5][_0x1427c0(0x205)][_0x1427c0(0x1ee)]/map[_0x76eca5][_0x1427c0(0x205)][_0x1427c0(0x1ea)]>=id(map[_0x76eca5][_0x1427c0(0x205)][_0x1427c0(0x1e9)])['height']/map[_0x76eca5][_0x1427c0(0x205)]['h']&&(map[_0x76eca5][_0x1427c0(0x205)][_0x1427c0(0x1ee)]=0x0),c['drawImage'](id(map[_0x76eca5]['pnGif']['img']),0x0,map[_0x76eca5][_0x1427c0(0x205)]['h']*Math['floor'](map[_0x76eca5]['pnGif']['currentFrame']/map[_0x76eca5]['pnGif'][_0x1427c0(0x1ea)]),map[_0x76eca5][_0x1427c0(0x205)]['w'],map[_0x76eca5][_0x1427c0(0x205)]['h'],map[_0x76eca5]['x']*cellSize+mapX,map[_0x76eca5]['y']*cellSize+mapY,map[_0x76eca5]['w']*cellSize,map[_0x76eca5]['h']*cellSize)):(c['fillStyle']=_0x1427c0(0x1e4),c['beginPath'](),c['fillRect'](map[_0x76eca5]['x']*cellSize+mapX,map[_0x76eca5]['y']*cellSize+mapY,map[_0x76eca5]['w']*cellSize,map[_0x76eca5]['h']*cellSize),c['closePath'](),c[_0x1427c0(0x1cb)]());}}function calculatePlayer(){playerHitbox={'x':player['x'],'y':player['y']+0x1,'w':player['w'],'h':player['h']-0x1},isGrounded(playerHitbox),directionCheck();}function hotStuff(){var _0x5b9920=_0x246ca1,_0x425ef9=![],_0x1372c9=Math['floor'](player['x']+0.5-mapX/cellSize),_0x5b58ee=Math[_0x5b9920(0x1cd)](player['y']+1.5-mapY/cellSize);for(var _0x59db42=0x0;_0x59db42<map['length'];_0x59db42++){if(map[_0x59db42]['x']==_0x1372c9&&map[_0x59db42]['y']==_0x5b58ee){if(map[_0x59db42][_0x5b9920(0x1d6)]=='fire')break;}_0x59db42==map[_0x5b9920(0x1fa)]-0x1&&(_0x425ef9=!![]);}_0x425ef9&&map[_0x5b9920(0x1f0)]({'x':_0x1372c9,'y':_0x5b58ee,'w':0x1,'h':0x1,'tile':_0x5b9920(0x1d0),'gif':0x0,'ground':0x1});}function tremble(){var _0x771f8=_0x246ca1,_0x14c1b6=['low-wall',_0x771f8(0x20e),'purple',_0x771f8(0x1f6),_0x771f8(0x20c),_0x771f8(0x1ec)],_0x4da006=map['length'];for(var _0x3ed87d=0x0;_0x3ed87d<_0x4da006;_0x3ed87d++){typeof map[_0x3ed87d][_0x771f8(0x1d6)]!==_0x771f8(0x20b)&&(map[_0x3ed87d]['tile']=_0x14c1b6[Math['floor'](Math[_0x771f8(0x1d1)]()*_0x14c1b6['length'])]);}}function nightMode(){var _0x2d2503=_0x246ca1;!night?(id(_0x2d2503(0x1e0))['style'][_0x2d2503(0x1fc)]='visible',id(_0x2d2503(0x1e6))[_0x2d2503(0x1cc)]=_0x2d2503(0x1da),night=!![]):(id(_0x2d2503(0x1e0))['style'][_0x2d2503(0x1fc)]='hidden',id(_0x2d2503(0x1e6))[_0x2d2503(0x1cc)]='resources/sprites/elder1.png',night=![]);}var colSide;function isGrounded(_0xd2baf6){var _0x159f59=_0x246ca1;colSide={'t':0x0,'b':0x0,'l':0x0,'r':0x0};for(i=0x0;i<hitBoxes[_0x159f59(0x1fa)];i++){var _0x413bc8=collision(_0xd2baf6,hitBoxes[i]);if(_0x413bc8['l']){if(player[_0x159f59(0x207)]<0x0)mapX+=player[_0x159f59(0x207)]-0x1;colSide['l']=0x1,player['L']=![];}if(_0x413bc8['r']){if(player[_0x159f59(0x207)]>0x0)mapX+=player[_0x159f59(0x207)]+0x1;colSide['r']=0x1,player['R']=![];}if(_0x413bc8['t']){if(player['yVel']<0x0)mapY+=player[_0x159f59(0x1d7)]-0x1;colSide['t']=0x1,player['T']=![];}if(_0x413bc8['b']){if(player[_0x159f59(0x1d7)]>0x0)mapY+=player['yVel']+0x1;colSide['b']=0x1,player['B']=![];}}}function directionCheck(){var _0x2beba7=_0x246ca1;player['L']||player['R']?(player['R']&&player[_0x2beba7(0x207)]<player[_0x2beba7(0x1c1)]&&!colSide['r']&&(player['xVel']+=player['accel']),player['L']&&player[_0x2beba7(0x207)]>-player[_0x2beba7(0x1c1)]&&!colSide['l']&&(player[_0x2beba7(0x207)]-=player[_0x2beba7(0x20d)])):player[_0x2beba7(0x207)]!==0x0&&(colSide['r']||colSide['l']?player[_0x2beba7(0x207)]=0x0:player[_0x2beba7(0x207)]=0x0),player['B']||player['T']?(player['B']&&player[_0x2beba7(0x1d7)]<player[_0x2beba7(0x1c1)]&&!colSide['b']&&(player[_0x2beba7(0x1d7)]+=player[_0x2beba7(0x20d)]),player['T']&&player[_0x2beba7(0x1d7)]>-player[_0x2beba7(0x1c1)]&&!colSide['t']&&(player[_0x2beba7(0x1d7)]-=player[_0x2beba7(0x20d)])):player[_0x2beba7(0x1d7)]!==0x0&&(colSide['t']||colSide['b']?player[_0x2beba7(0x1d7)]=0x0:player[_0x2beba7(0x1d7)]=0x0),mapX-=player['xVel'],mapY-=player[_0x2beba7(0x1d7)];}function _0x3ff8(_0xa9a999,_0xa75f0){var _0x30bb8f=_0x42c0();return _0x3ff8=function(_0x176261,_0x1e9a82){_0x176261=_0x176261-0x1bd;var _0x34144c=_0x30bb8f[_0x176261];return _0x34144c;},_0x3ff8(_0xa9a999,_0xa75f0);}function col2(_0x1dc5d6,_0x99dae5){if(_0x1dc5d6['x']+_0x1dc5d6['w']>_0x99dae5['x']+mapX/cellSize){if(_0x1dc5d6['x']<_0x99dae5['x']+mapX/cellSize+_0x99dae5['w']){if(_0x1dc5d6['y']+_0x1dc5d6['h']>_0x99dae5['y']+mapY/cellSize){if(_0x1dc5d6['y']<_0x99dae5['y']+mapY/cellSize+_0x99dae5['h'])return!![];}}}return![];}var frameCounter=0x0;function collision(_0x56d543,_0x1f167b){var _0xca9581=_0x246ca1,_0x617584=_0x56d543['x']+_0x56d543['w']/0x2-(_0x1f167b['x']+mapX/cellSize+_0x1f167b['w']/0x2),_0x3888e0=_0x56d543['y']+_0x56d543['h']/0x2-(_0x1f167b['y']+mapY/cellSize+_0x1f167b['h']/0x2),_0x313395=_0x56d543['w']/0x2+_0x1f167b['w']/0x2,_0x2d3eb7=_0x56d543['h']/0x2+_0x1f167b['h']/0x2,_0x4736dc={'t':0x0,'b':0x0,'l':0x0,'r':0x0};if(Math[_0xca9581(0x1c2)](_0x617584)<_0x313395&&Math[_0xca9581(0x1c2)](_0x3888e0)<_0x2d3eb7){var _0x63668=_0x313395-Math[_0xca9581(0x1c2)](_0x617584),_0x243f6a=_0x2d3eb7-Math['abs'](_0x3888e0);_0x63668>=_0x243f6a?_0x3888e0>=0x0?_0x4736dc['t']=0x1:_0x4736dc['b']=0x1:_0x617584>=0x0?_0x4736dc['l']=0x1:_0x4736dc['r']=0x1;}return _0x4736dc;}var inter={'l':0x0,'t':0x0};function interact(){var _0x2ea10b=_0x246ca1;switch(lastPressed){case'l':inter['l']=-0x1,inter['t']=0x0;break;case'r':inter['l']=0x1,inter['t']=0x0;break;case't':inter['l']=0x0,inter['t']=-0x1;break;case'b':inter['l']=0x0,inter['t']=0x1;break;}for(i=0x0;i<hitBoxes[_0x2ea10b(0x1fa)];i++){hitBoxes[i][_0x2ea10b(0x204)]!==undefined&&(console[_0x2ea10b(0x1c7)](player[_0x2ea10b(0x1de)]+'\x20'+player[_0x2ea10b(0x1fb)]+'\x0a'+hitBoxes[i]['x']+'\x20'+hitBoxes[i]['y']),player[_0x2ea10b(0x1de)]+inter['l']>hitBoxes[i]['x']&&player[_0x2ea10b(0x1de)]+inter['l']<hitBoxes[i]['x']+hitBoxes[i]['w']&&(player[_0x2ea10b(0x1fb)]+inter['t']>hitBoxes[i]['y']&&player[_0x2ea10b(0x1fb)]+inter['t']<hitBoxes[i]['y']+hitBoxes[i]['h']&&alert(hitBoxes[i][_0x2ea10b(0x204)])));}for(i=0x0;i<map[_0x2ea10b(0x1fa)];i++){map[i][_0x2ea10b(0x204)]!==undefined&&(console[_0x2ea10b(0x1c7)](player[_0x2ea10b(0x1de)]+'\x20'+player['centerY']+'\x0a'+map[i]['x']+'\x20'+map[i]['y']),player[_0x2ea10b(0x1de)]+inter['l']>map[i]['x']&&player['centerX']+inter['l']<map[i]['x']+map[i]['w']&&(player['centerY']+inter['t']>map[i]['y']&&player[_0x2ea10b(0x1fb)]+inter['t']<map[i]['y']+map[i]['h']&&(validateOptions(eval(map[i][_0x2ea10b(0x204)])[_0x2ea10b(0x1fd)]),id(_0x2ea10b(0x1d5))[_0x2ea10b(0x209)][_0x2ea10b(0x1c9)]=_0x2ea10b(0x1c0))));}}var lastPressed,keydowns={'l':0x0,'r':0x0,'t':0x0,'b':0x0,'int':0x0};window['addEventListener'](_0x246ca1(0x1e8),function(_0x882a4a){var _0x38be1c=_0x246ca1,_0x517cfd=_0x882a4a[_0x38be1c(0x1d3)];switch(_0x517cfd){case 0x41:!keydowns['l']&&(player['L']=!![],player['R']=![],player['T']=![],player['B']=![],player[_0x38be1c(0x1c5)]=0x1,lastPressed='l',keydowns['l']=0x1);break;case 0x44:!keydowns['r']&&(player['R']=!![],player['L']=![],player['T']=![],player['B']=![],player[_0x38be1c(0x1c5)]=0x2,lastPressed='r',keydowns['r']=0x1);break;case 0x57:!keydowns['t']&&(player['T']=!![],player['R']=![],player['L']=![],player['B']=![],player[_0x38be1c(0x1c5)]=0x3,lastPressed='t',keydowns['t']=0x1);break;case 0x53:!keydowns['b']&&(player['B']=!![],player['R']=![],player['T']=![],player['L']=![],player[_0x38be1c(0x1c5)]=0x4,lastPressed='b',keydowns['b']=0x1);break;case 0x20:!keydowns['int']&&(interact(),keydowns['int']=0x1);break;case 0x50:hotMode=!![],player[_0x38be1c(0x1c1)]=0xe;for(var _0x542383=0x0;_0x542383<player[_0x38be1c(0x1ca)]['length'];_0x542383++){player[_0x38be1c(0x1ca)][_0x542383][0x1]=0x3;}break;case 0x4f:tremble();break;case 0x4c:nightMode();break;case 0x49:switch(cellSize){case 0x10:cellSize=0x20;break;case 0x20:cellSize=0x40;break;case 0x40:cellSize=0x80;break;case 0x80:cellSize=0x10;break;}break;}}),window[_0x246ca1(0x1e1)](_0x246ca1(0x202),function(_0xc9a4f){var _0x64fd5c=_0x246ca1,_0x29563e=_0xc9a4f['keyCode'];switch(_0x29563e){case 0x41:player['L']=![],keydowns['l']=0x0;break;case 0x44:player['R']=![],keydowns['r']=0x0;break;case 0x57:player['T']=![],keydowns['t']=0x0;break;case 0x53:player['B']=![],keydowns['b']=0x0;break;case 0x20:keydowns[_0x64fd5c(0x20a)]=0x0;break;}});
+function id(arg) {
+    return document.getElementById(arg);
+}
+var canvas = id("canvas");
+canvas.imageSmoothingEnabled = false;
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+var CHARA_IDLE = id("CHARA_IDLE");
+var CHARA_WALK_L = id("CHARA_WALK_L");
+var CHARA_WALK_R = id("CHARA_WALK_R");
+var CHARA_WALK_T = id("CHARA_WALK_T");
+var CHARA_WALK_B = id("CHARA_WALK_B");
+var c = canvas.getContext("2d");
+var cellSize = 32;
+var visibility = 20;
+var player = {
+    x: canvas.width / cellSize / 2 - 0.5, //centering
+    y: canvas.height / cellSize / 2 - 1,
+    h: 2,
+    w: 1,
+    //movement
+    L: 0,
+    R: 0,
+    T: 0,
+    B: 0,
+    xVel: 0,
+    yVel: 0,
+    speed: 3,
+    accel: 0.5,
+    /* sprites have an address and a delay */
+    sprites: [
+            /* IDLE: */
+            [CHARA_IDLE, 8],
+            /* L: */
+            [CHARA_WALK_L, 8],
+            /* R: */
+            [CHARA_WALK_R, 8],
+            /* T: */
+            [CHARA_WALK_T, 8],
+            /* B: */
+            [CHARA_WALK_B, 8]
+        ],
+    currentSprite: 0,
+    currentFrame: 0
+};
+var mapX = (player.x - spawnPoint.x) * cellSize;
+/*    +1 for hitbox    */
+var mapY = (player.y - spawnPoint.y + 1) * cellSize;
+
+var playerHitbox = {
+    x: player.x,
+    y: player.y + 1,
+    w: player.w,
+    h: player.h - 1
+}
+
+var hotMode = 0;
+var dialogueMode = 0;
+var night = 0;
+requestAnimationFrame(loop);
+
+function loop() {
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    drawGround();
+    drawPlayer();
+    drawMap();
+    calculatePlayer();
+    // TEST
+    if (hotMode) {
+        hotStuff()
+    }
+    if (!dialogueMode) {
+        requestAnimationFrame(loop);
+    }
+}
+
+//if collide solo verde con i blu disegna sopra
+//if collide rosso disegna sotto
+function drawPlayer() {
+
+    /* if the player is not moving he is idling */
+
+    if (!player.L &&
+        !player.R &&
+        !player.T &&
+        !player.B && player.currentSprite !== 0) {
+        player.currentSprite = 0;
+    } /* going down through the sprite frame */
+
+    // frame counter counts how many frames are passing, each sprite has its speed based on this
+    player.centerX = player.x + (player.w / 2) - mapX / cellSize;
+    player.centerY = player.y + 1 + ((player.h - 1) / 2) - mapY / cellSize;
+
+    /* if the next frame does not exist return to 0 */
+    if (player.currentFrame + 2 > player.sprites[player.currentSprite][0].height / player.sprites[player.currentSprite][0].width / 2) {
+        frameCounter = 0;
+    }
+    /* currentFrame è l'indice dell'altezza della sprite */
+    player.currentFrame = Math.floor(frameCounter / player.sprites[player.currentSprite][1]);
+
+
+    //console.log(frameCounter)
+    printPlayer();
+
+    frameCounter++;
+}
+// Only draws the player without calculations
+function printPlayer() {
+
+    c.fillStyle = "#00ff00";
+    c.drawImage(
+        player.sprites[player.currentSprite][0],
+        0,
+        64 * player.currentFrame,
+        32,
+        64,
+        player.x * cellSize,
+        player.y * cellSize,
+        player.w * cellSize,
+        player.h * cellSize
+    );
+
+
+    c.stroke();
+    c.beginPath();
+
+    c.strokeStyle = "#ff0000";
+    c.rect(
+        player.x * cellSize,
+        player.y * cellSize + cellSize,
+        player.w * cellSize,
+        player.h * cellSize - cellSize
+    );
+    c.closePath();
+    c.stroke();
+}
+
+
+
+
+function drawGround() {
+    for (i = 0; i < map.length; i++) {
+        if (typeof map[i].ground === "undefined") {
+            continue;
+        }
+        drawCycle(i);
+    }
+}
+// Tile Gif Speed
+var TGS = 8;
+
+
+
+
+
+function drawMap() {
+    var ok1 = false;
+    var ok2 = false;
+    for (i = 0; i < map.length; i++) {
+        if (typeof map[i].ground !== "undefined") {
+            continue;
+        }
+        drawCycle(i);
+
+        if (col2(player, map[i])) {
+            ok1 = true;
+        }
+        if (col2(playerHitbox, map[i])) {
+            ok2 = true;
+        }
+    }
+    for (i = 0; i < hitBoxes.length; i++) {
+        c.strokeStyle = "#ff0000";
+        c.beginPath()
+        c.rect(hitBoxes[i].x * cellSize + mapX, hitBoxes[i].y * cellSize + mapY, hitBoxes[i].w * cellSize, hitBoxes[i].h * cellSize);
+        c.closePath();
+        c.stroke();
+    }
+    if (!(ok1 && ok2)) {
+        printPlayer();
+    }
+}
+/* SPRITE RENDERING */
+
+function drawCycle(i) {
+
+    // fragmenting the map into tiles
+    if (map[i].tile) {
+        for (var j = 0; j < map[i].h; j++) {
+            for (var k = 0; k < map[i].w; k++) {
+                if (((k + map[i].x) * cellSize + mapX > (player.x + visibility) * cellSize || (k + map[i].x) * cellSize + mapX < (player.x - visibility) * cellSize) ||
+                    ((j + map[i].y) * cellSize + mapY > (player.y + visibility) * cellSize || (j + map[i].y) * cellSize + mapY < (player.y - visibility) * cellSize)) {
+                    continue;
+                }
+                if (typeof map[i].gif !== "undefined") {
+                    map[i].gif++;
+                    if (map[i].gif / TGS >= id(map[i].tile).height / 32) {
+                        map[i].gif = 0;
+                    }
+                    c.drawImage(
+                        id(map[i].tile),
+                        0,
+                        32 * Math.floor(map[i].gif / TGS),
+                        32,
+                        32,
+                        (k + map[i].x) * cellSize + mapX,
+                        (j + map[i].y) * cellSize + mapY,
+                        cellSize,
+                        cellSize
+                    );
+                } else {
+                    c.drawImage(
+                        id(map[i].tile), /*image*/
+                        (k + map[i].x) * cellSize + mapX, /*x*/
+                        (j + map[i].y) * cellSize + mapY, /*x*/
+                        cellSize,
+                        cellSize
+                    );
+                }
+
+            }
+        }
+
+    } else if (map[i].png) {
+        c.drawImage(
+            id(map[i].png), /*image*/
+            (map[i].x) * cellSize + mapX, /*x*/
+            (map[i].y) * cellSize + mapY, /*x*/
+            map[i].w * cellSize,
+            map[i].h * cellSize
+        );
+    } else if (typeof map[i].pnGif !== "undefined") {
+        // pnGif is a special map tile(mainly for characters)
+        /*
+        {
+            x: 24,
+            y: 3,
+            w: 7,
+            h: 1,
+            pnGif : {
+                img : "elder",
+                currentFrame : 0,
+                frameSpeed : 5,
+                w : 32,
+                h : 64
+            }
+        }
+        */
+        map[i].pnGif.currentFrame++;
+        if (map[i].pnGif.currentFrame / map[i].pnGif.frameSpeed >= id(map[i].pnGif.img).height / map[i].pnGif.h) {
+            map[i].pnGif.currentFrame = 0;
+        }
+        c.drawImage(
+            id(map[i].pnGif.img),
+            0,
+            map[i].pnGif.h * Math.floor(map[i].pnGif.currentFrame / map[i].pnGif.frameSpeed),
+            map[i].pnGif.w,
+            map[i].pnGif.h,
+            (map[i].x) * cellSize + mapX,
+            (map[i].y) * cellSize + mapY,
+            map[i].w * cellSize,
+            map[i].h * cellSize
+        );
+
+    } else {
+        c.fillStyle = "#0000ff";
+        c.beginPath()
+        c.fillRect(map[i].x * cellSize + mapX, map[i].y * cellSize + mapY, map[i].w * cellSize, map[i].h * cellSize);
+        c.closePath();
+        c.stroke();
+    }
+}
+
+
+
+function calculatePlayer() {
+    playerHitbox = {
+        x: player.x,
+        y: player.y + 1,
+        w: player.w,
+        h: player.h - 1
+    }
+
+    isGrounded(playerHitbox);
+    directionCheck();
+
+
+}
+
+
+// MODS
+function hotStuff() {
+    var fireIt = false;
+    var x = Math.floor(player.x + 0.5 - mapX / cellSize);
+    var y = Math.floor(player.y + 1.5 - mapY / cellSize);
+    for (var i = 0; i < map.length; i++) {
+        if (map[i].x == x && map[i].y == y) {
+            if (map[i].tile == "fire") {
+                break;
+            }
+        }
+        if (i == map.length - 1) {
+            fireIt = true;
+        }
+    }
+    if (fireIt) {
+        map.push({
+            x: x,
+            y: y,
+            w: 1,
+            h: 1,
+            tile: "fire",
+            gif: 0,
+            ground: 1
+        })
+    }
+}
+
+
+
+
+function tremble() {
+    var tiles = ["low-wall", "red", "purple", "pink", "dry-grass", "walk-grass"];
+    var mapl = map.length;
+    for (var i = 0; i < mapl; i++) {
+        /*
+        map[i].tile = tiles[Math.floor(Math.random() * tiles.length)];
+        map.push({
+            x: Math.floor(Math.random() * 50 + 1),
+            y: Math.floor(Math.random() * 50 + 1),
+            w: Math.floor(Math.random() * 8 + 1),
+            h: Math.floor(Math.random() * 8 + 1),
+            tile: tiles[Math.floor(Math.random() * tiles.length)],
+            ground: Math.floor(Math.random() * 2)
+        })
+        */
+        if (typeof map[i].tile !== "undefined") {
+            map[i].tile = tiles[Math.floor(Math.random() * tiles.length)]
+        }
+    }
+}
+
+function nightMode() {
+    if (!night) {
+        id("canvas-overlay").style.visibility = "visible";
+        id("elder").src = "resources/sprites/elder2.png";
+        night = true;
+    } else {
+        id("canvas-overlay").style.visibility = "hidden";
+        id("elder").src = "resources/sprites/elder1.png";
+        night = false;
+    }
+}
+
+
+
+// MODS END
+
+
+var colSide;
+
+function isGrounded(entity) {
+    //id("stat").innerHTML = "";
+    colSide = {
+        t: 0,
+        b: 0,
+        l: 0,
+        r: 0
+    };
+    for (i = 0; i < hitBoxes.length; i++) {
+
+        var col = collision(entity, hitBoxes[i]);
+
+        if (col.l) {
+            if (player.xVel < 0)
+                mapX += player.xVel - 1;
+            colSide.l = 1;
+            player.L = false;
+        }
+        if (col.r) {
+            if (player.xVel > 0)
+                mapX += player.xVel + 1;
+            colSide.r = 1;
+            player.R = false;
+
+        }
+        if (col.t) {
+            if (player.yVel < 0)
+                mapY += player.yVel - 1;
+            colSide.t = 1;
+            player.T = false;
+        }
+        if (col.b) {
+            if (player.yVel > 0)
+                mapY += player.yVel + 1;
+            colSide.b = 1;
+            player.B = false;
+        }
+
+
+    }
+    //id("stat").innerHTML += "L: " + colSide.l + " R: " + colSide.r + " T: " + colSide.t + " B: " + colSide.b;
+
+}
+
+function directionCheck() {
+
+    if (player.L || player.R) {
+        if (player.R && player.xVel < player.speed && !(colSide.r)) {
+            player.xVel += player.accel;
+        }
+        if (player.L && player.xVel > -player.speed && !(colSide.l)) {
+            player.xVel -= player.accel;
+        }
+    } else {
+        if (player.xVel !== 0) {
+            if (colSide.r || colSide.l) {
+                player.xVel = 0;
+            } else {
+                player.xVel = 0;
+            }
+            /*
+            (player.xVel > 0) ? player.xVel -= player.accel / 4 : player.xVel += player.accel / 4;
+            */
+        }
+    }
+    if (player.B || player.T) {
+        if (player.B && player.yVel < player.speed && !(colSide.b)) {
+            player.yVel += player.accel;
+        }
+        if (player.T && player.yVel > -player.speed && !(colSide.t)) {
+            player.yVel -= player.accel;
+        }
+    } else {
+        if (player.yVel !== 0) {
+            if (colSide.t || colSide.b) {
+                player.yVel = 0;
+            } else {
+                player.yVel = 0;
+            }
+            /*
+                (player.yVel > 0) ? player.yVel -= player.accel / 4 : player.yVel += player.accel / 4;
+                */
+        }
+    }
+    mapX -= player.xVel;
+    mapY -= player.yVel;
+}
+
+function col2(player, box) {
+    if (player.x + player.w > box.x + mapX / cellSize) {
+        if (player.x < box.x + mapX / cellSize + box.w) {
+            if (player.y + player.h > box.y + mapY / cellSize) {
+                if (player.y < box.y + mapY / cellSize + box.h) {
+                    return true;
+                }
+            }
+        }
+    }
+    return false;
+}
+var frameCounter = 0;
+
+
+
+
+
+
+
+
+
+//COLLISION DETECTOR
+function collision(Box1, Box2) {
+    var vectorX = (Box1.x + (Box1.w / 2)) - (Box2.x + mapX / cellSize + (Box2.w / 2)),
+        vectorY = (Box1.y + (Box1.h / 2)) - (Box2.y + mapY / cellSize + (Box2.h / 2)),
+        hWidths = (Box1.w / 2) + (Box2.w / 2),
+        hHeights = (Box1.h / 2) + (Box2.h / 2),
+        colDir = {
+            t: 0,
+            b: 0,
+            l: 0,
+            r: 0
+        };
+    if (Math.abs(vectorX) < hWidths && Math.abs(vectorY) < hHeights) {
+        var oX = hWidths - Math.abs(vectorX),
+            oY = hHeights - Math.abs(vectorY);
+        if (oX >= oY) {
+
+            if (vectorY >= 0) {
+                colDir.t = 1;
+            } else {
+                colDir.b = 1;
+            }
+        } else {
+            if (vectorX >= 0) {
+                colDir.l = 1;
+            } else {
+                colDir.r = 1;
+            }
+        }
+    }
+    return colDir;
+}
+
+//the interaction point relative to player
+var inter = {
+    //left respective to the player
+    l: 0,
+    //top respective to the player
+    t: 0
+}
+
+function interact() {
+    switch (lastPressed) {
+        case "l":
+            inter.l = -1;
+            inter.t = 0;
+            break;
+        case "r":
+            inter.l = 1;
+            inter.t = 0;
+            break;
+        case "t":
+            inter.l = 0;
+            inter.t = -1;
+            break;
+        case "b":
+            inter.l = 0;
+            inter.t = 1;
+            break;
+    }
+    for (i = 0; i < hitBoxes.length; i++) {
+        if (hitBoxes[i].text !== undefined) {
+            console.log(player.centerX + " " + player.centerY + "\n" + hitBoxes[i].x + " " + hitBoxes[i].y)
+            if (player.centerX + inter.l > hitBoxes[i].x && player.centerX + inter.l < hitBoxes[i].x + hitBoxes[i].w) {
+                if (player.centerY + inter.t > hitBoxes[i].y && player.centerY + inter.t < hitBoxes[i].y + hitBoxes[i].h) {
+                    alert(hitBoxes[i].text);
+                }
+            }
+        }
+    }
+    for (i = 0; i < map.length; i++) {
+        if (map[i].text !== undefined) {
+            console.log(player.centerX + " " + player.centerY + "\n" + map[i].x + " " + map[i].y)
+            if (player.centerX + inter.l > map[i].x && player.centerX + inter.l < map[i].x + map[i].w) {
+                if (player.centerY + inter.t > map[i].y && player.centerY + inter.t < map[i].y + map[i].h) {
+                    validateOptions(eval(map[i].text).dialogue)
+                    id("options").style.display = "inline-block";
+                }
+            }
+        }
+    }
+
+}
+
+
+var lastPressed;
+var keydowns = {
+    l: 0,
+    r: 0,
+    t: 0,
+    b: 0,
+    int: 0
+}
+window.addEventListener("keydown", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key down
+            if (!keydowns.l) {
+                player.L = true;
+                player.R = false;
+                player.T = false;
+                player.B = false;
+                player.currentSprite = 1;
+                lastPressed = "l";
+                keydowns.l = 1;
+            }
+            break;
+        case 68: //right key down
+            if (!keydowns.r) {
+                player.R = true;
+                player.L = false;
+                player.T = false;
+                player.B = false;
+                player.currentSprite = 2;
+                lastPressed = "r";
+                keydowns.r = 1;
+            }
+            break;
+        case 87: //top key down
+            if (!keydowns.t) {
+                player.T = true;
+                player.R = false;
+                player.L = false;
+                player.B = false;
+                player.currentSprite = 3;
+                lastPressed = "t";
+                keydowns.t = 1;
+            }
+            break;
+        case 83: //bot key down
+            if (!keydowns.b) {
+                player.B = true;
+                player.R = false;
+                player.T = false;
+                player.L = false;
+                player.currentSprite = 4;
+                lastPressed = "b";
+                keydowns.b = 1;
+            }
+            break;
+        case 32: // E
+            if (!keydowns.int) {
+                interact();
+                keydowns.int = 1;
+            }
+            break;
+        case 80: // P
+            hotMode = true;
+            player.speed = 14;
+            for (var i = 0; i < player.sprites.length; i++) {
+                player.sprites[i][1] = 3;
+            }
+            break;
+        case 79: // O
+            tremble();
+            break;
+        case 76: // L
+            nightMode();
+            break;
+        case 73: // I
+            switch (cellSize) {
+                case 16:
+                    cellSize = 32;
+                    break;
+                case 32:
+                    cellSize = 64;
+                    break;
+                case 64:
+                    cellSize = 128;
+                    break;
+                case 128:
+                    cellSize = 16;
+                    break;
+            }
+            break;
+    }
+});
+window.addEventListener("keyup", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key up
+            player.L = false;
+            keydowns.l = 0;
+            break;
+        case 68: //right key up
+            player.R = false;
+            keydowns.r = 0;
+            break;
+        case 87: //top key up
+            player.T = false;
+            keydowns.t = 0;
+            break;
+        case 83: //bot key up
+            player.B = false;
+            keydowns.b = 0;
+            break;
+        case 32: // E
+            keydowns.int = 0;
+            break;
+    }
+});

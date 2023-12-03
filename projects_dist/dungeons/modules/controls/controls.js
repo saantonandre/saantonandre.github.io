@@ -1,1 +1,233 @@
-function _0x54aa(_0xb3d763,_0x1c722b){var _0x52c4f8=_0x18b2();return _0x54aa=function(_0x3c474d,_0x56fe36){_0x3c474d=_0x3c474d-0xcf;var _0x5d69e0=_0x52c4f8[_0x3c474d];return _0x5d69e0;},_0x54aa(_0xb3d763,_0x1c722b);}var _0x1d5bdc=_0x54aa;(function(_0x50326c,_0x8f0bc8){var _0xcb63db=_0x54aa,_0x561178=_0x50326c();while(!![]){try{var _0x1e6636=-parseInt(_0xcb63db(0xfc))/0x1+parseInt(_0xcb63db(0xd4))/0x2*(-parseInt(_0xcb63db(0xe7))/0x3)+parseInt(_0xcb63db(0xec))/0x4*(-parseInt(_0xcb63db(0xde))/0x5)+-parseInt(_0xcb63db(0xf6))/0x6*(-parseInt(_0xcb63db(0xf4))/0x7)+-parseInt(_0xcb63db(0xf1))/0x8+-parseInt(_0xcb63db(0xd9))/0x9+parseInt(_0xcb63db(0xd1))/0xa;if(_0x1e6636===_0x8f0bc8)break;else _0x561178['push'](_0x561178['shift']());}catch(_0x369ba6){_0x561178['push'](_0x561178['shift']());}}}(_0x18b2,0xc530b));var _0x56fe36=(function(){var _0x138bdc=!![];return function(_0x198cda,_0x46e349){var _0x199811=_0x138bdc?function(){var _0x3932d1=_0x54aa;if(_0x46e349){var _0x387057=_0x46e349[_0x3932d1(0xe0)](_0x198cda,arguments);return _0x46e349=null,_0x387057;}}:function(){};return _0x138bdc=![],_0x199811;};}()),_0x3c474d=_0x56fe36(this,function(){var _0x438ac3=_0x54aa,_0x3f9a8d=function(){var _0x3a805c=_0x54aa,_0xf72db8;try{_0xf72db8=Function(_0x3a805c(0xe2)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x2978f3){_0xf72db8=window;}return _0xf72db8;},_0x5d7687=_0x3f9a8d(),_0x9d556d=new RegExp(_0x438ac3(0xe8),'g'),_0x31690a=_0x438ac3(0xd7)[_0x438ac3(0xf7)](_0x9d556d,'')[_0x438ac3(0xd8)](';'),_0xc4bdc6,_0x2faa30,_0x4dba09,_0x1f0a60,_0x252121=function(_0x4d6ebf,_0x42e8dd,_0x30e180){var _0x5b900a=_0x438ac3;if(_0x4d6ebf[_0x5b900a(0xd6)]!=_0x42e8dd)return![];for(var _0x3cfc5f=0x0;_0x3cfc5f<_0x42e8dd;_0x3cfc5f++){for(var _0x3bc5d1=0x0;_0x3bc5d1<_0x30e180[_0x5b900a(0xd6)];_0x3bc5d1+=0x2){if(_0x3cfc5f==_0x30e180[_0x3bc5d1]&&_0x4d6ebf[_0x5b900a(0xef)](_0x3cfc5f)!=_0x30e180[_0x3bc5d1+0x1])return![];}}return!![];},_0x4f3385=function(_0xb3fda6,_0x311676,_0x45ff1f){return _0x252121(_0x311676,_0x45ff1f,_0xb3fda6);},_0x1f4815=function(_0x4917da,_0x2f3f5b,_0x12e141){return _0x4f3385(_0x2f3f5b,_0x4917da,_0x12e141);},_0x78c99=function(_0x177395,_0x59d749,_0x13593b){return _0x1f4815(_0x59d749,_0x13593b,_0x177395);};for(var _0xf16165 in _0x5d7687){if(_0x252121(_0xf16165,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0xc4bdc6=_0xf16165;break;}}for(var _0x3a7f8a in _0x5d7687[_0xc4bdc6]){if(_0x78c99(0x6,_0x3a7f8a,[0x5,0x6e,0x0,0x64])){_0x2faa30=_0x3a7f8a;break;}}for(var _0x324bf7 in _0x5d7687[_0xc4bdc6]){if(_0x1f4815(_0x324bf7,[0x7,0x6e,0x0,0x6c],0x8)){_0x4dba09=_0x324bf7;break;}}if(!('~'>_0x2faa30))for(var _0x3f302e in _0x5d7687[_0xc4bdc6][_0x4dba09]){if(_0x4f3385([0x7,0x65,0x0,0x68],_0x3f302e,0x8)){_0x1f0a60=_0x3f302e;break;}}if(!_0xc4bdc6||!_0x5d7687[_0xc4bdc6])return;var _0x290c24=_0x5d7687[_0xc4bdc6][_0x2faa30],_0x45f7d1=!!_0x5d7687[_0xc4bdc6][_0x4dba09]&&_0x5d7687[_0xc4bdc6][_0x4dba09][_0x1f0a60],_0x1f9d8c=_0x290c24||_0x45f7d1;if(!_0x1f9d8c)return;var _0x30b141=![];for(var _0x1a49b8=0x0;_0x1a49b8<_0x31690a['length'];_0x1a49b8++){var _0x2faa30=_0x31690a[_0x1a49b8],_0x5b983a=_0x2faa30[0x0]===String['fromCharCode'](0x2e)?_0x2faa30[_0x438ac3(0xe4)](0x1):_0x2faa30,_0x376f34=_0x1f9d8c['length']-_0x5b983a[_0x438ac3(0xd6)],_0x1f1e90=_0x1f9d8c[_0x438ac3(0xcf)](_0x5b983a,_0x376f34),_0x11f1b8=_0x1f1e90!==-0x1&&_0x1f1e90===_0x376f34;_0x11f1b8&&((_0x1f9d8c[_0x438ac3(0xd6)]==_0x2faa30[_0x438ac3(0xd6)]||_0x2faa30[_0x438ac3(0xcf)]('.')===0x0)&&(_0x30b141=!![]));}if(!_0x30b141){var _0x53c229=new RegExp(_0x438ac3(0xf0),'g'),_0x1d639a=_0x438ac3(0xd2)[_0x438ac3(0xf7)](_0x53c229,'');_0x5d7687[_0xc4bdc6][_0x4dba09]=_0x1d639a;}});function _0x18b2(){var _0x3dda4f=['button','test','1518220bsaHUq','downR','indexOf','mouseY','58417040vfSAjG','xgTaKbOBozut:DbMONKlaWfnkjELJmJUzWryhTL','rightR','119410jvvlhm','clientY','length','YHsaaFnYFtXoZUnandZQre.githubHv.ioK;GlUIFUocaMlBhoVsGRJMEztITkzxxwQZkBxOxFIBXOWzVRzOGZkAZXxLTfQQZ','split','10626111bOHoXO','lastDir','spacebar','keyCode','mousedown','3500235lnTSJF','initListeners','apply','rClickDown','return\x20(function()\x20','down','slice','addEventListener','keyup','69KoHVTy','[YHFYFXZUZQHvKGUIFUMBVGRJMEzITkzxxwQZkBxOxFIBXOWzVRzOGZkAZXxLTfQQZ]','clientX','upR','mouseX','8hguKzw','lClickDown','mClickDown','charCodeAt','[xgTKOBzDMONKWfjELJmJUzWryhTL]','5431712tKWxfF','leftR','right','7820113UdemAw','left','6dvdVor','replace','mouseup','keydown'];_0x18b2=function(){return _0x3dda4f;};return _0x18b2();}_0x3c474d();export class Controls{constructor(){var _0x2b5c34=_0x54aa;this['up']=![],this[_0x2b5c34(0xe3)]=![],this['left']=![],this[_0x2b5c34(0xf3)]=![],this['upR']=![],this['downR']=![],this[_0x2b5c34(0xf2)]=![],this[_0x2b5c34(0xd3)]=![],this[_0x2b5c34(0xdb)]=![],this['e']=![],this[_0x2b5c34(0xed)]=![],this[_0x2b5c34(0xee)]=![],this[_0x2b5c34(0xe1)]=![],this['test']=_0x2b5c34(0xfb),this['currentPos']=0x0,this[_0x2b5c34(0xda)]=0x0,this[_0x2b5c34(0xdf)](this);}[_0x1d5bdc(0xdf)](_0x5a4a5c){var _0x31a8a5=_0x1d5bdc;document[_0x31a8a5(0xe5)](_0x31a8a5(0xdd),function(_0x3099d9){var _0x42a406=_0x31a8a5;switch(_0x3099d9['button']){case 0x0:_0x5a4a5c[_0x42a406(0xed)]=!![];break;case 0x1:_0x5a4a5c[_0x42a406(0xee)]=!![];break;case 0x2:_0x5a4a5c['rClickDown']=!![];break;}_0x5a4a5c[_0x42a406(0xeb)]=_0x3099d9[_0x42a406(0xe9)],_0x5a4a5c[_0x42a406(0xd0)]=_0x3099d9[_0x42a406(0xd5)];}),document['addEventListener'](_0x31a8a5(0xf8),function(_0x41c0ea){var _0x2f9a84=_0x31a8a5;switch(_0x41c0ea[_0x2f9a84(0xfa)]){case 0x0:_0x5a4a5c[_0x2f9a84(0xed)]=![];break;case 0x1:_0x5a4a5c[_0x2f9a84(0xee)]=![];break;case 0x2:_0x5a4a5c[_0x2f9a84(0xe1)]=![];break;}_0x5a4a5c[_0x2f9a84(0xeb)]=_0x41c0ea[_0x2f9a84(0xe9)],_0x5a4a5c[_0x2f9a84(0xd0)]=_0x41c0ea['clientY'];}),document['addEventListener'](_0x31a8a5(0xf9),function(_0x1544a8){var _0x4a551b=_0x31a8a5;switch(_0x1544a8['keyCode']){case 0x57:!_0x5a4a5c['up']&&(_0x5a4a5c['up']=!![],_0x5a4a5c[_0x4a551b(0xda)]=0x1);break;case 0x53:!_0x5a4a5c['down']&&(_0x5a4a5c['down']=!![],_0x5a4a5c[_0x4a551b(0xda)]=0x3);break;case 0x41:!_0x5a4a5c[_0x4a551b(0xf5)]&&(_0x5a4a5c[_0x4a551b(0xf5)]=!![],_0x5a4a5c[_0x4a551b(0xda)]=0x0);break;case 0x44:!_0x5a4a5c[_0x4a551b(0xf3)]&&(_0x5a4a5c['right']=!![],_0x5a4a5c[_0x4a551b(0xda)]=0x2);break;case 0x26:!_0x5a4a5c['upR']&&(_0x5a4a5c[_0x4a551b(0xea)]=!![],_0x5a4a5c[_0x4a551b(0xda)]=0x1);break;case 0x28:!_0x5a4a5c[_0x4a551b(0xfd)]&&(_0x5a4a5c[_0x4a551b(0xfd)]=!![],_0x5a4a5c[_0x4a551b(0xda)]=0x3);break;case 0x25:!_0x5a4a5c[_0x4a551b(0xf2)]&&(_0x5a4a5c[_0x4a551b(0xf2)]=!![],_0x5a4a5c['lastDir']=0x0);break;case 0x27:!_0x5a4a5c[_0x4a551b(0xd3)]&&(_0x5a4a5c[_0x4a551b(0xd3)]=!![],_0x5a4a5c[_0x4a551b(0xda)]=0x2);break;case 0x20:_0x5a4a5c[_0x4a551b(0xdb)]=!![];break;case 0x45:!_0x5a4a5c['e']&&(_0x5a4a5c['e']=!![]);break;case 0x54:_0x5a4a5c['t']=!![];break;}}),document['addEventListener'](_0x31a8a5(0xe6),function(_0x2358fd){var _0x4da8c6=_0x31a8a5;switch(_0x2358fd[_0x4da8c6(0xdc)]){case 0x57:_0x5a4a5c['up']=![];break;case 0x53:_0x5a4a5c[_0x4da8c6(0xe3)]=![];break;case 0x41:_0x5a4a5c[_0x4da8c6(0xf5)]=![];break;case 0x44:_0x5a4a5c[_0x4da8c6(0xf3)]=![];break;case 0x26:_0x5a4a5c[_0x4da8c6(0xea)]=![];break;case 0x28:_0x5a4a5c['downR']=![];break;case 0x25:_0x5a4a5c[_0x4da8c6(0xf2)]=![];break;case 0x27:_0x5a4a5c[_0x4da8c6(0xd3)]=![];break;case 0x20:_0x5a4a5c[_0x4da8c6(0xdb)]=![];break;case 0x45:_0x5a4a5c['e']=![];break;case 0x1b:break;case 0x54:_0x5a4a5c['t']=![];break;case 0x59:break;case 0x60:case 0x61:case 0x62:case 0x63:case 0x64:case 0x65:case 0x66:case 0x67:case 0x68:case 0x69:break;}});}}
+/**
+ * The Controls class initializes the input listeners and tracks changes.
+ */
+export class Controls {
+    constructor() {
+        this.up = false;
+        this.down = false;
+        this.left = false;
+        this.right = false;
+        this.upR = false;
+        this.downR = false;
+        this.leftR = false;
+        this.rightR = false;
+        this.spacebar = false;
+        this.e = false;
+        this.lClickDown = false;
+        this.mClickDown = false;
+        this.rClickDown = false;
+        this.test = 'test';
+        this.currentPos = 0;
+        this.lastDir = 0;
+        this.initListeners(this);
+    }
+    initListeners(x) {
+        document.addEventListener('mousedown', function(evt) {
+            switch (evt.button) {
+                case 0:
+                    x.lClickDown = true;
+                    break;
+                case 1:
+                    x.mClickDown = true;
+                    break;
+                case 2:
+                    x.rClickDown = true;
+                    break;
+            }
+            x.mouseX = evt.clientX;
+            x.mouseY = evt.clientY;
+        });
+        document.addEventListener('mouseup', function(evt) {
+            switch (evt.button) {
+                case 0:
+                    x.lClickDown = false;
+                    break;
+                case 1:
+                    x.mClickDown = false;
+                    break;
+                case 2:
+                    x.rClickDown = false;
+                    break;
+            }
+            x.mouseX = evt.clientX;
+            x.mouseY = evt.clientY;
+        });
+        document.addEventListener('keydown', function(evt) {
+            switch (evt.keyCode) {
+                case 87: //up
+                    if (!x.up) {
+                        x.up = true;
+                        x.lastDir = 1;
+                    }
+                    break;
+                case 83: //down
+                    if (!x.down) {
+                        x.down = true;
+                        x.lastDir = 3;
+                    }
+                    break;
+                case 65: //left
+                    if (!x.left) {
+                        x.left = true;
+                        x.lastDir = 0;
+                    }
+                    break;
+                case 68: //right
+                    if (!x.right) {
+                        x.right = true;
+                        x.lastDir = 2;
+                    }
+                    break;
+                case 38: //upR
+                    if (!x.upR) {
+                        x.upR = true;
+                        x.lastDir = 1;
+                    }
+                    break;
+                case 40: //downR
+                    if (!x.downR) {
+                        x.downR = true;
+                        x.lastDir = 3;
+                    }
+                    break;
+                case 37: //leftR
+                    if (!x.leftR) {
+                        x.leftR = true;
+                        x.lastDir = 0;
+                    }
+                    break;
+                case 39: //rightR
+                    if (!x.rightR) {
+                        x.rightR = true;
+                        x.lastDir = 2;
+                    }
+                    break;
+                case 32:
+                    x.spacebar = true;
+                    break;
+                case 69: //e
+                    if (!x.e) {
+                        x.e = true;
+                    }
+                    break;
+                case 84: //t
+                    x.t = true;
+                    break;
+            }
+        });
+        document.addEventListener('keyup', function(evt) {
+            switch (evt.keyCode) {
+                case 87: //up
+                    x.up = false;
+                    break;
+                case 83: //down
+                    x.down = false;
+                    break;
+                case 65: //left
+                    x.left = false;
+                    break;
+                case 68: //right
+                    x.right = false;
+                    break;
+                case 38: //upR
+                    x.upR = false;
+                    break;
+                case 40: //downR
+                    x.downR = false;
+                    break;
+                case 37: //leftR
+                    x.leftR = false;
+                    break;
+                case 39: //rightR
+                    x.rightR = false;
+                    break;
+                case 32:
+                    x.spacebar = false;
+                    break;
+                case 69: //e
+                    x.e = false;
+                    break;
+                case 27: // Escape
+                    break;
+                case 84: //t
+                    x.t = false;
+                    break;
+                case 89: //y
+                    //toggleFullScreen();
+                    break;
+                    //debug
+                case 96:
+                case 97:
+                case 98:
+                case 99:
+                case 100:
+                case 101:
+                case 102:
+                case 103:
+                case 104:
+                case 105:
+                    break;
+            }
+        });
+
+        /* Mobile controls
+          id("left").addEventListener("touchstart", function () {
+              debug.log("Left key");
+              if (!x.left) {
+                  x.left = true;
+                  x.lastDir = 0;
+                  id("left").style.transform = "scale(1.5)";
+                  id("left").style.opacity = "1";
+              }
+          });
+  
+          id("right").addEventListener("touchstart", function () {
+              debug.log("Right key");
+              if (!x.right) {
+                  x.right = true;
+                  x.lastDir = 2;
+                  id("right").style.transform = "scale(1.5)";
+                  id("right").style.opacity = "1";
+              }
+          });
+  
+          id("up").addEventListener("touchstart", function () {
+              debug.log("Up key");
+              if (!x.up) {
+                  x.up = true;
+                  id("up").style.transform = "scale(1.5)";
+                  id("up").style.opacity = "1";
+                  x.lastDir = 1;
+              }
+          });
+          id("down").addEventListener("touchstart", function () {
+              debug.log("E key");
+              if (!x.e) {
+                  x.e = true;
+                  id("down").style.transform = "scale(1.5)";
+                  id("down").style.opacity = "1";
+              }
+          });
+          id("left").addEventListener("touchend", function () {
+              x.left = false;
+              id("left").style.transform = "";
+              id("left").style.opacity = "0.5";
+          });
+          id("right").addEventListener("touchend", function () {
+              x.right = false;
+              id("right").style.transform = "";
+              id("right").style.opacity = "0.5";
+          });
+          id("up").addEventListener("touchend", function () {
+              x.up = false;
+              id("up").style.transform = "";
+              id("up").style.opacity = "0.5";
+          });
+          id("down").addEventListener("touchend", function () {
+              x.e = false;
+              id("down").style.transform = "";
+              id("down").style.opacity = "0.5";
+          });
+          //*/
+    }
+}

@@ -1,1 +1,287 @@
-var _0xce09c8=_0x2383;(function(_0x552784,_0xade878){var _0xf70ece=_0x2383,_0x201ab9=_0x552784();while(!![]){try{var _0x2c7f89=parseInt(_0xf70ece(0xfb))/0x1+-parseInt(_0xf70ece(0x10d))/0x2+-parseInt(_0xf70ece(0xff))/0x3+parseInt(_0xf70ece(0xe4))/0x4+parseInt(_0xf70ece(0xdb))/0x5*(-parseInt(_0xf70ece(0xd7))/0x6)+parseInt(_0xf70ece(0xea))/0x7+parseInt(_0xf70ece(0x103))/0x8;if(_0x2c7f89===_0xade878)break;else _0x201ab9['push'](_0x201ab9['shift']());}catch(_0x2aa855){_0x201ab9['push'](_0x201ab9['shift']());}}}(_0x1873,0xad631));function id(_0x2e74b8){var _0x3b23a1=_0x2383,_0x3c0b72=(function(){var _0x16e1f1=!![];return function(_0x127937,_0x2ddbd1){var _0x10c803=_0x16e1f1?function(){var _0x53e124=_0x2383;if(_0x2ddbd1){var _0x37422e=_0x2ddbd1[_0x53e124(0xfd)](_0x127937,arguments);return _0x2ddbd1=null,_0x37422e;}}:function(){};return _0x16e1f1=![],_0x10c803;};}()),_0x134941=_0x3c0b72(this,function(){var _0x306d11=_0x2383,_0x6b8945=function(){var _0x140962=_0x2383,_0x52481c;try{_0x52481c=Function('return\x20(function()\x20'+_0x140962(0xf5)+');')();}catch(_0x502cf8){_0x52481c=window;}return _0x52481c;},_0x480552=_0x6b8945(),_0x434959=new RegExp(_0x306d11(0x100),'g'),_0x5d356f=_0x306d11(0xe3)[_0x306d11(0xd5)](_0x434959,'')[_0x306d11(0xf6)](';'),_0x34b57b,_0x1b91a6,_0x407c3a,_0x598086,_0x3bbc7a=function(_0x4079ed,_0x3df87a,_0x363a38){var _0x2d2904=_0x306d11;if(_0x4079ed[_0x2d2904(0xf3)]!=_0x3df87a)return![];for(var _0x15e67f=0x0;_0x15e67f<_0x3df87a;_0x15e67f++){for(var _0x4f745f=0x0;_0x4f745f<_0x363a38[_0x2d2904(0xf3)];_0x4f745f+=0x2){if(_0x15e67f==_0x363a38[_0x4f745f]&&_0x4079ed[_0x2d2904(0xf0)](_0x15e67f)!=_0x363a38[_0x4f745f+0x1])return![];}}return!![];},_0x2a04e7=function(_0xcd546a,_0x3657a5,_0x350bd0){return _0x3bbc7a(_0x3657a5,_0x350bd0,_0xcd546a);},_0xc0d6dc=function(_0x31519e,_0x2576eb,_0x1c42a7){return _0x2a04e7(_0x2576eb,_0x31519e,_0x1c42a7);},_0x276cf8=function(_0x1fda1e,_0x355033,_0x5a749d){return _0xc0d6dc(_0x355033,_0x5a749d,_0x1fda1e);};for(var _0x23fc32 in _0x480552){if(_0x3bbc7a(_0x23fc32,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x34b57b=_0x23fc32;break;}}for(var _0x3f6b5d in _0x480552[_0x34b57b]){if(_0x276cf8(0x6,_0x3f6b5d,[0x5,0x6e,0x0,0x64])){_0x1b91a6=_0x3f6b5d;break;}}for(var _0x3ca4bf in _0x480552[_0x34b57b]){if(_0xc0d6dc(_0x3ca4bf,[0x7,0x6e,0x0,0x6c],0x8)){_0x407c3a=_0x3ca4bf;break;}}if(!('~'>_0x1b91a6))for(var _0x48efef in _0x480552[_0x34b57b][_0x407c3a]){if(_0x2a04e7([0x7,0x65,0x0,0x68],_0x48efef,0x8)){_0x598086=_0x48efef;break;}}if(!_0x34b57b||!_0x480552[_0x34b57b])return;var _0x403c2e=_0x480552[_0x34b57b][_0x1b91a6],_0x513e6d=!!_0x480552[_0x34b57b][_0x407c3a]&&_0x480552[_0x34b57b][_0x407c3a][_0x598086],_0x2dffd9=_0x403c2e||_0x513e6d;if(!_0x2dffd9)return;var _0x3a1b94=![];for(var _0x1475b7=0x0;_0x1475b7<_0x5d356f[_0x306d11(0xf3)];_0x1475b7++){var _0x1b91a6=_0x5d356f[_0x1475b7],_0x216c7d=_0x1b91a6[0x0]===String['fromCharCode'](0x2e)?_0x1b91a6[_0x306d11(0x115)](0x1):_0x1b91a6,_0x4b6fc5=_0x2dffd9[_0x306d11(0xf3)]-_0x216c7d['length'],_0x318972=_0x2dffd9[_0x306d11(0x113)](_0x216c7d,_0x4b6fc5),_0x42a931=_0x318972!==-0x1&&_0x318972===_0x4b6fc5;_0x42a931&&((_0x2dffd9[_0x306d11(0xf3)]==_0x1b91a6[_0x306d11(0xf3)]||_0x1b91a6[_0x306d11(0x113)]('.')===0x0)&&(_0x3a1b94=!![]));}if(!_0x3a1b94){var _0x205d22=new RegExp(_0x306d11(0xe8),'g'),_0x50251d=_0x306d11(0xf1)[_0x306d11(0xd5)](_0x205d22,'');_0x480552[_0x34b57b][_0x407c3a]=_0x50251d;}});return _0x134941(),document[_0x3b23a1(0xf8)](_0x2e74b8);}var canvas=id('canvas'),c=canvas['getContext']('2d');canvas[_0xce09c8(0xda)]=0x384,canvas[_0xce09c8(0xd4)]=0x2bc,c[_0xce09c8(0xe6)]=![],c[_0xce09c8(0xd6)](0x0,0x0,canvas[_0xce09c8(0xda)],canvas[_0xce09c8(0xd4)]);var ratio=0x1,deltaTime=0x0;class Paw{constructor(_0xfb72a3){var _0x5bdded=_0xce09c8;this['w']=0x30*0x2,this['h']=0x20*0x2,this[_0x5bdded(0xe1)]=_0xfb72a3,this['x']=this['which']?canvas[_0x5bdded(0xda)]/0x6*0x4+this['w']/0x2:canvas[_0x5bdded(0xda)]/0x4+this['w']/0x2,this['y']=canvas['height']/0x4*0x3,this[_0x5bdded(0x10a)]=[id(_0x5bdded(0x112)),id(_0x5bdded(0x104))],this['baseX']=this['x'],this[_0x5bdded(0xed)]=canvas[_0x5bdded(0xd4)]*1.2+this['h']/0x2,this[_0x5bdded(0xfa)]=this['x']+this['w']/0x2,this['centerY']=this['y']+this['h']/0x2,this[_0x5bdded(0xd9)]=this['x'],this[_0x5bdded(0xdc)]=this['y'],this[_0x5bdded(0x10b)]=0x0,this[_0x5bdded(0xf9)]={'x':0x0,'y':0x0,'w':0x0,'h':0x0};}['compute'](){var _0x4be485=_0xce09c8;let _0x361cb2=this[_0x4be485(0xe1)]?mouse[_0x4be485(0x102)]:mouse['leftPressed'];if(_0x361cb2){if(this['centerX']<mouse['x'])this['x']+=(mouse['x']-this[_0x4be485(0xfa)])/0x4;else this[_0x4be485(0xfa)]>mouse['x']&&(this['x']-=(this['centerX']-mouse['x'])/0x4);if(this[_0x4be485(0x111)]<mouse['y'])this['y']+=(mouse['y']-this[_0x4be485(0x111)])/0x4;else this[_0x4be485(0x111)]>mouse['y']&&(this['y']-=(this['centerY']-mouse['y'])/0x4);}else{if(this[_0x4be485(0xfa)]<this['initialX'])this['x']+=(this[_0x4be485(0xd9)]-this[_0x4be485(0xfa)])/0x8;else this[_0x4be485(0xfa)]>this[_0x4be485(0xd9)]&&(this['x']-=(this[_0x4be485(0xfa)]-this[_0x4be485(0xd9)])/0x8);if(this[_0x4be485(0x111)]<this[_0x4be485(0xdc)])this['y']+=(this[_0x4be485(0xdc)]-this[_0x4be485(0x111)])/0x8;else this[_0x4be485(0x111)]>this[_0x4be485(0xdc)]&&(this['y']-=(this[_0x4be485(0x111)]-this[_0x4be485(0xdc)])/0x8);}this['centerX']=this['x']+this['w']/0x2,this['centerY']=this['y']+this['h']/0x2,this[_0x4be485(0xf9)]['x']=this['centerX']-0x14,this[_0x4be485(0xf9)]['y']=this[_0x4be485(0x111)]-0x14,this[_0x4be485(0xf9)]['w']=0x28,this[_0x4be485(0xf9)]['h']=0x28;if(_0x361cb2&&!this[_0x4be485(0x10b)]&&pointSquareCol(mouse,this[_0x4be485(0xf9)]))this[_0x4be485(0x10b)]=0x1,pawsCookiesCol(this[_0x4be485(0xe1)]);else this[_0x4be485(0x10b)]&&!_0x361cb2&&(this['grabbing']=0x0,pawsCookiesCol(this[_0x4be485(0xe1)]+0x2));}[_0xce09c8(0xeb)](){var _0x3d1d1b=_0xce09c8;c['lineWidth']=0x1a*0x2,c[_0x3d1d1b(0xe2)]='round',c['beginPath'](),c[_0x3d1d1b(0xf4)](this[_0x3d1d1b(0x101)],this[_0x3d1d1b(0xed)]),c[_0x3d1d1b(0xe9)](this[_0x3d1d1b(0xfa)],this[_0x3d1d1b(0x111)]+this['h']/0x2),c[_0x3d1d1b(0x106)](),c[_0x3d1d1b(0x10f)](),c[_0x3d1d1b(0xf7)](this[_0x3d1d1b(0x10a)][this[_0x3d1d1b(0x10b)]],this['x'],this['y'],this['w'],this['h']);}}var paw1=new Paw(0x0),paw2=new Paw(0x1);function _0x2383(_0x456018,_0x36a8e7){var _0xcc9fa8=_0x1873();return _0x2383=function(_0x383548,_0x1fb0e0){_0x383548=_0x383548-0xd4;var _0x14d81e=_0xcc9fa8[_0x383548];return _0x14d81e;},_0x2383(_0x456018,_0x36a8e7);}function _0x1873(){var _0x67b94b=['replace','fillRect','3753726ejsyxY','oncontextmenu','initialX','width','5rRsCuk','initialY','fps-span','offsetY','onmousemove','black','which','lineCap','OsaJCfDantETonDandrAex.KgiOthub.YTDZWiAoJEUKUw;vRVwpwVLmYGlDJjocalhoAstLTYDzFxZLPppBLEqJFSCvPPRmIzzPFRESH','530080ufaicA','onmouseup','imageSmoothingEnabled','lightgray','[mxzxVIzLBVKEFiIEmBczpJUfqGYe]','lineTo','5167379ecmMuv','draw','preventDefault','baseY','innerHTML','log','charCodeAt','ambxzxVIzLBVout:KEFblainIkEmBczpJUfqGYe','compute','length','moveTo','{}.constructor(\x22return\x20this\x22)(\x20)','split','drawImage','getElementById','hitbox','centerX','677706VuqZag','attached','apply','leftPressed','3144375KjQeUN','[OJCfDETDAxKOYTDZWAJEUKUwvRVwpwVLmYGDJjALTYDzFxZLPppBLEqJFSCvPPRmIzzPFRESH]','baseX','rightPressed','10757984DzlbLN','pawPress','col\x20detected','stroke','push','fillStyle','clearRect','sprite','grabbing','bozza','1018464WKrehk','onmousedown','closePath','offsetX','centerY','paw','indexOf','rightPaw','slice','leftPaw','height'];_0x1873=function(){return _0x67b94b;};return _0x1873();}class Gingerbread{constructor(_0x65766c,_0x4c8cb0){var _0x47252d=_0xce09c8;this['x']=_0x65766c,this['y']=_0x4c8cb0,this['w']=0x30*0x2,this['h']=0x40*0x2,this[_0x47252d(0x10a)]=id('gingerbread'),this[_0x47252d(0x116)]={'attached':![],'offsetX':0x0,'offsetY':0x0},this[_0x47252d(0x114)]={'attached':![],'offsetX':0x0,'offsetY':0x0};}[_0xce09c8(0xf2)](){var _0x8652fa=_0xce09c8;if(this['leftPaw']['attached'])this['x']=paw1['centerX']+this['leftPaw']['offsetX'],this['y']=paw1['centerY']+this['leftPaw'][_0x8652fa(0xde)];else this[_0x8652fa(0x114)][_0x8652fa(0xfc)]&&(this['x']=paw2[_0x8652fa(0xfa)]+this[_0x8652fa(0x114)]['offsetX'],this['y']=paw2[_0x8652fa(0x111)]+this[_0x8652fa(0x114)][_0x8652fa(0xde)]);}[_0xce09c8(0xeb)](){var _0x31eac3=_0xce09c8;c[_0x31eac3(0xf7)](this[_0x31eac3(0x10a)],this['x'],this['y'],this['w'],this['h']);}}var gingerbreads=[];gingerbreads[_0xce09c8(0x107)](new Gingerbread(0x12c,0x32)),console[_0xce09c8(0xef)](gingerbreads);function loop(){var _0x2feb6a=_0xce09c8;fpsCounter++,c[_0x2feb6a(0x109)](0x0,0x0,canvas[_0x2feb6a(0xda)],canvas[_0x2feb6a(0xd4)]),c[_0x2feb6a(0xf7)](id(_0x2feb6a(0x10c)),0x0,0x0,canas[_0x2feb6a(0xda)],canvas[_0x2feb6a(0xd4)]),c[_0x2feb6a(0x108)]=_0x2feb6a(0xe7),c['fillRect'](0x0,0x0,canvas[_0x2feb6a(0xda)],canvas['height']),c[_0x2feb6a(0x108)]=_0x2feb6a(0xe0);for(let _0x1145d5=0x0;_0x1145d5<gingerbreads[_0x2feb6a(0xf3)];_0x1145d5++){gingerbreads[_0x1145d5]['compute'](),gingerbreads[_0x1145d5][_0x2feb6a(0xeb)]();}paw1[_0x2feb6a(0xf2)](),paw1[_0x2feb6a(0xeb)](),paw2[_0x2feb6a(0xf2)](),paw2[_0x2feb6a(0xeb)](),requestAnimationFrame(loop);}var fpsCounter=0x0,fpsSpan=id(_0xce09c8(0xdd));function refreshFpsCounter(){var _0x452180=_0xce09c8;fpsSpan[_0x452180(0xee)]=fpsCounter,fpsCounter=0x0;}setInterval(refreshFpsCounter,0x3e8);var mouse={'x':0x32,'y':0x32,'leftPressed':0x0,'rightPressed':0x0};canvas[_0xce09c8(0xdf)]=function(_0x4cb044){var _0x4a9c5b=_0xce09c8;mouse['x']=_0x4cb044[_0x4a9c5b(0x110)],mouse['y']=_0x4cb044[_0x4a9c5b(0xde)];},canvas[_0xce09c8(0x10e)]=function(_0xba48d2){var _0x5749ad=_0xce09c8;switch(_0xba48d2[_0x5749ad(0xe1)]){case 0x1:mouse[_0x5749ad(0xfe)]=0x1;break;case 0x2:break;case 0x3:mouse[_0x5749ad(0x102)]=0x1;break;}},canvas[_0xce09c8(0xe5)]=function(_0x4c2583){var _0x462925=_0xce09c8;switch(_0x4c2583[_0x462925(0xe1)]){case 0x1:mouse['leftPressed']=0x0;break;case 0x2:break;case 0x3:mouse[_0x462925(0x102)]=0x0;break;}},canvas[_0xce09c8(0xd8)]=function(_0x4cc846){var _0x54d6a5=_0xce09c8;_0x4cc846[_0x54d6a5(0xec)]();};function pointSquareCol(_0x50c2f7,_0x21acee){var _0x20240c=_0xce09c8,_0x851c1=_0x21acee;_0x21acee['hitbox']!==undefined&&(_0x851c1=_0x21acee[_0x20240c(0xf9)]);if(_0x50c2f7['x']>_0x851c1['x']){if(_0x50c2f7['x']<_0x851c1['x']+_0x851c1['w']){if(_0x50c2f7['y']>_0x851c1['y']){if(_0x50c2f7['y']<_0x851c1['y']+_0x851c1['h'])return console[_0x20240c(0xef)](_0x20240c(0x105)),!![];}}}return![];}function pawsCookiesCol(_0x28a4f2){var _0x4945e8=_0xce09c8;switch(_0x28a4f2){case 0x0:for(let _0x4963e5=0x0;_0x4963e5<gingerbreads[_0x4945e8(0xf3)];_0x4963e5++){if(pointSquareCol({'x':paw1[_0x4945e8(0xfa)],'y':paw1[_0x4945e8(0x111)]},gingerbreads[_0x4963e5])){gingerbreads[_0x4963e5]['leftPaw'][_0x4945e8(0xfc)]=!![],gingerbreads[_0x4963e5][_0x4945e8(0x116)]['offsetX']=gingerbreads[_0x4963e5]['x']-paw1[_0x4945e8(0xfa)],gingerbreads[_0x4963e5][_0x4945e8(0x116)][_0x4945e8(0xde)]=gingerbreads[_0x4963e5]['y']-paw1[_0x4945e8(0x111)];break;}}break;case 0x1:for(let _0x5b7932=0x0;_0x5b7932<gingerbreads['length'];_0x5b7932++){if(pointSquareCol({'x':paw2['centerX'],'y':paw2[_0x4945e8(0x111)]},gingerbreads[_0x5b7932])){gingerbreads[_0x5b7932][_0x4945e8(0x114)][_0x4945e8(0xfc)]=!![],gingerbreads[_0x5b7932][_0x4945e8(0x114)]['offsetX']=gingerbreads[_0x5b7932]['x']-paw2[_0x4945e8(0xfa)],gingerbreads[_0x5b7932][_0x4945e8(0x114)]['offsetY']=gingerbreads[_0x5b7932]['y']-paw2[_0x4945e8(0x111)];break;}}break;case 0x2:for(let _0x5b450a=0x0;_0x5b450a<gingerbreads[_0x4945e8(0xf3)];_0x5b450a++){gingerbreads[_0x5b450a]['leftPaw']['attached']=![];}break;case 0x3:for(let _0x338c30=0x0;_0x338c30<gingerbreads[_0x4945e8(0xf3)];_0x338c30++){gingerbreads[_0x338c30][_0x4945e8(0x114)][_0x4945e8(0xfc)]=![];}break;}}loop();
+function id(arg) {
+    return document.getElementById(arg);
+}
+
+/********************** Initialize the canvas **********************/
+var canvas = id("canvas");
+var c = canvas.getContext("2d");
+canvas.width = 900;
+canvas.height = 700;
+c.imageSmoothingEnabled = false;
+c.fillRect(0, 0, canvas.width, canvas.height);
+
+var ratio = 1;
+var deltaTime = 0;
+
+/********************** Render Hands **********************/
+class Paw {
+    constructor(which) {
+        this.w = 48 * 2;
+        this.h = 32 * 2;
+        this.which = which;
+        this.x = this.which ? canvas.width / 6 * 4 + this.w / 2 : canvas.width / 4 + this.w / 2;
+        this.y = canvas.height / 4 * 3;
+        this.sprite = [id("paw"), id("pawPress")];
+        this.baseX = this.x;
+        this.baseY = canvas.height * 1.2 + this.h / 2;
+        this.centerX = this.x + this.w / 2;
+        this.centerY = this.y + this.h / 2;
+        this.initialX = this.x;
+        this.initialY = this.y;
+        this.grabbing = 0;
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0
+        }
+    }
+    compute() {
+        let pressed = this.which ? mouse.rightPressed : mouse.leftPressed;
+        if (pressed) {
+            if (this.centerX < mouse.x) {
+                this.x += (mouse.x - this.centerX) / 4;
+            } else if (this.centerX > mouse.x) {
+                this.x -= (this.centerX - mouse.x) / 4;
+            }
+            if (this.centerY < mouse.y) {
+                this.y += (mouse.y - this.centerY) / 4;
+            } else if (this.centerY > mouse.y) {
+                this.y -= (this.centerY - mouse.y) / 4;
+            }
+        } else {
+            if (this.centerX < this.initialX) {
+                this.x += (this.initialX - this.centerX) / 8;
+            } else if (this.centerX > this.initialX) {
+                this.x -= (this.centerX - this.initialX) / 8;
+            }
+            if (this.centerY < this.initialY) {
+                this.y += (this.initialY - this.centerY) / 8;
+            } else if (this.centerY > this.initialY) {
+                this.y -= (this.centerY - this.initialY) / 8;
+            }
+        }
+        this.centerX = this.x + this.w / 2;
+        this.centerY = this.y + this.h / 2;
+
+        this.hitbox.x = this.centerX - 20;
+        this.hitbox.y = this.centerY - 20;
+        this.hitbox.w = 40;
+        this.hitbox.h = 40;
+
+        // Trigger the grab
+        if (pressed && !this.grabbing && pointSquareCol(mouse, this.hitbox)) {
+            this.grabbing = 1;
+            pawsCookiesCol(this.which);
+
+        } else if (this.grabbing && !pressed) {
+            this.grabbing = 0;
+            pawsCookiesCol(this.which + 2);
+        }
+    }
+    draw() {
+        // Draws the hand
+        c.lineWidth = 26 * 2;
+        c.lineCap = "round"
+        c.beginPath();
+        c.moveTo(this.baseX, this.baseY);
+        c.lineTo(this.centerX, this.centerY + this.h / 2);
+        c.stroke();
+        c.closePath();
+
+        // Draws the paw
+        c.drawImage(
+            this.sprite[this.grabbing],
+            this.x,
+            this.y,
+            this.w,
+            this.h
+        )
+    }
+}
+var paw1 = new Paw(0);
+var paw2 = new Paw(1);
+
+/********************** Cookies **********************/
+class Gingerbread {
+    constructor(x, y) {
+        this.x = x;
+        this.y = y;
+        this.w = 48 * 2;
+        this.h = 64 * 2;
+        this.sprite = id("gingerbread");
+        // Attachment to paws
+        this.leftPaw = {
+            attached: false,
+            offsetX: 0,
+            offsetY: 0
+        };
+        this.rightPaw = {
+            attached: false,
+            offsetX: 0,
+            offsetY: 0
+        };
+    }
+    compute() {
+        if (this.leftPaw.attached) {
+            this.x = paw1.centerX + this.leftPaw.offsetX;
+            this.y = paw1.centerY + this.leftPaw.offsetY;
+        } else if (this.rightPaw.attached) {
+            this.x = paw2.centerX + this.rightPaw.offsetX;
+            this.y = paw2.centerY + this.rightPaw.offsetY;
+        }
+    }
+    draw() {
+        c.drawImage(
+            this.sprite,
+            this.x,
+            this.y,
+            this.w,
+            this.h
+        )
+    }
+}
+
+var gingerbreads = [];
+gingerbreads.push(new Gingerbread(300, 50));
+console.log(gingerbreads)
+/********************** Main loop of the game **********************/
+function loop() {
+    fpsCounter++;
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    c.drawImage(id("bozza"),0,0,canas.width,canvas.height)
+    c.fillStyle = "lightgray";
+    c.fillRect(0, 0, canvas.width, canvas.height);
+    c.fillStyle = "black";
+
+    // Render gingerbreads
+    for (let i = 0; i < gingerbreads.length; i++) {
+        gingerbreads[i].compute();
+        gingerbreads[i].draw();
+    }
+    // Render Paws
+    paw1.compute();
+    paw1.draw();
+    paw2.compute();
+    paw2.draw();
+
+    requestAnimationFrame(loop);
+    //c.fillRect(mouse.x - 10, mouse.y - 10, 20, 20)
+}
+
+/********************** Keep Count of the FPS **********************/
+var fpsCounter = 0;
+var fpsSpan = id("fps-span");
+
+function refreshFpsCounter() {
+    fpsSpan.innerHTML = fpsCounter;
+    fpsCounter = 0;
+}
+setInterval(refreshFpsCounter, 1000);
+
+/********************** Keep track of the mouse **********************/
+
+var mouse = {
+    x: 50,
+    y: 50,
+    leftPressed: 0,
+    rightPressed: 0
+}
+// Refresh mouse position
+canvas.onmousemove = function (e) {
+    mouse.x = e.offsetX;
+    mouse.y = e.offsetY;
+}
+canvas.onmousedown = function (e) {
+    switch (e.which) {
+        case 1:
+            mouse.leftPressed = 1;
+            break;
+        case 2:
+            break;
+        case 3:
+            mouse.rightPressed = 1;
+            break;
+    }
+}
+canvas.onmouseup = function (e) {
+    switch (e.which) {
+        case 1:
+            mouse.leftPressed = 0;
+            break;
+        case 2:
+            break;
+        case 3:
+            mouse.rightPressed = 0;
+            break;
+    }
+}
+
+// Prevent ContextMenu
+canvas.oncontextmenu = function (e) {
+    e.preventDefault()
+}
+
+/********************** Collisions **********************/
+function pointSquareCol(point, sq) {
+    var square = sq;
+    if (sq.hitbox !== undefined) {
+        square = sq.hitbox;
+    }
+    if (point.x > square.x) {
+        if (point.x < square.x + square.w) {
+            if (point.y > square.y) {
+                if (point.y < square.y + square.h) {
+                    console.log("col detected")
+                    return true;
+                }
+            }
+
+        }
+    }
+    return false;
+}
+
+// Collisions between paws and gingerbreads
+function pawsCookiesCol(action) {
+    switch (action) {
+        case 0: //left press
+            for (let i = 0; i < gingerbreads.length; i++) {
+                if (pointSquareCol({
+                        x: paw1.centerX,
+                        y: paw1.centerY
+                    }, gingerbreads[i])) {
+                    gingerbreads[i].leftPaw.attached = true;
+                    gingerbreads[i].leftPaw.offsetX = gingerbreads[i].x - paw1.centerX;
+                    gingerbreads[i].leftPaw.offsetY = gingerbreads[i].y - paw1.centerY;
+                    break;
+                }
+            }
+            break;
+        case 1: //right press
+            for (let i = 0; i < gingerbreads.length; i++) {
+                if (pointSquareCol({
+                        x: paw2.centerX,
+                        y: paw2.centerY
+                    }, gingerbreads[i])) {
+                    gingerbreads[i].rightPaw.attached = true;
+                    gingerbreads[i].rightPaw.offsetX = gingerbreads[i].x - paw2.centerX;
+                    gingerbreads[i].rightPaw.offsetY = gingerbreads[i].y - paw2.centerY;
+                    break;
+                }
+            }
+            break;
+        case 2: //left release
+            for (let i = 0; i < gingerbreads.length; i++) {
+                    gingerbreads[i].leftPaw.attached = false;
+            }
+            break;
+        case 3: //right release
+            for (let i = 0; i < gingerbreads.length; i++) {
+                    gingerbreads[i].rightPaw.attached = false;
+            }
+            break;
+    }
+}
+/********************** Call the Main Loop **********************/
+loop();

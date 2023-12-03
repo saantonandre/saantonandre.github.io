@@ -1,1 +1,83 @@
-function _0x4453(_0x5b4c82,_0x351476){const _0x1ba68e=_0x288b();return _0x4453=function(_0x3e6bba,_0x1fe63f){_0x3e6bba=_0x3e6bba-0xd5;let _0x42ec20=_0x1ba68e[_0x3e6bba];return _0x42ec20;},_0x4453(_0x5b4c82,_0x351476);}function _0x288b(){const _0x42a070=['65430jHoxMr','replace','preventDefault','mousedown','2792465aHMFTR','768339LEtprz','mouseup','rightButton','touchUp','touchDown','2mlalei','tilesize','leftButton','{}.constructor(\x22return\x20this\x22)(\x20)','buttonUp','middleButton','meta','updateTouchPos','absolute','4757550RHknrD','mousemove','updatePos','buttonDown','lastMouseX','slice','pageY','charCodeAt','length','addEventListener','canvas','lastMouseY','clientY','5002332hIrcGV','clientX','touchmove','pageX','fromCharCode','offsetTop','button','offsetLeft','camera','2680236wDddeh','KsaSXyaTkTyHpntMonandHrFeSFP.wCgiUGthWubJ.NiJmNwfoY;QqvGRHloxjckTalhostVDBIjCkBLZYzTBMSpBMSDMBIEP','686400sZtArD','ratio'];_0x288b=function(){return _0x42a070;};return _0x288b();}const _0x5c7b55=_0x4453;(function(_0x51ddce,_0x4df0be){const _0x2990fb=_0x4453,_0x4ecdf9=_0x51ddce();while(!![]){try{const _0x39f93f=-parseInt(_0x2990fb(0xf0))/0x1*(parseInt(_0x2990fb(0xf5))/0x2)+parseInt(_0x2990fb(0xeb))/0x3+-parseInt(_0x2990fb(0xe7))/0x4+parseInt(_0x2990fb(0xef))/0x5+parseInt(_0x2990fb(0xde))/0x6+parseInt(_0x2990fb(0xfe))/0x7+-parseInt(_0x2990fb(0xe9))/0x8;if(_0x39f93f===_0x4df0be)break;else _0x4ecdf9['push'](_0x4ecdf9['shift']());}catch(_0x50633b){_0x4ecdf9['push'](_0x4ecdf9['shift']());}}}(_0x288b,0x8b085));const _0x1fe63f=(function(){let _0x4b1327=!![];return function(_0x554ce3,_0x30e4b6){const _0x142f9e=_0x4b1327?function(){if(_0x30e4b6){const _0x201147=_0x30e4b6['apply'](_0x554ce3,arguments);return _0x30e4b6=null,_0x201147;}}:function(){};return _0x4b1327=![],_0x142f9e;};}()),_0x3e6bba=_0x1fe63f(this,function(){const _0x39f4ca=_0x4453;let _0x4f9bc7;try{const _0x565ea2=Function('return\x20(function()\x20'+_0x39f4ca(0xf8)+');');_0x4f9bc7=_0x565ea2();}catch(_0x59c0f0){_0x4f9bc7=window;}const _0xa82711=new RegExp('[KSXyTkTyHpMHFSFPwCUGWJNJmNwfYQqvGRHxjkTVDBIjCkBLZYzTBMSpBMSDMBIEP]','g'),_0x3479d5=_0x39f4ca(0xe8)['replace'](_0xa82711,'')['split'](';');let _0x72fdcc,_0x3667ed,_0x567893,_0x375efa;const _0x2a3b3e=function(_0x27c903,_0x2b8da8,_0x2d5212){const _0xbdc74e=_0x39f4ca;if(_0x27c903[_0xbdc74e(0xd9)]!=_0x2b8da8)return![];for(let _0x4b72b2=0x0;_0x4b72b2<_0x2b8da8;_0x4b72b2++){for(let _0xc6b02b=0x0;_0xc6b02b<_0x2d5212['length'];_0xc6b02b+=0x2){if(_0x4b72b2==_0x2d5212[_0xc6b02b]&&_0x27c903[_0xbdc74e(0xd8)](_0x4b72b2)!=_0x2d5212[_0xc6b02b+0x1])return![];}}return!![];},_0x40de68=function(_0x2e80be,_0x1f5813,_0x50e0a0){return _0x2a3b3e(_0x1f5813,_0x50e0a0,_0x2e80be);},_0x5c83bb=function(_0x280e19,_0x1a84fc,_0xef8898){return _0x40de68(_0x1a84fc,_0x280e19,_0xef8898);},_0x5a5dd9=function(_0x38a4cf,_0x58fe0d,_0x1eefb5){return _0x5c83bb(_0x58fe0d,_0x1eefb5,_0x38a4cf);};for(let _0x4c27dc in _0x4f9bc7){if(_0x2a3b3e(_0x4c27dc,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x72fdcc=_0x4c27dc;break;}}for(let _0x41f4e8 in _0x4f9bc7[_0x72fdcc]){if(_0x5a5dd9(0x6,_0x41f4e8,[0x5,0x6e,0x0,0x64])){_0x3667ed=_0x41f4e8;break;}}for(let _0x1137da in _0x4f9bc7[_0x72fdcc]){if(_0x5c83bb(_0x1137da,[0x7,0x6e,0x0,0x6c],0x8)){_0x567893=_0x1137da;break;}}if(!('~'>_0x3667ed))for(let _0x43be1f in _0x4f9bc7[_0x72fdcc][_0x567893]){if(_0x40de68([0x7,0x65,0x0,0x68],_0x43be1f,0x8)){_0x375efa=_0x43be1f;break;}}if(!_0x72fdcc||!_0x4f9bc7[_0x72fdcc])return;const _0x3543a3=_0x4f9bc7[_0x72fdcc][_0x3667ed],_0x3af5d9=!!_0x4f9bc7[_0x72fdcc][_0x567893]&&_0x4f9bc7[_0x72fdcc][_0x567893][_0x375efa],_0x38962f=_0x3543a3||_0x3af5d9;if(!_0x38962f)return;let _0xfdc2be=![];for(let _0x128269=0x0;_0x128269<_0x3479d5[_0x39f4ca(0xd9)];_0x128269++){const _0x4441d7=_0x3479d5[_0x128269],_0x3eb147=_0x4441d7[0x0]===String[_0x39f4ca(0xe2)](0x2e)?_0x4441d7[_0x39f4ca(0xd6)](0x1):_0x4441d7,_0x55043a=_0x38962f[_0x39f4ca(0xd9)]-_0x3eb147['length'],_0x2882de=_0x38962f['indexOf'](_0x3eb147,_0x55043a),_0x5a1021=_0x2882de!==-0x1&&_0x2882de===_0x55043a;_0x5a1021&&((_0x38962f['length']==_0x4441d7[_0x39f4ca(0xd9)]||_0x4441d7['indexOf']('.')===0x0)&&(_0xfdc2be=!![]));}if(!_0xfdc2be){const _0x2b4993=new RegExp('[ABjAUEXwqYwRIpYPYcWQQPThfIOYK]','g'),_0x5a062c='ABaboutj:bAlUEXanwqYkwRIpYPYcWQQPThfIOYK'[_0x39f4ca(0xec)](_0x2b4993,'');_0x4f9bc7[_0x72fdcc][_0x567893]=_0x5a062c;}});_0x3e6bba();export class Mouse{constructor(_0x14183e,_0x3d0022,_0x32e7f2={'x':0x0,'y':0x0}){const _0x23f745=_0x4453;this['x']=-0x64,this['y']=-0x64,this['canvas']=_0x14183e,this[_0x23f745(0xfb)]=_0x3d0022,this[_0x23f745(0xe6)]=_0x32e7f2,this[_0x23f745(0xfd)]={'x':0x0,'y':0x0,'hoverUI':![],'dragging':![],'slot':{}},this[_0x23f745(0xf7)]=![],this['middleButton']=![],this[_0x23f745(0xf2)]=![],this['lastMouseX']=0x0,this[_0x23f745(0xdc)]=0x0,document[_0x23f745(0xda)](_0x23f745(0xff),this[_0x23f745(0x100)]),document['addEventListener'](_0x23f745(0xee),this[_0x23f745(0x101)]),document['addEventListener'](_0x23f745(0xf1),this[_0x23f745(0xf9)]),this['canvas'][_0x23f745(0xda)]('touchstart',this[_0x23f745(0xf4)]),this['canvas'][_0x23f745(0xda)](_0x23f745(0xe0),this[_0x23f745(0xfc)]),this[_0x23f745(0xdb)][_0x23f745(0xda)]('touchend',this[_0x23f745(0xf3)]);}['touchDown']=_0x261c41=>{_0x261c41['preventDefault'](),this['leftButton']=!![];};[_0x5c7b55(0xf3)]=_0x3c6e3f=>{_0x3c6e3f['preventDefault'](),this['leftButton']=![];};[_0x5c7b55(0xfc)]=(_0x5cc5c6={'changedTouches':[{'pageX':this[_0x5c7b55(0xd5)],'pageY':this[_0x5c7b55(0xdc)]}]})=>{const _0x5a005f=_0x5c7b55;_0x5cc5c6[_0x5a005f(0xed)]();let _0x2b9639=_0x5cc5c6['changedTouches'][0x0];this[_0x5a005f(0xd5)]=_0x2b9639[_0x5a005f(0xe1)],this[_0x5a005f(0xdc)]=_0x2b9639['pageY'],this['x']=-this[_0x5a005f(0xe6)]['x']+(_0x2b9639[_0x5a005f(0xe1)]-this[_0x5a005f(0xdb)][_0x5a005f(0xe5)])/this[_0x5a005f(0xfb)]['tilesize']/this['meta'][_0x5a005f(0xea)],this['y']=-this[_0x5a005f(0xe6)]['y']+(_0x2b9639['pageY']-this[_0x5a005f(0xdb)][_0x5a005f(0xe3)])/this[_0x5a005f(0xfb)][_0x5a005f(0xf6)]/this[_0x5a005f(0xfb)][_0x5a005f(0xea)],this[_0x5a005f(0xfd)]['x']=(_0x2b9639[_0x5a005f(0xe1)]-this[_0x5a005f(0xdb)][_0x5a005f(0xe5)])/this[_0x5a005f(0xfb)][_0x5a005f(0xf6)]/this[_0x5a005f(0xfb)][_0x5a005f(0xea)],this['absolute']['y']=(_0x2b9639[_0x5a005f(0xd7)]-this[_0x5a005f(0xdb)][_0x5a005f(0xe3)])/this[_0x5a005f(0xfb)][_0x5a005f(0xf6)]/this[_0x5a005f(0xfb)][_0x5a005f(0xea)];};[_0x5c7b55(0x101)]=_0x41bd21=>{const _0x40ced1=_0x5c7b55;switch(_0x41bd21['button']){case 0x0:this[_0x40ced1(0xf7)]=!![];break;case 0x1:this[_0x40ced1(0xfa)]=!![];break;case 0x2:this[_0x40ced1(0xf2)]=!![];break;}};[_0x5c7b55(0xf9)]=_0x4e8c28=>{const _0x58a40e=_0x5c7b55;switch(_0x4e8c28[_0x58a40e(0xe4)]){case 0x0:this[_0x58a40e(0xf7)]=![];break;case 0x1:this[_0x58a40e(0xfa)]=![];break;case 0x2:this['rightButton']=![];break;}};[_0x5c7b55(0x100)]=(_0x8d04a7={'clientX':this[_0x5c7b55(0xd5)],'clientY':this[_0x5c7b55(0xdc)]})=>{const _0xe612e5=_0x5c7b55;this[_0xe612e5(0xd5)]=_0x8d04a7[_0xe612e5(0xdf)],this[_0xe612e5(0xdc)]=_0x8d04a7[_0xe612e5(0xdd)],this['x']=-this[_0xe612e5(0xe6)]['x']+(_0x8d04a7[_0xe612e5(0xdf)]-this[_0xe612e5(0xdb)][_0xe612e5(0xe5)])/this[_0xe612e5(0xfb)][_0xe612e5(0xf6)]/this[_0xe612e5(0xfb)][_0xe612e5(0xea)],this['y']=-this[_0xe612e5(0xe6)]['y']+(_0x8d04a7['clientY']-this[_0xe612e5(0xdb)][_0xe612e5(0xe3)])/this[_0xe612e5(0xfb)]['tilesize']/this[_0xe612e5(0xfb)][_0xe612e5(0xea)],this[_0xe612e5(0xfd)]['x']=(_0x8d04a7[_0xe612e5(0xdf)]-this[_0xe612e5(0xdb)][_0xe612e5(0xe5)])/this[_0xe612e5(0xfb)][_0xe612e5(0xf6)]/this[_0xe612e5(0xfb)][_0xe612e5(0xea)],this[_0xe612e5(0xfd)]['y']=(_0x8d04a7[_0xe612e5(0xdd)]-this[_0xe612e5(0xdb)]['offsetTop'])/this[_0xe612e5(0xfb)][_0xe612e5(0xf6)]/this['meta']['ratio'];};}
+export class Mouse {
+    constructor(canvas, meta, camera = { x: 0, y: 0 }) {
+        this.x = -100;
+        this.y = -100;
+        this.canvas = canvas;
+        this.meta = meta;
+        this.camera = camera;
+        /** Defines if the mouse is hovering the ui */
+        this.absolute = {
+            x: 0,
+            y: 0,
+            hoverUI: false,
+            dragging: false,
+            slot: {}
+        }
+        this.leftButton = false;
+        this.middleButton = false;
+        this.rightButton = false;
+        this.lastMouseX = 0;
+        this.lastMouseY = 0;
+        document.addEventListener("mousemove", this.updatePos)
+        document.addEventListener("mousedown", this.buttonDown)
+        document.addEventListener("mouseup", this.buttonUp)
+        this.canvas.addEventListener("touchstart", this.touchDown);
+        this.canvas.addEventListener("touchmove", this.updateTouchPos);
+        this.canvas.addEventListener("touchend", this.touchUp);
+    }
+    touchDown = (evt) => {
+        evt.preventDefault();
+        this.leftButton = true;
+    }
+    touchUp = (evt) => {
+        evt.preventDefault();
+        this.leftButton = false;
+
+    }
+    updateTouchPos = (evt = { changedTouches: [{ pageX: this.lastMouseX, pageY: this.lastMouseY }] }) => {
+        evt.preventDefault();
+        let touch = evt.changedTouches[0];
+        this.lastMouseX = touch.pageX;
+        this.lastMouseY = touch.pageY;
+        this.x = -this.camera.x + (touch.pageX - this.canvas.offsetLeft) / this.meta.tilesize / this.meta.ratio;
+        this.y = -this.camera.y + (touch.pageY - this.canvas.offsetTop) / this.meta.tilesize / this.meta.ratio;
+
+        this.absolute.x = (touch.pageX - this.canvas.offsetLeft) / this.meta.tilesize / this.meta.ratio;
+        this.absolute.y = (touch.pageY - this.canvas.offsetTop) / this.meta.tilesize / this.meta.ratio;
+    }
+    buttonDown = (evt) => {
+        switch (evt.button) {
+            case 0:
+                this.leftButton = true;
+                break;
+            case 1:
+                this.middleButton = true;
+                break;
+            case 2:
+                this.rightButton = true;
+                break;
+        }
+    }
+    buttonUp = (evt) => {
+        switch (evt.button) {
+            case 0:
+                this.leftButton = false;
+                break;
+            case 1:
+                this.middleButton = false;
+                break;
+            case 2:
+                this.rightButton = false;
+                break;
+        }
+    }
+    updatePos = (evt = { clientX: this.lastMouseX, clientY: this.lastMouseY }) => {
+        this.lastMouseX = evt.clientX;
+        this.lastMouseY = evt.clientY;
+        this.x = -this.camera.x + (evt.clientX - this.canvas.offsetLeft) / this.meta.tilesize / this.meta.ratio;
+        this.y = -this.camera.y + (evt.clientY - this.canvas.offsetTop) / this.meta.tilesize / this.meta.ratio;
+
+        this.absolute.x = (evt.clientX - this.canvas.offsetLeft) / this.meta.tilesize / this.meta.ratio;
+        this.absolute.y = (evt.clientY - this.canvas.offsetTop) / this.meta.tilesize / this.meta.ratio;
+    }
+}

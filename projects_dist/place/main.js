@@ -1,1 +1,305 @@
-const _0x1541ed=_0x31b7;(function(_0x4df3bd,_0x47b24f){const _0x1b07d3=_0x31b7,_0x335d26=_0x4df3bd();while(!![]){try{const _0x2315dc=parseInt(_0x1b07d3(0x169))/0x1*(-parseInt(_0x1b07d3(0x146))/0x2)+parseInt(_0x1b07d3(0x15a))/0x3+parseInt(_0x1b07d3(0x141))/0x4*(parseInt(_0x1b07d3(0x16b))/0x5)+-parseInt(_0x1b07d3(0x13b))/0x6*(-parseInt(_0x1b07d3(0x157))/0x7)+-parseInt(_0x1b07d3(0x156))/0x8*(parseInt(_0x1b07d3(0x167))/0x9)+parseInt(_0x1b07d3(0x153))/0xa+-parseInt(_0x1b07d3(0x134))/0xb;if(_0x2315dc===_0x47b24f)break;else _0x335d26['push'](_0x335d26['shift']());}catch(_0x2c4da4){_0x335d26['push'](_0x335d26['shift']());}}}(_0x4413,0x1f901));const _0x36f3c7=(function(){let _0x2fcf9b=!![];return function(_0x92b76a,_0x65ee09){const _0x17c33e=_0x2fcf9b?function(){if(_0x65ee09){const _0x7e36d7=_0x65ee09['apply'](_0x92b76a,arguments);return _0x65ee09=null,_0x7e36d7;}}:function(){};return _0x2fcf9b=![],_0x17c33e;};}()),_0x49cde2=_0x36f3c7(this,function(){const _0x4d104a=_0x31b7,_0x12fe31=function(){const _0x55b53b=_0x31b7;let _0x2f6c92;try{_0x2f6c92=Function(_0x55b53b(0x14e)+_0x55b53b(0x135)+');')();}catch(_0x30302a){_0x2f6c92=window;}return _0x2f6c92;},_0x5eaa10=_0x12fe31(),_0x4da4af=new RegExp(_0x4d104a(0x179),'g'),_0x41cb70=_0x4d104a(0x137)[_0x4d104a(0x151)](_0x4da4af,'')[_0x4d104a(0x140)](';');let _0x15b5ea,_0x50c886,_0x34dc93,_0x31beb8;const _0x4345ed=function(_0x141051,_0x47d054,_0x190ce6){const _0x34740d=_0x4d104a;if(_0x141051['length']!=_0x47d054)return![];for(let _0x46d6f7=0x0;_0x46d6f7<_0x47d054;_0x46d6f7++){for(let _0x4b0754=0x0;_0x4b0754<_0x190ce6[_0x34740d(0x172)];_0x4b0754+=0x2){if(_0x46d6f7==_0x190ce6[_0x4b0754]&&_0x141051['charCodeAt'](_0x46d6f7)!=_0x190ce6[_0x4b0754+0x1])return![];}}return!![];},_0x3f9eb=function(_0x352f68,_0x55c9e1,_0x381102){return _0x4345ed(_0x55c9e1,_0x381102,_0x352f68);},_0x52f646=function(_0x47afa2,_0x1c9fb3,_0x3534ab){return _0x3f9eb(_0x1c9fb3,_0x47afa2,_0x3534ab);},_0xd124c9=function(_0x33bde3,_0xde41f8,_0x4e9b86){return _0x52f646(_0xde41f8,_0x4e9b86,_0x33bde3);};for(let _0x3c6a4b in _0x5eaa10){if(_0x4345ed(_0x3c6a4b,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x15b5ea=_0x3c6a4b;break;}}for(let _0x1194c5 in _0x5eaa10[_0x15b5ea]){if(_0xd124c9(0x6,_0x1194c5,[0x5,0x6e,0x0,0x64])){_0x50c886=_0x1194c5;break;}}for(let _0x563ef0 in _0x5eaa10[_0x15b5ea]){if(_0x52f646(_0x563ef0,[0x7,0x6e,0x0,0x6c],0x8)){_0x34dc93=_0x563ef0;break;}}if(!('~'>_0x50c886))for(let _0x8ca97e in _0x5eaa10[_0x15b5ea][_0x34dc93]){if(_0x3f9eb([0x7,0x65,0x0,0x68],_0x8ca97e,0x8)){_0x31beb8=_0x8ca97e;break;}}if(!_0x15b5ea||!_0x5eaa10[_0x15b5ea])return;const _0x307291=_0x5eaa10[_0x15b5ea][_0x50c886],_0x3fba52=!!_0x5eaa10[_0x15b5ea][_0x34dc93]&&_0x5eaa10[_0x15b5ea][_0x34dc93][_0x31beb8],_0x298e36=_0x307291||_0x3fba52;if(!_0x298e36)return;let _0x3d277a=![];for(let _0x3e7be5=0x0;_0x3e7be5<_0x41cb70[_0x4d104a(0x172)];_0x3e7be5++){const _0x5bb5ba=_0x41cb70[_0x3e7be5],_0x1a4d14=_0x5bb5ba[0x0]===String[_0x4d104a(0x175)](0x2e)?_0x5bb5ba['slice'](0x1):_0x5bb5ba,_0x574d94=_0x298e36['length']-_0x1a4d14[_0x4d104a(0x172)],_0x200f2f=_0x298e36[_0x4d104a(0x130)](_0x1a4d14,_0x574d94),_0x4b056f=_0x200f2f!==-0x1&&_0x200f2f===_0x574d94;_0x4b056f&&((_0x298e36[_0x4d104a(0x172)]==_0x5bb5ba[_0x4d104a(0x172)]||_0x5bb5ba[_0x4d104a(0x130)]('.')===0x0)&&(_0x3d277a=!![]));}if(!_0x3d277a){const _0x19b8ec=new RegExp('[IEMCehSTOgHLHNcmRsReIFJVeJAY]','g'),_0x80be01=_0x4d104a(0x166)[_0x4d104a(0x151)](_0x19b8ec,'');_0x5eaa10[_0x15b5ea][_0x34dc93]=_0x80be01;}});_0x49cde2();class Color{constructor(_0x51b465=[0x1,0x1,0x1]){const _0x19e66d=_0x31b7;this[_0x19e66d(0x154)]=_0x51b465;}['equals'](_0xbe0ed3){const _0x30c02d=_0x31b7;return!(this[_0x30c02d(0x154)][0x0]!==_0xbe0ed3[_0x30c02d(0x154)][0x0]||this['values'][0x1]!==_0xbe0ed3[_0x30c02d(0x154)][0x1]||this[_0x30c02d(0x154)][0x2]!==_0xbe0ed3[_0x30c02d(0x154)][0x2]);}[_0x1541ed(0x149)](_0x1a75ac,_0x41e2e8){const _0x1e09b5=_0x1541ed;_0x1a75ac['splice'](_0x41e2e8,this['values'][_0x1e09b5(0x172)],this[_0x1e09b5(0x154)]);}[_0x1541ed(0x161)](_0x5e44e5=[0x1,0x1,0x1]){this['values']=_0x5e44e5;}['print'](){const _0x1df8fb=_0x1541ed;return _0x1df8fb(0x133)+this[_0x1df8fb(0x154)][0x0]+','+this['values'][0x1]+','+this['values'][0x2]+')';}}let counter=0x0;class ImageProcessor{constructor(){const _0x2268a7=_0x1541ed;this[_0x2268a7(0x159)]=document[_0x2268a7(0x162)]('canvas'),this[_0x2268a7(0x159)][_0x2268a7(0x158)][_0x2268a7(0x14d)]=_0x2268a7(0x17f),this[_0x2268a7(0x138)]=this[_0x2268a7(0x159)]['getContext']('2d'),this[_0x2268a7(0x164)]=new Image(),this[_0x2268a7(0x17c)],this[_0x2268a7(0x13f)]=[new Color(),new Color(),new Color(),new Color()],document['body'][_0x2268a7(0x16d)](this['canvas']),console[_0x2268a7(0x14a)](_0x2268a7(0x16e));}[_0x1541ed(0x15f)]=()=>{const _0x3c2900=_0x1541ed;this[_0x3c2900(0x138)][_0x3c2900(0x15b)](this['img'],0x0,0x0,this[_0x3c2900(0x164)]['width'],this['img']['height']),this[_0x3c2900(0x17c)]=this[_0x3c2900(0x138)]['getImageData'](0x0,0x0,this[_0x3c2900(0x164)][_0x3c2900(0x152)],this[_0x3c2900(0x164)][_0x3c2900(0x171)]),start();};[_0x1541ed(0x14f)]=async _0x24e902=>{const _0x1178db=_0x1541ed;console[_0x1178db(0x14a)](_0x1178db(0x139)+_0x24e902),this['img']=new Image(),this['img'][_0x1178db(0x165)]=_0x24e902;const {w:_0x5b8127,h:_0x475d13}=await new Promise(_0x594838=>{const _0x9adbb6=_0x1178db;this[_0x9adbb6(0x164)]['onload']=_0x292190=>{const _0x440f2f=_0x9adbb6;console[_0x440f2f(0x14a)](_0x292190[_0x440f2f(0x174)][_0x440f2f(0x152)],_0x292190[_0x440f2f(0x174)]['height']),_0x594838({'w':_0x292190[_0x440f2f(0x174)]['width'],'h':_0x292190['target'][_0x440f2f(0x171)]});};});this[_0x1178db(0x159)][_0x1178db(0x152)]=_0x5b8127,this[_0x1178db(0x159)][_0x1178db(0x171)]=_0x475d13;if(_0x5b8127>0x3e8||_0x475d13>0x3e8){const _0x207d30=confirm(_0x1178db(0x13a)+_0x5b8127+'x'+_0x475d13+')\x0aOnce\x20you\x20start\x20processing\x20it,\x20the\x20page\x20may\x20go\x20unresponsive\x20for\x20some\x20time.\x20Is\x20it\x20fine?');_0x207d30&&this[_0x1178db(0x15f)]();}else this['init']();};[_0x1541ed(0x16c)](){const _0x1fd9ee=_0x1541ed;this[_0x1fd9ee(0x13f)][_0x1fd9ee(0x131)](_0x30fade=>_0x30fade[_0x1fd9ee(0x161)]());}[_0x1541ed(0x145)](_0x301c64){const _0x25100b=_0x1541ed;let _0x2312bb=this['ctx']['createImageData'](this[_0x25100b(0x17c)]);if(this['imageData'][_0x25100b(0x132)][_0x25100b(0x172)]==0x0)return console['warn'](_0x25100b(0x17d)),this[_0x25100b(0x17c)];let _0x24f295=new Color(),_0x507f18=this['imageData'][_0x25100b(0x132)];for(let _0xde9b9d=0x4;_0xde9b9d<_0x507f18['length'];_0xde9b9d+=0x4){_0x24f295['reset'](_0x507f18['slice'](_0xde9b9d,_0xde9b9d+0x3)),_0x24f295[_0x25100b(0x15c)](_0x301c64)&&this[_0x25100b(0x15d)](_0x2312bb,_0x301c64,_0xde9b9d);}return console['log'](_0x25100b(0x148)+_0x301c64['print']()),_0x2312bb;}[_0x1541ed(0x13e)](_0x30952b=this[_0x1541ed(0x17c)]){const _0x974216=_0x1541ed;viewResult(!![]),this[_0x974216(0x138)][_0x974216(0x176)](0x0,0x0,this[_0x974216(0x159)]['width'],this[_0x974216(0x159)][_0x974216(0x171)]),this['ctx'][_0x974216(0x16a)](_0x30952b,0x0,0x0),console[_0x974216(0x14a)](_0x974216(0x17e));}['putColor'](_0x2c3163,_0x587cfe,_0x38c8cb){const _0x29b800=_0x1541ed;_0x2c3163[_0x29b800(0x132)][_0x38c8cb]=_0x587cfe['values'][0x0],_0x2c3163['data'][_0x38c8cb+0x1]=_0x587cfe[_0x29b800(0x154)][0x1],_0x2c3163[_0x29b800(0x132)][_0x38c8cb+0x2]=_0x587cfe[_0x29b800(0x154)][0x2],_0x2c3163[_0x29b800(0x132)][_0x38c8cb+0x3]=0xff;}[_0x1541ed(0x173)]=(_0x89d824,_0x5194fb)=>_0x89d824[_0x1541ed(0x172)]===_0x5194fb[_0x1541ed(0x172)]&&_0x89d824[_0x1541ed(0x15e)]((_0x17e8d9,_0x1fd2dd)=>_0x17e8d9===_0x5194fb[_0x1fd2dd]);[_0x1541ed(0x147)](_0x3f76eb,_0x5e4461=_0x1541ed(0x17a),_0x7481c5=this[_0x1541ed(0x138)][_0x1541ed(0x180)](this[_0x1541ed(0x159)][_0x1541ed(0x152)],this[_0x1541ed(0x159)][_0x1541ed(0x171)]),_0xfe3d2c=this[_0x1541ed(0x17c)]){const _0x3f3ed4=_0x1541ed;return _0x3f76eb['forEach'](_0x17c3da=>{const _0xfbc850=_0x31b7;let _0x44954d=new Color(),_0x7d411b=_0xfe3d2c[_0xfbc850(0x132)],_0x2ed1db=0x4;for(let _0x2a405d=0x0;_0x2a405d<_0x7d411b[_0xfbc850(0x172)]-_0x2ed1db;_0x2a405d+=_0x2ed1db){let _0x57f064=_0x17c3da[0x0]['findIndex'](_0x46f1bc=>+_0x46f1bc);_0x44954d[_0xfbc850(0x161)](_0x7d411b['slice'](_0x2a405d+_0x57f064*_0x2ed1db,_0x2a405d+_0x57f064*_0x2ed1db+0x3));let _0x6e349a=_0x5e4461==_0xfbc850(0x17a)?_0x44954d:_0x5e4461,_0x1d88ac=![];for(let _0x4ee98d=0x0;_0x4ee98d<_0x17c3da[_0xfbc850(0x172)];_0x4ee98d++){let _0x1272df=[];for(let _0x53b8c5=0x0;_0x53b8c5<_0x17c3da[_0x4ee98d][_0xfbc850(0x172)];_0x53b8c5++){_0x1272df[_0xfbc850(0x136)](_0x2a405d+_0x53b8c5*_0x2ed1db+this[_0xfbc850(0x159)][_0xfbc850(0x152)]*_0x2ed1db*_0x4ee98d);}let _0x4c5e52=_0x1272df[_0xfbc850(0x163)](_0x4cbb17=>+this[_0xfbc850(0x173)](_0x6e349a[_0xfbc850(0x154)],_0x7d411b[_0xfbc850(0x155)](_0x4cbb17,_0x4cbb17+0x3)));if(!this[_0xfbc850(0x173)](_0x4c5e52,_0x17c3da[_0x4ee98d])){_0x1d88ac=![];break;}else _0x4ee98d==_0x17c3da[_0xfbc850(0x172)]-0x1&&(counter++,_0x1d88ac=!![]);}_0x1d88ac&&_0x17c3da[_0xfbc850(0x131)]((_0x55d76b,_0x2504a2)=>{const _0x397d8b=_0xfbc850;_0x55d76b[_0x397d8b(0x131)]((_0x2828c8,_0x2c0301)=>{const _0x539cc9=_0x397d8b;_0x2828c8&&this['putColor'](_0x7481c5,_0x6e349a,_0x2a405d+_0x2c0301*_0x2ed1db+this[_0x539cc9(0x159)][_0x539cc9(0x152)]*_0x2504a2*_0x2ed1db);});});}}),console[_0x3f3ed4(0x14a)](counter),document[_0x3f3ed4(0x162)](_0x3f3ed4(0x132))[_0x3f3ed4(0x143)]=_0x3f3ed4(0x13d)+counter+_0x3f3ed4(0x178),_0x7481c5;}}const viewResult=(_0xd3f384=!![])=>{const _0x5099ed=_0x1541ed,_0xba03d8=document[_0x5099ed(0x162)]('ui'),_0xf9dfdd=document[_0x5099ed(0x162)](_0x5099ed(0x13c));_0xba03d8[_0x5099ed(0x158)]['display']=_0xd3f384?_0x5099ed(0x144):_0x5099ed(0x142),_0xf9dfdd[_0x5099ed(0x158)][_0x5099ed(0x160)]=_0xd3f384?_0x5099ed(0x142):_0x5099ed(0x144);};let colors=[new Color([0xbe,0x0,0x39]),new Color([0xff,0x45,0x0]),new Color([0xff,0xa8,0x0]),new Color([0xff,0xd6,0x35]),new Color([0x0,0xa3,0x68]),new Color([0x0,0xcc,0x78]),new Color([0x7e,0xed,0x56]),new Color([0x0,0x75,0x6f]),new Color([0x0,0x9e,0xaa]),new Color([0x24,0x50,0xa4]),new Color([0x36,0x90,0xea]),new Color([0x51,0xe9,0xf4]),new Color([0x49,0x3a,0xc1]),new Color([0x6a,0x5c,0xff]),new Color([0x81,0x1e,0x9f]),new Color([0xb4,0x4a,0xc0]),new Color([0xff,0x38,0x81]),new Color([0xff,0x99,0xaa]),new Color([0x6d,0x48,0x2f]),new Color([0x9c,0x69,0x26]),new Color([0x0,0x0,0x0]),new Color([0x89,0x8d,0x90]),new Color([0xd4,0xd7,0xd9])],patterns=[[[0x0,0x1,0x1,0x1],[0x1,0x1,0x0,0x0],[0x1,0x1,0x1,0x1],[0x0,0x1,0x1,0x1],[0x0,0x1,0x0,0x1]],[[0x0,0x1,0x1,0x1],[0x1,0x1,0x0,0x0],[0x1,0x1,0x1,0x1],[0x0,0x1,0x0,0x1]],[[0x0,0x1,0x1,0x1],[0x1,0x1,0x0,0x0],[0x1,0x1,0x1,0x1],[0x1,0x1,0x1,0x1],[0x0,0x1,0x0,0x1]]],svastikas=[[[0x1,0x0,0x1,0x1,0x1],[0x1,0x0,0x1,0x0,0x0],[0x1,0x1,0x1,0x1,0x1],[0x0,0x0,0x1,0x0,0x1],[0x1,0x1,0x1,0x0,0x1]],[[0x1,0x1,0x1,0x0,0x0],[0x0,0x0,0x1,0x0,0x0],[0x1,0x1,0x1,0x1,0x1],[0x1,0x0,0x1,0x0,0x0],[0x1,0x0,0x1,0x1,0x1]]],imageProcessor=new ImageProcessor();function _0x31b7(_0x2093bd,_0xffa9af){const _0x20841a=_0x4413();return _0x31b7=function(_0x49cde2,_0x36f3c7){_0x49cde2=_0x49cde2-0x130;let _0x2ac935=_0x20841a[_0x49cde2];return _0x2ac935;},_0x31b7(_0x2093bd,_0xffa9af);}const startButton=document[_0x1541ed(0x162)]('process-button');function _0x4413(){const _0x434e43=['18pfmrZZ','result','Amogis\x20found:\x20<b>','toCanvas','cache','split','149156KavFte','block','innerHTML','none','toColor','2blrbHF','findPattern','Displaying\x20only\x20color:\x20','put','log','stringify','files','imageRendering','return\x20(function()\x20','loadImage','file-input','replace','width','2142790cRSonR','values','slice','16gVEpDl','190484iorEaw','style','canvas','17616Wfifxk','drawImage','equals','putColor','every','init','display','reset','getElementById','map','img','src','IEaMCboute:blhSaTOgnkHLHNcmRsReIFJVeJAY','373833yoWWSb','concat','125099ulUbhm','putImageData','10iZWClU','resetCache','appendChild','Initialization\x20complete','parse','Starting\x20process...','height','length','arrayEquals','target','fromCharCode','clearRect','click','</b>','[xCYmDHHRWSABGGxXzGBAAGLGWOxRqqEpCMEXSwKTmGqPzRfGpZUmwxxFKLTVjFxHVkPfYSKAMGRL]','any','reverse','imageData','No\x20image\x20data!','Printed\x20to\x20canvas','pixelated','createImageData','indexOf','forEach','data','rgb(','428021EEFIMG','{}.constructor(\x22return\x20this\x22)(\x20)','push','saxCantoYmDnHHRWaSABnGGxdrXzGeB.AgAiGthLubG.ioWOxRq;locqaEplhostCMEXSwKTmGqPzRfGpZUmwxxFKLTVjFxHVkPfYSKAMGRL','ctx','loading\x20image\x20','Caution,\x20the\x20image\x20is\x20very\x20large\x20('];_0x4413=function(){return _0x434e43;};return _0x4413();}startButton['addEventListener'](_0x1541ed(0x177),()=>{const _0x178af4=_0x1541ed,_0x2549ed=document['getElementById'](_0x178af4(0x150)),_0x505454=URL['createObjectURL'](_0x2549ed[_0x178af4(0x14c)][0x0]);imageProcessor['loadImage'](_0x505454);});function start(){const _0xa5f4d2=_0x1541ed;console[_0xa5f4d2(0x14a)](_0xa5f4d2(0x170)),imageProcessor[_0xa5f4d2(0x13e)]();let _0x42e38c=JSON[_0xa5f4d2(0x16f)](JSON[_0xa5f4d2(0x14b)](patterns))[_0xa5f4d2(0x163)](_0x109795=>_0x109795[_0xa5f4d2(0x163)](_0x5a0913=>_0x5a0913[_0xa5f4d2(0x17b)]()));patterns=patterns[_0xa5f4d2(0x168)](_0x42e38c),console[_0xa5f4d2(0x14a)](patterns),imageProcessor['toCanvas'](imageProcessor[_0xa5f4d2(0x147)](patterns));}
+class Color {
+  constructor(values = [1, 1, 1]) {
+    this.values = values;
+  }
+  /**
+   * @param {Color} color
+   */
+  equals(color) {
+    return !(
+      this.values[0] !== color.values[0] ||
+      this.values[1] !== color.values[1] ||
+      this.values[2] !== color.values[2]
+    );
+  }
+
+  /**
+   * @param {Uint8ClampedArray} imageData
+   * @param {Number} index
+   */
+  put(imageData, index) {
+    imageData.splice(index, this.values.length, this.values);
+  }
+  /** Replaces the color's values */
+  reset(values = [1, 1, 1]) {
+    this.values = values;
+  }
+  print() {
+    return (
+      "rgb(" +
+      this.values[0] +
+      "," +
+      this.values[1] +
+      "," +
+      this.values[2] +
+      ")"
+    );
+  }
+}
+let counter = 0;
+
+class ImageProcessor {
+  constructor() {
+    this.canvas = document.getElementById("canvas");
+    this.canvas.style.imageRendering = "pixelated";
+    this.ctx = this.canvas.getContext("2d");
+    this.img = new Image();
+
+    /** @type {ImageData}*/
+    this.imageData;
+
+    this.cache = [new Color(), new Color(), new Color(), new Color()];
+    document.body.appendChild(this.canvas);
+    console.log("Initialization complete");
+  }
+  init = () => {
+    this.ctx.drawImage(this.img, 0, 0, this.img.width, this.img.height);
+    this.imageData = this.ctx.getImageData(
+      0,
+      0,
+      this.img.width,
+      this.img.height
+    );
+    start();
+  };
+  loadImage = async (imagePath) => {
+    console.log(`loading image ${imagePath}`);
+    this.img = new Image();
+    this.img.src = imagePath;
+    const { w, h } = await new Promise((resolve) => {
+      this.img.onload = (e) => {
+        console.log(e.target.width, e.target.height);
+        resolve({ w: e.target.width, h: e.target.height });
+      };
+    });
+    this.canvas.width = w;
+    this.canvas.height = h;
+    if (w > 1000 || h > 1000) {
+      const confirmImage = confirm(
+        `Caution, the image is very large (${w}x${h})\nOnce you start processing it, the page may go unresponsive for some time. Is it fine?`
+      );
+      if (confirmImage) {
+        this.init();
+      }
+    } else {
+      this.init();
+    }
+  };
+  resetCache() {
+    this.cache.forEach((color) => color.reset());
+  }
+  /** @param {Color} color */
+  toColor(color) {
+    let newImageData = this.ctx.createImageData(this.imageData);
+    if (this.imageData.data.length == 0) {
+      console.warn("No image data!");
+      return this.imageData;
+    }
+    let currentColor = new Color();
+    let data = this.imageData.data;
+    for (let i = 4; i < data.length; i += 4) {
+      currentColor.reset(data.slice(i, i + 3));
+      if (currentColor.equals(color)) {
+        this.putColor(newImageData, color, i);
+      }
+    }
+    console.log("Displaying only color: " + color.print());
+    return newImageData;
+  }
+  toCanvas(imageData = this.imageData) {
+    viewResult(true);
+    this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+    this.ctx.putImageData(imageData, 0, 0);
+    console.log("Printed to canvas");
+  }
+  /**
+   * @param {ImageData} imageData
+   * @param {Color} color
+   * @param {Number} index
+   */
+  putColor(imageData, color, index) {
+    imageData.data[index] = color.values[0];
+    imageData.data[index + 1] = color.values[1];
+    imageData.data[index + 2] = color.values[2];
+    imageData.data[index + 3] = 255;
+    //imageData.data.splice(index, index + color.values.length, color.values);
+  }
+  arrayEquals = (a, b) =>
+    a.length === b.length && a.every((v, i) => v === b[i]);
+  /**
+   *
+   * @param {Numbers[][][]} patterns
+   * @param {any} color
+   * @param {ImageData} newImageData
+   * @param {ImageData} imageData
+   * @returns
+   */
+  findPattern(
+    patterns,
+    color = "any",
+    newImageData = this.ctx.createImageData(
+      this.canvas.width,
+      this.canvas.height
+    ),
+    imageData = this.imageData
+  ) {
+    patterns.forEach((pattern) => {
+      // Iterating through patterns
+      let currentColor = new Color();
+      let data = imageData.data;
+      let pixelSize = 4;
+      for (let i = 0; i < data.length - pixelSize; i += pixelSize) {
+        // Iterating through data
+        let fci = pattern[0].findIndex((bool) => +bool); // first colored index
+        currentColor.reset(
+          data.slice(i + fci * pixelSize, i + fci * pixelSize + 3)
+        );
+        let searchedColor = color == "any" ? currentColor : color;
+        let equals = false;
+
+        for (let j = 0; j < pattern.length; j++) {
+          // Iterating through pattern rows
+          let indexes = [];
+          for (let k = 0; k < pattern[j].length; k++) {
+            indexes.push(i + k * pixelSize + this.canvas.width * pixelSize * j);
+          }
+
+          let row = indexes.map(
+            (pixelIndex) =>
+              +this.arrayEquals(
+                searchedColor.values,
+                data.slice(pixelIndex, pixelIndex + 3)
+              )
+          );
+
+          if (!this.arrayEquals(row, pattern[j])) {
+            equals = false;
+            break;
+          } else if (j == pattern.length - 1) {
+            counter++;
+            equals = true;
+          }
+        }
+
+        if (equals) {
+          // Render
+          pattern.forEach((row, r) => {
+            row.forEach((pixel, p) => {
+              if (pixel) {
+                this.putColor(
+                  newImageData,
+                  searchedColor,
+                  i + p * pixelSize + this.canvas.width * r * pixelSize
+                );
+              }
+            });
+          });
+        }
+      }
+    });
+    console.log(counter);
+    document.getElementById("data").innerHTML=`Amogis found: <b>${counter}</b>`
+    return newImageData;
+  }
+}
+
+const viewResult = (view = true) => {
+  const ui = document.getElementById("ui");
+  const result = document.getElementById("result");
+  ui.style.display = view ? "none" : "block";
+  result.style.display = view ? "block" : "none";
+};
+let colors = [
+  new Color([190, 0, 57]),
+  new Color([255, 69, 0]),
+  new Color([255, 168, 0]),
+  new Color([255, 214, 53]),
+  new Color([0, 163, 104]),
+  new Color([0, 204, 120]),
+  new Color([126, 237, 86]),
+  new Color([0, 117, 111]),
+  new Color([0, 158, 170]),
+  new Color([36, 80, 164]),
+  new Color([54, 144, 234]),
+  new Color([81, 233, 244]),
+  new Color([73, 58, 193]),
+  new Color([106, 92, 255]),
+  new Color([129, 30, 159]),
+  new Color([180, 74, 192]),
+  new Color([255, 56, 129]),
+  new Color([255, 153, 170]),
+  new Color([109, 72, 47]),
+  new Color([156, 105, 38]),
+  new Color([0, 0, 0]),
+  new Color([137, 141, 144]),
+  new Color([212, 215, 217]),
+];
+
+let patterns = [
+  [
+    [0, 1, 1, 1],
+    [1, 1, 0, 0],
+    [1, 1, 1, 1],
+    [0, 1, 1, 1],
+    [0, 1, 0, 1],
+  ],
+  [
+    [0, 1, 1, 1],
+    [1, 1, 0, 0],
+    [1, 1, 1, 1],
+    [0, 1, 0, 1],
+  ],
+  [
+    [0, 1, 1, 1],
+    [1, 1, 0, 0],
+    [1, 1, 1, 1],
+    [1, 1, 1, 1],
+    [0, 1, 0, 1],
+  ],
+];
+let svastikas = [
+  [
+    [1, 0, 1, 1, 1],
+    [1, 0, 1, 0, 0],
+    [1, 1, 1, 1, 1],
+    [0, 0, 1, 0, 1],
+    [1, 1, 1, 0, 1],
+  ],
+  [
+    [1, 1, 1, 0, 0],
+    [0, 0, 1, 0, 0],
+    [1, 1, 1, 1, 1],
+    [1, 0, 1, 0, 0],
+    [1, 0, 1, 1, 1],
+  ],
+];
+let imageProcessor = new ImageProcessor();
+// imageProcessor.loadImage(imagePath, 2000, 2000);
+const startButton = document.getElementById("process-button");
+
+startButton.addEventListener("click", () => {
+  /**@type {HTMLInputElement} */
+  const fileInput = document.getElementById("file-input");
+  const url = URL.createObjectURL(fileInput.files[0]);
+  imageProcessor.loadImage(url);
+});
+function start() {
+  console.log("Starting process...");
+  imageProcessor.toCanvas();
+  let copy = JSON.parse(JSON.stringify(patterns)).map((pattern) =>
+    pattern.map((row) => row.reverse())
+  );
+  patterns = patterns.concat(copy);
+  console.log(patterns);
+  imageProcessor.toCanvas(imageProcessor.findPattern(patterns));
+}
+/* 
+  imageProcessor.toCanvas(colors.reduce((prevValue, currentValue) => {
+      if (prevValue != null) {
+          return imageProcessor.findPattern(patterns, currentValue, prevValue);
+      } else {
+          return imageProcessor.findPattern(patterns, currentValue);
+      }
+  }, null))
+  
+  //*/

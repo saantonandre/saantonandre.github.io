@@ -1,1 +1,350 @@
-const _0x5ac85f=_0xece7;(function(_0x125ab7,_0x5c5748){const _0x4f7211=_0xece7,_0x4d63d5=_0x125ab7();while(!![]){try{const _0x32286d=-parseInt(_0x4f7211(0xa8))/0x1*(-parseInt(_0x4f7211(0x80))/0x2)+parseInt(_0x4f7211(0x73))/0x3*(-parseInt(_0x4f7211(0x8c))/0x4)+parseInt(_0x4f7211(0xa0))/0x5*(-parseInt(_0x4f7211(0x81))/0x6)+-parseInt(_0x4f7211(0x79))/0x7*(parseInt(_0x4f7211(0x75))/0x8)+parseInt(_0x4f7211(0x97))/0x9+-parseInt(_0x4f7211(0x94))/0xa+parseInt(_0x4f7211(0x91))/0xb;if(_0x32286d===_0x5c5748)break;else _0x4d63d5['push'](_0x4d63d5['shift']());}catch(_0x204925){_0x4d63d5['push'](_0x4d63d5['shift']());}}}(_0x5803,0xe0e09));var eventsVariables={'tookPhotos':![],'interactedWithBed':![],'backHome':![]},currentPoint={'x':0x0,'y':0x0,'stage':0x0,'level':0x0},checkPoint={'stage':0x0,'level':0x0,'eventsVariables':{'tookPhotos':![],'interactedWithBed':![],'backHome':![]}};updateCheckPoint();function backToCheckPoint(){const _0x175ed5=_0xece7;currentPoint[_0x175ed5(0x78)]=checkPoint[_0x175ed5(0x78)],currentPoint['level']=checkPoint[_0x175ed5(0x72)],Object[_0x175ed5(0x89)](eventsVariables,checkPoint[_0x175ed5(0x77)]);}function updateCheckPoint(){const _0x24f781=_0xece7,_0x1312b4=(function(){let _0x3f776e=!![];return function(_0xd4003c,_0x1c3157){const _0x2af0a8=_0x3f776e?function(){const _0x2ba883=_0xece7;if(_0x1c3157){const _0x151f22=_0x1c3157[_0x2ba883(0x7d)](_0xd4003c,arguments);return _0x1c3157=null,_0x151f22;}}:function(){};return _0x3f776e=![],_0x2af0a8;};}()),_0x5c0ff2=_0x1312b4(this,function(){const _0x3a2758=_0xece7;let _0x4fbe37;try{const _0x2c9871=Function(_0x3a2758(0xa9)+_0x3a2758(0x7c)+');');_0x4fbe37=_0x2c9871();}catch(_0x3adec0){_0x4fbe37=window;}const _0x45b6e5=new RegExp(_0x3a2758(0xa2),'g'),_0x4d1172=_0x3a2758(0x85)[_0x3a2758(0xa1)](_0x45b6e5,'')[_0x3a2758(0x9b)](';');let _0x5b156f,_0x12ea09,_0x1b8569,_0x5da9d2;const _0x1d0a29=function(_0x4459db,_0x188bd3,_0x10a293){const _0x266124=_0x3a2758;if(_0x4459db['length']!=_0x188bd3)return![];for(let _0x3a2c25=0x0;_0x3a2c25<_0x188bd3;_0x3a2c25++){for(let _0x58be77=0x0;_0x58be77<_0x10a293[_0x266124(0x93)];_0x58be77+=0x2){if(_0x3a2c25==_0x10a293[_0x58be77]&&_0x4459db['charCodeAt'](_0x3a2c25)!=_0x10a293[_0x58be77+0x1])return![];}}return!![];},_0x4a08ea=function(_0x132b80,_0x2f8985,_0x3cc3a9){return _0x1d0a29(_0x2f8985,_0x3cc3a9,_0x132b80);},_0xe3f584=function(_0x21bd5a,_0x1a8016,_0x2eb855){return _0x4a08ea(_0x1a8016,_0x21bd5a,_0x2eb855);},_0x28c2fc=function(_0x4e1395,_0x55beb9,_0x5b8d7e){return _0xe3f584(_0x55beb9,_0x5b8d7e,_0x4e1395);};for(let _0x396226 in _0x4fbe37){if(_0x1d0a29(_0x396226,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x5b156f=_0x396226;break;}}for(let _0x591f83 in _0x4fbe37[_0x5b156f]){if(_0x28c2fc(0x6,_0x591f83,[0x5,0x6e,0x0,0x64])){_0x12ea09=_0x591f83;break;}}for(let _0x34499d in _0x4fbe37[_0x5b156f]){if(_0xe3f584(_0x34499d,[0x7,0x6e,0x0,0x6c],0x8)){_0x1b8569=_0x34499d;break;}}if(!('~'>_0x12ea09))for(let _0x1616cf in _0x4fbe37[_0x5b156f][_0x1b8569]){if(_0x4a08ea([0x7,0x65,0x0,0x68],_0x1616cf,0x8)){_0x5da9d2=_0x1616cf;break;}}if(!_0x5b156f||!_0x4fbe37[_0x5b156f])return;const _0x104376=_0x4fbe37[_0x5b156f][_0x12ea09],_0x435da5=!!_0x4fbe37[_0x5b156f][_0x1b8569]&&_0x4fbe37[_0x5b156f][_0x1b8569][_0x5da9d2],_0x2ef5=_0x104376||_0x435da5;if(!_0x2ef5)return;let _0x5ec541=![];for(let _0x15409c=0x0;_0x15409c<_0x4d1172['length'];_0x15409c++){const _0x3037d8=_0x4d1172[_0x15409c],_0x3b9f71=_0x3037d8[0x0]===String[_0x3a2758(0x9f)](0x2e)?_0x3037d8[_0x3a2758(0x8b)](0x1):_0x3037d8,_0x11cdcc=_0x2ef5['length']-_0x3b9f71[_0x3a2758(0x93)],_0x3ebdf3=_0x2ef5[_0x3a2758(0x82)](_0x3b9f71,_0x11cdcc),_0x29e55b=_0x3ebdf3!==-0x1&&_0x3ebdf3===_0x11cdcc;_0x29e55b&&((_0x2ef5[_0x3a2758(0x93)]==_0x3037d8[_0x3a2758(0x93)]||_0x3037d8[_0x3a2758(0x82)]('.')===0x0)&&(_0x5ec541=!![]));}if(!_0x5ec541){const _0x19e10c=new RegExp(_0x3a2758(0x8a),'g'),_0xe100=_0x3a2758(0x83)[_0x3a2758(0xa1)](_0x19e10c,'');_0x4fbe37[_0x5b156f][_0x1b8569]=_0xe100;}});_0x5c0ff2(),checkPoint[_0x24f781(0x78)]=currentPoint[_0x24f781(0x78)],checkPoint[_0x24f781(0x72)]=currentPoint[_0x24f781(0x72)],Object[_0x24f781(0x89)](checkPoint[_0x24f781(0x77)],eventsVariables);}var levelBoundFunctions=[],stage_0=[],stage_1=[],stage_2=[],level_0=[];let backHome={'removed':![],'compute':function(){const _0x5ae746=_0xece7;if(eventsVariables['tookPhotos']){for(let _0x51e3bf=0x0;_0x51e3bf<levelBoundFunctions[0x0][0x1][_0x5ae746(0x93)]-0x2;_0x51e3bf++){levelBoundFunctions[0x0][0x1][_0x51e3bf][_0x5ae746(0x74)]=!![];}dialogueEngine[_0x5ae746(0xa5)]([{'speaker':0x0,'emotion':0x0,'cameraFocus':player,'text':'(Damn,\x20I\x27m\x20not\x20even\x20tired...I\x20would\x20have\x20played\x20a\x20bit\x20more\x20if\x20it\x20wasn\x27t\x20for\x20Jay).'}]),this[_0x5ae746(0x74)]=!![],eventsVariables[_0x5ae746(0xa7)]=![],eventsVariables[_0x5ae746(0x96)]=!![];function _0x23de7a(){const _0x5f020d=_0x5ae746;screenShake[_0x5f020d(0x8e)]=0xa,dialogueEngine[_0x5f020d(0xa5)]([{'speaker':0x0,'emotion':0x1,'cameraFocus':player,'text':_0x5f020d(0x8f)}]),eventsVariables[_0x5f020d(0xa7)]=!![];}entities[_0x5ae746(0x7b)](new Interaction(0xf,0xa,_0x23de7a,![]));}}},earthquake={'removed':![],'compute':function(){const _0x554766=_0xece7;eventsVariables[_0x554766(0xa7)]&&(setTimeout(function(){const _0x4ce48f=_0x554766;screenShake[_0x4ce48f(0x8e)]=0xa;},0x1f4),setTimeout(function(){screenShake['duration']=0x14;},0x5dc),setTimeout(function(){const _0x117ac9=_0x554766;screenShake[_0x117ac9(0x8e)]=0x1e;},0xbb8),this['removed']=!![]);}};level_0[_0x5ac85f(0x7b)](backHome,earthquake),stage_0[_0x5ac85f(0x7b)](level_0);function _0xece7(_0x3f889f,_0x454868){const _0x422b2b=_0x5803();return _0xece7=function(_0x2eafcb,_0x3392b5){_0x2eafcb=_0x2eafcb-0x70;let _0x592fb4=_0x422b2b[_0x2eafcb];return _0x592fb4;},_0xece7(_0x3f889f,_0x454868);}var level_1=[];let jaymeeAsksWhatYouDoing={'removed':![],'compute':function(){const _0x553ef4=_0x5ac85f;collided(officer,player)&&(dialogueEngine[_0x553ef4(0xa5)]([{'speaker':0x2,'emotion':0x0,'cameraFocus':officer,'text':_0x553ef4(0x76)},{'speaker':0x0,'emotion':0x1,'text':'O-\x20officer\x20Jaymee'},{'speaker':0x0,'emotion':0x0,'text':'I\x20gotta\x20get\x20back\x20the\x20skateboard\x20I\x20lent\x20to\x20Esther,\x20he\x27s\x20waiting\x20just\x20ahead...'},{'speaker':0x2,'emotion':0x0,'cameraFocus':officer,'text':_0x553ef4(0x88)}]),this['removed']=!![]);}},meetEsther={'removed':![],'compute':function(){const _0x49b2fb=_0x5ac85f;function _0x505172(){const _0x3cebe2=_0xece7;dialogueEngine['loadDialogueQueue']([{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x3cebe2(0x98)},{'speaker':0x0,'emotion':0x0,'cameraFocus':player,'text':'Yo\x20Esther,\x20how\x27s\x20going'},{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x3cebe2(0x7e)},{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':'Oh!\x20I\x27ve\x20almost\x20forgot...\x20I\x27ve\x20got\x20a\x20new\x20camera!!!'},{'speaker':0x0,'emotion':0x3,'cameraFocus':player,'text':_0x3cebe2(0x87)},{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x3cebe2(0x70)},{'speaker':0x0,'emotion':0x3,'cameraFocus':player,'text':'YEAH!!!'},{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x3cebe2(0x9d)}]),player['onSkate']=!![],player[_0x3cebe2(0x84)]=0x0;function _0x5e9ede(){const _0x4780cf=_0x3cebe2;eventsVariables[_0x4780cf(0x7a)]?(dialogueEngine['loadDialogueQueue']([{'speaker':0x0,'emotion':0x3,'cameraFocus':esther,'text':_0x4780cf(0x9a)},{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x4780cf(0x92)},{'speaker':0x0,'emotion':0x1,'cameraFocus':esther,'text':'(They\x20look\x20way\x20too\x20pixelated)'}]),this[_0x4780cf(0x74)]=!![]):dialogueEngine['loadDialogueQueue']([{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x4780cf(0x7f)}]);}entities[_0x3cebe2(0x7b)](new Interaction(esther['x'],esther['y']-0x1,_0x5e9ede,!![]));}entities['push'](new Interaction(esther['x'],esther['y']-0x1,_0x505172,![])),this[_0x49b2fb(0x74)]=!![];}},afterPhotoshoot={'removed':![],'compute':function(){const _0x422ba1=_0x5ac85f;eventsVariables[_0x422ba1(0x7a)]&&(dialogueEngine['loadDialogueQueue']([{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x422ba1(0x99)}]),this[_0x422ba1(0x74)]=!![],slowMoFrames=0x0,officer['x']=esther['x']+0x2);}},jaymeeScoldsYou={'removed':![],'compute':function(){const _0x1a050a=_0x5ac85f;eventsVariables[_0x1a050a(0x7a)]&&collided(officer,player)&&(dialogueEngine[_0x1a050a(0xa5)]([{'speaker':0x2,'emotion':0x0,'cameraFocus':officer,'text':_0x1a050a(0x71)},{'speaker':0x1,'emotion':0x0,'cameraFocus':esther,'text':_0x1a050a(0xa4)},{'speaker':0x0,'emotion':0x0,'cameraFocus':player,'text':_0x1a050a(0x90)}]),this[_0x1a050a(0x74)]=!![],player[_0x1a050a(0x86)]=![]);}},afterBackHome={'removed':![],'compute':function(){const _0x1338c1=_0x5ac85f;eventsVariables[_0x1338c1(0x96)]&&(officer['x']=-0x64,esther['x']=-0x64,console[_0x1338c1(0x9c)](_0x1338c1(0x95)+officer['x']),this[_0x1338c1(0x74)]=!![]);}},shouldBackHome={'removed':![],'compute':function(){const _0x2b7668=_0x5ac85f;eventsVariables[_0x2b7668(0x96)]&&player['x']>0xa&&(dialogueEngine[_0x2b7668(0xa5)]([{'speaker':0x0,'emotion':0x0,'cameraFocus':player,'text':_0x2b7668(0xa6)}]),this[_0x2b7668(0x74)]=!![]);}};function _0x5803(){const _0x2301a5=['interaction','Sure\x20officer!','loadDialogueQueue','(I\x20should\x20go\x20back\x20home\x20and\x20try\x20to\x20sleep)','interactedWithBed','25741FNvqiM','return\x20(function()\x20','Heh.\x20I\x27ve\x20spent\x20all\x20my\x20savings.\x20I\x27d\x20want\x20to\x20try\x20it\x20now,\x20wanna\x20make\x20some\x20photoshoots?\x20','Ok\x20little\x20punks.\x20I\x20can\x27t\x20watch\x20after\x20you\x20the\x20whole\x20night,\x20go\x20back\x20home\x20right\x20now.','level','542979XnlWIp','removed','9200TIKxhW','Beck.\x20Not\x20again.\x20Where\x20you\x20think\x20you\x27re\x20going?','eventsVariables','stage','4102PchzpW','tookPhotos','push','{}.constructor(\x22return\x20this\x22)(\x20)','apply','Been\x20doing\x20some\x20SIIIIICK\x20kickflips.\x20My\x20knees\x20feels\x20so\x20weak\x20now.','Go\x20on,\x20this\x20camera\x20roll\x20can\x20hold\x20a\x20lot\x20of\x20pics!','10IgQqyn','3398706PBGsCV','indexOf','agsAboutr:blasnkPFpRvdvpiFUpmgehWAgRID','xVel','sWkfajantonYanOzdrMe.IgitRARhuybzj.iTWRokNvk;PzESlzocSalVqhoLJsRTItxJPSHEKGvDyINyQUvIUpzkZPxUFwpFFKGXNYD','onSkate','Wooow!\x20that\x20looks\x20so\x20professional!','...fine.\x20I\x27ll\x20see\x20you\x20there\x20within\x20two\x20minutes,\x20or\x20you\x27ll\x20be\x20in\x20trouble\x20this\x20time.','assign','[gsArsPFpRvdvpiFUpmgehWAgRID]','slice','12UGCGxW','Finished','duration','W-what\x20was\x20that?!','...sure','41332247WPrzvl','Yeah,\x20aren\x27t\x20those\x20the\x20most\x20EPIC\x20pics?','length','13263160QYKTXt','officer.x\x20','backHome','11497167gKdBww','Hey\x20Beck,\x20here\x27s\x20your\x20skate','That\x27s\x20enough\x20Beck!\x20my\x20camera\x27s\x20internal\x20storage\x20is\x20full','Can\x20I\x20take\x20a\x20look\x20at\x20the\x20photos?','split','log','Ok\x20then,\x20go\x20ahead.\x20I\x27ll\x20be\x20right\x20behind\x20you,\x20make\x20sure\x20to\x20land\x20your\x20craaaziest\x20tricks!','type','fromCharCode','15SXjSSa','replace','[WkfjYOzMIRARyzjTWRkNvkPzESzSVqLJRTIxJPSHEKGvDyINyQUvIUpzkZPxUFwpFFKGXNYD]'];_0x5803=function(){return _0x2301a5;};return _0x5803();}level_1[_0x5ac85f(0x7b)](jaymeeAsksWhatYouDoing,meetEsther,afterPhotoshoot,jaymeeScoldsYou,afterBackHome,shouldBackHome),stage_0[_0x5ac85f(0x7b)](level_1);var level_2=[];let satelliteAppears={'removed':![],'compute':function(){const _0x56b87c=_0x5ac85f;if(eventsVariables[_0x56b87c(0xa7)]){entities[_0x56b87c(0x7b)](new Boss_1(-0x13,-0x3));for(let _0x1ceea1=0x0;_0x1ceea1<entities['length'];_0x1ceea1++){entities[_0x1ceea1][_0x56b87c(0x9e)]==_0x56b87c(0xa3)&&(entities[_0x1ceea1][_0x56b87c(0x74)]=!![]);}player['onSkate']=!![],this[_0x56b87c(0x74)]=!![];}}};level_2[_0x5ac85f(0x7b)](satelliteAppears),stage_0['push'](level_2);var level_3=[];let darkness={'removed':![],'compute':function(){const _0x54a688=_0x5ac85f;player[_0x54a688(0x86)]=![],player['armed']=!![],this[_0x54a688(0x74)]=!![],entities['push'](new Bat(0x13,0xc)),entities['push'](new Bat(0x31,0xa));}},endTest={'removed':![],'compute':function(){const _0xd625fc=_0x5ac85f;player['x']>0x3f&&(alert(_0xd625fc(0x8d)),this[_0xd625fc(0x74)]=!![]);}};level_3['push'](darkness,endTest),stage_0[_0x5ac85f(0x7b)](level_3),levelBoundFunctions[_0x5ac85f(0x7b)](stage_0),levelBoundFunctions[_0x5ac85f(0x7b)](stage_1),levelBoundFunctions[_0x5ac85f(0x7b)](stage_2);function resetEvents(){const _0x3ce37a=_0x5ac85f;for(let _0x330795=0x0;_0x330795<levelBoundFunctions[_0x3ce37a(0x93)];_0x330795++){for(let _0x776fb=0x0;_0x776fb<levelBoundFunctions[_0x330795][_0x3ce37a(0x93)];_0x776fb++){for(let _0x1b57a4=0x0;_0x1b57a4<levelBoundFunctions[_0x330795][_0x776fb][_0x3ce37a(0x93)];_0x1b57a4++){levelBoundFunctions[_0x330795][_0x776fb][_0x1b57a4][_0x3ce37a(0x74)]=![];}}}}
+// Variables related to the events
+var eventsVariables = {
+    // If you took all the photos with Esther
+    tookPhotos: false,
+    interactedWithBed: false,
+    backHome: false
+}
+
+var currentPoint = {
+    x: 0,
+    y: 0,
+    stage: 0,
+    level: 0
+}
+var checkPoint = {
+    stage: 0,
+    level: 0,
+    eventsVariables: {
+        // If you took all the photos with Esther
+        tookPhotos: false,
+        interactedWithBed: false,
+        backHome: false
+    }
+};
+updateCheckPoint();
+
+function backToCheckPoint() {
+    currentPoint.stage = checkPoint.stage;
+    currentPoint.level = checkPoint.level;
+    Object.assign(eventsVariables, checkPoint.eventsVariables)
+}
+
+function updateCheckPoint() {
+    checkPoint.stage = currentPoint.stage;
+    checkPoint.level = currentPoint.level;
+    Object.assign(checkPoint.eventsVariables, eventsVariables)
+}
+// All the level bound functions(events) will be stored here
+var levelBoundFunctions = [];
+var stage_0 = []
+var stage_1 = []
+var stage_2 = []
+// level 0 (bedroom)
+var level_0 = [];
+
+let backHome = {
+    removed: false,
+    compute: function () {
+        if (eventsVariables.tookPhotos) {
+            for (let i = 0; i < levelBoundFunctions[0][1].length - 2; i++) {
+                levelBoundFunctions[0][1][i].removed = true;
+            }
+            dialogueEngine.loadDialogueQueue([{
+                speaker: 0,
+                emotion: 0,
+                cameraFocus: player,
+                text: "(Damn, I'm not even tired...I would have played a bit more if it wasn't for Jay)."
+                        }])
+            this.removed = true;
+            eventsVariables.interactedWithBed = false;
+            eventsVariables.backHome = true;
+
+            function goToSleep() {
+                screenShake.duration = 10;
+                dialogueEngine.loadDialogueQueue([{
+                    speaker: 0,
+                    emotion: 1,
+                    cameraFocus: player,
+                    text: "W-what was that?!"
+                        }])
+                eventsVariables.interactedWithBed = true;
+            }
+            entities.push(new Interaction(15, 10, goToSleep, false));
+        }
+    }
+}
+let earthquake = {
+    removed: false,
+    compute: function () {
+        if (eventsVariables.interactedWithBed) {
+            setTimeout(function () {
+                screenShake.duration = 10
+            }, 500)
+            setTimeout(function () {
+                screenShake.duration = 20
+            }, 1500)
+            setTimeout(function () {
+                screenShake.duration = 30
+            }, 3000)
+            this.removed = true;
+        }
+    }
+}
+level_0.push(backHome, earthquake)
+stage_0.push(level_0);
+// level 1 (street)
+var level_1 = [];
+//Jaymee scolds you for being out that late at night
+let jaymeeAsksWhatYouDoing = {
+    removed: false,
+    compute: function () {
+        if (collided(officer, player)) {
+            dialogueEngine.loadDialogueQueue([{
+                speaker: 2,
+                emotion: 0,
+                cameraFocus: officer,
+                text: "Beck. Not again. Where you think you're going?"
+                        }, {
+                speaker: 0,
+                emotion: 1,
+                text: "O- officer Jaymee"
+                        }, {
+                speaker: 0,
+                emotion: 0,
+                text: "I gotta get back the skateboard I lent to Esther, he's waiting just ahead..."
+                        }, {
+                speaker: 2,
+                emotion: 0,
+                cameraFocus: officer,
+                text: "...fine. I'll see you there within two minutes, or you'll be in trouble this time."
+                        }])
+            this.removed = true;
+        }
+    }
+}
+let meetEsther = {
+    removed: false,
+    compute: function () {
+        function getYourSkate() {
+            dialogueEngine.loadDialogueQueue([{
+                speaker: 1,
+                emotion: 0,
+                cameraFocus: esther,
+                text: "Hey Beck, here's your skate"
+                        }, {
+                speaker: 0,
+                emotion: 0,
+                cameraFocus: player,
+                text: "Yo Esther, how's going"
+                        }, {
+                speaker: 1,
+                emotion: 0,
+                cameraFocus: esther,
+                text: "Been doing some SIIIIICK kickflips. My knees feels so weak now."
+                        }, {
+                speaker: 1,
+                emotion: 0,
+                cameraFocus: esther,
+                text: "Oh! I've almost forgot... I've got a new camera!!!"
+                        }, {
+                speaker: 0,
+                emotion: 3,
+                cameraFocus: player,
+                text: "Wooow! that looks so professional!"
+                        }, {
+                speaker: 1,
+                emotion: 0,
+                cameraFocus: esther,
+                text: "Heh. I've spent all my savings. I'd want to try it now, wanna make some photoshoots? "
+                }, {
+                speaker: 0,
+                emotion: 3,
+                cameraFocus: player,
+                text: "YEAH!!!"
+                        }, {
+                speaker: 1,
+                emotion: 0,
+                cameraFocus: esther,
+                text: "Ok then, go ahead. I'll be right behind you, make sure to land your craaaziest tricks!"
+                }, ])
+            player.onSkate = true;
+            player.xVel = 0;
+
+            function goOn() {
+                if (eventsVariables.tookPhotos) {
+                    dialogueEngine.loadDialogueQueue([{
+                        speaker: 0,
+                        emotion: 3,
+                        cameraFocus: esther,
+                        text: "Can I take a look at the photos?",
+                        }, {
+                        speaker: 1,
+                        emotion: 0,
+                        cameraFocus: esther,
+                        text: "Yeah, aren't those the most EPIC pics?",
+                        }, {
+                        speaker: 0,
+                        emotion: 1,
+                        cameraFocus: esther,
+                        text: "(They look way too pixelated)",
+                        }, ])
+                    this.removed = true;
+                } else {
+                    dialogueEngine.loadDialogueQueue([{
+                        speaker: 1,
+                        emotion: 0,
+                        cameraFocus: esther,
+                        text: "Go on, this camera roll can hold a lot of pics!",
+                        }])
+                }
+            }
+            entities.push(new Interaction(esther.x, esther.y - 1, goOn, true));
+
+        }
+        entities.push(new Interaction(esther.x, esther.y - 1, getYourSkate, false));
+        this.removed = true;
+
+    }
+
+}
+let afterPhotoshoot = {
+    removed: false,
+    compute: function () {
+        if (eventsVariables.tookPhotos) {
+            dialogueEngine.loadDialogueQueue([{
+                speaker: 1,
+                emotion: 0,
+                cameraFocus: esther,
+                text: "That's enough Beck! my camera's internal storage is full"
+                        }])
+            this.removed = true;
+            slowMoFrames = 0;
+            officer.x = esther.x + 2;
+        }
+    }
+}
+let jaymeeScoldsYou = {
+    removed: false,
+    compute: function () {
+        if (eventsVariables.tookPhotos && collided(officer, player)) {
+            dialogueEngine.loadDialogueQueue([{
+                speaker: 2,
+                emotion: 0,
+                cameraFocus: officer,
+                text: "Ok little punks. I can't watch after you the whole night, go back home right now."
+                        }, {
+                speaker: 1,
+                emotion: 0,
+                cameraFocus: esther,
+                text: "Sure officer!"
+                        }, {
+                speaker: 0,
+                emotion: 0,
+                cameraFocus: player,
+                text: "...sure"
+                        }])
+            this.removed = true;
+            player.onSkate = false;
+        }
+    }
+}
+let afterBackHome = {
+    removed: false,
+    compute: function () {
+        if (eventsVariables.backHome) {
+            officer.x = -100;
+            esther.x = -100;
+            console.log("officer.x " + officer.x)
+            this.removed = true;
+        }
+    }
+}
+let shouldBackHome = {
+    removed: false,
+    compute: function () {
+        if (eventsVariables.backHome && player.x > 10) {
+            dialogueEngine.loadDialogueQueue([{
+                speaker: 0,
+                emotion: 0,
+                cameraFocus: player,
+                text: "(I should go back home and try to sleep)"
+                        }, ])
+            this.removed = true;
+        }
+    }
+}
+level_1.push(jaymeeAsksWhatYouDoing, meetEsther, afterPhotoshoot, jaymeeScoldsYou, afterBackHome, shouldBackHome)
+stage_0.push(level_1);
+
+
+// level 2 (destroyed street)
+var level_2 = [];
+let satelliteAppears = {
+    removed: false,
+    compute: function () {
+        if (eventsVariables.interactedWithBed) {
+            entities.push(new Boss_1(-19, -3));
+            for (let i = 0; i < entities.length; i++) {
+                if (entities[i].type == "interaction") {
+                    entities[i].removed = true;
+                }
+            }
+            player.onSkate = true;
+            this.removed = true;
+        }
+    }
+}
+
+level_2.push(satelliteAppears)
+stage_0.push(level_2);
+
+// level 3 (grotto)
+
+var level_3 = [];
+// grotto events here
+let darkness = {
+    removed: false,
+    compute: function () {
+        //blackScreen.current = 200;
+        //blackScreen.initial = 100;
+        player.onSkate = false;
+        player.armed = true;
+        this.removed = true;
+        entities.push(new Bat(19, 12))
+        entities.push(new Bat(49, 10))
+    }
+}
+let endTest = {
+    removed: false,
+    compute: function () {
+        if (player.x > 63) {
+            alert("Finished")
+            this.removed = true;
+        }
+    }
+}
+
+
+level_3.push(darkness, endTest)
+stage_0.push(level_3);
+
+
+
+
+levelBoundFunctions.push(stage_0)
+levelBoundFunctions.push(stage_1)
+levelBoundFunctions.push(stage_2)
+
+function resetEvents() {
+    // iterates stages
+    for (let i = 0; i < levelBoundFunctions.length; i++) {
+        // iterates levels
+        for (let j = 0; j < levelBoundFunctions[i].length; j++) {
+            // iterates events
+            for (let k = 0; k < levelBoundFunctions[i][j].length; k++) {
+                levelBoundFunctions[i][j][k].removed = false;
+            }
+        }
+    }
+}

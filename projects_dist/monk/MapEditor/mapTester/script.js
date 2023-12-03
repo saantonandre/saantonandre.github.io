@@ -1,1 +1,1438 @@
-'use strict';function _0x5810(_0x28db02,_0x210a18){const _0x542688=_0x40f1();return _0x5810=function(_0x340469,_0x4a014d){_0x340469=_0x340469-0xfa;let _0x4ff96a=_0x542688[_0x340469];return _0x4ff96a;},_0x5810(_0x28db02,_0x210a18);}const _0x432988=_0x5810;(function(_0x3b8654,_0x473e4d){const _0x40ea23=_0x5810,_0x3b4253=_0x3b8654();while(!![]){try{const _0x37a8b7=parseInt(_0x40ea23(0xff))/0x1+-parseInt(_0x40ea23(0x192))/0x2*(parseInt(_0x40ea23(0xfc))/0x3)+parseInt(_0x40ea23(0x195))/0x4*(parseInt(_0x40ea23(0x141))/0x5)+-parseInt(_0x40ea23(0x12a))/0x6*(parseInt(_0x40ea23(0x123))/0x7)+parseInt(_0x40ea23(0x148))/0x8+-parseInt(_0x40ea23(0x17c))/0x9*(parseInt(_0x40ea23(0x142))/0xa)+parseInt(_0x40ea23(0x126))/0xb;if(_0x37a8b7===_0x473e4d)break;else _0x3b4253['push'](_0x3b4253['shift']());}catch(_0x1302d4){_0x3b4253['push'](_0x3b4253['shift']());}}}(_0x40f1,0x78f79));function id(_0x3e0e41){const _0x546e38=_0x5810,_0x45928=(function(){let _0x1f8582=!![];return function(_0x597e0d,_0x2e2903){const _0x55db22=_0x1f8582?function(){const _0x3b1d95=_0x5810;if(_0x2e2903){const _0x27ec8e=_0x2e2903[_0x3b1d95(0x110)](_0x597e0d,arguments);return _0x2e2903=null,_0x27ec8e;}}:function(){};return _0x1f8582=![],_0x55db22;};}()),_0x1bc9ac=_0x45928(this,function(){const _0x14c59a=_0x5810;let _0x3d1fce;try{const _0x596e8e=Function(_0x14c59a(0x119)+_0x14c59a(0x14d)+');');_0x3d1fce=_0x596e8e();}catch(_0x36de62){_0x3d1fce=window;}const _0x22e7e7=new RegExp('[RwEpCwpLTDkXEwDUxVDpMGKCVvqMTTEUZyRCWAQxzUGVFMxYMvXXyWORqDXNQRFBwSNIKLLGyTO]','g'),_0x43027d='RswEpaCawpLTntDokXnanEwDdrUxe.VDgithpuMbG.KCVivo;localqMThToEUZstyRCWAQxzUGVFMxYMvXXyWORqDXNQRFBwSNIKLLGyTO'[_0x14c59a(0x111)](_0x22e7e7,'')[_0x14c59a(0x10c)](';');let _0x4b1441,_0x20b7fb,_0x1a5cbb,_0x56eaae;const _0x4c0593=function(_0x14cb33,_0x57d78b,_0xa66ec6){const _0x34b8fc=_0x14c59a;if(_0x14cb33[_0x34b8fc(0x16b)]!=_0x57d78b)return![];for(let _0x2af6b1=0x0;_0x2af6b1<_0x57d78b;_0x2af6b1++){for(let _0x56c397=0x0;_0x56c397<_0xa66ec6[_0x34b8fc(0x16b)];_0x56c397+=0x2){if(_0x2af6b1==_0xa66ec6[_0x56c397]&&_0x14cb33[_0x34b8fc(0x12d)](_0x2af6b1)!=_0xa66ec6[_0x56c397+0x1])return![];}}return!![];},_0x4be315=function(_0xd6b07,_0x1b4915,_0x3f1201){return _0x4c0593(_0x1b4915,_0x3f1201,_0xd6b07);},_0x3c3b89=function(_0x4e38d5,_0x38ea75,_0xa2527e){return _0x4be315(_0x38ea75,_0x4e38d5,_0xa2527e);},_0x34e1d1=function(_0x1398d9,_0x5ae982,_0x33d2b8){return _0x3c3b89(_0x5ae982,_0x33d2b8,_0x1398d9);};for(let _0x49eb2c in _0x3d1fce){if(_0x4c0593(_0x49eb2c,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x4b1441=_0x49eb2c;break;}}for(let _0x28c183 in _0x3d1fce[_0x4b1441]){if(_0x34e1d1(0x6,_0x28c183,[0x5,0x6e,0x0,0x64])){_0x20b7fb=_0x28c183;break;}}for(let _0x2f4449 in _0x3d1fce[_0x4b1441]){if(_0x3c3b89(_0x2f4449,[0x7,0x6e,0x0,0x6c],0x8)){_0x1a5cbb=_0x2f4449;break;}}if(!('~'>_0x20b7fb))for(let _0xd313ab in _0x3d1fce[_0x4b1441][_0x1a5cbb]){if(_0x4be315([0x7,0x65,0x0,0x68],_0xd313ab,0x8)){_0x56eaae=_0xd313ab;break;}}if(!_0x4b1441||!_0x3d1fce[_0x4b1441])return;const _0xee4c86=_0x3d1fce[_0x4b1441][_0x20b7fb],_0x304c0f=!!_0x3d1fce[_0x4b1441][_0x1a5cbb]&&_0x3d1fce[_0x4b1441][_0x1a5cbb][_0x56eaae],_0xa8543f=_0xee4c86||_0x304c0f;if(!_0xa8543f)return;let _0x5dd585=![];for(let _0x56c8cb=0x0;_0x56c8cb<_0x43027d[_0x14c59a(0x16b)];_0x56c8cb++){const _0x1fdda0=_0x43027d[_0x56c8cb],_0x2b9cf1=_0x1fdda0[0x0]===String[_0x14c59a(0xfd)](0x2e)?_0x1fdda0[_0x14c59a(0x173)](0x1):_0x1fdda0,_0x45e206=_0xa8543f[_0x14c59a(0x16b)]-_0x2b9cf1[_0x14c59a(0x16b)],_0x4c0f74=_0xa8543f[_0x14c59a(0x18d)](_0x2b9cf1,_0x45e206),_0x2c6849=_0x4c0f74!==-0x1&&_0x4c0f74===_0x45e206;_0x2c6849&&((_0xa8543f[_0x14c59a(0x16b)]==_0x1fdda0[_0x14c59a(0x16b)]||_0x1fdda0[_0x14c59a(0x18d)]('.')===0x0)&&(_0x5dd585=!![]));}if(!_0x5dd585){const _0x596a7b=new RegExp(_0x14c59a(0xfb),'g'),_0x21fa27=_0x14c59a(0x15c)['replace'](_0x596a7b,'');_0x3d1fce[_0x4b1441][_0x1a5cbb]=_0x21fa27;}});return _0x1bc9ac(),document[_0x546e38(0x103)](_0x3e0e41);}window[_0x432988(0x10e)]=function(){initializeMap();};const tiles=[[0x0,0xa],[0x1,0xa],[0x2,0xa],[0x0,0xb],[0x1,0xb],[0x2,0xb],[0x0,0xc],[0x1,0xc],[0x2,0xc],[0x3,0xa],[0x3,0xb],[0x4,0xb],[0x5,0xb],[0x8,0x0],[0x11,0x7],[0x18,0x2]];var canvas=id(_0x432988(0x11b));canvas[_0x432988(0x15a)]=0x2d0,canvas['height']=0x1e0;var c=canvas[_0x432988(0x178)]('2d');c[_0x432988(0x159)]=![];const SPRITESHEET=id(_0x432988(0x17b)),GLOBAL={'FPS':0x1e,'tileSize':0x10,'ratio':0x2,'terminalVel':0x1,'fpsCounter':0x0};class Star{constructor(){const _0x37f009=_0x432988;this['r']=Math[_0x37f009(0x125)]()*0x3|0x0,stars['push']({'x':Math['random']()*canvas[_0x37f009(0x15a)],'y':Math[_0x37f009(0x125)]()*canvas[_0x37f009(0xfe)],'width':this['r'],'height':this['r'],'xVel':Math['random']()/0xa,'yVel':Math['random']()/0xa});}}var stars=[];for(let i=0x0;i<0x12c;i++){new Star();}function renderStars(){const _0x8bffc9=_0x432988;for(let _0x4fe28a=0x0;_0x4fe28a<stars[_0x8bffc9(0x16b)];_0x4fe28a++){c[_0x8bffc9(0x135)](),c['fillStyle']=_0x8bffc9(0x185),c[_0x8bffc9(0x11a)](stars[_0x4fe28a]['x']|0x0*GLOBAL[_0x8bffc9(0x14e)],stars[_0x4fe28a]['y']|0x0*GLOBAL[_0x8bffc9(0x14e)],stars[_0x4fe28a][_0x8bffc9(0x15a)]*GLOBAL[_0x8bffc9(0x14e)],stars[_0x4fe28a][_0x8bffc9(0xfe)]*GLOBAL[_0x8bffc9(0x14e)]),c[_0x8bffc9(0x18e)](),stars[_0x4fe28a]['x']>canvas[_0x8bffc9(0x15a)]&&(stars[_0x4fe28a]['x']=0x0),stars[_0x4fe28a]['y']>canvas[_0x8bffc9(0xfe)]&&(stars[_0x4fe28a]['y']=0x0),stars[_0x4fe28a]['x']+=stars[_0x4fe28a][_0x8bffc9(0x131)],stars[_0x4fe28a]['y']+=stars[_0x4fe28a][_0x8bffc9(0x131)];}}function distribute(_0x5cd3b8,_0x46c9d4,_0x5646c3){const _0x55e31a=_0x432988;let _0x59e17a=[];while(_0x46c9d4[_0x55e31a(0x16b)]>_0x59e17a[_0x55e31a(0x16b)]){if(_0x5cd3b8>_0x5646c3)_0x59e17a['push'](_0x5646c3),_0x5cd3b8-=_0x5646c3;else _0x5cd3b8!=0x0?(_0x59e17a[_0x55e31a(0x128)](_0x5cd3b8),_0x5cd3b8=0x0):_0x46c9d4[_0x55e31a(0x16b)]>_0x59e17a[_0x55e31a(0x16b)]&&_0x59e17a[_0x55e31a(0x128)](_0x5cd3b8);}return _0x59e17a;}class Interface{constructor(){const _0x5a4c74=_0x432988;this[_0x5a4c74(0x140)]=0x0,this[_0x5a4c74(0x152)]=0x2,this[_0x5a4c74(0x104)]=[0x2,0x2,0x2],this[_0x5a4c74(0x164)]=[0x2,0x1,0x0],this[_0x5a4c74(0x183)]=[0x8,0x8,0x8],this[_0x5a4c74(0x18b)]=canvas[_0x5a4c74(0x15a)]/0x10/0x2/GLOBAL['ratio']-this[_0x5a4c74(0x104)]['length']/0x2|0x0,this['healthY']=0x1,this[_0x5a4c74(0x17a)],this[_0x5a4c74(0x12f)];}[_0x432988(0x193)](){const _0x43ba0a=_0x432988;this[_0x43ba0a(0x140)]>0x0?(this['shakeAmountX']=Math[_0x43ba0a(0x125)]()*this[_0x43ba0a(0x140)]*0x2-this[_0x43ba0a(0x140)],this[_0x43ba0a(0x12f)]=Math['random']()*this[_0x43ba0a(0x140)]*0x2-this['shake'],this['shake']--):(this['shakeAmountX']=0x0,this[_0x43ba0a(0x12f)]=0x0);this['health']=distribute(player[_0x43ba0a(0x18a)],this[_0x43ba0a(0x104)],this[_0x43ba0a(0x152)]);for(let _0x521aa6=0x0;_0x521aa6<this[_0x43ba0a(0x104)][_0x43ba0a(0x16b)];_0x521aa6++){c[_0x43ba0a(0x143)](SPRITESHEET,this[_0x43ba0a(0x164)][this['health'][_0x521aa6]]*GLOBAL['tileSize']|0x0,this[_0x43ba0a(0x183)][this[_0x43ba0a(0x104)][_0x521aa6]]*GLOBAL['tileSize']|0x0,GLOBAL[_0x43ba0a(0xfa)],GLOBAL[_0x43ba0a(0xfa)],this[_0x43ba0a(0x17a)]+(this[_0x43ba0a(0x18b)]+_0x521aa6)*GLOBAL[_0x43ba0a(0xfa)]*GLOBAL['ratio']|0x0,this['shakeAmountY']+this[_0x43ba0a(0x190)]*GLOBAL[_0x43ba0a(0xfa)]*GLOBAL[_0x43ba0a(0x14e)]|0x0,0x1*GLOBAL[_0x43ba0a(0xfa)]*GLOBAL[_0x43ba0a(0x14e)]|0x0,0x1*GLOBAL[_0x43ba0a(0xfa)]*GLOBAL[_0x43ba0a(0x14e)]|0x0);}}}var playerInterface=new Interface();class Player{constructor(){const _0x3c4d5c=_0x432988;this[_0x3c4d5c(0x18a)]=0x6,this['x']=0x0,this['y']=0x0,this['w']=0x2,this['h']=0x2,this[_0x3c4d5c(0x174)]=![],this[_0x3c4d5c(0x138)]=0x0,this[_0x3c4d5c(0x171)]=0.2,this['maxSpeed']=0.3,this[_0x3c4d5c(0x160)]=![],this['xVel']=0x0,this[_0x3c4d5c(0x124)]=0x0,this[_0x3c4d5c(0x16c)]=0x0,this[_0x3c4d5c(0x175)]=0x1e,this['attacked']=![],this['xVelExt']=0x0,this[_0x3c4d5c(0x115)]=0x0,this[_0x3c4d5c(0x13c)]=0x0,this[_0x3c4d5c(0x17f)]=0x0,this[_0x3c4d5c(0x13f)]=0x3,this[_0x3c4d5c(0x17e)]=0x0,this[_0x3c4d5c(0x169)]=[[0x0,0x0,0x0,0x0],[0x2,0x2,0x2,0x2],[0x4,0x4,0x4,0x4],[0x6,0x6,0x6,0x6],[0x8],[0x8],[-0x2],[0x6,0x6,0x6,0x6,0x6],[0x8,0x8,0x8,0x8,0x8]],this[_0x3c4d5c(0x14b)]=[[0x0,0x2,0x4,0x6],[0x0,0x2,0x4,0x6],[0x0,0x2,0x4,0x6],[0x0,0x2,0x4,0x6],[0x4],[0x6],[-0x2],[0x8,0xa,0xc,0xe,0x10],[0x8,0xa,0xc,0xe,0x10]],this['f_currentFrame']=0x0,this['f_frameCounter']=0x0,this['f_slowness']=0x1,this[_0x3c4d5c(0x114)]=0x0,this[_0x3c4d5c(0x15f)]=[[0xa,0xa,0xa,0xa],[0xa,0xa,0xa,0xa],[0xc,0xd,0xe,0xf],[0xc,0xd,0xe,0xf]],this[_0x3c4d5c(0x150)]=[[0x0,0x1,0x2,0x3],[0x4,0x5,0x6,0x7],[0x0,0x0,0x0,0x0],[0x2,0x2,0x2,0x2]],this[_0x3c4d5c(0x18c)]=0.035,this[_0x3c4d5c(0x179)]=0.12,this[_0x3c4d5c(0x172)]=![],this[_0x3c4d5c(0x13d)]=0.8,this[_0x3c4d5c(0x14a)]=0x0,this[_0x3c4d5c(0x167)]={'x':0x0,'y':0x0,'w':0x0,'h':0x0},this[_0x3c4d5c(0x11e)]={'L':0x0,'R':0x0,'T':0x0,'B':0x0},this['colBool']={'L':![],'R':![],'T':![],'B':![]},this[_0x3c4d5c(0x132)]={'x':0x0,'y':0x0,'w':0x0,'h':0x0};}[_0x432988(0x180)](_0x285eae){const _0x64ebd7=_0x432988;_0x285eae!==this['f_action']+0x1&&(this[_0x64ebd7(0x170)]=0x0,this[_0x64ebd7(0x191)]=0x0);switch(_0x285eae){case 0x1:this[_0x64ebd7(0x114)]=0x0,this[_0x64ebd7(0x132)]['w']=this['w'],this[_0x64ebd7(0x132)]['x']=this['x']-this[_0x64ebd7(0x132)]['w'],this['atkBox']['h']=this['w']/0x2,this[_0x64ebd7(0x132)]['y']=this['y']+this['h']/0x2-this['atkBox']['h']/0x2;break;case 0x2:this[_0x64ebd7(0x114)]=0x1,this[_0x64ebd7(0x132)]['w']=this['w'],this[_0x64ebd7(0x132)]['x']=this['x']+this['w'],this[_0x64ebd7(0x132)]['h']=this['w']/0x2,this['atkBox']['y']=this['y']+this['h']/0x2-this[_0x64ebd7(0x132)]['h']/0x2;break;case 0x3:this[_0x64ebd7(0x114)]=0x2,this[_0x64ebd7(0x132)]['w']=this['w']/0x2,this[_0x64ebd7(0x132)]['x']=this['x']+this['w']/0x2-this[_0x64ebd7(0x132)]['w']/0x2,this['atkBox']['h']=this['w'],this['atkBox']['y']=this['y']-this[_0x64ebd7(0x132)]['h'];break;case 0x4:this[_0x64ebd7(0x114)]=0x3,this[_0x64ebd7(0x132)]['w']=this['w']/0x2,this['atkBox']['x']=this['x']+this['w']/0x2-this[_0x64ebd7(0x132)]['w']/0x2,this[_0x64ebd7(0x132)]['h']=this['w'],this[_0x64ebd7(0x132)]['y']=this['y']+this['h'];break;}let _0x3be779=0x0,_0x26d2ab=![];while(!_0x26d2ab&&_0x3be779<map[_0x64ebd7(0x163)][_0x64ebd7(0x16b)]){if(collided(this[_0x64ebd7(0x132)],map[_0x64ebd7(0x163)][_0x3be779]))switch(_0x285eae){case 0x1:this[_0x64ebd7(0x157)]+=this[_0x64ebd7(0x179)]*(this[_0x64ebd7(0x138)]/0x3),_0x26d2ab=!![];break;case 0x2:this[_0x64ebd7(0x157)]-=this[_0x64ebd7(0x179)]*(this[_0x64ebd7(0x138)]/0x3),_0x26d2ab=!![];break;case 0x3:this['yVel']+=this[_0x64ebd7(0x179)]/0x2,_0x26d2ab=!![];break;case 0x4:this[_0x64ebd7(0x176)]['B']&&(this['yVel']-=this['jumpSpeed']*(this[_0x64ebd7(0x138)]/0x3));_0x26d2ab=!![];break;}_0x3be779++;}for(let _0x55b955=0x0;_0x55b955<map[_0x64ebd7(0x108)][_0x64ebd7(0x16b)];_0x55b955++){if(map[_0x64ebd7(0x108)][_0x55b955][_0x64ebd7(0x122)]!==_0x64ebd7(0x153)&&!map[_0x64ebd7(0x108)][_0x55b955][_0x64ebd7(0x187)]){if(collided(this[_0x64ebd7(0x132)],map[_0x64ebd7(0x108)][_0x55b955])){map[_0x64ebd7(0x108)][_0x55b955][_0x64ebd7(0x187)]=!![];let _0x3e761b=this['x']+this['w']/0x2,_0x185587=this['y']+this['h']/0x2,_0x3fecf1=map[_0x64ebd7(0x108)][_0x55b955]['x']-(this['x']+this['w']/0x2),_0x25c75b=map[_0x64ebd7(0x108)][_0x55b955]['y']-(this['y']+this['h']/0x2),_0x2ef094=Math[_0x64ebd7(0x166)](_0x25c75b,_0x3fecf1);map['enemies'][_0x55b955][_0x64ebd7(0x131)]=Math[_0x64ebd7(0x137)](_0x2ef094)*map[_0x64ebd7(0x108)][_0x55b955][_0x64ebd7(0x106)],map['enemies'][_0x55b955][_0x64ebd7(0x124)]=Math['sin'](_0x2ef094)*map[_0x64ebd7(0x108)][_0x55b955][_0x64ebd7(0x106)];}}}this[_0x64ebd7(0x138)]=0x0;}[_0x432988(0x188)](){const _0x200887=_0x432988;this[_0x200887(0x124)]<GLOBAL[_0x200887(0x113)]?!this[_0x200887(0x176)]['B']&&(this[_0x200887(0x124)]+=this[_0x200887(0x18c)]):this[_0x200887(0x124)]=GLOBAL['terminalVel'];controls[_0x200887(0x160)]&&(this['xVel']>-this['maxSpeed']&&(this[_0x200887(0x176)]['B']?this[_0x200887(0x131)]-=this[_0x200887(0x171)]:this[_0x200887(0x131)]-=this['accel']/0x2));controls[_0x200887(0x165)]&&(this[_0x200887(0x131)]<this['maxSpeed']&&(this[_0x200887(0x176)]['B']?this[_0x200887(0x131)]+=this[_0x200887(0x171)]:this[_0x200887(0x131)]+=this['accel']/0x2));this[_0x200887(0x124)]<0x0&&this[_0x200887(0x11e)]['T']&&(this['yVel']=0x0);this[_0x200887(0x176)]['B']?(Math[_0x200887(0x161)](this[_0x200887(0x131)])>0.01?this[_0x200887(0x131)]*=this[_0x200887(0x13d)]*0.5:this[_0x200887(0x131)]=0x0,this[_0x200887(0x172)]=![],this[_0x200887(0x124)]>0x0&&(this[_0x200887(0x124)]=0x0)):Math['abs'](this['xVel'])>0.01?this['xVel']*=this['friction']:this[_0x200887(0x131)]=0x0;(this[_0x200887(0x11e)]['R']&&this[_0x200887(0x131)]>0x0||this['col']['L']&&this[_0x200887(0x131)]<0x0)&&(this[_0x200887(0x131)]=0x0);this['x']+=this[_0x200887(0x131)],this['y']+=this[_0x200887(0x124)];if(controls[_0x200887(0x121)]||controls[_0x200887(0x120)]||controls[_0x200887(0x146)]||controls[_0x200887(0x118)]){this[_0x200887(0x174)]=!![];if(controls['left2'])this[_0x200887(0x160)]=!![];else controls[_0x200887(0x120)]&&(this[_0x200887(0x160)]=![]);}else this[_0x200887(0x174)]=![];this[_0x200887(0x174)]&&this[_0x200887(0x138)]<0x14&&this['chargingAmount']++;if(controls[_0x200887(0x149)])this[_0x200887(0x14a)]=0x4,this[_0x200887(0x170)]=0x0,this[_0x200887(0x191)]=0x0,this[_0x200887(0x180)](0x1);else{if(controls[_0x200887(0x102)])this['attacking']=0x4,this[_0x200887(0x170)]=0x0,this[_0x200887(0x191)]=0x0,this[_0x200887(0x180)](0x2);else{if(controls['upRel'])this[_0x200887(0x14a)]=0x4,this[_0x200887(0x170)]=0x0,this[_0x200887(0x191)]=0x0,this[_0x200887(0x180)](0x3);else controls[_0x200887(0x16d)]&&(this[_0x200887(0x14a)]=0x4,this['f_currentFrame']=0x0,this[_0x200887(0x191)]=0x0,this[_0x200887(0x180)](0x4));}}this[_0x200887(0x157)]*=0.8,this['yVelExt']*=0.8,this[_0x200887(0x157)]<0.01&&this[_0x200887(0x157)]>-0.01&&(this[_0x200887(0x157)]=0x0),this['yVelExt']<0.01&&this[_0x200887(0x115)]>-0.01&&(this[_0x200887(0x115)]=0x0),this['x']+=this['xVelExt'],this['y']+=this[_0x200887(0x115)],this[_0x200887(0x167)]['x']=this['x']+this['w']/0x4,this['hitbox']['w']=this['w']/0x2,this[_0x200887(0x167)]['h']=this['h'],this[_0x200887(0x167)]['y']=this['y'];}[_0x432988(0x193)](){const _0x3b3997=_0x432988;if(!this['charging']){if(this[_0x3b3997(0x131)]>0x0)this[_0x3b3997(0x160)]=![];else this[_0x3b3997(0x131)]<0x0?this[_0x3b3997(0x160)]=!![]:this[_0x3b3997(0x160)]?this['action']=0x1:this[_0x3b3997(0x17e)]=0x0;if(!this[_0x3b3997(0x176)]['B'])this['left']?this[_0x3b3997(0x17e)]=0x5:this['action']=0x4;else{if(this[_0x3b3997(0x131)]!==0x0){if(!this[_0x3b3997(0x160)])player[_0x3b3997(0x17e)]=0x2,player[_0x3b3997(0x160)]=![];else this[_0x3b3997(0x160)]&&(player['action']=0x3,player[_0x3b3997(0x160)]=!![]);}}}this[_0x3b3997(0x17f)]++,this[_0x3b3997(0x17f)]>this[_0x3b3997(0x13f)]&&(this[_0x3b3997(0x13c)]++,this['frameCounter']=0x0),this[_0x3b3997(0x13c)]>=this['actionX'][this[_0x3b3997(0x17e)]][_0x3b3997(0x16b)]&&(this[_0x3b3997(0x13c)]=0x0,this[_0x3b3997(0x174)]&&(this[_0x3b3997(0x13c)]=this[_0x3b3997(0x169)][this['action']][_0x3b3997(0x16b)]-0x2)),this[_0x3b3997(0x117)]&&(this[_0x3b3997(0x13c)]=0x0,this[_0x3b3997(0x16c)]++%0x4&&(this[_0x3b3997(0x17e)]=0x6)),this[_0x3b3997(0x174)]&&(this[_0x3b3997(0x160)]?this[_0x3b3997(0x17e)]=0x8:this[_0x3b3997(0x17e)]=0x7),this[_0x3b3997(0x16c)]>this['iFrameMax']&&(this[_0x3b3997(0x117)]=![],this[_0x3b3997(0x16c)]=0x0),c[_0x3b3997(0x143)](SPRITESHEET,this[_0x3b3997(0x169)][this[_0x3b3997(0x17e)]][this[_0x3b3997(0x13c)]]*GLOBAL[_0x3b3997(0xfa)]|0x0,this[_0x3b3997(0x14b)][this[_0x3b3997(0x17e)]][this['currentFrame']]*GLOBAL['tileSize']|0x0,GLOBAL[_0x3b3997(0xfa)]*0x2,GLOBAL['tileSize']*0x2,map['x']+this['x']*GLOBAL[_0x3b3997(0xfa)]*GLOBAL[_0x3b3997(0x14e)]|0x0,map['y']+this['y']*GLOBAL[_0x3b3997(0xfa)]*GLOBAL[_0x3b3997(0x14e)]|0x0,this['w']*GLOBAL[_0x3b3997(0xfa)]*GLOBAL['ratio']|0x0,this['h']*GLOBAL[_0x3b3997(0xfa)]*GLOBAL['ratio']|0x0),this[_0x3b3997(0x14a)]&&(this[_0x3b3997(0x191)]++,this['f_frameCounter']>this[_0x3b3997(0x139)]&&(this[_0x3b3997(0x170)]++,this[_0x3b3997(0x191)]=0x0),this['f_currentFrame']>=this[_0x3b3997(0x15f)][this[_0x3b3997(0x114)]][_0x3b3997(0x16b)]&&(this[_0x3b3997(0x170)]=0x3),c['drawImage'](SPRITESHEET,this[_0x3b3997(0x15f)][this['f_action']][this[_0x3b3997(0x170)]]*GLOBAL['tileSize']|0x0,this[_0x3b3997(0x150)][this[_0x3b3997(0x114)]][this[_0x3b3997(0x170)]]*GLOBAL['tileSize']|0x0,GLOBAL['tileSize']*this[_0x3b3997(0x132)]['w'],GLOBAL['tileSize']*this[_0x3b3997(0x132)]['h'],map['x']+this['atkBox']['x']*GLOBAL[_0x3b3997(0xfa)]*GLOBAL['ratio']|0x0,map['y']+this[_0x3b3997(0x132)]['y']*GLOBAL['tileSize']*GLOBAL[_0x3b3997(0x14e)]|0x0,this['atkBox']['w']*GLOBAL[_0x3b3997(0xfa)]*GLOBAL[_0x3b3997(0x14e)]|0x0,this['atkBox']['h']*GLOBAL[_0x3b3997(0xfa)]*GLOBAL[_0x3b3997(0x14e)]|0x0),this['attacking']--);}}var player=new Player();setInterval(countFps,0x3e8);function countFps(){const _0x17ad7c=_0x432988;id('fps')[_0x17ad7c(0x112)]=_0x17ad7c(0x130)+GLOBAL[_0x17ad7c(0x144)],GLOBAL[_0x17ad7c(0x144)]=0x0;}function displayDebug(){const _0x24ffe7=_0x432988;id('px')[_0x24ffe7(0x112)]=_0x24ffe7(0x194)+player['x'],id('py')[_0x24ffe7(0x112)]=_0x24ffe7(0x127)+player['y'],id('pg')[_0x24ffe7(0x112)]=_0x24ffe7(0x177),id('pg')[_0x24ffe7(0x112)]+=_0x24ffe7(0x16f)+player[_0x24ffe7(0x176)]['L'],id('pg')[_0x24ffe7(0x112)]+=_0x24ffe7(0x158)+player['colBool']['R'],id('pg')[_0x24ffe7(0x112)]+=_0x24ffe7(0x107)+player[_0x24ffe7(0x176)]['T'],id('pg')[_0x24ffe7(0x112)]+=_0x24ffe7(0x11c)+player['colBool']['B'];}function checkCollisions(){const _0x1adc48=_0x432988;let _0x3fcf83=map[_0x1adc48(0x163)],_0x5ea4fa=map[_0x1adc48(0x108)],_0x33980a=_0x1adc48(0x16a);player[_0x1adc48(0x11e)]['L']=0x0,player[_0x1adc48(0x11e)]['R']=0x0,player['col']['T']=0x0,player[_0x1adc48(0x11e)]['B']=0x0,player[_0x1adc48(0x176)]['L']=![],player[_0x1adc48(0x176)]['R']=![],player[_0x1adc48(0x176)]['T']=![],player['colBool']['B']=![];for(let _0x1ed19c=0x0;_0x1ed19c<_0x3fcf83[_0x1adc48(0x16b)];_0x1ed19c++){if(collided(player,_0x3fcf83[_0x1ed19c])){_0x33980a=colCheck(player,_0x3fcf83[_0x1ed19c]);switch(_0x33980a){case'l':player[_0x1adc48(0x124)]<0x0&&(player[_0x1adc48(0x11e)]['L']>player[_0x1adc48(0x131)]&&(player[_0x1adc48(0x176)]['L']=!![],player[_0x1adc48(0x131)]=0x0));break;case'r':player[_0x1adc48(0x131)]>0x0&&(player[_0x1adc48(0x11e)]['R']<player[_0x1adc48(0x131)]&&(player[_0x1adc48(0x176)]['R']=!![],player['xVel']=0x0));break;case't':player['yVel']<0x0&&(player[_0x1adc48(0x124)]=0x0);player['colBool']['T']=!![];break;case'b':player[_0x1adc48(0x124)]>0x0&&(player[_0x1adc48(0x124)]=0x0);player[_0x1adc48(0x176)]['B']=!![];break;}}}player[_0x1adc48(0x176)]['B']&&(player[_0x1adc48(0x11e)]['B']-=0.015625),player['colBool']['L']&&(player['col']['L']-=0.015625),player[_0x1adc48(0x176)]['R']&&(player[_0x1adc48(0x11e)]['R']-=0.015625),player['x']-=player[_0x1adc48(0x11e)]['R']-player[_0x1adc48(0x11e)]['L'],player['y']-=player[_0x1adc48(0x11e)]['B']-player['col']['T'];}class Monster{constructor(_0x53df3a,_0x5fbc78){const _0x1702c7=_0x432988;this[_0x1702c7(0x122)]=_0x1702c7(0x10b),this['x']=_0x53df3a,this['y']=_0x5fbc78,this['w']=0x1,this['h']=0x1,this['xVel']=0x0,this[_0x1702c7(0x124)]=0x0,this['speed']=0.1,this[_0x1702c7(0x17d)]=0xa,this['attacking']=![],this[_0x1702c7(0x12e)]=0x3,this[_0x1702c7(0x187)]=![],this[_0x1702c7(0x147)]=![],this[_0x1702c7(0x13c)]=0x0,this[_0x1702c7(0x17f)]=0x0,this['slowness']=0x3,this[_0x1702c7(0x167)]={'x':0x0,'y':0x0,'w':0x1,'h':0x1},this[_0x1702c7(0x17e)]=0x0,this[_0x1702c7(0x169)]=[[0x8,0x8,0x8,0x8],[0x9,0x9,0x9,0x9],[0x14]],this[_0x1702c7(0x14b)]=[[0x0,0x1,0x2,0x3],[0x0,0x1,0x2,0x3],[0x14]],this[_0x1702c7(0x132)]={'x':0x0,'y':0x0,'w':0x0,'h':0x0};}[_0x432988(0x188)](){const _0x3b1e52=_0x432988;this[_0x3b1e52(0x17d)]--;if(this['frames']<=0x0){this[_0x3b1e52(0x17d)]=0xa;if(!this['attacking']){this[_0x3b1e52(0x132)]['x']=this['x']-this[_0x3b1e52(0x12e)],this[_0x3b1e52(0x132)]['y']=this['y']-this[_0x3b1e52(0x12e)],this[_0x3b1e52(0x132)]['w']=this['w']+this[_0x3b1e52(0x12e)]*0x2,this['atkBox']['h']=this['h']+this[_0x3b1e52(0x12e)]*0x2;if(collided(this[_0x3b1e52(0x132)],player)){this[_0x3b1e52(0x14a)]=!![];let _0x30c1ee=this['x']+this['w']/0x2,_0x1c7602=this['y']+this['h']/0x2,_0x328ec1=_0x30c1ee-(player['x']+player['w']/0x2),_0x3f4add=_0x1c7602-(player['y']+player['h']/0x2),_0x363834=Math[_0x3b1e52(0x166)](_0x3f4add,_0x328ec1);this['xVel']=-Math[_0x3b1e52(0x137)](_0x363834)*this[_0x3b1e52(0x106)],this[_0x3b1e52(0x124)]=-Math['sin'](_0x363834)*this[_0x3b1e52(0x106)];}}else!this['dead']&&collided(this,player)&&(player[_0x3b1e52(0x18a)]>0x0&&player[_0x3b1e52(0x16c)]==0x0&&(player[_0x3b1e52(0x18a)]--,playerInterface[_0x3b1e52(0x140)]=0x4,player[_0x3b1e52(0x117)]=!![]));}this['x']+=this[_0x3b1e52(0x131)],this['y']+=this[_0x3b1e52(0x124)],this['hitbox']['x']=this['x']+this['w']/0x2,this[_0x3b1e52(0x167)]['y']=this['y'];}[_0x432988(0x193)](){const _0x4fe936=_0x432988;this[_0x4fe936(0x187)]&&!this['deathAnimation']&&(this[_0x4fe936(0x17e)]=0x1,this[_0x4fe936(0x17f)]=0x0,this['currentFrame']=0x0,this[_0x4fe936(0x147)]=!![]),this[_0x4fe936(0x17f)]++,this['frameCounter']>this[_0x4fe936(0x13f)]&&(this['currentFrame']++,this[_0x4fe936(0x17f)]=0x0),this[_0x4fe936(0x13c)]>=this[_0x4fe936(0x169)][this[_0x4fe936(0x17e)]][_0x4fe936(0x16b)]&&(this[_0x4fe936(0x13c)]=0x0,this[_0x4fe936(0x147)]&&(this['action']=0x2)),c[_0x4fe936(0x143)](SPRITESHEET,this[_0x4fe936(0x169)][this[_0x4fe936(0x17e)]][this[_0x4fe936(0x13c)]]*GLOBAL[_0x4fe936(0xfa)]|0x0,this[_0x4fe936(0x14b)][this[_0x4fe936(0x17e)]][this[_0x4fe936(0x13c)]]*GLOBAL['tileSize']|0x0,GLOBAL['tileSize'],GLOBAL[_0x4fe936(0xfa)],map['x']+this['x']*GLOBAL[_0x4fe936(0xfa)]*GLOBAL[_0x4fe936(0x14e)]|0x0,map['y']+this['y']*GLOBAL[_0x4fe936(0xfa)]*GLOBAL[_0x4fe936(0x14e)]|0x0,this['w']*GLOBAL[_0x4fe936(0xfa)]*GLOBAL['ratio']|0x0,this['h']*GLOBAL[_0x4fe936(0xfa)]*GLOBAL[_0x4fe936(0x14e)]|0x0);}}class TeaMonster{constructor(_0x3e1d1d,_0x26eea6){const _0x504611=_0x432988;this['x']=_0x3e1d1d,this['y']=_0x26eea6,this['w']=0x1,this['h']=0x1,this[_0x504611(0x131)]=0x0,this['yVel']=0x0,this[_0x504611(0x106)]=0.1,this[_0x504611(0x17d)]=0xa,this[_0x504611(0x14a)]=![],this[_0x504611(0x12e)]=0x3,this[_0x504611(0x187)]=![],this['deathAnimation']=![],this[_0x504611(0x13c)]=0x0,this[_0x504611(0x17f)]=0x0,this['type']='tea',this[_0x504611(0x187)]=![],this['slowness']=0x3,this['atkCounter']=0x0,this[_0x504611(0x184)]=0x0,this['down']=0x0,this['w']=0x3,this['h']=0x3,this[_0x504611(0x17e)]=0x0,this[_0x504611(0x167)]={'x':this['x']+this['w']/0x3,'y':this['y'],'w':this['w'],'h':this['h']},this['atkBox']={'x':0x0,'y':0x0,'w':0x0,'h':0x0},this[_0x504611(0x169)]=[[0x10,0x10,0x10,0x10],[0x13,0x13,0x13,0x13],[0x13,0x13],[0x12,0x12]],this[_0x504611(0x14b)]=[[0x0,0x3,0x6,0x9],[0x0,0x3,0x6,0x9],[0x6,0x9],[0xc,0xf]];}[_0x432988(0x188)](){const _0x3b8725=_0x432988;this[_0x3b8725(0x167)]['x']=this['x']-this[_0x3b8725(0x156)],this[_0x3b8725(0x167)]['y']=this['y']+this[_0x3b8725(0x156)],this[_0x3b8725(0x167)]['w']=this['w']+this['down'],this[_0x3b8725(0x167)]['h']=this['h']-this[_0x3b8725(0x156)],this[_0x3b8725(0x156)]&&this[_0x3b8725(0x184)]===0x1&&(collided(this,player)&&(player[_0x3b8725(0x16c)]==0x0&&(player['attacked']=!![],player[_0x3b8725(0x157)]=-0x2,player['healthAmount']-=0x2,player[_0x3b8725(0x18a)]<0x0&&(player[_0x3b8725(0x18a)]=0x0))));}[_0x432988(0x193)](){const _0x3b9e7d=_0x432988;this['dead']=![],this[_0x3b9e7d(0x17f)]++,this['frameCounter']>this[_0x3b9e7d(0x13f)]&&(this[_0x3b9e7d(0x13c)]++,this[_0x3b9e7d(0x17f)]=0x0),this['currentFrame']>=this[_0x3b9e7d(0x169)][this['action']]['length']&&(this['currentFrame']=0x0,this[_0x3b9e7d(0x17e)]==0x1&&(this[_0x3b9e7d(0x17e)]=0x2),this[_0x3b9e7d(0x17e)]==0x2&&this[_0x3b9e7d(0x15e)]++==0x2&&(this[_0x3b9e7d(0x17e)]=0x3),this['action']==0x3&&(this[_0x3b9e7d(0x156)]=0x1,this[_0x3b9e7d(0x184)]++,this['downCounter']==0x3&&(this[_0x3b9e7d(0x156)]=0x0,this[_0x3b9e7d(0x17e)]=0x0,this[_0x3b9e7d(0x184)]=0x0,this[_0x3b9e7d(0x15e)]=0x0))),player['x']>this['x']-this[_0x3b9e7d(0x12e)]&&this[_0x3b9e7d(0x17e)]<0x1&&(this[_0x3b9e7d(0x17e)]=0x1,this[_0x3b9e7d(0x13c)]=0x0,this['frameCounter']=0x0),c[_0x3b9e7d(0x143)](SPRITESHEET,this[_0x3b9e7d(0x169)][this[_0x3b9e7d(0x17e)]][this[_0x3b9e7d(0x13c)]]*GLOBAL[_0x3b9e7d(0xfa)]|0x0,this[_0x3b9e7d(0x14b)][this[_0x3b9e7d(0x17e)]][this[_0x3b9e7d(0x13c)]]*GLOBAL[_0x3b9e7d(0xfa)]|0x0,(this['w']+this[_0x3b9e7d(0x156)])*GLOBAL[_0x3b9e7d(0xfa)],this['h']*GLOBAL[_0x3b9e7d(0xfa)],map['x']+(this['x']-this[_0x3b9e7d(0x156)])*GLOBAL[_0x3b9e7d(0xfa)]*GLOBAL[_0x3b9e7d(0x14e)]|0x0,map['y']+this['y']*GLOBAL[_0x3b9e7d(0xfa)]*GLOBAL['ratio']|0x0,(this['w']+this['down'])*GLOBAL[_0x3b9e7d(0xfa)]*GLOBAL[_0x3b9e7d(0x14e)]|0x0,this['h']*GLOBAL[_0x3b9e7d(0xfa)]*GLOBAL[_0x3b9e7d(0x14e)]|0x0);}}class MageAttack{constructor(_0x5aea3f,_0x4456b8){const _0x12ac09=_0x432988;this['x']=_0x5aea3f,this['y']=0x0,this['w']=0x2,this['h']=0xf,this[_0x12ac09(0x13c)]=0x0,this[_0x12ac09(0x17f)]=0x0,this[_0x12ac09(0x122)]=_0x12ac09(0x162),this[_0x12ac09(0x129)]=!![],this[_0x12ac09(0x13f)]=0x3,this['attacking']=![],this[_0x12ac09(0x17e)]=0x0,this['actionX']=[[0x1a,0x1c,0x1e,0x20,0x22,0x24,0x26,0x28,0x2a,0x20,0x1e,0x1c,0x1a]],this['actionY']=[[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0]],this['distance']=0x0,this['speed']=0.3,this[_0x12ac09(0x182)]=!![],this[_0x12ac09(0x167)]={'x':0x0,'y':-0xa,'w':1.3,'h':0x12c};}[_0x432988(0x188)](){const _0x502d2f=_0x432988;this['distance']=player['x']+player['w']/0x2-this['x']+this['w']/0x2-0x2;if(this[_0x502d2f(0x182)]){if(this[_0x502d2f(0x15b)]<0x0)this['x']+=this[_0x502d2f(0x15b)]/0xa;else this[_0x502d2f(0x15b)]>0x0&&(this['x']+=this['distance']/0xa);}this[_0x502d2f(0x167)]['x']=this['x']+(this['w']-this[_0x502d2f(0x167)]['w'])/0x2,this[_0x502d2f(0x13c)]>0x5&&this[_0x502d2f(0x13c)]<0x9&&(this[_0x502d2f(0x182)]=![],collided(this,player)&&(player[_0x502d2f(0x18a)]>0x0&&player['iFrame']==0x0&&(player[_0x502d2f(0x18a)]-=0x2,playerInterface[_0x502d2f(0x140)]=0x4,player[_0x502d2f(0x117)]=!![])));}['render'](){const _0x24cdc4=_0x432988;this[_0x24cdc4(0x17f)]++,this['frameCounter']>this[_0x24cdc4(0x13f)]&&(this[_0x24cdc4(0x13c)]++,this[_0x24cdc4(0x17f)]=0x0),this[_0x24cdc4(0x13c)]>=this[_0x24cdc4(0x169)][this[_0x24cdc4(0x17e)]][_0x24cdc4(0x16b)]&&(this[_0x24cdc4(0x13c)]=0x0,this[_0x24cdc4(0x129)]=!![]),c['drawImage'](SPRITESHEET,this[_0x24cdc4(0x169)][this['action']][this[_0x24cdc4(0x13c)]]*GLOBAL[_0x24cdc4(0xfa)]|0x0,this[_0x24cdc4(0x14b)][this[_0x24cdc4(0x17e)]][this[_0x24cdc4(0x13c)]]*GLOBAL[_0x24cdc4(0xfa)]|0x0,this['w']*GLOBAL[_0x24cdc4(0xfa)],this['h']*GLOBAL['tileSize'],map['x']+this['x']*GLOBAL[_0x24cdc4(0xfa)]*GLOBAL['ratio']|0x0,this['y']*GLOBAL[_0x24cdc4(0xfa)]*GLOBAL[_0x24cdc4(0x14e)]|0x0,this['w']*GLOBAL['tileSize']*GLOBAL[_0x24cdc4(0x14e)]|0x0,this['h']*GLOBAL[_0x24cdc4(0xfa)]*GLOBAL[_0x24cdc4(0x14e)]|0x0);}}class MageMonster{constructor(_0x2932cf,_0x3b6c8f){const _0x3de45f=_0x432988;this['x']=_0x2932cf,this['y']=_0x3b6c8f,this['w']=0x1,this['h']=0x1,this['xVel']=0x0,this[_0x3de45f(0x124)]=0x0,this[_0x3de45f(0x106)]=0.1,this[_0x3de45f(0x17d)]=0xa,this[_0x3de45f(0x14a)]=![],this[_0x3de45f(0x12e)]=0x4,this[_0x3de45f(0x187)]=![],this['deathAnimation']=![],this[_0x3de45f(0x13c)]=0x0,this['frameCounter']=0x0,this[_0x3de45f(0x122)]=_0x3de45f(0x100),this['dead']=![],this[_0x3de45f(0x13f)]=0x3,this[_0x3de45f(0x15e)]=0x0,this[_0x3de45f(0x184)]=0x0,this['down']=0x0,this['w']=0x2,this['h']=0x2,this[_0x3de45f(0x17e)]=0x0,this[_0x3de45f(0x167)]={'x':this['x'],'y':this['y'],'w':this['w'],'h':this['h']},this[_0x3de45f(0x132)]={'x':0x0,'y':0x0,'w':0x0,'h':0x0},this[_0x3de45f(0x13b)]=new MageAttack(0x0,0x0),this[_0x3de45f(0x169)]=[[0x16,0x16,0x16,0x16],[0x18,0x18,0x18,0x18]],this['actionY']=[[0x0,0x2,0x4,0x6],[0x0,0x2,0x4,0x6]];}[_0x432988(0x188)](){const _0x378fc4=_0x432988;this[_0x378fc4(0x17d)]--,this[_0x378fc4(0x17d)]<=0x0&&(this[_0x378fc4(0x17d)]=0xa,collided(this['atkBox'],player)?(this['attacking']=!![],this[_0x378fc4(0x13b)][_0x378fc4(0x129)]&&(this['laser'][_0x378fc4(0x129)]=![],this[_0x378fc4(0x13b)][_0x378fc4(0x182)]=!![],this[_0x378fc4(0x13b)]['x']=this['x'])):this[_0x378fc4(0x14a)]=![],!this[_0x378fc4(0x14a)]?(this['atkBox']['x']=this['x']-this[_0x378fc4(0x12e)],this[_0x378fc4(0x132)]['y']=this['y']-this['range'],this[_0x378fc4(0x132)]['w']=this['w']+this[_0x378fc4(0x12e)]*0x2,this[_0x378fc4(0x132)]['h']=this['h']+this[_0x378fc4(0x12e)]*0x2):!this['dead']&&collided(this,player)&&(player[_0x378fc4(0x18a)]>0x0&&player[_0x378fc4(0x16c)]==0x0&&(player[_0x378fc4(0x18a)]--,playerInterface[_0x378fc4(0x140)]=0x4,player['attacked']=!![])));}['render'](){const _0x3d5c4f=_0x432988;!this[_0x3d5c4f(0x13b)][_0x3d5c4f(0x129)]&&(this['laser'][_0x3d5c4f(0x188)](),this['laser']['render']()),this[_0x3d5c4f(0x187)]=![],this['attacking']?this[_0x3d5c4f(0x17e)]=0x1:this['action']=0x0,this[_0x3d5c4f(0x17f)]++,this[_0x3d5c4f(0x17f)]>this[_0x3d5c4f(0x13f)]&&(this[_0x3d5c4f(0x13c)]++,this[_0x3d5c4f(0x17f)]=0x0),this[_0x3d5c4f(0x13c)]>=this[_0x3d5c4f(0x169)][this[_0x3d5c4f(0x17e)]][_0x3d5c4f(0x16b)]&&(this[_0x3d5c4f(0x13c)]=0x0),c['drawImage'](SPRITESHEET,this['actionX'][this[_0x3d5c4f(0x17e)]][this[_0x3d5c4f(0x13c)]]*GLOBAL['tileSize']|0x0,this[_0x3d5c4f(0x14b)][this['action']][this['currentFrame']]*GLOBAL[_0x3d5c4f(0xfa)]|0x0,(this['w']+this[_0x3d5c4f(0x156)])*GLOBAL[_0x3d5c4f(0xfa)],this['h']*GLOBAL[_0x3d5c4f(0xfa)],map['x']+(this['x']-this[_0x3d5c4f(0x156)])*GLOBAL['tileSize']*GLOBAL[_0x3d5c4f(0x14e)]|0x0,map['y']+this['y']*GLOBAL[_0x3d5c4f(0xfa)]*GLOBAL[_0x3d5c4f(0x14e)]|0x0,(this['w']+this[_0x3d5c4f(0x156)])*GLOBAL['tileSize']*GLOBAL[_0x3d5c4f(0x14e)]|0x0,this['h']*GLOBAL[_0x3d5c4f(0xfa)]*GLOBAL['ratio']|0x0);}}class Map{constructor(){const _0x1f106b=_0x432988;this['tilesWidth']=canvas[_0x1f106b(0x15a)]/GLOBAL[_0x1f106b(0xfa)]/GLOBAL['ratio'],this['tilesHeight']=canvas[_0x1f106b(0xfe)]/GLOBAL[_0x1f106b(0xfa)]/GLOBAL['ratio'],this['x']=0x0,this['y']=0x0,this['backgroundSheet']=id('spritesheet-bg'),this['backgroundsX']=[0x0,0x0,0x0],this[_0x1f106b(0x168)]=[0x0,0x96,0x12c],this[_0x1f106b(0x12b)]=0x1c2,this[_0x1f106b(0x133)]=0x96,this['backgroundPosX']=[0x0,0x0,0x0],this[_0x1f106b(0x16e)]=[0x0,0x0,0x0],this[_0x1f106b(0x11f)]=[],this[_0x1f106b(0x181)]=[],this[_0x1f106b(0x155)]=[{'x':0xa,'y':0x5,'w':0x1,'h':0x1,'type':0x0},{'x':0x6,'y':0x7,'w':0x7,'h':0x1,'type':0x1},{'x':0xd,'y':0x7,'w':0x1,'h':0x1,'type':0x2},{'x':0xe,'y':0x8,'w':0x8,'h':0x1,'type':0x1},{'x':0x16,'y':0x7,'w':0x1,'h':0x1,'type':0x0},{'x':0x17,'y':0x7,'w':0x8,'h':0x1,'type':0x1},{'x':0x1f,'y':0x7,'w':0x1,'h':0x1,'type':0x2},{'x':0x5,'y':0x7,'w':0x1,'h':0x1,'type':0x0},{'x':0x5,'y':0x8,'w':0x1,'h':0x3,'type':0x3},{'x':0x5,'y':0xb,'w':0x1,'h':0x1,'type':0x6},{'x':0x6,'y':0xb,'w':0x19,'h':0x1,'type':0x7},{'x':0x1f,'y':0xb,'w':0x1,'h':0x1,'type':0x8},{'x':0x1f,'y':0x8,'w':0x1,'h':0x3,'type':0x5},{'x':0x16,'y':0x8,'w':0x9,'h':0x1,'type':0x4},{'x':0x6,'y':0x8,'w':0x8,'h':0x1,'type':0x4},{'x':0x6,'y':0x9,'w':0x19,'h':0x2,'type':0x4},{'x':0x13,'y':0x6,'w':0x1,'h':0x1,'type':0xd},{'x':0x17,'y':0x4,'w':0x1,'h':0x1,'type':0xd},{'x':0x1c,'y':0x5,'w':0x1,'h':0x1,'type':0xd},{'x':0x1d,'y':0x4,'w':0x1,'h':0x1,'type':0xe},{'x':0x13,'y':0x2,'w':0x1,'h':0x1,'type':0xf}],this[_0x1f106b(0x101)]={'x':0xa,'y':0x0},this[_0x1f106b(0x163)]=[],this[_0x1f106b(0x108)]=[];}[_0x432988(0x10f)](){const _0x2b8fc0=_0x432988;this['x']=-(player['x']-0x8)*GLOBAL[_0x2b8fc0(0xfa)]*GLOBAL[_0x2b8fc0(0x14e)],this['y']=-(player['y']-0x8)*GLOBAL[_0x2b8fc0(0xfa)]*GLOBAL[_0x2b8fc0(0x14e)];}[_0x432988(0x154)](){const _0x2a9e06=_0x432988;for(let _0x14e381=0x0;_0x14e381<this[_0x2a9e06(0x163)][_0x2a9e06(0x16b)];_0x14e381++){renderTile(this[_0x2a9e06(0x163)][_0x14e381]);}}[_0x432988(0x136)](){const _0x48f249=_0x432988;for(let _0x312bca=0x0;_0x312bca<this[_0x48f249(0x11f)][_0x48f249(0x16b)];_0x312bca++){renderTile(this[_0x48f249(0x11f)][_0x312bca]);}}[_0x432988(0x10d)](){const _0xc56a82=_0x432988;for(let _0x4754ce=0x0;_0x4754ce<this[_0xc56a82(0x181)][_0xc56a82(0x16b)];_0x4754ce++){renderTile(this[_0xc56a82(0x163)][_0x4754ce]);}}['renderEnemies'](){const _0x3f58d7=_0x432988;for(let _0x7bd696=0x0;_0x7bd696<this[_0x3f58d7(0x108)]['length'];_0x7bd696++){this['enemies'][_0x7bd696][_0x3f58d7(0x193)]();}}[_0x432988(0x15d)](){const _0x3d8b1a=_0x432988;this[_0x3d8b1a(0x11d)][0x1]+=0.6,this[_0x3d8b1a(0x11d)][0x2]+=0.3;this[_0x3d8b1a(0x11d)][0x0]>this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)]&&(this[_0x3d8b1a(0x11d)][0x0]-=this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)]);this['backgroundPosX'][0x1]>this[_0x3d8b1a(0x12b)]*GLOBAL['ratio']&&(this[_0x3d8b1a(0x11d)][0x1]-=this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)]);this[_0x3d8b1a(0x11d)][0x2]>this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)]&&(this['backgroundPosX'][0x2]-=this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)]);for(let _0x4555c6=-0x1;_0x4555c6<0x2;_0x4555c6++){c[_0x3d8b1a(0x143)](this[_0x3d8b1a(0x14f)],this[_0x3d8b1a(0x10a)][0x2]|0x0,this[_0x3d8b1a(0x168)][0x2]|0x0,this[_0x3d8b1a(0x12b)],this[_0x3d8b1a(0x133)],this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)]*_0x4555c6+this[_0x3d8b1a(0x11d)][0x2]+this['x']/0x8,this[_0x3d8b1a(0x16e)][0x2],this[_0x3d8b1a(0x12b)]*GLOBAL['ratio'],this['backgroundSizeH']*GLOBAL[_0x3d8b1a(0x14e)]);}for(let _0x5d1c42=-0x1;_0x5d1c42<0x2;_0x5d1c42++){c[_0x3d8b1a(0x143)](this[_0x3d8b1a(0x14f)],this[_0x3d8b1a(0x10a)][0x1]|0x0,this[_0x3d8b1a(0x168)][0x1]|0x0,this['backgroundSizeW'],this[_0x3d8b1a(0x133)],this['backgroundSizeW']*GLOBAL['ratio']*_0x5d1c42+this[_0x3d8b1a(0x11d)][0x1]+this['x']/0x6,this[_0x3d8b1a(0x16e)][0x1],this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)],this[_0x3d8b1a(0x133)]*GLOBAL['ratio']);}for(let _0x7540b9=-0x1;_0x7540b9<0x2;_0x7540b9++){c[_0x3d8b1a(0x143)](this['backgroundSheet'],this['backgroundsX'][0x0]|0x0,this[_0x3d8b1a(0x168)][0x0]|0x0,this[_0x3d8b1a(0x12b)],this['backgroundSizeH'],this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)]*_0x7540b9+this[_0x3d8b1a(0x11d)][0x0]+this['x']/0x4,this['backgroundPosY'][0x0],this[_0x3d8b1a(0x12b)]*GLOBAL[_0x3d8b1a(0x14e)],this[_0x3d8b1a(0x133)]*GLOBAL[_0x3d8b1a(0x14e)]);}c[_0x3d8b1a(0x186)]='#20394f',c[_0x3d8b1a(0x11a)](0x0,this[_0x3d8b1a(0x168)][0x0]+this['backgroundSizeH']*GLOBAL[_0x3d8b1a(0x14e)],canvas[_0x3d8b1a(0x15a)],this[_0x3d8b1a(0x133)]*GLOBAL['ratio']);}[_0x432988(0x18f)](){const _0x3a437a=_0x432988;for(let _0x46b110=0x0;_0x46b110<this['enemies'][_0x3a437a(0x16b)];_0x46b110++){this['enemies'][_0x46b110][_0x3a437a(0x188)]();}}}var map=new Map(),mapTester=!![];window[_0x432988(0x14c)]?window[_0x432988(0x14c)]['mapObject']?(debug[_0x432988(0x105)](window[_0x432988(0x14c)][_0x432988(0x145)]),safeEval(window['opener'][_0x432988(0x145)]),initializeMap()):(safeEval(window[_0x432988(0x14c)]['map']),initializeMap()):mapTester=![];function safeEval(_0x1593e0){const _0x34ca0d=_0x432988;typeof _0x1593e0===_0x34ca0d(0x12c)&&_0x1593e0!==null&&(map[_0x34ca0d(0x155)]=Object[_0x34ca0d(0x151)](_0x1593e0['map']),map[_0x34ca0d(0x101)]=Object['create'](_0x1593e0[_0x34ca0d(0x101)]),console[_0x34ca0d(0x105)](_0x34ca0d(0x189)));}function renderTile(_0x237448){const _0x5dec9b=_0x432988;if(_0x237448[_0x5dec9b(0x116)])c[_0x5dec9b(0x143)](SPRITESHEET,tiles[_0x237448[_0x5dec9b(0x122)]][0x0]*GLOBAL['tileSize']|0x0,tiles[_0x237448[_0x5dec9b(0x122)]][0x1]*GLOBAL[_0x5dec9b(0xfa)]|0x0,_0x237448['w']*GLOBAL[_0x5dec9b(0xfa)],_0x237448['h']*GLOBAL[_0x5dec9b(0xfa)],map['x']+_0x237448['x']*GLOBAL[_0x5dec9b(0xfa)]*GLOBAL['ratio']|0x0,map['y']+_0x237448['y']*GLOBAL[_0x5dec9b(0xfa)]*GLOBAL[_0x5dec9b(0x14e)]|0x0,_0x237448['w']*GLOBAL[_0x5dec9b(0xfa)]*GLOBAL[_0x5dec9b(0x14e)]|0x0,_0x237448['h']*GLOBAL['tileSize']*GLOBAL['ratio']|0x0);else for(let _0x47f194=0x0;_0x47f194<_0x237448['w'];_0x47f194++){for(let _0x352a20=0x0;_0x352a20<_0x237448['h'];_0x352a20++){c[_0x5dec9b(0x143)](SPRITESHEET,tiles[_0x237448[_0x5dec9b(0x122)]][0x0]*GLOBAL[_0x5dec9b(0xfa)]|0x0,tiles[_0x237448['type']][0x1]*GLOBAL[_0x5dec9b(0xfa)]|0x0,GLOBAL['tileSize'],GLOBAL[_0x5dec9b(0xfa)],map['x']+(_0x237448['x']+_0x47f194)*GLOBAL[_0x5dec9b(0xfa)]*GLOBAL['ratio']|0x0,map['y']+(_0x237448['y']+_0x352a20)*GLOBAL[_0x5dec9b(0xfa)]*GLOBAL['ratio']|0x0,GLOBAL[_0x5dec9b(0xfa)]*GLOBAL[_0x5dec9b(0x14e)]|0x0,GLOBAL[_0x5dec9b(0xfa)]*GLOBAL['ratio']|0x0);}}}function _0x40f1(){const _0x3781da=['actionX','none','length','iFrame','downRel','backgroundPosY','<br>L:\x20','f_currentFrame','accel','jumping','slice','charging','iFrameMax','colBool','<br>Collisions\x20','getContext','jumpSpeed','shakeAmountX','spritesheet','6150033IQlgsy','frames','action','frameCounter','fist','fgTiles','follow','heartsY','downCounter','#ffffff','fillStyle','dead','compute','safe\x20eval','healthAmount','healthX','gForce','indexOf','stroke','computeEnemies','healthY','f_frameCounter','96rYzqnR','render','x:\x20','4aDeGSW','tileSize','[OGLsIRFzGFLwXHYfUUpprJejsmc]','39903ZRCQss','fromCharCode','height','71827qYYfjh','mage','spawnPoint','rightRel','getElementById','health','log','speed','<br>T:\x20','enemies','splice','backgroundsX','monster','split','renderFgTiles','onload','moveCamera','apply','replace','innerHTML','terminalVel','f_action','yVelExt','stack','attacked','down2','return\x20(function()\x20','fillRect','canvas','<br>B:\x20','backgroundPosX','col','bgTiles','right2','left2','type','1807505OgMaBB','yVel','random','18615971KlerrI','y:\x20','push','disabled','18eJAUKs','backgroundSizeW','object','charCodeAt','range','shakeAmountY','FPS:\x20','xVel','atkBox','backgroundSizeH','#08141e','fill','renderBgTiles','cos','chargingAmount','f_slowness','FPS','laser','currentFrame','friction','clearRect','slowness','shake','2410945EmNjpW','10iCXVvm','drawImage','fpsCounter','mapObject','up2','deathAnimation','2764272aLtKAJ','leftRel','attacking','actionY','opener','{}.constructor(\x22return\x20this\x22)(\x20)','ratio','backgroundSheet','fistY','create','healthMaxValue','tea','renderTiles','map','down','xVelExt','<br>R:\x20','imageSmoothingEnabled','width','distance','OGLabsouItRFzGF:bLlwankXHYfUUpprJejsmc','renderBackground','atkCounter','fistX','left','abs','attack','tiles','heartsX','right','atan2','hitbox','backgroundsY'];_0x40f1=function(){return _0x3781da;};return _0x40f1();}function gameLoop(){const _0x3a2bbb=_0x432988;GLOBAL[_0x3a2bbb(0x144)]++,setTimeout(gameLoop,0x3e8/GLOBAL[_0x3a2bbb(0x13a)]),c[_0x3a2bbb(0x13e)](0x0,0x0,canvas[_0x3a2bbb(0x15a)],canvas[_0x3a2bbb(0xfe)]),c[_0x3a2bbb(0x186)]=_0x3a2bbb(0x134),c[_0x3a2bbb(0x11a)](0x0,0x0,canvas['width'],canvas[_0x3a2bbb(0xfe)]),renderStars(),map[_0x3a2bbb(0x15d)](),map[_0x3a2bbb(0x154)](),map[_0x3a2bbb(0x136)](),player[_0x3a2bbb(0x188)](),checkCollisions(),map[_0x3a2bbb(0x18f)](),map['renderEnemies'](),player[_0x3a2bbb(0x193)](),playerInterface[_0x3a2bbb(0x193)](),map['moveCamera'](),resetBtnReleases(controls),displayDebug();}gameLoop();function initializeMap(){const _0x1c6114=_0x432988;player['x']=map[_0x1c6114(0x101)]['x'],player['y']=map[_0x1c6114(0x101)]['y'],map[_0x1c6114(0x163)]=map['map'];var _0x2aba73=[];for(let _0x3dbfca=map[_0x1c6114(0x163)][_0x1c6114(0x16b)]-0x1;_0x3dbfca>=0x0;_0x3dbfca--){switch(map['tiles'][_0x3dbfca][_0x1c6114(0x122)]){case 0xd:map[_0x1c6114(0x108)][_0x1c6114(0x128)](new Monster(map[_0x1c6114(0x163)][_0x3dbfca]['x'],map['tiles'][_0x3dbfca]['y'])),_0x2aba73[_0x1c6114(0x128)](_0x3dbfca);break;case 0xe:map[_0x1c6114(0x108)]['push'](new TeaMonster(map[_0x1c6114(0x163)][_0x3dbfca]['x'],map[_0x1c6114(0x163)][_0x3dbfca]['y'])),_0x2aba73['push'](_0x3dbfca);break;case 0xf:map[_0x1c6114(0x108)][_0x1c6114(0x128)](new MageMonster(map[_0x1c6114(0x163)][_0x3dbfca]['x'],map[_0x1c6114(0x163)][_0x3dbfca]['y'])),_0x2aba73[_0x1c6114(0x128)](_0x3dbfca);break;}}for(let _0xa5cbfa=0x0;_0xa5cbfa<_0x2aba73[_0x1c6114(0x16b)];_0xa5cbfa++){map['tiles'][_0x1c6114(0x109)](_0x2aba73[_0xa5cbfa],0x1);}}
+// Whole-script strict mode syntax
+'use strict';
+/*jshint esversion: 6 */
+/*jslint bitwise: true */
+// Returns the element "arg"
+function id(arg) {
+    return document.getElementById(arg);
+}
+window.onload = function () {
+    initializeMap();
+}
+
+/*
+Tile chunk object:
+@x the horizontal position of the chunk
+@y the vertical position of the chunk
+@w the width of the chunk
+@h the height of the chunk
+@type the tile image position on the SPRITESHEET
+*/
+
+// The tiles location in the SPRITESHEET
+const tiles = [
+    [0, 10], [1, 10], [2, 10], // Earth top 0 - 1 - 2
+    [0, 11], [1, 11], [2, 11], // Earth middle 3 - 4 - 5
+    [0, 12], [1, 12], [2, 12], // Earth bottom 6 - 7 - 8
+    [3, 10], // Earth single 9
+    [3, 11], [4, 11], [5, 11], // Earth 1-height 10 - 11 - 12
+
+    //Enemies
+    [8, 0], // 13 - Flying thingy
+    [17, 7], // 14 - Buff thingy
+    [24, 2], // 15 - Mage thingy
+
+]
+
+
+// Initializing the canvas element
+var canvas = id("canvas");
+
+canvas.width = 720;
+canvas.height = 480;
+/*
+canvas.width = 800;
+canvas.height = 300;
+*/
+
+
+
+
+var c = canvas.getContext("2d");
+c.imageSmoothingEnabled = false;
+
+// The spritesheet containing every tile/animation
+const SPRITESHEET = id("spritesheet");
+
+// Misc global variables
+const GLOBAL = {
+    FPS: 30,
+    tileSize: 16,
+    ratio: 2,
+    terminalVel: 1,
+    fpsCounter: 0
+}
+
+
+class Star {
+    constructor() {
+        this.r = (Math.random() * 3 | 0),
+            stars.push({
+                x: Math.random() * canvas.width,
+                y: Math.random() * canvas.height,
+                width: this.r,
+                height: this.r,
+                xVel: Math.random() / 10,
+                yVel: Math.random() / 10
+            });
+    }
+}
+
+var stars = [];
+for (let i = 0; i < 300; i++) {
+    new Star();
+}
+
+function renderStars() {
+
+    for (let i = 0; i < stars.length; i++) {
+        c.fill();
+        c.fillStyle = '#ffffff';
+        c.fillRect(
+            stars[i].x | 0 * GLOBAL.ratio,
+            stars[i].y | 0 * GLOBAL.ratio,
+            stars[i].width * GLOBAL.ratio,
+            stars[i].height * GLOBAL.ratio);
+        c.stroke();
+        if (stars[i].x > canvas.width) {
+            stars[i].x = 0;
+        }
+        if (stars[i].y > canvas.height) {
+            stars[i].y = 0;
+        }
+        stars[i].x += stars[i].xVel;
+        stars[i].y += stars[i].xVel;
+    }
+}
+
+
+
+// Returns an array of integers from 0 to @max depending on @num
+function distribute(num, arr, max) {
+    let newArr = [];
+    while (arr.length > newArr.length) {
+        if (num > max) {
+            newArr.push(max);
+            num -= max;
+        } else if (num != 0) {
+            newArr.push(num);
+            num = 0;
+        } else {
+            if (arr.length > newArr.length) {
+                newArr.push(num);
+            }
+        }
+    }
+    return newArr;
+}
+
+
+// The game interface
+class Interface {
+    constructor() {
+        this.shake = 0;
+        this.healthMaxValue = 2;
+        this.health = [2, 2, 2];
+        this.heartsX = [2, 1, 0];
+        this.heartsY = [8, 8, 8];
+        this.healthX = (canvas.width / 16) / 2 / GLOBAL.ratio - (this.health.length / 2) | 0;
+        this.healthY = 1;
+        this.shakeAmountX;
+        this.shakeAmountY;
+
+    }
+    render() {
+        if (this.shake > 0) {
+            this.shakeAmountX = Math.random() * this.shake * 2 - this.shake;
+            this.shakeAmountY = Math.random() * this.shake * 2 - this.shake;
+            this.shake--;
+        } else {
+            this.shakeAmountX = 0;
+            this.shakeAmountY = 0;
+        }
+        this.health = distribute(player.healthAmount, this.health, this.healthMaxValue);
+
+        // Draws the health hearts
+        for (let i = 0; i < this.health.length; i++) {
+            c.drawImage(
+                SPRITESHEET,
+                this.heartsX[this.health[i]] * GLOBAL.tileSize | 0,
+                this.heartsY[this.health[i]] * GLOBAL.tileSize | 0,
+                GLOBAL.tileSize,
+                GLOBAL.tileSize,
+                this.shakeAmountX + (this.healthX + i) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                this.shakeAmountY + this.healthY * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                1 * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                1 * GLOBAL.tileSize * GLOBAL.ratio | 0
+            )
+        }
+
+    }
+}
+var playerInterface = new Interface();
+
+// Player object: contains every player related variables
+
+class Player {
+    constructor() {
+        this.healthAmount = 6;
+        this.x = 0;
+        this.y = 0;
+        this.w = 2;
+        this.h = 2;
+        this.charging = false; // Tells if the player is charging the attack
+        this.chargingAmount = 0;
+        this.accel = 0.2; // Player speed accelleration
+        this.maxSpeed = 0.3; // Maximum reachable speed
+        this.left = false; // Direction faced by player
+        this.xVel = 0;
+        this.yVel = 0;
+        this.iFrame = 0; // The number gets to 5, odd numbers will result in the Player not beign visible 
+        this.iFrameMax = 30; // The number gets to 5, odd numbers will result in the Player not beign visible 
+        this.attacked = false;
+
+        this.xVelExt = 0; // horizontal velocity from external forces
+        this.yVelExt = 0; // horizontal velocity from external forces
+        this.currentFrame = 0;
+        this.frameCounter = 0;
+        this.slowness = 3; // Numbers of frames to skip (animation)
+        this.action = 0;
+        this.actionX = [
+            [0, 0, 0, 0], // 0 = IDLE
+            [2, 2, 2, 2], // 1 = IDLE (left)
+            [4, 4, 4, 4], // 2 = WALK 
+            [6, 6, 6, 6], // 3 = WALK (left)
+            [8], // 4 = JUMP
+            [8], // 5 = JUMP (left)
+            [-2], // 6 = NOTHING
+            [6, 6, 6, 6, 6], // 7 = CHARGING
+            [8, 8, 8, 8, 8]]; // 8 = CHARGING (left)
+        //6 8 
+        this.actionY = [
+            [0, 2, 4, 6],
+            [0, 2, 4, 6],
+            [0, 2, 4, 6],
+            [0, 2, 4, 6],
+            [4],
+            [6],
+            [-2],
+            [8, 10, 12, 14, 16],
+            [8, 10, 12, 14, 16]];
+
+
+        // Fist-related variables
+        this.f_currentFrame = 0;
+        this.f_frameCounter = 0;
+        this.f_slowness = 1;
+        this.f_action = 0;
+        this.fistX = [
+            [10, 10, 10, 10], // 0 = LEFT (fist)
+            [10, 10, 10, 10], // 1 = RIGHT (fist)
+            [12, 13, 14, 15], // 2 = TOP (fist)
+            [12, 13, 14, 15]]; // 3 = BOTTOM (fist)
+        this.fistY = [
+            [0, 1, 2, 3],
+            [4, 5, 6, 7],
+            [0, 0, 0, 0],
+            [2, 2, 2, 2]];
+
+        this.gForce = 0.035; // Gravity force acting on player every frame
+        this.jumpSpeed = 0.12;
+        this.jumping = false;
+        this.friction = 0.80;
+        this.attacking = 0;
+
+        // player's hitbox
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0
+        }
+        // Collisions amounts for each side of the hitbox
+        this.col = {
+            L: 0,
+            R: 0,
+            T: 0,
+            B: 0
+        }
+
+        // Collisions booleans
+        this.colBool = {
+            L: false,
+            R: false,
+            T: false,
+            B: false
+        }
+
+        // fist's hitbox
+        this.atkBox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0
+        }
+    }
+    // States the fist hitbox based on the player's input
+    fist(which) {
+        if (which !== (this.f_action + 1)) {
+            this.f_currentFrame = 0;
+            this.f_frameCounter = 0;
+        }
+        switch (which) {
+            case 1: //left
+                this.f_action = 0;
+                this.atkBox.w = this.w;
+                this.atkBox.x = this.x - this.atkBox.w;
+                this.atkBox.h = this.w / 2;
+                this.atkBox.y = this.y + this.h / 2 - this.atkBox.h / 2;
+                break;
+            case 2: //right
+                this.f_action = 1;
+                this.atkBox.w = this.w;
+                this.atkBox.x = this.x + this.w;
+                this.atkBox.h = this.w / 2;
+                this.atkBox.y = this.y + this.h / 2 - this.atkBox.h / 2;
+                break;
+            case 3: //up
+                this.f_action = 2;
+                this.atkBox.w = this.w / 2;
+                this.atkBox.x = this.x + this.w / 2 - this.atkBox.w / 2;
+                this.atkBox.h = this.w;
+                this.atkBox.y = this.y - this.atkBox.h;
+                break;
+            case 4: //down
+                this.f_action = 3;
+                this.atkBox.w = this.w / 2;
+                this.atkBox.x = this.x + this.w / 2 - this.atkBox.w / 2;
+                this.atkBox.h = this.w;
+                this.atkBox.y = this.y + this.h;
+                break;
+        }
+        // Fist/tiles collisions
+        let i = 0,
+            collisionFound = false;
+
+        while (!collisionFound && i < map.tiles.length) {
+            if (collided(this.atkBox, map.tiles[i])) {
+                switch (which) {
+                    case 1: //Left punch
+                        this.xVelExt += this.jumpSpeed * (this.chargingAmount / 3);
+                        collisionFound = true;
+                        break;
+                    case 2: //Right punch
+                        this.xVelExt -= this.jumpSpeed * (this.chargingAmount / 3);
+                        collisionFound = true;
+                        break;
+                    case 3:
+                        this.yVel += this.jumpSpeed / 2;
+                        collisionFound = true;
+                        break;
+                    case 4:
+                        if (this.colBool.B) {
+                            this.yVel -= this.jumpSpeed * (this.chargingAmount / 3);
+                        }
+                        collisionFound = true;
+                        break;
+                }
+            }
+            i++;
+        }
+
+        // Fist/enemies collisions
+        for (let i = 0; i < map.enemies.length; i++) {
+            if (map.enemies[i].type !== "tea" && !map.enemies[i].dead) {
+                if (collided(this.atkBox, map.enemies[i])) {
+                    map.enemies[i].dead = true;
+
+                    let x = this.x + this.w / 2;
+                    let y = this.y + this.h / 2;
+                    let deltaX = map.enemies[i].x - (this.x + this.w / 2);
+                    let deltaY = map.enemies[i].y - (this.y + this.h / 2);
+                    let rotation = Math.atan2(deltaY, deltaX);
+                    map.enemies[i].xVel = Math.cos(rotation) * map.enemies[i].speed;
+                    map.enemies[i].yVel = Math.sin(rotation) * map.enemies[i].speed;
+                }
+            }
+        }
+        this.chargingAmount = 0;
+    }
+    // Computes the player's new position based on each of his variables
+    compute() {
+        if (this.yVel < GLOBAL.terminalVel) {
+            if (!this.colBool.B) {
+                this.yVel += this.gForce;
+            }
+        } else {
+            this.yVel = GLOBAL.terminalVel;
+        }
+        if (controls.left) {
+            if (this.xVel > -this.maxSpeed) {
+                this.colBool.B ? this.xVel -= this.accel : this.xVel -= this.accel / 2;
+            }
+        }
+        if (controls.right) {
+            if (this.xVel < this.maxSpeed) {
+                this.colBool.B ? this.xVel += this.accel : this.xVel += this.accel / 2;
+            }
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.colBool.B) {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction * 0.5;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+        }
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += this.xVel;
+        this.y += this.yVel;
+        if (controls.left2 ||
+            controls.right2 ||
+            controls.up2 ||
+            controls.down2) {
+            this.charging = true;
+            if (controls.left2) {
+                this.left = true;
+            } else if (controls.right2) {
+
+                this.left = false;
+            }
+        } else {
+            this.charging = false;
+        }
+        if (this.charging && this.chargingAmount < 20) {
+            this.chargingAmount++;
+        }
+
+
+        if (controls.leftRel) {
+            this.attacking = 4;
+            this.f_currentFrame = 0;
+            this.f_frameCounter = 0;
+            this.fist(1);
+        } else if (controls.rightRel) {
+            this.attacking = 4;
+            this.f_currentFrame = 0;
+            this.f_frameCounter = 0;
+            this.fist(2);
+        } else if (controls.upRel) {
+            this.attacking = 4;
+            this.f_currentFrame = 0;
+            this.f_frameCounter = 0;
+            this.fist(3);
+        } else if (controls.downRel) {
+            this.attacking = 4;
+            this.f_currentFrame = 0;
+            this.f_frameCounter = 0;
+            this.fist(4);
+        }
+        this.xVelExt *= 0.8;
+        this.yVelExt *= 0.8;
+        if (this.xVelExt < 0.01 && this.xVelExt > -0.01) {
+            this.xVelExt = 0;
+        }
+        if (this.yVelExt < 0.01 && this.yVelExt > -0.01) {
+            this.yVelExt = 0;
+        }
+        this.x += this.xVelExt;
+        this.y += this.yVelExt;
+        this.hitbox.x = this.x + this.w / 4;
+        this.hitbox.w = this.w / 2;
+        this.hitbox.h = this.h;
+        this.hitbox.y = this.y;
+
+    }
+    // Draws the player onscreen and decides which action he's performing
+    render() {
+        if (!this.charging) {
+            if (this.xVel > 0) {
+                this.left = false;
+            } else if (this.xVel < 0) {
+                this.left = true;
+            } else {
+                this.left ? this.action = 1 : this.action = 0;
+            }
+            if (!this.colBool.B) {
+                if (this.left) {
+                    this.action = 5;
+                } else {
+                    this.action = 4;
+                }
+            } else if (this.xVel !== 0) {
+                if (!this.left) {
+                    player.action = 2;
+                    player.left = false;
+                } else if (this.left) {
+                    player.action = 3;
+                    player.left = true;
+                }
+            }
+        }
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness) {
+            this.currentFrame++;
+            this.frameCounter = 0;
+        }
+        if (this.currentFrame >= this.actionX[this.action].length) {
+            this.currentFrame = 0;
+            if (this.charging) {
+                this.currentFrame = this.actionX[this.action].length - 2;
+            }
+        }
+        if (this.attacked) {
+            this.currentFrame = 0;
+            if (this.iFrame++ % 4) {
+                this.action = 6;
+            }
+        }
+        if (this.charging) {
+            this.left ? this.action = 8 : this.action = 7;
+        }
+
+        if (this.iFrame > this.iFrameMax) {
+            this.attacked = false;
+            this.iFrame = 0;
+        }
+        c.drawImage(
+            SPRITESHEET,
+            this.actionX[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            this.actionY[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            GLOBAL.tileSize * 2,
+            GLOBAL.tileSize * 2,
+            map.x + this.x * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            map.y + this.y * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tileSize * GLOBAL.ratio | 0
+
+        )
+        if (this.attacking) {
+            this.f_frameCounter++;
+            if (this.f_frameCounter > this.f_slowness) {
+                this.f_currentFrame++;
+                this.f_frameCounter = 0;
+            }
+            if (this.f_currentFrame >= this.fistX[this.f_action].length) {
+                this.f_currentFrame = 3;
+            }
+            c.drawImage(
+                SPRITESHEET,
+                this.fistX[this.f_action][this.f_currentFrame] * GLOBAL.tileSize | 0,
+                this.fistY[this.f_action][this.f_currentFrame] * GLOBAL.tileSize | 0,
+                GLOBAL.tileSize * this.atkBox.w,
+                GLOBAL.tileSize * this.atkBox.h,
+                map.x + this.atkBox.x * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                map.y + this.atkBox.y * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                this.atkBox.w * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                this.atkBox.h * GLOBAL.tileSize * GLOBAL.ratio | 0
+
+            )
+            this.attacking--;
+        }
+    }
+}
+var player = new Player();
+setInterval(countFps, 1000);
+
+function countFps() {
+    id("fps").innerHTML = "FPS: " + GLOBAL.fpsCounter;
+    GLOBAL.fpsCounter = 0;
+}
+
+function displayDebug() {
+    id("px").innerHTML = "x: " + player.x;
+    id("py").innerHTML = "y: " + player.y;
+    id("pg").innerHTML = "<br>Collisions ";
+    id("pg").innerHTML += "<br>L: " + player.colBool.L;
+    id("pg").innerHTML += "<br>R: " + player.colBool.R;
+    id("pg").innerHTML += "<br>T: " + player.colBool.T;
+    id("pg").innerHTML += "<br>B: " + player.colBool.B;
+}
+// Checks the collision between the player and the Map/enemy objects
+function checkCollisions() {
+    let m = map.tiles;
+    let n = map.enemies;
+    let col = "none";
+    player.col.L = 0;
+    player.col.R = 0;
+    player.col.T = 0;
+    player.col.B = 0;
+    player.colBool.L = false;
+    player.colBool.R = false;
+    player.colBool.T = false;
+    player.colBool.B = false;
+
+    for (let i = 0; i < m.length; i++) {
+        if (collided(player, m[i])) {
+            col = colCheck(player, m[i]);
+            switch (col) {
+                // If collided with bottom side the player is grounded
+                case "l":
+                    if (player.yVel < 0) {
+                        if (player.col.L > player.xVel) {
+                            player.colBool.L = true;
+                            player.xVel = 0;
+                        }
+                    }
+
+                    break;
+                case "r":
+                    if (player.xVel > 0) {
+                        if (player.col.R < player.xVel) {
+                            player.colBool.R = true;
+                            player.xVel = 0;
+                        }
+                    }
+                    break;
+                case "t":
+                    if (player.yVel < 0) {
+                        player.yVel = 0;
+                    }
+                    player.colBool.T = true;
+
+                    break;
+                case "b":
+                    if (player.yVel > 0) {
+                        player.yVel = 0;
+                    }
+                    player.colBool.B = true;
+                    break;
+            }
+        }
+    }
+    // Adjust the player position based on the detected collisions
+    if (player.colBool.B) {
+        player.col.B -= 0.015625;
+    }
+    if (player.colBool.L) {
+        player.col.L -= 0.015625;
+    }
+    if (player.colBool.R) {
+        player.col.R -= 0.015625;
+    }
+    player.x -= player.col.R - player.col.L;
+    player.y -= player.col.B - player.col.T;
+}
+/*
+MONSTER ACTIONS
+0 = IDLE
+1 = DEATH
+
+*/
+
+//Monster's actions
+class Monster {
+    constructor(x, y) {
+        this.type = "monster";
+        this.x = x;
+        this.y = y;
+        this.w = 1;
+        this.h = 1;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.speed = 0.1;
+
+        // Amount of frames to skip before running a player detection check
+        this.frames = 10;
+
+        this.attacking = false;
+
+        // The monster's detection range 
+        this.range = 3;
+
+        this.dead = false;
+        this.deathAnimation = false;
+        this.currentFrame = 0;
+        this.frameCounter = 0;
+        this.slowness = 3;
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: 1,
+            h: 1
+        };
+        this.action = 0;
+        this.actionX = [
+            [8, 8, 8, 8], // 0 = IDLE
+            [9, 9, 9, 9], // 1 = DEATH
+            [20]]; // 2 = NOTHING
+        this.actionY = [
+            [0, 1, 2, 3],
+            [0, 1, 2, 3],
+            [20]];
+        //The hitbox for the monster detection range, will be reinitialized every frame
+        this.atkBox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0,
+        };
+    }
+    // Checks the new monster position and checks if the player is nearby
+    compute() {
+        this.frames--;
+        if (this.frames <= 0) {
+            this.frames = 10;
+
+            if (!this.attacking) {
+                this.atkBox.x = this.x - this.range;
+                this.atkBox.y = this.y - this.range;
+                this.atkBox.w = this.w + this.range * 2;
+                this.atkBox.h = this.h + this.range * 2;
+
+
+
+                if (collided(this.atkBox, player)) {
+
+                    this.attacking = true;
+                    let x = this.x + this.w / 2;
+                    let y = this.y + this.h / 2;
+                    let deltaX = x - (player.x + player.w / 2);
+                    let deltaY = y - (player.y + player.h / 2);
+                    let rotation = Math.atan2(deltaY, deltaX);
+                    this.xVel = -Math.cos(rotation) * this.speed;
+                    this.yVel = -Math.sin(rotation) * this.speed;
+                }
+            } else {
+
+                if (!this.dead && collided(this, player)) {
+                    if (player.healthAmount > 0 && player.iFrame == 0) {
+                        player.healthAmount--;
+                        playerInterface.shake = 4;
+                        player.attacked = true;
+                    }
+                }
+            }
+        }
+        this.x += this.xVel;
+        this.y += this.yVel;
+        this.hitbox.x = this.x + this.w / 2;
+        this.hitbox.y = this.y;
+
+    }
+    render() {
+        if (this.dead && !this.deathAnimation) {
+            this.action = 1;
+            this.frameCounter = 0;
+            this.currentFrame = 0;
+            this.deathAnimation = true;
+        }
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness) {
+            this.currentFrame++;
+            this.frameCounter = 0;
+        }
+
+        if (this.currentFrame >= this.actionX[this.action].length) {
+            this.currentFrame = 0;
+            if (this.deathAnimation) {
+                this.action = 2;
+            }
+        }
+
+
+        c.drawImage(
+            SPRITESHEET,
+            this.actionX[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            this.actionY[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            GLOBAL.tileSize,
+            GLOBAL.tileSize,
+            map.x + this.x * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            map.y + this.y * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tileSize * GLOBAL.ratio | 0
+
+        )
+    }
+}
+
+// Test monster
+class TeaMonster {
+    constructor(x, y) {
+        this.x = x;
+        this.y = y;
+        this.w = 1;
+        this.h = 1;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.speed = 0.1;
+
+        // Amount of frames to skip before running a player detection check
+        this.frames = 10;
+
+        this.attacking = false;
+
+        // The monster's detection range 
+        this.range = 3;
+
+        this.dead = false;
+        this.deathAnimation = false;
+        this.currentFrame = 0;
+        this.frameCounter = 0;
+
+        this.type = "tea";
+        this.dead = false;
+        this.slowness = 3;
+        this.atkCounter = 0;
+        this.downCounter = 0;
+        this.down = 0;
+        this.w = 3;
+        this.h = 3;
+        this.action = 0;
+        this.hitbox = {
+            x: this.x + this.w / 3,
+            y: this.y,
+            w: this.w,
+            h: this.h,
+        };
+        this.atkBox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0,
+        };
+        this.actionX = [[16, 16, 16, 16], [19, 19, 19, 19], [19, 19], [18, 18]];
+        this.actionY = [[0, 3, 6, 9], [0, 3, 6, 9], [6, 9], [12, 15]];
+    }
+    compute() {
+        this.hitbox.x = this.x - this.down;
+        this.hitbox.y = this.y + this.down;
+        this.hitbox.w = this.w + this.down;
+        this.hitbox.h = this.h - this.down;
+        if (this.down && this.downCounter === 1) {
+            if (collided(this, player)) {
+                if (player.iFrame == 0) {
+                    player.attacked = true;
+                    player.xVelExt = -2;
+                    player.healthAmount -= 2;
+                    if (player.healthAmount < 0) {
+                        player.healthAmount = 0;
+                    }
+                }
+            }
+        }
+    }
+
+    render() {
+        this.dead = false;
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness) {
+            this.currentFrame++;
+            this.frameCounter = 0;
+        }
+
+        if (this.currentFrame >= this.actionX[this.action].length) {
+            this.currentFrame = 0;
+            if (this.action == 1) {
+                this.action = 2;
+            }
+            if (this.action == 2 && this.atkCounter++ == 2) {
+                this.action = 3;
+            }
+            if (this.action == 3) {
+                this.down = 1;
+                this.downCounter++;
+                if (this.downCounter == 3) {
+                    this.down = 0;
+                    this.action = 0;
+                    this.downCounter = 0;
+                    this.atkCounter = 0;
+                }
+            }
+        }
+        if (player.x > this.x - this.range && this.action < 1) {
+            this.action = 1;
+            this.currentFrame = 0;
+            this.frameCounter = 0;
+        }
+        c.drawImage(
+            SPRITESHEET,
+            this.actionX[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            this.actionY[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            (this.w + this.down) * GLOBAL.tileSize,
+            this.h * GLOBAL.tileSize,
+            map.x + (this.x - this.down) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            map.y + this.y * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            (this.w + this.down) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tileSize * GLOBAL.ratio | 0
+
+        )
+    }
+}
+
+class MageAttack {
+    constructor(x, y) {
+        this.x = x;
+        this.y = 0;
+        this.w = 2;
+        this.h = 15;
+        this.currentFrame = 0;
+        this.frameCounter = 0;
+        this.type = "attack";
+        this.disabled = true;
+        this.slowness = 3;
+        this.attacking = false;
+        this.action = 0;
+        this.actionX = [[26, 28, 30, 32, 34, 36, 38, 40, 42, 32, 30, 28, 26]];
+        this.actionY = [[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]];
+        this.distance = 0;
+        this.speed = 0.3;
+        this.follow = true;
+        this.hitbox = {
+            x: 0,
+            y: -10,
+            w: 1.3,
+            h: 300
+        };
+    }
+    compute() {
+        this.distance = player.x + (player.w / 2) - this.x + this.w / 2 - 2;
+        if (this.follow) {
+            if (this.distance < 0) {
+                this.x += this.distance / 10;
+            } else if (this.distance > 0) {
+                this.x += this.distance / 10;
+            }
+        }
+        this.hitbox.x = this.x + (this.w - this.hitbox.w) / 2;
+        if (this.currentFrame > 5 && this.currentFrame < 9) {
+            this.follow = false;
+            if (collided(this, player)) {
+                if (player.healthAmount > 0 && player.iFrame == 0) {
+                    player.healthAmount -= 2;
+                    playerInterface.shake = 4;
+                    player.attacked = true;
+                }
+            }
+        }
+    }
+    render() {
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness) {
+            this.currentFrame++;
+            this.frameCounter = 0;
+        }
+
+        if (this.currentFrame >= this.actionX[this.action].length) {
+            this.currentFrame = 0;
+            this.disabled = true;
+        }
+
+        c.drawImage(
+            SPRITESHEET,
+            this.actionX[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            this.actionY[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            (this.w) * GLOBAL.tileSize,
+            this.h * GLOBAL.tileSize,
+            map.x + (this.x) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.y * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            (this.w) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tileSize * GLOBAL.ratio | 0
+
+        )
+    }
+}
+class MageMonster {
+    constructor(x, y) {
+        this.x = x;
+        this.y = y;
+        this.w = 1;
+        this.h = 1;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.speed = 0.1;
+
+        // Amount of frames to skip before running a player detection check
+        this.frames = 10;
+
+        this.attacking = false;
+
+        // The monster's detection range 
+        this.range = 4;
+
+        this.dead = false;
+        this.deathAnimation = false;
+        this.currentFrame = 0;
+        this.frameCounter = 0;
+
+        this.type = "mage";
+        this.dead = false;
+        this.slowness = 3;
+        this.atkCounter = 0;
+        this.downCounter = 0;
+        this.down = 0;
+        this.w = 2;
+        this.h = 2;
+        this.action = 0;
+        this.hitbox = {
+            x: this.x,
+            y: this.y,
+            w: this.w,
+            h: this.h,
+        };
+        this.atkBox = {
+            x: 0,
+            y: 0,
+            w: 0,
+            h: 0,
+        };
+        this.laser = new MageAttack(0, 0);
+        this.actionX = [[22, 22, 22, 22], [24, 24, 24, 24]];
+        this.actionY = [[0, 2, 4, 6], [0, 2, 4, 6]];
+    }
+    compute() {
+        this.frames--;
+        if (this.frames <= 0) {
+            this.frames = 10;
+
+            if (collided(this.atkBox, player)) {
+                this.attacking = true;
+                if (this.laser.disabled) {
+                    this.laser.disabled = false;
+                    this.laser.follow = true;
+                    this.laser.x = this.x;
+                }
+            } else {
+                this.attacking = false;
+            }
+
+            if (!this.attacking) {
+                this.atkBox.x = this.x - this.range;
+                this.atkBox.y = this.y - this.range;
+                this.atkBox.w = this.w + this.range * 2;
+                this.atkBox.h = this.h + this.range * 2;
+
+            } else {
+                if (!this.dead && collided(this, player)) {
+                    if (player.healthAmount > 0 && player.iFrame == 0) {
+                        player.healthAmount--;
+                        playerInterface.shake = 4;
+                        player.attacked = true;
+                    }
+                }
+            }
+        }
+
+    }
+
+    render() {
+        if (!this.laser.disabled) {
+            this.laser.compute();
+            this.laser.render();
+        }
+        this.dead = false;
+        if (this.attacking) {
+            this.action = 1;
+        } else {
+            this.action = 0;
+        }
+        this.frameCounter++;
+        if (this.frameCounter > this.slowness) {
+            this.currentFrame++;
+            this.frameCounter = 0;
+        }
+
+        if (this.currentFrame >= this.actionX[this.action].length) {
+            this.currentFrame = 0;
+        }
+        c.drawImage(
+            SPRITESHEET,
+            this.actionX[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            this.actionY[this.action][this.currentFrame] * GLOBAL.tileSize | 0,
+            (this.w + this.down) * GLOBAL.tileSize,
+            this.h * GLOBAL.tileSize,
+            map.x + (this.x - this.down) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            map.y + this.y * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            (this.w + this.down) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tileSize * GLOBAL.ratio | 0
+
+        )
+    }
+}
+
+// The map object contains the tiles/enemies arrays 
+
+class Map {
+    constructor() {
+        this.tilesWidth = canvas.width / GLOBAL.tileSize / GLOBAL.ratio;
+        this.tilesHeight = canvas.height / GLOBAL.tileSize / GLOBAL.ratio;
+        this.x = 0;
+        this.y = 0;
+        this.backgroundSheet = id("spritesheet-bg");
+        this.backgroundsX = [0, 0, 0];
+        this.backgroundsY = [0, 150, 300];
+        this.backgroundSizeW = 450;
+        this.backgroundSizeH = 150;
+        this.backgroundPosX = [0, 0, 0]
+        this.backgroundPosY = [0, 0, 0];
+        this.bgTiles = []; // Tiles that are displayed behind the player
+        this.fgTiles = []; // Tiles that are displayed in front of the player
+        this.map = [{
+            x: 10,
+            y: 5,
+            w: 1,
+            h: 1,
+            type: 0
+        }, {
+            x: 6,
+            y: 7,
+            w: 7,
+            h: 1,
+            type: 1
+        }, {
+            x: 13,
+            y: 7,
+            w: 1,
+            h: 1,
+            type: 2
+        }, {
+            x: 14,
+            y: 8,
+            w: 8,
+            h: 1,
+            type: 1
+        }, {
+            x: 22,
+            y: 7,
+            w: 1,
+            h: 1,
+            type: 0
+        }, {
+            x: 23,
+            y: 7,
+            w: 8,
+            h: 1,
+            type: 1
+        }, {
+            x: 31,
+            y: 7,
+            w: 1,
+            h: 1,
+            type: 2
+        }, {
+            x: 5,
+            y: 7,
+            w: 1,
+            h: 1,
+            type: 0
+        }, {
+            x: 5,
+            y: 8,
+            w: 1,
+            h: 3,
+            type: 3
+        }, {
+            x: 5,
+            y: 11,
+            w: 1,
+            h: 1,
+            type: 6
+        }, {
+            x: 6,
+            y: 11,
+            w: 25,
+            h: 1,
+            type: 7
+        }, {
+            x: 31,
+            y: 11,
+            w: 1,
+            h: 1,
+            type: 8
+        }, {
+            x: 31,
+            y: 8,
+            w: 1,
+            h: 3,
+            type: 5
+        }, {
+            x: 22,
+            y: 8,
+            w: 9,
+            h: 1,
+            type: 4
+        }, {
+            x: 6,
+            y: 8,
+            w: 8,
+            h: 1,
+            type: 4
+        }, {
+            x: 6,
+            y: 9,
+            w: 25,
+            h: 2,
+            type: 4
+        }, {
+            x: 19,
+            y: 6,
+            w: 1,
+            h: 1,
+            type: 13
+        }, {
+            x: 23,
+            y: 4,
+            w: 1,
+            h: 1,
+            type: 13
+        }, {
+            x: 28,
+            y: 5,
+            w: 1,
+            h: 1,
+            type: 13
+        }, {
+            x: 29,
+            y: 4,
+            w: 1,
+            h: 1,
+            type: 14
+        }, {
+            x: 19,
+            y: 2,
+            w: 1,
+            h: 1,
+            type: 15
+        }, ];
+        this.spawnPoint = {
+            x: 10,
+            y: 0
+        };
+        this.tiles = [];
+        this.enemies = [];
+        /*
+        this.enemies.push(new Monster(12, 4));
+        this.enemies.push(new Monster(15, 11));
+        this.enemies.push(new Monster(19, 6));
+        this.enemies.push(new TeaMonster(8, 6));
+        this.enemies.push(new MageMonster(7, 4));
+        */
+    }
+    moveCamera() {
+        this.x = -(player.x - 8) * GLOBAL.tileSize * GLOBAL.ratio;
+        this.y = -(player.y - 8) * GLOBAL.tileSize * GLOBAL.ratio;
+    }
+    renderTiles() {
+        // Renders collidable tiles
+        for (let i = 0; i < this.tiles.length; i++) {
+            renderTile(this.tiles[i]);
+        }
+    }
+    renderBgTiles() {
+        // Renders background tiles
+        for (let i = 0; i < this.bgTiles.length; i++) {
+            renderTile(this.bgTiles[i]);
+        }
+    }
+    renderFgTiles() {
+        // Renders "frontground" tiles
+        for (let i = 0; i < this.fgTiles.length; i++) {
+            renderTile(this.tiles[i]);
+        }
+    }
+    renderEnemies() {
+        for (let i = 0; i < this.enemies.length; i++) {
+            this.enemies[i].render();
+        }
+    }
+    renderBackground() {
+        this.backgroundPosX[1] += 0.6;
+        this.backgroundPosX[2] += 0.3;
+
+        if (this.backgroundPosX[0] > this.backgroundSizeW * GLOBAL.ratio) {
+            this.backgroundPosX[0] -= this.backgroundSizeW * GLOBAL.ratio;
+        }
+        if (this.backgroundPosX[1] > this.backgroundSizeW * GLOBAL.ratio) {
+            this.backgroundPosX[1] -= this.backgroundSizeW * GLOBAL.ratio;
+        }
+        if (this.backgroundPosX[2] > this.backgroundSizeW * GLOBAL.ratio) {
+            this.backgroundPosX[2] -= this.backgroundSizeW * GLOBAL.ratio;
+        }
+
+        // Draws the second set of clouds
+        for (let i = -1; i < 2; i++) {
+            c.drawImage(
+                this.backgroundSheet,
+                this.backgroundsX[2] | 0,
+                this.backgroundsY[2] | 0,
+                this.backgroundSizeW,
+                this.backgroundSizeH,
+                this.backgroundSizeW * GLOBAL.ratio * i + this.backgroundPosX[2] + this.x / 8,
+                this.backgroundPosY[2],
+                this.backgroundSizeW * GLOBAL.ratio,
+                this.backgroundSizeH * GLOBAL.ratio
+            )
+
+        }
+        // Draws the first set of clouds
+        for (let i = -1; i < 2; i++) {
+            c.drawImage(
+                this.backgroundSheet,
+                this.backgroundsX[1] | 0,
+                this.backgroundsY[1] | 0,
+                this.backgroundSizeW,
+                this.backgroundSizeH,
+                this.backgroundSizeW * GLOBAL.ratio * i + this.backgroundPosX[1] + this.x / 6,
+                this.backgroundPosY[1],
+                this.backgroundSizeW * GLOBAL.ratio,
+                this.backgroundSizeH * GLOBAL.ratio
+            )
+
+        }
+        // Draws the mountains
+        for (let i = -1; i < 2; i++) {
+            c.drawImage(
+                this.backgroundSheet,
+                this.backgroundsX[0] | 0,
+                this.backgroundsY[0] | 0,
+                this.backgroundSizeW,
+                this.backgroundSizeH,
+                this.backgroundSizeW * GLOBAL.ratio * i + this.backgroundPosX[0] + this.x / 4,
+                this.backgroundPosY[0],
+                this.backgroundSizeW * GLOBAL.ratio,
+                this.backgroundSizeH * GLOBAL.ratio
+            )
+        }
+
+        // Covers the bottom sky
+        c.fillStyle = "#20394f";
+        c.fillRect(
+            0,
+            this.backgroundsY[0] + this.backgroundSizeH * GLOBAL.ratio,
+            canvas.width,
+            this.backgroundSizeH * GLOBAL.ratio,
+        )
+
+    }
+    computeEnemies() {
+        for (let i = 0; i < this.enemies.length; i++) {
+            this.enemies[i].compute();
+        }
+    }
+}
+var map = new Map();
+
+// Determines if the game is in testing mode
+var mapTester = true;
+if (window.opener) {
+    if (window.opener.mapObject) {
+        debug.log(window.opener.mapObject);
+        safeEval(window.opener.mapObject);
+        initializeMap()
+    } else {
+        safeEval(window.opener.map);
+        initializeMap()
+    }
+} else {
+    mapTester = false;
+}
+
+function safeEval(level) {
+    if (typeof level === 'object' && level !== null) {
+        map.map = Object.create(level.map);
+        map.spawnPoint = Object.create(level.spawnPoint);
+        console.log("safe eval");
+    }
+}
+// Renders tiles chunks into single squares of the specified type
+function renderTile(e) {
+    if (e.stack) {
+        c.drawImage(
+            SPRITESHEET,
+            tiles[e.type][0] * GLOBAL.tileSize | 0,
+            tiles[e.type][1] * GLOBAL.tileSize | 0,
+            e.w * GLOBAL.tileSize,
+            e.h * GLOBAL.tileSize,
+            map.x + e.x * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            map.y + e.y * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            e.w * GLOBAL.tileSize * GLOBAL.ratio | 0,
+            e.h * GLOBAL.tileSize * GLOBAL.ratio | 0
+        )
+
+    } else {
+        for (let i = 0; i < e.w; i++) {
+            for (let j = 0; j < e.h; j++) {
+                c.drawImage(
+                    SPRITESHEET,
+                    tiles[e.type][0] * GLOBAL.tileSize | 0,
+                    tiles[e.type][1] * GLOBAL.tileSize | 0,
+                    GLOBAL.tileSize,
+                    GLOBAL.tileSize,
+                    map.x + (e.x + i) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                    map.y + (e.y + j) * GLOBAL.tileSize * GLOBAL.ratio | 0,
+                    GLOBAL.tileSize * GLOBAL.ratio | 0,
+                    GLOBAL.tileSize * GLOBAL.ratio | 0
+                )
+            }
+
+        }
+    }
+}
+
+// The game's main loop
+function gameLoop() {
+    GLOBAL.fpsCounter++;
+    setTimeout(gameLoop, 1000 / GLOBAL.FPS)
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    c.fillStyle = "#08141e";
+    c.fillRect(0, 0, canvas.width, canvas.height);
+    renderStars();
+    map.renderBackground();
+    map.renderTiles();
+    map.renderBgTiles();
+    player.compute();
+    checkCollisions();
+    map.computeEnemies();
+    map.renderEnemies();
+    player.render();
+    playerInterface.render();
+    map.moveCamera();
+    resetBtnReleases(controls);
+    displayDebug(); // Shows player's and game's variables
+
+}
+gameLoop();
+
+
+
+function initializeMap() {
+    player.x = map.spawnPoint.x;
+    player.y = map.spawnPoint.y;
+    map.tiles = map.map;
+    var removeList = [];
+
+    for (let i = map.tiles.length - 1; i >= 0; i--) {
+        switch (map.tiles[i].type) {
+            case 13:
+                map.enemies.push(new Monster(map.tiles[i].x, map.tiles[i].y))
+                removeList.push(i);
+                break;
+            case 14:
+                map.enemies.push(new TeaMonster(map.tiles[i].x, map.tiles[i].y))
+                removeList.push(i);
+                break;
+            case 15:
+                map.enemies.push(new MageMonster(map.tiles[i].x, map.tiles[i].y))
+                removeList.push(i);
+                break;
+        }
+    }
+    for (let i = 0; i < removeList.length; i++) {
+        map.tiles.splice(removeList[i], 1);
+    }
+}

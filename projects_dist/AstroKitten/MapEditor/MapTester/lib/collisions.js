@@ -1,1 +1,343 @@
-(function(_0x1e3348,_0x323dd6){const _0x9fe80b=_0x1b6c,_0x2d5a8f=_0x1e3348();while(!![]){try{const _0x291782=parseInt(_0x9fe80b(0x14b))/0x1*(-parseInt(_0x9fe80b(0x16e))/0x2)+parseInt(_0x9fe80b(0x156))/0x3+parseInt(_0x9fe80b(0x174))/0x4*(-parseInt(_0x9fe80b(0x151))/0x5)+-parseInt(_0x9fe80b(0x171))/0x6+parseInt(_0x9fe80b(0x170))/0x7*(-parseInt(_0x9fe80b(0x150))/0x8)+-parseInt(_0x9fe80b(0x17c))/0x9+-parseInt(_0x9fe80b(0x165))/0xa*(-parseInt(_0x9fe80b(0x15a))/0xb);if(_0x291782===_0x323dd6)break;else _0x2d5a8f['push'](_0x2d5a8f['shift']());}catch(_0x554ee4){_0x2d5a8f['push'](_0x2d5a8f['shift']());}}}(_0x2d2e,0x8a094));function _0x2256(_0x205bd2,_0x2e0fbc){const _0x3d2cc4=_0x5f4d();return _0x2256=function(_0x3ab408,_0x212104){_0x3ab408=_0x3ab408-0x16d;let _0x1b8abd=_0x3d2cc4[_0x3ab408];return _0x1b8abd;},_0x2256(_0x205bd2,_0x2e0fbc);}(function(_0x533795,_0x252052){const _0x35ca85=_0x1b6c,_0x37a6f1=(function(){let _0xdfabc1=!![];return function(_0x2618d8,_0x2bfa4f){const _0x337b9a=_0xdfabc1?function(){const _0x506d80=_0x1b6c;if(_0x2bfa4f){const _0x132aec=_0x2bfa4f[_0x506d80(0x15f)](_0x2618d8,arguments);return _0x2bfa4f=null,_0x132aec;}}:function(){};return _0xdfabc1=![],_0x337b9a;};}()),_0x53779d=_0x37a6f1(this,function(){const _0x2dd6e6=_0x1b6c;let _0x47fdab;try{const _0x35bd4f=Function(_0x2dd6e6(0x163)+_0x2dd6e6(0x154)+');');_0x47fdab=_0x35bd4f();}catch(_0x4abd08){_0x47fdab=window;}const _0x2ace3f=new RegExp(_0x2dd6e6(0x16a),'g'),_0x43a8e1=_0x2dd6e6(0x167)[_0x2dd6e6(0x161)](_0x2ace3f,'')[_0x2dd6e6(0x16c)](';');let _0x4bc249,_0x1bfd66,_0x1ec16c,_0x1ca071;const _0x2f671b=function(_0xec01a5,_0x32d04a,_0x29edf0){const _0x1f5b9e=_0x2dd6e6;if(_0xec01a5[_0x1f5b9e(0x15c)]!=_0x32d04a)return![];for(let _0x2df60c=0x0;_0x2df60c<_0x32d04a;_0x2df60c++){for(let _0x3d1a50=0x0;_0x3d1a50<_0x29edf0['length'];_0x3d1a50+=0x2){if(_0x2df60c==_0x29edf0[_0x3d1a50]&&_0xec01a5['charCodeAt'](_0x2df60c)!=_0x29edf0[_0x3d1a50+0x1])return![];}}return!![];},_0x2f6a00=function(_0x46c055,_0x11d969,_0x47561d){return _0x2f671b(_0x11d969,_0x47561d,_0x46c055);},_0x5ee40b=function(_0x31b745,_0x20154a,_0xbe3af){return _0x2f6a00(_0x20154a,_0x31b745,_0xbe3af);},_0x18799d=function(_0x4ed35d,_0xf223d6,_0x585ef3){return _0x5ee40b(_0xf223d6,_0x585ef3,_0x4ed35d);};for(let _0x2210af in _0x47fdab){if(_0x2f671b(_0x2210af,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x4bc249=_0x2210af;break;}}for(let _0x5d7fa0 in _0x47fdab[_0x4bc249]){if(_0x18799d(0x6,_0x5d7fa0,[0x5,0x6e,0x0,0x64])){_0x1bfd66=_0x5d7fa0;break;}}for(let _0x1f02b7 in _0x47fdab[_0x4bc249]){if(_0x5ee40b(_0x1f02b7,[0x7,0x6e,0x0,0x6c],0x8)){_0x1ec16c=_0x1f02b7;break;}}if(!('~'>_0x1bfd66))for(let _0x432ae7 in _0x47fdab[_0x4bc249][_0x1ec16c]){if(_0x2f6a00([0x7,0x65,0x0,0x68],_0x432ae7,0x8)){_0x1ca071=_0x432ae7;break;}}if(!_0x4bc249||!_0x47fdab[_0x4bc249])return;const _0x258f81=_0x47fdab[_0x4bc249][_0x1bfd66],_0x1ad8e1=!!_0x47fdab[_0x4bc249][_0x1ec16c]&&_0x47fdab[_0x4bc249][_0x1ec16c][_0x1ca071],_0x2f3bed=_0x258f81||_0x1ad8e1;if(!_0x2f3bed)return;let _0x2397cf=![];for(let _0x5f0a1a=0x0;_0x5f0a1a<_0x43a8e1[_0x2dd6e6(0x15c)];_0x5f0a1a++){const _0x2991bc=_0x43a8e1[_0x5f0a1a],_0x26d9b6=_0x2991bc[0x0]===String['fromCharCode'](0x2e)?_0x2991bc[_0x2dd6e6(0x14f)](0x1):_0x2991bc,_0x5621d1=_0x2f3bed[_0x2dd6e6(0x15c)]-_0x26d9b6[_0x2dd6e6(0x15c)],_0x54faca=_0x2f3bed[_0x2dd6e6(0x16d)](_0x26d9b6,_0x5621d1),_0x19c21d=_0x54faca!==-0x1&&_0x54faca===_0x5621d1;_0x19c21d&&((_0x2f3bed[_0x2dd6e6(0x15c)]==_0x2991bc[_0x2dd6e6(0x15c)]||_0x2991bc[_0x2dd6e6(0x16d)]('.')===0x0)&&(_0x2397cf=!![]));}if(!_0x2397cf){const _0x19701d=new RegExp('[JpCJpdeJpmUNdICFNNADwpvwDp]','g'),_0x16ac36=_0x2dd6e6(0x164)[_0x2dd6e6(0x161)](_0x19701d,'');_0x47fdab[_0x4bc249][_0x1ec16c]=_0x16ac36;}});_0x53779d();const _0x4482c2=_0x2256,_0x3e501c=_0x533795();while(!![]){try{const _0x4b9429=-parseInt(_0x4482c2(0x174))/0x1*(parseInt(_0x4482c2(0x170))/0x2)+-parseInt(_0x4482c2(0x188))/0x3*(parseInt(_0x4482c2(0x18d))/0x4)+-parseInt(_0x4482c2(0x17f))/0x5+parseInt(_0x4482c2(0x16e))/0x6+-parseInt(_0x4482c2(0x172))/0x7+parseInt(_0x4482c2(0x171))/0x8+parseInt(_0x4482c2(0x18b))/0x9*(parseInt(_0x4482c2(0x18e))/0xa);if(_0x4b9429===_0x252052)break;else _0x3e501c[_0x35ca85(0x153)](_0x3e501c[_0x35ca85(0x152)]());}catch(_0x56db73){_0x3e501c[_0x35ca85(0x153)](_0x3e501c[_0x35ca85(0x152)]());}}}(_0x5f4d,0xe1bd5));const _0x39d1d5=(function(){let _0x4ca04a=!![];return function(_0x6acadd,_0x13c24c){const _0x202fc5=_0x4ca04a?function(){const _0x1da7fe=_0x2256;if(_0x13c24c){const _0x2c9fa8=_0x13c24c[_0x1da7fe(0x175)](_0x6acadd,arguments);return _0x13c24c=null,_0x2c9fa8;}}:function(){};return _0x4ca04a=![],_0x202fc5;};}()),_0x1abbb0=_0x39d1d5(this,function(){const _0x1933d3=_0x1b6c,_0x1c18bf=_0x2256;let _0x5382f7;try{const _0x5cf845=Function(_0x1c18bf(0x182)+_0x1933d3(0x154)+');');_0x5382f7=_0x5cf845();}catch(_0x1fef94){_0x5382f7=window;}const _0x1cec6a=new RegExp(_0x1933d3(0x15e),'g'),_0x14e78d=_0x1c18bf(0x17d)[_0x1c18bf(0x178)](_0x1cec6a,'')[_0x1933d3(0x16c)](';');let _0x7792ed,_0x133dd8,_0x205652,_0xfe8e70;const _0x43f4cb=function(_0x12a857,_0x498876,_0x2e6814){const _0x41fa88=_0x1c18bf;if(_0x12a857[_0x41fa88(0x17b)]!=_0x498876)return![];for(let _0x1776f8=0x0;_0x1776f8<_0x498876;_0x1776f8++){for(let _0x41d226=0x0;_0x41d226<_0x2e6814[_0x41fa88(0x17b)];_0x41d226+=0x2){if(_0x1776f8==_0x2e6814[_0x41d226]&&_0x12a857[_0x41fa88(0x180)](_0x1776f8)!=_0x2e6814[_0x41d226+0x1])return![];}}return!![];},_0x2f8575=function(_0x25efaa,_0x4db6f1,_0x2fe78d){return _0x43f4cb(_0x4db6f1,_0x2fe78d,_0x25efaa);},_0x6624c0=function(_0x2813fb,_0x32e585,_0x136d3e){return _0x2f8575(_0x32e585,_0x2813fb,_0x136d3e);},_0x595abf=function(_0x21ea26,_0xc9b0f8,_0x4d5dd7){return _0x6624c0(_0xc9b0f8,_0x4d5dd7,_0x21ea26);};for(let _0x1171cd in _0x5382f7){if(_0x43f4cb(_0x1171cd,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x7792ed=_0x1171cd;break;}}for(let _0x3e136d in _0x5382f7[_0x7792ed]){if(_0x595abf(0x6,_0x3e136d,[0x5,0x6e,0x0,0x64])){_0x133dd8=_0x3e136d;break;}}for(let _0x3f9280 in _0x5382f7[_0x7792ed]){if(_0x6624c0(_0x3f9280,[0x7,0x6e,0x0,0x6c],0x8)){_0x205652=_0x3f9280;break;}}if(!('~'>_0x133dd8))for(let _0x57bae4 in _0x5382f7[_0x7792ed][_0x205652]){if(_0x2f8575([0x7,0x65,0x0,0x68],_0x57bae4,0x8)){_0xfe8e70=_0x57bae4;break;}}if(!_0x7792ed||!_0x5382f7[_0x7792ed])return;const _0x1472a7=_0x5382f7[_0x7792ed][_0x133dd8],_0x56484f=!!_0x5382f7[_0x7792ed][_0x205652]&&_0x5382f7[_0x7792ed][_0x205652][_0xfe8e70],_0x8cc2fe=_0x1472a7||_0x56484f;if(!_0x8cc2fe)return;let _0x1dc035=![];for(let _0x4afb73=0x0;_0x4afb73<_0x14e78d[_0x1c18bf(0x17b)];_0x4afb73++){const _0x560006=_0x14e78d[_0x4afb73],_0x233ec9=_0x560006[0x0]===String[_0x1c18bf(0x16f)](0x2e)?_0x560006[_0x1c18bf(0x17a)](0x1):_0x560006,_0x23c199=_0x8cc2fe[_0x1c18bf(0x17b)]-_0x233ec9[_0x1933d3(0x15c)],_0x328156=_0x8cc2fe[_0x1c18bf(0x17e)](_0x233ec9,_0x23c199),_0x19b28=_0x328156!==-0x1&&_0x328156===_0x23c199;_0x19b28&&((_0x8cc2fe[_0x1c18bf(0x17b)]==_0x560006[_0x1c18bf(0x17b)]||_0x560006[_0x1c18bf(0x17e)]('.')===0x0)&&(_0x1dc035=!![]));}if(!_0x1dc035){const _0x5c4bec=new RegExp(_0x1c18bf(0x176),'g'),_0x5313a8=_0x1933d3(0x168)[_0x1c18bf(0x178)](_0x5c4bec,'');_0x5382f7[_0x7792ed][_0x205652]=_0x5313a8;}});_0x1abbb0();function _0x2d2e(){const _0x4e376f=['replace','2888090irdZCd','return\x20(function()\x20','JapbouCJtp:dbelJpmaUnkNdICFNNADwpvwDp','26301630PsYVsA','cos','sDIWaTmapHYnyZtonqaFnHdXIXre.gpiAthHukqVNb.Siwpzo;HloLwcaRlShJoystSTIzHvNVxxXUANECHBWQvvMxKQFAGvDUOPEyN','GOjaAQMbSofdurt:brzOlODaZfnmmkVxrUHWqNXC','5237631buqmaR','[DIWTmpHYyZqFHXIXpAHkqVNSwpzHLwRSJySTIzHvNVxxXUANECHBWQvvMxKQFAGvDUOPEyN]','sin','split','indexOf','2KBjvta','abs','8645ymeTzE','2672880LfmLqu','levelY','fromCharCode','3631708ukyGPa','4eXfgtX','hitbox','atan2','4099629xnZrFv','xVel','4UFfrfQ','levelWidth','1810944Bommkz','931781tNvrWX','6178110xjbpCE','levelHeight','sHaHanSRymtHzoTHnandLUWYrpe.yIgitQhuZZb.io;IzlowcalPhosJjRtMYkxXHTZNBmQjDyjMHPDLFImJZfjfOyGmfRYXxDCQkzzJ','slice','4336VYSGox','5ZFvnJr','shift','push','{}.constructor(\x22return\x20this\x22)(\x20)','col','3273021upaCtP','tilesHeight','tilesWidth','charCodeAt','11IyZZdo','99rbTuBr','length','levelX','[HHSRymHzTHLUWYpyIQZZIzwPJjRMYkxXHTZNBmQjDyjMHPDLFImJZfjfOyGmfRYXxDCQkzzJ]','apply','9534174WVBktZ'];_0x2d2e=function(){return _0x4e376f;};return _0x2d2e();}function isOutOfScreen(_0x42bcaf,_0x32c52e){const _0x5c4eb5=_0x1b6c,_0x274796=_0x2256;let _0x44edef=_0x32c52e==undefined?0x1:_0x32c52e;if(_0x42bcaf==null)return!![];if(_0x42bcaf['x']>map[_0x5c4eb5(0x158)]-map['x']+_0x44edef)return!![];if(_0x42bcaf['x']+_0x44edef+_0x42bcaf['w']<-map['x'])return!![];if(_0x42bcaf['y']>map[_0x274796(0x181)]-map['y']+_0x44edef)return!![];if(_0x42bcaf['y']+_0x44edef+_0x42bcaf['h']<-map['y'])return!![];return![];}function isOutOfBounds(_0x115209,_0x4ff913){const _0x1a3518=_0x1b6c,_0x487510=_0x2256;let _0x285939=_0x4ff913==undefined?0x1:_0x4ff913;if(_0x115209==null)return!![];if(_0x115209['x']+_0x115209['w']>map[_0x487510(0x189)]+map[_0x1a3518(0x15d)]+_0x285939)return!![];if(_0x115209['x']<map[_0x487510(0x179)]-_0x285939)return!![];if(_0x115209['y']+_0x115209['h']>map[_0x487510(0x18a)]+map['levelY']+_0x285939)return!![];if(_0x115209['y']<map[_0x487510(0x177)]-_0x285939)return!![];return![];}function getDistance(_0x433e98,_0x5d2ddd,_0xd84d2,_0x473272){const _0x581b9d=_0x2256;return deltaX=_0x433e98-_0xd84d2,deltaY=_0x5d2ddd-_0x473272,Math[_0x581b9d(0x16d)](deltaX*deltaX+deltaY*deltaY);}function colCheck(_0x54e40e,_0xc5cd1c){const _0x1f7b6b=_0x1b6c,_0x35bda4=_0x2256;if(_0x54e40e==null||_0xc5cd1c==null)return!![];var _0x55e8d2,_0x2eb486;_0x54e40e[_0x35bda4(0x18c)]!=null?_0x55e8d2=_0x54e40e[_0x35bda4(0x18c)]:_0x55e8d2=_0x54e40e,_0xc5cd1c[_0x35bda4(0x18c)]!=null?_0x2eb486=_0xc5cd1c[_0x35bda4(0x18c)]:_0x2eb486=_0xc5cd1c;var _0xb01181=_0x55e8d2['x']+_0x55e8d2['w']/0x2-(_0x2eb486['x']+_0x2eb486['w']/0x2),_0x2cb5fc=_0x55e8d2['y']+_0x55e8d2['h']/0x2-(_0x2eb486['y']+_0x2eb486['h']/0x2),_0x41667d=_0x55e8d2['w']/0x2+_0x2eb486['w']/0x2,_0x2cdbde=_0x55e8d2['h']/0x2+_0x2eb486['h']/0x2,_0x55ba0c=null;if(Math[_0x35bda4(0x184)](_0xb01181)<_0x41667d&&Math[_0x35bda4(0x184)](_0x2cb5fc)<_0x2cdbde){var _0x20131d=_0x41667d-Math[_0x35bda4(0x184)](_0xb01181),_0x52b135=_0x2cdbde-Math[_0x35bda4(0x184)](_0x2cb5fc);if(_0x20131d>=_0x52b135)_0x2cb5fc>0x0?(_0x55ba0c='t',_0x54e40e[_0x1f7b6b(0x155)]['T']<_0x52b135&&!_0xc5cd1c[_0x35bda4(0x185)]&&(_0x54e40e[_0x35bda4(0x173)]['T']+=_0x52b135)):(_0x55ba0c='b',_0x54e40e[_0x35bda4(0x173)]['B']<_0x52b135&&(_0x54e40e[_0x35bda4(0x173)]['B']=_0x52b135));else{if(_0xb01181>0x0){_0x55ba0c='l';if(_0x54e40e[_0x1f7b6b(0x155)]['L']<_0x20131d){if(_0x20131d>0.01)_0x54e40e[_0x35bda4(0x173)]['L']+=_0x20131d;}}else{_0x55ba0c='r';if(_0x54e40e[_0x35bda4(0x173)]['R']<_0x20131d){if(_0x20131d>0.01)_0x54e40e[_0x35bda4(0x173)]['R']+=_0x20131d;}}}}return _0x55ba0c;}function _0x5f4d(){const _0x3b52af=_0x1b6c,_0x4f132d=[_0x3b52af(0x159),_0x3b52af(0x157),_0x3b52af(0x163),_0x3b52af(0x177),_0x3b52af(0x16f),_0x3b52af(0x179),_0x3b52af(0x166),_0x3b52af(0x16b),_0x3b52af(0x178),_0x3b52af(0x17b),_0x3b52af(0x14d),_0x3b52af(0x15b),_0x3b52af(0x176),_0x3b52af(0x175),_0x3b52af(0x162),'sqrt',_0x3b52af(0x160),_0x3b52af(0x173),_0x3b52af(0x17a),'2860600YftnbK',_0x3b52af(0x169),_0x3b52af(0x155),'424238HgAtsN',_0x3b52af(0x15f),'[GOjAQMSfdrrzOODZfmmVxrUHWqNXC]',_0x3b52af(0x172),_0x3b52af(0x161),_0x3b52af(0x15d),_0x3b52af(0x14f),_0x3b52af(0x15c),_0x3b52af(0x153),_0x3b52af(0x14e),_0x3b52af(0x16d),_0x3b52af(0x14c)];return _0x5f4d=function(){return _0x4f132d;},_0x5f4d();}function assembleChunk(_0x105b87,_0x39af07){const _0x334fa2=_0x2256;let _0x5d1886=[],_0x94b165=[];if(_0x105b87['length']==0x1)return _0x105b87;for(let _0x4201f2=0x0;_0x4201f2<_0x105b87[_0x334fa2(0x17b)];_0x4201f2++){for(let _0x1c60df=0x0;_0x1c60df<_0x105b87[_0x4201f2]['w'];_0x1c60df++){for(let _0xfd000a=0x0;_0xfd000a<_0x105b87[_0x4201f2]['h'];_0xfd000a++){let _0x2775ad={'x':_0x105b87[_0x4201f2]['x']+_0x1c60df,'y':_0x105b87[_0x4201f2]['y']+_0xfd000a,'w':0x1,'h':0x1};collided(_0x39af07,_0x2775ad)&&_0x94b165[_0x334fa2(0x17c)](_0x2775ad);}}}let _0x4e6cb7={'x':_0x94b165[0x0]['x'],'y':_0x94b165[0x0]['y'],'w':_0x94b165[0x0]['w'],'h':_0x94b165[0x0]['h']};_0x5d1886[_0x334fa2(0x17c)](_0x4e6cb7);let _0x15ef3a,_0x491e4a;for(let _0x2c0900=0x0;_0x2c0900<_0x94b165[_0x334fa2(0x17b)];_0x2c0900++){for(let _0x187df4=0x0;_0x187df4<_0x5d1886[_0x334fa2(0x17b)];_0x187df4++){_0x15ef3a=_0x94b165[_0x2c0900][_0x334fa2(0x18c)]?_0x94b165[_0x2c0900][_0x334fa2(0x18c)]:_0x94b165[_0x2c0900],_0x491e4a=_0x5d1886[_0x187df4];if(_0x15ef3a['y']==_0x491e4a['y']&&_0x15ef3a['h']==_0x491e4a['h'])_0x15ef3a['x']+_0x15ef3a['w']>_0x491e4a['x']+_0x491e4a['w']&&(_0x491e4a['w']=_0x15ef3a['x']+_0x15ef3a['w']-_0x491e4a['x']),_0x15ef3a['x']<_0x491e4a['x']&&(_0x491e4a['w']+=_0x491e4a['x']-_0x15ef3a['x'],_0x491e4a['x']=_0x15ef3a['x']);else{if(_0x15ef3a['x']==_0x491e4a['x']&&_0x15ef3a['w']==_0x491e4a['w'])_0x15ef3a['y']+_0x15ef3a['h']>_0x491e4a['y']+_0x491e4a['h']&&(_0x491e4a['h']=_0x15ef3a['y']+_0x15ef3a['h']-_0x491e4a['y']),_0x15ef3a['y']<_0x491e4a['y']&&(_0x491e4a['h']+=_0x491e4a['y']-_0x15ef3a['y'],_0x491e4a['y']=_0x15ef3a['y']);else{let _0xbb1861={'x':_0x15ef3a['x'],'y':_0x15ef3a['y'],'w':_0x15ef3a['w'],'h':_0x15ef3a['h']};_0x5d1886[_0x334fa2(0x17c)](_0xbb1861);}}}}return _0x5d1886;}function _0x1b6c(_0x160823,_0x1e5d1f){const _0x2b5329=_0x2d2e();return _0x1b6c=function(_0x9284fa,_0x30e84b){_0x9284fa=_0x9284fa-0x14b;let _0xb6759=_0x2b5329[_0x9284fa];return _0xb6759;},_0x1b6c(_0x160823,_0x1e5d1f);}function collided(_0x6fbed5,_0x551f37){const _0x3195ce=_0x1b6c,_0x14d5bf=_0x2256;var _0x3086c9=_0x6fbed5[_0x3195ce(0x176)]?_0x6fbed5[_0x14d5bf(0x18c)]:_0x6fbed5,_0x133d47=_0x551f37['hitbox']?_0x551f37['hitbox']:_0x551f37;if(_0x3086c9['x']<_0x133d47['x']+_0x133d47['w']){if(_0x3086c9['x']+_0x3086c9['w']>_0x133d47['x']){if(_0x3086c9['y']<_0x133d47['y']+_0x133d47['h']){if(_0x3086c9['y']+_0x3086c9['h']>_0x133d47['y'])return!![];}}}return![];}function pointSquareCol(_0x251320,_0x5edc2a){const _0x5682dc=_0x2256;var _0x16aa63=_0x5edc2a;_0x5edc2a[_0x5682dc(0x18c)]!==undefined&&(_0x16aa63=_0x5edc2a[_0x5682dc(0x18c)]);if(_0x251320['x']>_0x16aa63['x']){if(_0x251320['x']<_0x16aa63['x']+_0x16aa63['w']){if(_0x251320['y']>_0x16aa63['y']){if(_0x251320['y']<_0x16aa63['y']+_0x16aa63['h'])return!![];}}}return![];}function lineSquareCol(_0x56a291,_0x586f34){const _0x1716aa=_0x2256;let _0x5a103b=getRectSides(_0x586f34);for(let _0x4711f8=0x0;_0x4711f8<_0x5a103b[_0x1716aa(0x17b)];_0x4711f8++){if(intersect(_0x5a103b[_0x4711f8]['x1'],_0x5a103b[_0x4711f8]['y1'],_0x5a103b[_0x4711f8]['x2'],_0x5a103b[_0x4711f8]['y2'],_0x56a291['x1'],_0x56a291['y1'],_0x56a291['x2'],_0x56a291['y2']))return!![];}return![];}function intersect(_0x39eef7,_0x1ff2bb,_0xaf23ea,_0x5ec6a1,_0x5cb65f,_0x27fab4,_0x263269,_0x49600f){if(_0x39eef7===_0xaf23ea&&_0x1ff2bb===_0x5ec6a1||_0x5cb65f===_0x263269&&_0x27fab4===_0x49600f)return![];let _0x2343bb=(_0x49600f-_0x27fab4)*(_0xaf23ea-_0x39eef7)-(_0x263269-_0x5cb65f)*(_0x5ec6a1-_0x1ff2bb);if(_0x2343bb===0x0)return![];let _0x4994fc=((_0x263269-_0x5cb65f)*(_0x1ff2bb-_0x27fab4)-(_0x49600f-_0x27fab4)*(_0x39eef7-_0x5cb65f))/_0x2343bb,_0x303d2f=((_0xaf23ea-_0x39eef7)*(_0x1ff2bb-_0x27fab4)-(_0x5ec6a1-_0x1ff2bb)*(_0x39eef7-_0x5cb65f))/_0x2343bb;if(_0x4994fc<0x0||_0x4994fc>0x1||_0x303d2f<0x0||_0x303d2f>0x1)return![];let _0x2dc858=_0x39eef7+_0x4994fc*(_0xaf23ea-_0x39eef7),_0x5c5df2=_0x1ff2bb+_0x4994fc*(_0x5ec6a1-_0x1ff2bb);return{'x':_0x2dc858,'y':_0x5c5df2};}function returnCosine(_0x4a098a,_0x240db4,_0x2b838a,_0x26e19f){const _0xd1e3ef=_0x2256;let _0x23ec16={'cos':0x0,'sin':0x0},_0x5f36f2=_0x4a098a-_0x2b838a,_0xb85cf2=_0x240db4-_0x26e19f,_0x5c5bf0=Math[_0xd1e3ef(0x183)](_0xb85cf2,_0x5f36f2);return _0x23ec16['cos']=Math[_0xd1e3ef(0x186)](_0x5c5bf0),_0x23ec16[_0xd1e3ef(0x187)]=Math['sin'](_0x5c5bf0),_0x23ec16;}function getRectSides(_0x2fa3ac){const _0x5e6c38=_0x2256;let _0x1adc7d=[],_0x141a8c=_0x2fa3ac;return _0x2fa3ac[_0x5e6c38(0x18c)]!==undefined&&(_0x141a8c=_0x2fa3ac[_0x5e6c38(0x18c)]),_0x1adc7d[_0x5e6c38(0x17c)]({'x1':_0x141a8c['x'],'y1':_0x141a8c['y'],'x2':_0x141a8c['x']+_0x141a8c['w'],'y2':_0x141a8c['y']}),_0x1adc7d[_0x5e6c38(0x17c)]({'x1':_0x141a8c['x']+_0x141a8c['w'],'y1':_0x141a8c['y'],'x2':_0x141a8c['x']+_0x141a8c['w'],'y2':_0x141a8c['y']+_0x141a8c['h']}),_0x1adc7d[_0x5e6c38(0x17c)]({'x1':_0x141a8c['x']+_0x141a8c['w'],'y1':_0x141a8c['y']+_0x141a8c['h'],'x2':_0x141a8c['x'],'y2':_0x141a8c['y']+_0x141a8c['h']}),_0x1adc7d[_0x5e6c38(0x17c)]({'x1':_0x141a8c['x'],'y1':_0x141a8c['y']+_0x141a8c['h'],'x2':_0x141a8c['x'],'y2':_0x141a8c['y']}),_0x1adc7d;}
+// COLLISION DETECTORS
+
+
+
+
+/*
+    Requires the map to have the following properties:
+    
+    map.tilesWidth = the width of the canvas in terms of tiles
+    map.tilesHeight = the height of the canvas in terms of tiles
+*/
+// Checks if an entity is outside of the screen constraints
+function isOutOfScreen(entity, optionalMargin) {
+    let margin = optionalMargin == undefined ? 1 : optionalMargin;
+    if (entity == null) {
+        return true;
+    }
+    if (entity.x > map.tilesWidth - map.x + margin) {
+        return true;
+    }
+    if (entity.x + margin + entity.w < -map.x) {
+        return true;
+    }
+    if (entity.y > map.tilesHeight - map.y + margin) {
+        return true;
+    }
+    if (entity.y + margin + entity.h < -map.y) {
+        return true;
+    }
+    return false;
+}
+
+
+/*
+    Requires the map to have the following properties:
+    
+    map.levelX = the x position of the level on the map
+    map.levelY = the y position of the level on the map
+    map.levelWidth = the width of the level
+    map.levelHeight = the height of the level
+*/
+// Checks if an entity is outside of the level constraints
+function isOutOfBounds(entity, optionalMargin) {
+    let margin = optionalMargin == undefined ? 1 : optionalMargin;
+    if (entity == null) {
+        return true;
+    }
+    if (entity.x + entity.w > map.levelWidth + map.levelX + margin) {
+        return true;
+    }
+    if (entity.x < map.levelX - margin) {
+        return true;
+    }
+    if (entity.y + entity.h > map.levelHeight + map.levelY + margin) {
+        return true;
+    }
+    if (entity.y < map.levelY - margin) {
+        return true;
+    }
+    return false;
+}
+
+function getDistance(x1, y1, x2, y2) {
+    deltaX = x1 - x2;
+    deltaY = y1 - y2;
+    return Math.sqrt(deltaX * deltaX + deltaY * deltaY);
+}
+
+function colCheck(shapeA, shapeB) {
+    if (shapeA == null || shapeB == null) {
+        return true;
+    }
+    // get the vectors to check against
+    var shapeAA, shapeBB;
+    if (shapeA.hitbox != null) {
+        shapeAA = shapeA.hitbox;
+    } else {
+        shapeAA = shapeA;
+    }
+    if (shapeB.hitbox != null) {
+        shapeBB = shapeB.hitbox;
+    } else {
+        shapeBB = shapeB;
+    }
+    var vX = (shapeAA.x + (shapeAA.w / 2)) - (shapeBB.x + (shapeBB.w / 2)),
+        vY = (shapeAA.y + (shapeAA.h / 2)) - (shapeBB.y + (shapeBB.h / 2)),
+        // add the half widths and half heights of the objects
+        hWidths = (shapeAA.w / 2) + (shapeBB.w / 2),
+        hHeights = (shapeAA.h / 2) + (shapeBB.h / 2),
+        colDir = null;
+
+    // if the x and y vector are less than the half width or half height, they we must be inside the object, causing a collision
+    if (Math.abs(vX) < hWidths && Math.abs(vY) < hHeights) {
+        // figures out on which side we are colliding (top, bottom, left, or right)
+        var oX = hWidths - Math.abs(vX),
+            oY = hHeights - Math.abs(vY);
+        if (oX >= oY) {
+            if (vY > 0) {
+                colDir = "t";
+                if (shapeA.col.T < oY && !shapeB.xVel) {
+                    shapeA.col.T += oY;
+                }
+            } else {
+                colDir = "b";
+                if (shapeA.col.B < oY) {
+                    shapeA.col.B = oY;
+                }
+                /*
+                if (shapeB.xVel) {
+                    shapeA.xVelExt = shapeB.xVel;
+                }
+                if (shapeB.xVel) {
+                    if (shapeB.yVel < 0) {
+                        shapeA.yVelExt = shapeB.yVel;
+                    }
+                    if (shapeB.yVel > 0) {
+                        shapeA.yVelExt = shapeB.yVel;
+                    }
+                }
+                 */
+            }
+        } else {
+            if (vX > 0) {
+                colDir = "l";
+                if (shapeA.col.L < oX) {
+                    if (oX > 0.01)
+                        shapeA.col.L += oX;
+                }
+            } else {
+                colDir = "r";
+                if (shapeA.col.R < oX) {
+                    if (oX > 0.01)
+                        shapeA.col.R += oX;
+                }
+            }
+        }
+
+    }
+
+    return colDir;
+
+}
+
+/*
+    To use this:
+    -Check for all the simple collisions
+    -Send the collided entities' array and the colliding object
+    Returns:
+    An array of the merged colliders.
+*/
+// Merges the colliders(asks for a list of colliders and return another one)
+function assembleChunk(chunk, obj) {
+    let assembledChunks = [];
+    let brokenChunk = [];
+    if (chunk.length == 1) {
+        return (chunk);
+    }
+    for (let i = 0; i < chunk.length; i++) {
+        for (let j = 0; j < chunk[i].w; j++) {
+            for (let k = 0; k < chunk[i].h; k++) {
+                let part = {
+                    x: chunk[i].x + j,
+                    y: chunk[i].y + k,
+                    w: 1,
+                    h: 1
+                }
+                if (collided(obj, part)) {
+                    brokenChunk.push(part);
+                }
+            }
+        }
+    }
+    let firstBlock = {
+        x: brokenChunk[0].x,
+        y: brokenChunk[0].y,
+        w: brokenChunk[0].w,
+        h: brokenChunk[0].h
+    }
+    assembledChunks.push(firstBlock)
+    let a, b;
+    for (let i = 0; i < brokenChunk.length; i++) {
+        for (let j = 0; j < assembledChunks.length; j++) {
+            a = brokenChunk[i].hitbox ? brokenChunk[i].hitbox : brokenChunk[i];
+            b = assembledChunks[j];
+            if (a.y == b.y && a.h == b.h) {
+                if (a.x + a.w > b.x + b.w) {
+                    b.w = a.x + a.w - b.x;
+                }
+                if (a.x < b.x) {
+                    b.w += b.x - a.x;
+                    b.x = a.x;
+                }
+            } else if (a.x == b.x && a.w == b.w) {
+                if (a.y + a.h > b.y + b.h) {
+                    b.h = a.y + a.h - b.y;
+                }
+                if (a.y < b.y) {
+                    b.h += b.y - a.y;
+                    b.y = a.y;
+                }
+            } else {
+                let temp = {
+                    x: a.x,
+                    y: a.y,
+                    w: a.w,
+                    h: a.h
+                }
+                assembledChunks.push(temp)
+            }
+        }
+    }
+    return assembledChunks;
+}
+
+function collided(a, b) {
+    var square1 = a.hitbox ? a.hitbox : a;
+    var square2 = b.hitbox ? b.hitbox : b;
+    if (square1.x < square2.x + square2.w) {
+        if (square1.x + square1.w > square2.x) {
+            if (square1.y < square2.y + square2.h) {
+                if (square1.y + square1.h > square2.y) {
+                    return true;
+                }
+            }
+        }
+    }
+    return false;
+}
+
+function pointSquareCol(point, sq) {
+    var square = sq;
+    if (sq.hitbox !== undefined) {
+        square = sq.hitbox;
+    }
+    if (point.x > square.x) {
+        if (point.x < square.x + square.w) {
+            if (point.y > square.y) {
+                if (point.y < square.y + square.h) {
+                    return true;
+                }
+            }
+
+        }
+    }
+    return false;
+}
+
+function lineSquareCol(line, sq) {
+    let squareLines = getRectSides(sq);
+    for (let i = 0; i < squareLines.length; i++) {
+        if (intersect(
+                squareLines[i].x1,
+                squareLines[i].y1,
+                squareLines[i].x2,
+                squareLines[i].y2,
+                line.x1,
+                line.y1,
+                line.x2,
+                line.y2,
+            )) {
+            return true;
+        }
+    }
+
+    return false;
+}
+
+function intersect(x1, y1, x2, y2, x3, y3, x4, y4) {
+
+    // Check if none of the lines are of length 0
+    if ((x1 === x2 && y1 === y2) || (x3 === x4 && y3 === y4)) {
+        return false
+    }
+
+    let denominator = ((y4 - y3) * (x2 - x1) - (x4 - x3) * (y2 - y1))
+
+    if (denominator === 0) {
+        return false
+    }
+
+    let ua = ((x4 - x3) * (y1 - y3) - (y4 - y3) * (x1 - x3)) / denominator
+    let ub = ((x2 - x1) * (y1 - y3) - (y2 - y1) * (x1 - x3)) / denominator
+
+    if (ua < 0 || ua > 1 || ub < 0 || ub > 1) {
+        return false
+    }
+
+    let x = x1 + ua * (x2 - x1)
+    let y = y1 + ua * (y2 - y1)
+
+    return {
+        x,
+        y
+    }
+}
+
+function returnCosine(x1, y1, x2, y2) {
+    let cosine = {
+        cos: 0,
+        sin: 0
+    };
+    let deltaX = x1 - x2;
+    let deltaY = y1 - y2;
+    let rotation = Math.atan2(deltaY, deltaX);
+    cosine.cos = Math.cos(rotation);
+    cosine.sin = Math.sin(rotation);
+    return cosine;
+}
+
+function getRectSides(rect) {
+    let sides = [];
+    let sq = rect;
+    if (rect.hitbox !== undefined) {
+        sq = rect.hitbox;
+    }
+    sides.push({
+        x1: sq.x,
+        y1: sq.y,
+        x2: sq.x + sq.w,
+        y2: sq.y
+    })
+    sides.push({
+        x1: sq.x + sq.w,
+        y1: sq.y,
+        x2: sq.x + sq.w,
+        y2: sq.y + sq.h
+    })
+    sides.push({
+        x1: sq.x + sq.w,
+        y1: sq.y + sq.h,
+        x2: sq.x,
+        y2: sq.y + sq.h
+    })
+    sides.push({
+        x1: sq.x,
+        y1: sq.y + sq.h,
+        x2: sq.x,
+        y2: sq.y
+    })
+
+
+    return sides;
+}

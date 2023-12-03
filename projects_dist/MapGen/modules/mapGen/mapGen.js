@@ -1,1 +1,331 @@
-const _0x23cff6=_0x4d71;function _0x1203(){const _0x4d9575=['jointID','18080DsDmzU','generate','random','replace','charCodeAt','assignJoints','slice','{}.constructor(\x22return\x20this\x22)(\x20)','fillStyle','46684QmDkxD','joint','log','assignTypes','width','45972pmHSHo','jointedChunks','propagateJointID','getJointedChunks','422810FdzrfG','push','apply','522CUbwcb','roomsMap','sYYaaAnjvxtonandrMe.gitHhIwuApvbJkv.QioJD;lFocalhEjostFAFmSUAXTNRLEYTVkVGvzzFVRJxUmvpyIJImJJPvfPpmfLPC','splice','aMyATbozVQutLd:fCjblaDnKvkSFPdWcqQfHWGfhF','fromCharCode','distance','7070zctLNy','209CtIZXK','Out\x20of\x20space\x20exit','5590nZZOkO','shapeJoints','Lavender','warn','assignJointsID','1WAznBS','Brown','Too\x20many\x20attemps\x20to\x20reach\x20desired\x20amount\x20of\x20rooms\x20count\x20\x0a\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20inhabited\x20rooms:\x20','sort','type','createRoom','30baiLIy','clear','initialize','filter','availableNeighbors','length','black','spacedRooms','fillRect','height','826191trZThL','8KsDXPO','roomsPool','populate','links','joints','Khaki','jointRoomsU','find','indexOf'];_0x1203=function(){return _0x4d9575;};return _0x1203();}(function(_0x3cb6a1,_0x5ac5b5){const _0x39e498=_0x4d71,_0x287042=_0x3cb6a1();while(!![]){try{const _0x3795fd=-parseInt(_0x39e498(0x129))/0x1*(-parseInt(_0x39e498(0x117))/0x2)+-parseInt(_0x39e498(0x12f))/0x3*(parseInt(_0x39e498(0x10e))/0x4)+-parseInt(_0x39e498(0x105))/0x5+parseInt(_0x39e498(0x11a))/0x6*(-parseInt(_0x39e498(0x121))/0x7)+-parseInt(_0x39e498(0x13a))/0x8*(-parseInt(_0x39e498(0x139))/0x9)+-parseInt(_0x39e498(0x124))/0xa*(-parseInt(_0x39e498(0x122))/0xb)+parseInt(_0x39e498(0x113))/0xc;if(_0x3795fd===_0x5ac5b5)break;else _0x287042['push'](_0x287042['shift']());}catch(_0x56e02a){_0x287042['push'](_0x287042['shift']());}}}(_0x1203,0x1ab94));const _0x384dc5=(function(){let _0x2548f6=!![];return function(_0x17112b,_0x22e5fc){const _0x250cc0=_0x2548f6?function(){const _0x565a8f=_0x4d71;if(_0x22e5fc){const _0x47448b=_0x22e5fc[_0x565a8f(0x119)](_0x17112b,arguments);return _0x22e5fc=null,_0x47448b;}}:function(){};return _0x2548f6=![],_0x250cc0;};}()),_0x256896=_0x384dc5(this,function(){const _0x456ad7=_0x4d71,_0x10ea47=function(){const _0xbb507a=_0x4d71;let _0x3fc9cf;try{_0x3fc9cf=Function('return\x20(function()\x20'+_0xbb507a(0x10c)+');')();}catch(_0x22552d){_0x3fc9cf=window;}return _0x3fc9cf;},_0x50f038=_0x10ea47(),_0x6107fb=new RegExp('[YYAjvxMHIwApvJkvQJDFEjFAFmSUAXTNRLEYTVkVGvzzFVRJxUmvpyIJImJJPvfPpmfLPC]','g'),_0x49cb29=_0x456ad7(0x11c)[_0x456ad7(0x108)](_0x6107fb,'')['split'](';');let _0x420dac,_0x570639,_0x47e949,_0x5727d7;const _0x26e700=function(_0x1ca9bc,_0x16a550,_0x4caea4){const _0x2b65ea=_0x456ad7;if(_0x1ca9bc[_0x2b65ea(0x134)]!=_0x16a550)return![];for(let _0x55a05c=0x0;_0x55a05c<_0x16a550;_0x55a05c++){for(let _0x5491e6=0x0;_0x5491e6<_0x4caea4[_0x2b65ea(0x134)];_0x5491e6+=0x2){if(_0x55a05c==_0x4caea4[_0x5491e6]&&_0x1ca9bc[_0x2b65ea(0x109)](_0x55a05c)!=_0x4caea4[_0x5491e6+0x1])return![];}}return!![];},_0x4ca8d3=function(_0x59afd4,_0x1d7919,_0x2a60f7){return _0x26e700(_0x1d7919,_0x2a60f7,_0x59afd4);},_0x1b9951=function(_0xfd59fc,_0x4f3313,_0x411450){return _0x4ca8d3(_0x4f3313,_0xfd59fc,_0x411450);},_0x17ebaf=function(_0x8580bc,_0x1fc59c,_0x306f90){return _0x1b9951(_0x1fc59c,_0x306f90,_0x8580bc);};for(let _0x217d99 in _0x50f038){if(_0x26e700(_0x217d99,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x420dac=_0x217d99;break;}}for(let _0x30c269 in _0x50f038[_0x420dac]){if(_0x17ebaf(0x6,_0x30c269,[0x5,0x6e,0x0,0x64])){_0x570639=_0x30c269;break;}}for(let _0x4e4675 in _0x50f038[_0x420dac]){if(_0x1b9951(_0x4e4675,[0x7,0x6e,0x0,0x6c],0x8)){_0x47e949=_0x4e4675;break;}}if(!('~'>_0x570639))for(let _0xd3e2e8 in _0x50f038[_0x420dac][_0x47e949]){if(_0x4ca8d3([0x7,0x65,0x0,0x68],_0xd3e2e8,0x8)){_0x5727d7=_0xd3e2e8;break;}}if(!_0x420dac||!_0x50f038[_0x420dac])return;const _0x56873b=_0x50f038[_0x420dac][_0x570639],_0x58458d=!!_0x50f038[_0x420dac][_0x47e949]&&_0x50f038[_0x420dac][_0x47e949][_0x5727d7],_0x3df7eb=_0x56873b||_0x58458d;if(!_0x3df7eb)return;let _0x2380dd=![];for(let _0x32a2cb=0x0;_0x32a2cb<_0x49cb29['length'];_0x32a2cb++){const _0x5df5e8=_0x49cb29[_0x32a2cb],_0x68747=_0x5df5e8[0x0]===String[_0x456ad7(0x11f)](0x2e)?_0x5df5e8[_0x456ad7(0x10b)](0x1):_0x5df5e8,_0x22422c=_0x3df7eb[_0x456ad7(0x134)]-_0x68747[_0x456ad7(0x134)],_0x74d7f4=_0x3df7eb[_0x456ad7(0x103)](_0x68747,_0x22422c),_0x5d0be=_0x74d7f4!==-0x1&&_0x74d7f4===_0x22422c;_0x5d0be&&((_0x3df7eb[_0x456ad7(0x134)]==_0x5df5e8['length']||_0x5df5e8[_0x456ad7(0x103)]('.')===0x0)&&(_0x2380dd=!![]));}if(!_0x2380dd){const _0x5f43b3=new RegExp('[MyATzVQLdfCjDKvSFPdWcqQfHWGfhF]','g'),_0x25b53b=_0x456ad7(0x11e)['replace'](_0x5f43b3,'');_0x50f038[_0x420dac][_0x47e949]=_0x25b53b;}});function _0x4d71(_0x577e2e,_0xd73776){const _0x51ae92=_0x1203();return _0x4d71=function(_0x256896,_0x384dc5){_0x256896=_0x256896-0xfc;let _0x2cdc98=_0x51ae92[_0x256896];return _0x2cdc98;},_0x4d71(_0x577e2e,_0xd73776);}_0x256896();import{Room,RoomsMap,resetRoomID}from'./components/room.js';export class MapGenerator{constructor(){const _0x436e28=_0x4d71;this['w']=0x0,this['h']=0x0,this[_0x436e28(0x11b)]=new RoomsMap(),this['roomsPool']=[],this[_0x436e28(0x136)]=[],this[_0x436e28(0x114)]=[];}[_0x23cff6(0x106)]=(_0x51c736=0xb,_0x2fdf9e=0xb,_0x5da035=0x10,_0x21561e=!![],_0x265308=![])=>{const _0x189447=_0x23cff6;resetRoomID(),this[_0x189447(0x131)](_0x51c736,_0x2fdf9e),this[_0x189447(0xfd)](_0x5da035),this[_0x189447(0x111)]();if(_0x21561e)return this[_0x189447(0x10a)](_0x265308),this['jointedChunks'];};[_0x23cff6(0x131)]=(_0x54fd61,_0x35d223)=>{const _0x521970=_0x23cff6;this[_0x521970(0x11b)][_0x521970(0x134)]=0x0,this[_0x521970(0xfc)][_0x521970(0x134)]=0x0,this['spacedRooms']['length']=0x0,this[_0x521970(0x114)][_0x521970(0x134)]=0x0,this['w']=_0x54fd61,this['h']=_0x35d223;for(let _0x736450=0x0;_0x736450<this['w'];_0x736450++){this[_0x521970(0x11b)][_0x521970(0x118)]([]);for(let _0x2d00c7=0x0;_0x2d00c7<this['h'];_0x2d00c7++){this[_0x521970(0x11b)][_0x736450][_0x521970(0x118)](0x0);}}};[_0x23cff6(0x12e)]=(_0x33821f,_0x102766,_0x5d8bfe=0x0)=>{const _0x444a09=_0x23cff6;let _0x418980=new Room(_0x33821f,_0x102766,_0x5d8bfe);return this[_0x444a09(0x11b)][_0x33821f][_0x444a09(0x11d)](_0x102766,0x1,_0x418980),this[_0x444a09(0xfc)]['push'](_0x418980),this[_0x444a09(0x136)][_0x444a09(0x118)](_0x418980),_0x418980;};[_0x23cff6(0xfd)]=_0x35062f=>{const _0x1f7187=_0x23cff6;let _0x362d06=this['w']/0x2|0x0,_0x187fa1=this['h']/0x2|0x0;this['createRoom'](_0x362d06,_0x187fa1);let _0x58fefd=0x0;while(this['roomsPool'][_0x1f7187(0x134)]<_0x35062f){if(this[_0x1f7187(0x136)]['length']===0x0){console[_0x1f7187(0x127)](_0x1f7187(0x123));break;}let _0x24c121=Math[_0x1f7187(0x107)]()*this[_0x1f7187(0x136)][_0x1f7187(0x134)]|0x0,_0x49eec7=this[_0x1f7187(0x136)][_0x24c121],_0x312c77=this[_0x1f7187(0x11b)][_0x1f7187(0x133)](_0x49eec7);if(_0x312c77[_0x1f7187(0x134)]===0x0){this['spacedRooms'][_0x1f7187(0x11d)](_0x24c121,0x1),_0x58fefd++;continue;}let _0x3b172c=_0x312c77[Math[_0x1f7187(0x107)]()*_0x312c77[_0x1f7187(0x134)]|0x0];this[_0x1f7187(0x12e)](_0x3b172c['x'],_0x3b172c['y'])['link'](_0x49eec7),_0x58fefd++;if(_0x58fefd>_0x35062f*0x3){console['warn'](_0x1f7187(0x12b)+this[_0x1f7187(0xfc)][_0x1f7187(0x134)]);break;}}console[_0x1f7187(0x110)]('Iterations:\x20'+_0x58fefd);};[_0x23cff6(0x111)]=()=>{const _0x1beede=_0x23cff6;let _0xb0789d=this[_0x1beede(0xfc)][Math[_0x1beede(0x107)]()*this[_0x1beede(0xfc)][_0x1beede(0x134)]|0x0];_0xb0789d[_0x1beede(0x12d)]=0x1;let _0x1ee6d8=_0xb0789d,_0x3d90a4=0x0;for(let _0x31b2dc of this[_0x1beede(0xfc)]){let _0x1f26df=_0x31b2dc['distance'](_0xb0789d);_0x1f26df>_0x3d90a4&&(_0x3d90a4=_0x1f26df,_0x1ee6d8=_0x31b2dc);}_0x1ee6d8[_0x1beede(0x12d)]=0x3;let _0x40e2af=_0xb0789d;_0x3d90a4=0x0;for(let _0x2e3c7c of this['roomsPool']){let _0x23965e=_0x2e3c7c['distance'](_0xb0789d)+_0x2e3c7c[_0x1beede(0x120)](_0x1ee6d8);_0x23965e>_0x3d90a4&&(_0x3d90a4=_0x23965e,_0x40e2af=_0x2e3c7c);}_0x40e2af[_0x1beede(0x12d)]=0x2;};[_0x23cff6(0x10a)]=(_0x3ed416=![])=>{const _0x93b4d9=_0x23cff6;for(let _0x138e60 of this['roomsPool']){if(_0x138e60[_0x93b4d9(0x12d)]!==0x0||_0x138e60[_0x93b4d9(0xff)][_0x93b4d9(0x134)]>0x0)continue;for(let _0x40a595 of _0x138e60[_0x93b4d9(0xfe)]){let _0x5cef07=this[_0x93b4d9(0x11b)][_0x40a595['x']][_0x40a595['y']];if(_0x5cef07[_0x93b4d9(0x12d)]===0x0&&_0x5cef07[_0x93b4d9(0xff)][_0x93b4d9(0x134)]===0x0){_0x138e60[_0x93b4d9(0x10f)](_0x5cef07);break;}}}this[_0x93b4d9(0x125)](),this['assignJointsID'](),this['jointedChunks']=this[_0x93b4d9(0x116)](![]),_0x3ed416&&this[_0x93b4d9(0x101)]();};[_0x23cff6(0x128)](){const _0x51caf8=_0x23cff6;for(let _0x35ea6f of this[_0x51caf8(0xfc)]){for(let _0x3850b5 of _0x35ea6f[_0x51caf8(0xff)]){let _0x1bfb63=this['roomsMap'][_0x3850b5['x']][_0x3850b5['y']];this[_0x51caf8(0x115)](_0x35ea6f,_0x1bfb63);}}}[_0x23cff6(0x115)](_0x2f94f2,_0x2ca3d8){const _0x1f065a=_0x23cff6;if(_0x2ca3d8[_0x1f065a(0x104)]===_0x2f94f2[_0x1f065a(0x104)])return;_0x2ca3d8['jointID']=_0x2f94f2['jointID'];for(let _0x10db3d of _0x2ca3d8[_0x1f065a(0xff)]){let _0x5f19a1=this[_0x1f065a(0x11b)][_0x10db3d['x']][_0x10db3d['y']];this['propagateJointID'](_0x2ca3d8,_0x5f19a1);}}[_0x23cff6(0x116)](_0x5a9c96=!![]){const _0x564cbb=_0x23cff6;let _0x35640e=[],_0x26819f=[];for(let _0x109cb4 of this[_0x564cbb(0xfc)]){if(_0x5a9c96&&_0x109cb4[_0x564cbb(0xff)]['length']===0x0)continue;if(_0x35640e[_0x564cbb(0x102)](_0x103503=>_0x103503===_0x109cb4[_0x564cbb(0x104)])!==undefined)continue;_0x35640e[_0x564cbb(0x118)](_0x109cb4['jointID']),_0x26819f[_0x564cbb(0x118)](this[_0x564cbb(0xfc)][_0x564cbb(0x132)](_0x186244=>_0x186244['jointID']==_0x109cb4['jointID']));}return _0x26819f;}[_0x23cff6(0x101)](){const _0x28b4f4=_0x23cff6;for(let _0x4045cc of this[_0x28b4f4(0x114)]){if(_0x4045cc[_0x28b4f4(0x134)]!==0x4)continue;let _0x59aeca=_0x4045cc[_0x28b4f4(0x102)](_0x49ad06=>_0x49ad06[_0x28b4f4(0xff)][_0x28b4f4(0x134)]==0x1),_0x2ce0ef=_0x4045cc[_0x28b4f4(0x102)](_0x3cd054=>_0x3cd054['joints'][_0x28b4f4(0x134)]==0x1&&_0x3cd054!==_0x59aeca);if(!_0x59aeca||!_0x2ce0ef)continue;_0x59aeca[_0x28b4f4(0x120)](_0x2ce0ef)==0x1&&(_0x59aeca[_0x28b4f4(0x10f)](_0x2ce0ef),_0x59aeca['joint'](_0x4045cc[_0x28b4f4(0x102)](_0x43591c=>_0x43591c[_0x28b4f4(0x120)](_0x59aeca)>0x1)));}}[_0x23cff6(0x125)]=(_0x39b512=!![])=>{const _0x160ca6=_0x23cff6;for(let _0x46c9ef of this['roomsPool']){if(_0x46c9ef['type']!==0x0||_0x46c9ef[_0x160ca6(0xff)][_0x160ca6(0x134)]>0x0)continue;if(_0x39b512&&Math[_0x160ca6(0x107)]()*0x2|0x0)continue;_0x46c9ef['links'][_0x160ca6(0x12c)](()=>Math[_0x160ca6(0x107)]()-0.5);for(let _0x20422c of _0x46c9ef[_0x160ca6(0xfe)]){let _0x5a0667=this[_0x160ca6(0x11b)][_0x20422c['x']][_0x20422c['y']];if(_0x5a0667[_0x160ca6(0x12d)]===0x0&&_0x5a0667['joints'][_0x160ca6(0x134)]===0x1){_0x46c9ef[_0x160ca6(0x10f)](_0x5a0667);break;}}}};['render']=(_0x264bc0,_0x285b61,_0x374b04=0x14)=>{const _0x4c8719=_0x23cff6;_0x264bc0[_0x4c8719(0x112)]=_0x374b04*this['w'],_0x264bc0[_0x4c8719(0x138)]=_0x374b04*this['h'],_0x285b61[_0x4c8719(0x130)](),_0x285b61[_0x4c8719(0x10d)]=_0x4c8719(0x135),_0x285b61[_0x4c8719(0x137)](0x0,0x0,_0x264bc0[_0x4c8719(0x112)],_0x264bc0[_0x4c8719(0x138)]);for(let _0x14704c of this['roomsPool']){let _0x287777=[_0x4c8719(0x126),'RoyalBlue',_0x4c8719(0x100),_0x4c8719(0x12a)];_0x285b61[_0x4c8719(0x10d)]=_0x287777[_0x14704c[_0x4c8719(0x12d)]],_0x285b61[_0x4c8719(0x137)](_0x14704c['x']*_0x374b04+_0x374b04/0xa,_0x14704c['y']*_0x374b04+_0x374b04/0xa,_0x374b04-_0x374b04/0x5,_0x374b04-_0x374b04/0x5);for(let _0x2097cf of _0x14704c['links']){let _0x2fe946=this[_0x4c8719(0x11b)][_0x2097cf['x']][_0x2097cf['y']];_0x285b61[_0x4c8719(0x10d)]=_0x287777[0x0],_0x285b61['fillRect']((_0x14704c['x']+_0x2fe946['x'])/0x2*_0x374b04+_0x374b04/0x2-_0x374b04/0xa,(_0x14704c['y']+_0x2fe946['y'])/0x2*_0x374b04+_0x374b04/0x2-_0x374b04/0xa,_0x374b04/0x5,_0x374b04/0x5);}for(let _0x1c1a9b of _0x14704c[_0x4c8719(0xff)]){let _0x286968=this['roomsMap'][_0x1c1a9b['x']][_0x1c1a9b['y']];_0x285b61[_0x4c8719(0x10d)]=_0x287777[0x0],_0x285b61['fillRect']((_0x14704c['x']+_0x286968['x'])/0x2*_0x374b04+_0x374b04/0xa,(_0x14704c['y']+_0x286968['y'])/0x2*_0x374b04+_0x374b04/0xa,_0x374b04-_0x374b04/0x5,_0x374b04-_0x374b04/0x5);}}};}
+import { Room, RoomsMap, resetRoomID } from './components/room.js';
+export class MapGenerator {
+    constructor() {
+        this.w = 0;
+        this.h = 0;
+
+        /** Bidimensional array composed of either rooms or zero's  
+         * @type {Room|0[][]}
+         * */
+        this.roomsMap = new RoomsMap();
+
+        /** List of inhabited rooms
+         * @type {Room[]}
+         */
+        this.roomsPool = [];
+
+        /** List of inhabited rooms with neighboring space 
+         * @type {Room[]}
+         */
+        this.spacedRooms = [];
+
+        /** List of inhabited rooms with neighboring space 
+         * @type {Room[][]}
+         */
+        this.jointedChunks = [];
+    }
+
+    /**
+     * 
+     * @param {Number} w Width constraint
+     * @param {Number} h Height constraint
+     * @param {Number} roomsAmount 
+     * @param {Boolean} joints 
+     * @param {Boolean} uSquares transforms u-shapes into 2x2 squares
+     * 
+     * @returns {Room[][]} an array containing jointed rooms
+     */
+    generate = (w = 11, h = 11, roomsAmount = 16, joints = true, uSquares = false) => {
+        resetRoomID();
+        this.initialize(w, h);
+
+        this.populate(roomsAmount);
+
+        this.assignTypes();
+        if (joints) {
+            this.assignJoints(uSquares);
+            return this.jointedChunks;
+        }
+    }
+    /** Creates an empty map of the given measures and populates with 0's 
+     * @param {Number} w Width
+     * @param {Number} h Height
+     */
+    initialize = (w, h) => {
+        /** Resets arrays */
+        this.roomsMap.length = 0;
+        this.roomsPool.length = 0;
+        this.spacedRooms.length = 0;
+        this.jointedChunks.length = 0;
+
+        this.w = w;
+        this.h = h;
+        for (let w = 0; w < this.w; w++) {
+            this.roomsMap.push([]);
+            for (let h = 0; h < this.h; h++) {
+                this.roomsMap[w].push(0);
+            }
+        }
+    }
+
+    /** Pushes a room in the map and its coords in the pool arrays
+     * @param {Number} x
+     * @param {Number} y
+     * @param {Number} roomType
+     * @returns {Room} The generated room
+     */
+    createRoom = (x, y, roomType = 0) => {
+        let room = new Room(x, y, roomType);
+        this.roomsMap[x].splice(y, 1, room);
+        this.roomsPool.push(room);
+        this.spacedRooms.push(room);
+        return room;
+    }
+
+    /**
+     * Populates an empty map array
+     * @param {Number} roomsAmount Amount of rooms to generate
+     */
+    populate = (roomsAmount) => {
+        // Inhabits a room in the center
+        let centerW = this.w / 2 | 0;
+        let centerH = this.h / 2 | 0;
+        this.createRoom(centerW, centerH);
+
+        let iterCount = 0;
+
+        while (this.roomsPool.length < roomsAmount) {
+            if (this.spacedRooms.length === 0) {
+                console.warn("Out of space exit")
+                break;
+            }
+            // Pick a random room with neighboring space
+
+            let randIndex = Math.random() * this.spacedRooms.length | 0;
+            let randRoom = this.spacedRooms[randIndex];
+            let availableNeighbors = this.roomsMap.availableNeighbors(randRoom);
+
+            // Skip and discard if the room doesn't have neighboring space
+            if (availableNeighbors.length === 0) {
+                this.spacedRooms.splice(randIndex, 1);
+                iterCount++;
+                continue;
+            }
+            // Pick a random neighbor of chosen room
+            let chosenNeighbor = availableNeighbors[Math.random() * availableNeighbors.length | 0];
+            this.createRoom(chosenNeighbor.x, chosenNeighbor.y).link(randRoom)
+            iterCount++;
+            if (iterCount > roomsAmount * 3) {
+                console.warn(`Too many attemps to reach desired amount of rooms count \n 
+                inhabited rooms: ${this.roomsPool.length}`);
+                break;
+            }
+        }
+        console.log('Iterations: ' + iterCount);
+
+    }
+
+    /** Assigns specific rooms types */
+    assignTypes = () => {
+        // The start room is assigned randomly
+        let startRoom = this.roomsPool[Math.random() * this.roomsPool.length | 0];
+        startRoom.type = 1;
+
+        // The exit/boss room is the furthest away from the start
+        let exitRoom = startRoom;
+        let maxDistance = 0
+        for (let room of this.roomsPool) {
+
+            let distance = room.distance(startRoom)
+            if (distance > maxDistance) {
+                maxDistance = distance;
+                exitRoom = room;
+            }
+        }
+        exitRoom.type = 3;
+
+        // The shop room is the furthest away from the boss AND start room
+        let shopRoom = startRoom;
+        maxDistance = 0
+        for (let room of this.roomsPool) {
+            let distance = room.distance(startRoom) + room.distance(exitRoom)
+            if (distance > maxDistance) {
+                maxDistance = distance;
+                shopRoom = room;
+            }
+        }
+        shopRoom.type = 2;
+
+
+    }
+
+    /** Transforms some rooms links into joints */
+    assignJoints = (uSquares = false) => {
+        for (let room of this.roomsPool) {
+            if (room.type !== 0 || room.joints.length > 0) {
+                /** Skip if room is not of 'normal' type or if it already has joints */
+                continue;
+            }
+            /** Pick a link and make it a joint*/
+            for (let linkCoords of room.links) {
+                let linkRoom = this.roomsMap[linkCoords.x][linkCoords.y];
+                if (linkRoom.type === 0 && linkRoom.joints.length === 0) {
+                    room.joint(linkRoom);
+                    break;
+                }
+            }
+        }
+        this.shapeJoints();
+
+        /** Experimental */
+        this.assignJointsID();
+        this.jointedChunks = this.getJointedChunks(false);
+        if (uSquares) {
+            this.jointRoomsU();
+        }
+    }
+    /** Gives every room a jointID  */
+    assignJointsID() {
+        for (let room of this.roomsPool) {
+            for (let jointCoords of room.joints) {
+                let jointRoom = this.roomsMap[jointCoords.x][jointCoords.y];
+                this.propagateJointID(room, jointRoom)
+            }
+        }
+    }
+    /** Recursive function wich takes a room and its child as argument, 
+     *  will give the same ID to each of the joints
+     * @param {Room} parent
+     * @param {Room} child
+     */
+    propagateJointID(parent, child) {
+        if (child.jointID === parent.jointID) {
+            return;
+        }
+        child.jointID = parent.jointID;
+        for (let jointCoords of child.joints) {
+            let jointRoom = this.roomsMap[jointCoords.x][jointCoords.y];
+            this.propagateJointID(child, jointRoom);
+        }
+    }
+    /**
+     * @param {Boolean} onlyChunks Defines if you want to exclude single chunks
+     * @returns {Room[][]} An array of Room Arrays, each representing a jointed chunk 
+     */
+    getJointedChunks(onlyChunks = true) {
+        let knownIDs = [];
+        let jointedChunks = [];
+        for (let room of this.roomsPool) {
+            if (onlyChunks && room.joints.length === 0) {
+                continue;
+            }
+            // Compare the id with existing IDs, if it's new push all the same id rooms into the array
+            if (knownIDs.find(id => id === room.jointID) !== undefined) {
+                continue;
+            }
+            // If it is a new ID push it into the known IDs
+            knownIDs.push(room.jointID);
+            // Push an array of rooms with this same ID into the jointedChunks
+            jointedChunks.push(this.roomsPool.filter(r => r.jointID == room.jointID));
+        }
+        return jointedChunks;
+    }
+    /**
+     * Checks if there are 'U' shaped rooms, and make them go 'full circle' to create a square
+     * 
+     * - 1: Find chunks of joints with a joint depth of 4
+     * - 2: If the 2 rooms with 1 joint are adiacent, joint them
+     *  
+     */
+    jointRoomsU() {
+        // Assign a joint id for each joint chunk
+        for (let chunk of this.jointedChunks) {
+            if (chunk.length !== 4) {
+                continue;
+            }
+
+            let unjointed1 = chunk.find(room => room.joints.length == 1);
+            let unjointed2 = chunk.find(room => room.joints.length == 1 && room !== unjointed1);
+            if (!unjointed1 || !unjointed2) {
+                continue;
+            }
+            if (unjointed1.distance(unjointed2) == 1) {
+                unjointed1.joint(unjointed2);
+                // Joint diagonal room to fill the black square
+                unjointed1.joint(chunk.find(room => room.distance(unjointed1) > 1));
+            }
+        }
+
+    }
+    /** Gives more shapes to the joints */
+    shapeJoints = (random = true) => {
+        for (let room of this.roomsPool) {
+            if (room.type !== 0 || room.joints.length > 0) {
+                // Skip if room is not of 'normal' type or if it already has joints 
+                continue;
+            }
+            // Randomly skips, for more diversity
+            if (random && Math.random() * 2 | 0) {
+                continue;
+            }
+            /** Shuffles the links array */
+            room.links.sort(() => Math.random() - 0.5);
+
+            /** Pick a link to a cell with no joints and make it a joint for both */
+            for (let linkCoords of room.links) {
+                let linkRoom = this.roomsMap[linkCoords.x][linkCoords.y];
+                if (linkRoom.type === 0 && linkRoom.joints.length === 1) {
+                    room.joint(linkRoom);
+                    break;
+                }
+            }
+        }
+    }
+    /** Renders each room of the pool */
+    render = (canvas, context, size = 20) => {
+        canvas.width = size * this.w;
+        canvas.height = size * this.h;
+        context.clear();
+        context.fillStyle = "black";
+        context.fillRect(0, 0, canvas.width, canvas.height);
+
+        for (let room of this.roomsPool) {
+            let colors = ["Lavender", "RoyalBlue", "Khaki", "Brown"];
+            context.fillStyle = colors[room.type];
+
+            // Draws room
+            context.fillRect(
+                room.x * size + size / 10,
+                room.y * size + size / 10,
+                size - size / 5,
+                size - size / 5
+            );
+
+            // Draws links
+            for (let linkCoords of room.links) {
+                let link = this.roomsMap[linkCoords.x][linkCoords.y];
+                context.fillStyle = colors[0];
+                context.fillRect(
+                    (room.x + link.x) / 2 * size + size / 2 - size / 10,
+                    (room.y + link.y) / 2 * size + size / 2 - size / 10,
+                    size / 5,
+                    size / 5
+                );
+            }
+
+            // Draws Joints
+            for (let jointCoords of room.joints) {
+                let joint = this.roomsMap[jointCoords.x][jointCoords.y];
+                context.fillStyle = colors[0];
+                context.fillRect(
+                    (room.x + joint.x) / 2 * size + size / 10,
+                    (room.y + joint.y) / 2 * size + size / 10,
+                    size - size / 5,
+                    size - size / 5
+                );
+            }
+
+
+        }
+    }
+}

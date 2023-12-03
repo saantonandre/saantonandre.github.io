@@ -1,1 +1,804 @@
-var _0x210440=_0xcab4;(function(_0x415eac,_0x3ba365){var _0x3dc034=_0xcab4,_0x542636=_0x415eac();while(!![]){try{var _0x5f41c9=parseInt(_0x3dc034(0x19d))/0x1+-parseInt(_0x3dc034(0x18a))/0x2*(-parseInt(_0x3dc034(0x157))/0x3)+parseInt(_0x3dc034(0x179))/0x4+parseInt(_0x3dc034(0x19c))/0x5*(-parseInt(_0x3dc034(0x146))/0x6)+-parseInt(_0x3dc034(0x1b5))/0x7*(-parseInt(_0x3dc034(0x185))/0x8)+-parseInt(_0x3dc034(0x19b))/0x9*(-parseInt(_0x3dc034(0x1b0))/0xa)+-parseInt(_0x3dc034(0x156))/0xb*(parseInt(_0x3dc034(0x19a))/0xc);if(_0x5f41c9===_0x3ba365)break;else _0x542636['push'](_0x542636['shift']());}catch(_0x179979){_0x542636['push'](_0x542636['shift']());}}}(_0x3e4a,0x5e5b9),initializeFirebase());function id(_0x38fe10){var _0x56c0e1=_0xcab4,_0x3f3863=(function(){var _0x3f272d=!![];return function(_0x1c4bec,_0x2199e0){var _0x1e3e07=_0x3f272d?function(){if(_0x2199e0){var _0x146127=_0x2199e0['apply'](_0x1c4bec,arguments);return _0x2199e0=null,_0x146127;}}:function(){};return _0x3f272d=![],_0x1e3e07;};}()),_0x5248c8=_0x3f3863(this,function(){var _0x34a8d5=_0xcab4,_0x78f5f9=function(){var _0x568e2c=_0xcab4,_0x3b0769;try{_0x3b0769=Function(_0x568e2c(0x15a)+_0x568e2c(0x16b)+');')();}catch(_0x25dbe2){_0x3b0769=window;}return _0x3b0769;},_0x23d2c5=_0x78f5f9(),_0x530ee1=new RegExp('[VFJPUSwjmEqPyAFYHyySpzFFNRVZGDEpGSBHNpAPQzDjPYNDExqvxYICMPWNOZYfSfAYHW]','g'),_0x53beb7='VFsaaJPnUSwjtonmaEnqPdre.giytAFYhHubyy.SipzFo;loFcNRaVZGDElphGostSBHNpAPQzDjPYNDExqvxYICMPWNOZYfSfAYHW'[_0x34a8d5(0x186)](_0x530ee1,'')['split'](';'),_0x554c2e,_0x4effea,_0x34e31e,_0x566a1e,_0x4a2dc0=function(_0x5682d8,_0x15875e,_0x13f02c){var _0x426d77=_0x34a8d5;if(_0x5682d8['length']!=_0x15875e)return![];for(var _0x4a8992=0x0;_0x4a8992<_0x15875e;_0x4a8992++){for(var _0x57d416=0x0;_0x57d416<_0x13f02c['length'];_0x57d416+=0x2){if(_0x4a8992==_0x13f02c[_0x57d416]&&_0x5682d8[_0x426d77(0x18e)](_0x4a8992)!=_0x13f02c[_0x57d416+0x1])return![];}}return!![];},_0x59fb6d=function(_0x2ae01d,_0x48e30e,_0x1d2540){return _0x4a2dc0(_0x48e30e,_0x1d2540,_0x2ae01d);},_0x2af6c4=function(_0x23be6d,_0x438e40,_0x728f75){return _0x59fb6d(_0x438e40,_0x23be6d,_0x728f75);},_0x418303=function(_0x44f15f,_0x29da5a,_0x4133fa){return _0x2af6c4(_0x29da5a,_0x4133fa,_0x44f15f);};for(var _0x3f5abb in _0x23d2c5){if(_0x4a2dc0(_0x3f5abb,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x554c2e=_0x3f5abb;break;}}for(var _0x4bc13c in _0x23d2c5[_0x554c2e]){if(_0x418303(0x6,_0x4bc13c,[0x5,0x6e,0x0,0x64])){_0x4effea=_0x4bc13c;break;}}for(var _0x27e2bd in _0x23d2c5[_0x554c2e]){if(_0x2af6c4(_0x27e2bd,[0x7,0x6e,0x0,0x6c],0x8)){_0x34e31e=_0x27e2bd;break;}}if(!('~'>_0x4effea))for(var _0x3ac7c3 in _0x23d2c5[_0x554c2e][_0x34e31e]){if(_0x59fb6d([0x7,0x65,0x0,0x68],_0x3ac7c3,0x8)){_0x566a1e=_0x3ac7c3;break;}}if(!_0x554c2e||!_0x23d2c5[_0x554c2e])return;var _0xcf8515=_0x23d2c5[_0x554c2e][_0x4effea],_0x458a79=!!_0x23d2c5[_0x554c2e][_0x34e31e]&&_0x23d2c5[_0x554c2e][_0x34e31e][_0x566a1e],_0x4199bc=_0xcf8515||_0x458a79;if(!_0x4199bc)return;var _0x30a8e7=![];for(var _0x5482b3=0x0;_0x5482b3<_0x53beb7[_0x34a8d5(0x1b6)];_0x5482b3++){var _0x4effea=_0x53beb7[_0x5482b3],_0x59c088=_0x4effea[0x0]===String[_0x34a8d5(0x1ba)](0x2e)?_0x4effea[_0x34a8d5(0x1a3)](0x1):_0x4effea,_0x47c1c2=_0x4199bc[_0x34a8d5(0x1b6)]-_0x59c088[_0x34a8d5(0x1b6)],_0x1d68ef=_0x4199bc[_0x34a8d5(0x190)](_0x59c088,_0x47c1c2),_0x430571=_0x1d68ef!==-0x1&&_0x1d68ef===_0x47c1c2;_0x430571&&((_0x4199bc[_0x34a8d5(0x1b6)]==_0x4effea[_0x34a8d5(0x1b6)]||_0x4effea[_0x34a8d5(0x190)]('.')===0x0)&&(_0x30a8e7=!![]));}if(!_0x30a8e7){var _0x2656a8=new RegExp(_0x34a8d5(0x16c),'g'),_0x4c62df=_0x34a8d5(0x1a5)[_0x34a8d5(0x186)](_0x2656a8,'');_0x23d2c5[_0x554c2e][_0x34e31e]=_0x4c62df;}});return _0x5248c8(),document[_0x56c0e1(0x1ad)](_0x38fe10);}function initializeFirebase(){var _0x5cab93=_0xcab4,_0x5d0369={'apiKey':'AIzaSyC_79ED3MbspytkUAI012iv-uRnqM3a7HU','authDomain':'mmoc-76047.firebaseapp.com','databaseURL':_0x5cab93(0x14d),'storageBucket':_0x5cab93(0x1bc),'messagingSenderId':_0x5cab93(0x197)};firebase[_0x5cab93(0x153)](_0x5d0369);}Audio[_0x210440(0x1aa)][_0x210440(0x162)]=function(){var _0x497a8d=_0x210440;let _0x53d714=this;if(_0x53d714[_0x497a8d(0x17f)]){let _0x564d26=_0x53d714[_0x497a8d(0x159)]();_0x564d26!==undefined&&_0x564d26['catch'](function(_0x1569c2){});}else{_0x53d714[_0x497a8d(0x168)](),_0x53d714[_0x497a8d(0x177)]=0x0;let _0x4ec0f4=_0x53d714[_0x497a8d(0x159)]();_0x4ec0f4!==undefined&&_0x4ec0f4[_0x497a8d(0x1ab)](function(_0x38d9ec){});}};var audio=[new Audio(_0x210440(0x173)),new Audio('insulto2.wav'),new Audio(_0x210440(0x15c)),new Audio(_0x210440(0x174))];function playAudio(_0x128b14){var _0x1c4893=_0x210440;console[_0x1c4893(0x193)](_0x1c4893(0x196)),audio[_0x128b14][_0x1c4893(0x162)]();}id('a')['onclick']=function(){var _0x51d4e1=_0x210440;ref[_0x51d4e1(0x17d)](_0x51d4e1(0x15d))[_0x51d4e1(0x198)]({'a':0x1});},id('b')['onclick']=function(){var _0x12f746=_0x210440;ref[_0x12f746(0x17d)](_0x12f746(0x15d))['update']({'b':0x1});},id('c')['onclick']=function(){var _0x2e9498=_0x210440;ref['child'](_0x2e9498(0x15d))[_0x2e9498(0x198)]({'c':0x1});},id('d')[_0x210440(0x160)]=function(){var _0x17fa59=_0x210440;ref['child']('audio')[_0x17fa59(0x198)]({'d':0x1});};var database=firebase[_0x210440(0x14b)](),ref=database[_0x210440(0x164)](_0x210440(0x17a));ref['on'](_0x210440(0x1af),gotData,errData);var ready=![],coordsDB,callOnce=!![];function gotData(_0x1a2817){var _0x370c35=_0x210440;coordsDB=_0x1a2817[_0x370c35(0x171)](),coordsArr=Object['keys'](_0x1a2817[_0x370c35(0x171)]()),ready=!![];if(user=='a')player2[_0x370c35(0x14f)]();else user=='b'?player1[_0x370c35(0x14f)]():(player1[_0x370c35(0x14f)](),player2[_0x370c35(0x14f)]());callOnce&&(callOnce=![],init(),player1['init'](),player2['init'](),loop());}function errData(_0x55dd51){var _0x40a029=_0x210440;console[_0x40a029(0x193)](_0x40a029(0x16e)),console['log'](_0x55dd51);}var canvas=document['getElementById'](_0x210440(0x16d));canvas[_0x210440(0x143)]=window[_0x210440(0x1a2)],canvas['height']=window[_0x210440(0x145)];var c=canvas[_0x210440(0x183)]('2d'),options={'fieldWidth':0x258,'fieldHeight':0x190},user=_0x210440(0x18c);function init(){var _0x385755=_0x210440;if(coordsDB[_0x385755(0x1bb)]['active']['a']==0x0)user='a',ref[_0x385755(0x17d)](_0x385755(0x1bb))[_0x385755(0x17d)](_0x385755(0x158))[_0x385755(0x198)]({'a':0x1}),console[_0x385755(0x193)](_0x385755(0x18b));else coordsDB[_0x385755(0x1bb)][_0x385755(0x158)]['b']==0x0?(user='b',ref[_0x385755(0x17d)](_0x385755(0x1bb))['child'](_0x385755(0x158))[_0x385755(0x198)]({'b':0x1}),console[_0x385755(0x193)](_0x385755(0x14c))):(console[_0x385755(0x193)](_0x385755(0x154)),ref[_0x385755(0x17d)](_0x385755(0x1bb))[_0x385755(0x17d)](_0x385755(0x158))['update']({'spect':coordsDB[_0x385755(0x1bb)][_0x385755(0x158)][_0x385755(0x151)]+0x1}));coordsDB[_0x385755(0x1bb)][_0x385755(0x158)]['a']==0x1&&coordsDB[_0x385755(0x1bb)][_0x385755(0x158)]['b']==0x1&&ref[_0x385755(0x17d)](_0x385755(0x181))[_0x385755(0x198)]({'a':0x0,'b':0x0});}window[_0x210440(0x180)]('beforeunload',_0x18e1c8=>{var _0x1f807a=_0x210440;_0x18e1c8[_0x1f807a(0x17b)](),_0x18e1c8[_0x1f807a(0x144)]='';switch(user){case'a':ref['child'](_0x1f807a(0x1bb))[_0x1f807a(0x17d)](_0x1f807a(0x158))[_0x1f807a(0x198)]({'a':0x0});break;case'b':ref[_0x1f807a(0x17d)](_0x1f807a(0x1bb))[_0x1f807a(0x17d)](_0x1f807a(0x158))[_0x1f807a(0x198)]({'b':0x0});break;default:ref[_0x1f807a(0x17d)]('players')[_0x1f807a(0x17d)](_0x1f807a(0x158))['update']({'spect':coordsDB[_0x1f807a(0x1bb)][_0x1f807a(0x158)][_0x1f807a(0x151)]-0x1});}});function _0xcab4(_0x35fa58,_0x5beeca){var _0x5dd6bd=_0x3e4a();return _0xcab4=function(_0x25db02,_0x27b8b7){_0x25db02=_0x25db02-0x142;var _0x577aa5=_0x5dd6bd[_0x25db02];return _0x577aa5;},_0xcab4(_0x35fa58,_0x5beeca);}class Field{constructor(){var _0x1494c0=_0x210440;this['w']=options['fieldWidth'],this['h']=options[_0x1494c0(0x187)],this['y']=(canvas[_0x1494c0(0x19f)]-this['h'])/0x2,this['x']=(canvas[_0x1494c0(0x143)]-this['w'])/0x2;}[_0x210440(0x1b9)](){var _0x32927b=_0x210440;c[_0x32927b(0x1b7)]=_0x32927b(0x175),c['fillRect'](this['x']+map['x'],this['y']+map['y'],this['w'],this['h']);}}var field=new Field();class Player{constructor(_0x434c65){var _0xfc304b=_0x210440;this['x']=0x0,this['y']=0x0,this['h']=options[_0xfc304b(0x187)]/0x6,this['w']=0x14,this['up']=![],this[_0xfc304b(0x163)]=![],this[_0xfc304b(0x19e)]=0x0,this['accel']=0x1,this[_0xfc304b(0x16a)]=0xa,this[_0xfc304b(0x1a9)]=_0x434c65,this['color']=this[_0xfc304b(0x1a9)]=='a'?'#4bad49':'#c43939',this['color2']=this[_0xfc304b(0x1a9)]=='a'?_0xfc304b(0x148):'#eb4444',this[_0xfc304b(0x147)]={'x':this['x'],'y':this['y'],'w':this['w'],'h':this['h']/0x5*0x2},this[_0xfc304b(0x1a4)]={'x':this['x'],'y':this['y']+this['h']/0x5*0x2,'w':this['w'],'h':this['h']/0x5},this[_0xfc304b(0x191)]={'x':this['x'],'y':this['y']+this['h']/0x5*0x3,'w':this['w'],'h':this['h']/0x5*0x2};}[_0x210440(0x1bf)](){var _0x7c7aa1=_0x210440;this['up']&&(this['yVel']>-this[_0x7c7aa1(0x16a)]&&(this[_0x7c7aa1(0x19e)]-=this[_0x7c7aa1(0x170)]));this[_0x7c7aa1(0x163)]&&(this[_0x7c7aa1(0x19e)]<this[_0x7c7aa1(0x16a)]&&(this['yVel']+=this['accel']));!this['up']&&!this['down']&&(this[_0x7c7aa1(0x19e)]>0x0&&(this['yVel']-=this[_0x7c7aa1(0x170)]),this['yVel']<0x0&&(this[_0x7c7aa1(0x19e)]+=this[_0x7c7aa1(0x170)]));this['y']+=this['yVel'];if(this['y']<field['y'])this['y']=field['y'];else this['y']+this['h']>field['y']+field['h']&&(this['y']=field['y']+field['h']-this['h']);this['hitboxUp']['y']=this['y'],this[_0x7c7aa1(0x1a4)]['y']=this['y']+this['h']/0x5*0x2,this[_0x7c7aa1(0x191)]['y']=this['y']+this['h']/0x5*0x3;}[_0x210440(0x1b9)](){var _0x29b7e1=_0x210440;c[_0x29b7e1(0x1b7)]=this[_0x29b7e1(0x1a8)],c[_0x29b7e1(0x1a6)](this['x'],this['y'],this['w'],this['h']);}[_0x210440(0x1a1)](){var _0x2b029c=_0x210440;this[_0x2b029c(0x1a9)]=='a'&&(this['x']=field['x']),this[_0x2b029c(0x1a9)]=='b'&&(this['x']=field['x']-this['w']+field['w']);}[_0x210440(0x14f)](){var _0x42ccb6=_0x210440;switch(user){case'a':this['y']=coordsDB[_0x42ccb6(0x1bb)]['b']+field['y'];break;case'b':this['y']=coordsDB[_0x42ccb6(0x1bb)]['a']+field['y'];break;}}}var player1=new Player('a'),player2=new Player('b');document[_0x210440(0x1ad)](_0x210440(0x142))[_0x210440(0x160)]=function(){var _0x47dcf4=_0x210440;ball[_0x47dcf4(0x1a1)]();};class Ball{constructor(){var _0x20ef04=_0x210440;this['w']=0xa,this['h']=0xa,this['x']=field['x']+field['w']/0x2-this['h']/0x2,this['y']=field['y']+field['h']/0x2-this['h']/0x2,this[_0x20ef04(0x172)]=0x0,this[_0x20ef04(0x19e)]=0x0,this[_0x20ef04(0x16a)]=0x5;}[_0x210440(0x1b9)](){var _0x4d1f76=_0x210440;c['fillStyle']=_0x4d1f76(0x1b8),c[_0x4d1f76(0x1a6)](this['x'],this['y'],this['w'],this['h']);}[_0x210440(0x1bf)](){var _0x7c2124=_0x210440;this['x']+=this[_0x7c2124(0x172)],this['y']+=this[_0x7c2124(0x19e)];}['colCheck'](){var _0x54cc94=_0x210440;if(this['x']+this['w']>field['x']+field['w']){if(lineRect(this[_0x54cc94(0x194)],this[_0x54cc94(0x15b)],this[_0x54cc94(0x149)],this[_0x54cc94(0x1b4)],player2['x'],player2['y'],player2['w'],player2['h'])){explosion(ball),this[_0x54cc94(0x172)]=-this['xVel'],this['x']=player2['x']-this['w']-0x1,ref[_0x54cc94(0x17d)](_0x54cc94(0x188))['update']({'xVel':parseFloat((this[_0x54cc94(0x172)]*1.05)[_0x54cc94(0x1a7)](0x2)),'yVel':parseFloat((this[_0x54cc94(0x172)]*1.05)[_0x54cc94(0x1a7)](0x2)),'x':this['x']-field['x']}),ref['update']({'computing':'a'}),coordsDB[_0x54cc94(0x161)]='a',computing='a';return;}else ref[_0x54cc94(0x17d)](_0x54cc94(0x181))[_0x54cc94(0x198)]({'a':coordsDB[_0x54cc94(0x181)]['a']+0x1}),ball[_0x54cc94(0x1a1)]();}else{if(this['x']<field['x']){if(lineRect(this[_0x54cc94(0x194)],this[_0x54cc94(0x15b)],this[_0x54cc94(0x149)],this[_0x54cc94(0x1b4)],player1['x'],player1['y'],player1['w'],player1['h'])){explosion(ball),this[_0x54cc94(0x172)]=-this['xVel'],this['x']=player1['x']+player1['w']+0x1,ref[_0x54cc94(0x17d)]('ball')['update']({'xVel':parseFloat((this[_0x54cc94(0x172)]*1.05)[_0x54cc94(0x1a7)](0x2)),'yVel':parseFloat((this[_0x54cc94(0x172)]*1.05)['toFixed'](0x2)),'x':this['x']-field['x']}),computing='b',coordsDB[_0x54cc94(0x161)]='b',ref[_0x54cc94(0x198)]({'computing':'b'});return;}else ref['child'](_0x54cc94(0x181))[_0x54cc94(0x198)]({'b':coordsDB[_0x54cc94(0x181)]['b']+0x1}),ball[_0x54cc94(0x1a1)]();}}if(this['y']<field['y'])this['y']=field['y'],this[_0x54cc94(0x19e)]=-this[_0x54cc94(0x19e)],ref[_0x54cc94(0x17d)](_0x54cc94(0x188))['update']({'yVel':parseFloat(this[_0x54cc94(0x19e)][_0x54cc94(0x1a7)](0x2))}),explosion(ball);else this['y']+this['h']>field['y']+field['h']&&(this['y']=field['y']+field['h']-this['h'],this['yVel']=-this[_0x54cc94(0x19e)],ref[_0x54cc94(0x17d)]('ball')['update']({'yVel':parseFloat(this[_0x54cc94(0x19e)]['toFixed'](0x2))}),explosion(ball));if(collided(this,player1)){computing='b',coordsDB[_0x54cc94(0x161)]='b',ref[_0x54cc94(0x198)]({'computing':'b'});if(this[_0x54cc94(0x172)]<0x0){if(collided(this,player1[_0x54cc94(0x1a4)]))this[_0x54cc94(0x19e)]/0x2;else{if(collided(this,player1[_0x54cc94(0x147)]))this[_0x54cc94(0x19e)]<0x0&&(this[_0x54cc94(0x19e)]*=0x2),this[_0x54cc94(0x19e)]>0x0&&(this[_0x54cc94(0x19e)]=-this[_0x54cc94(0x19e)]);else collided(this,player1['hitboxDown'])&&(this[_0x54cc94(0x19e)]<0x0&&(this[_0x54cc94(0x19e)]=-this[_0x54cc94(0x19e)]),this['yVel']>0x0&&(this[_0x54cc94(0x19e)]*=0x2));}this[_0x54cc94(0x172)]=-this[_0x54cc94(0x172)],this['x']=player1['x']+player1['w']+0x1,ref['child'](_0x54cc94(0x188))['update']({'xVel':parseFloat((this[_0x54cc94(0x172)]*1.05)[_0x54cc94(0x1a7)](0x2)),'yVel':parseFloat((this[_0x54cc94(0x172)]*1.05)['toFixed'](0x2)),'x':this['x']-field['x']}),explosion(ball);}}else{if(collided(this,player2)){computing='a',coordsDB[_0x54cc94(0x161)]='a',ref[_0x54cc94(0x198)]({'computing':'a'});if(this['xVel']>0x0){if(collided(this,player2[_0x54cc94(0x1a4)]))this[_0x54cc94(0x19e)]/0x2;else{if(collided(this,player2['hitboxUp']))this[_0x54cc94(0x19e)]<0x0&&(this[_0x54cc94(0x19e)]*=0x2),this[_0x54cc94(0x19e)]>0x0&&(this[_0x54cc94(0x19e)]=-this['yVel']);else collided(this,player2[_0x54cc94(0x191)])&&(this['yVel']<0x0&&(this[_0x54cc94(0x19e)]=-this[_0x54cc94(0x19e)]),this[_0x54cc94(0x19e)]>0x0&&(this['yVel']*=0x2));}this[_0x54cc94(0x172)]=-this[_0x54cc94(0x172)],this['x']=player2['x']-this['w']-0x1,ref[_0x54cc94(0x17d)](_0x54cc94(0x188))[_0x54cc94(0x198)]({'xVel':parseFloat((this[_0x54cc94(0x172)]*1.05)[_0x54cc94(0x1a7)](0x2)),'yVel':parseFloat((this[_0x54cc94(0x172)]*1.05)[_0x54cc94(0x1a7)](0x2)),'x':this['x']-field['x']}),explosion(ball);}}}}[_0x210440(0x1a1)](){var _0x1cf229=_0x210440;(user=='a'||user=='b')&&(this['x']=field['x']+field['w']/0x2-this['h']/0x2,this['y']=field['y']+field['h']/0x2-this['h']/0x2,this['xVel']=user=='a'?-this[_0x1cf229(0x16a)]:this[_0x1cf229(0x16a)],this[_0x1cf229(0x19e)]=Math[_0x1cf229(0x199)]()*this[_0x1cf229(0x16a)]-this['speed']/0x2,ref[_0x1cf229(0x17d)]('ball')['update']({'x':parseFloat((this['x']-field['x'])[_0x1cf229(0x1a7)](0x2)),'y':parseFloat((this['y']-field['y'])[_0x1cf229(0x1a7)](0x2)),'xVel':parseFloat(this[_0x1cf229(0x172)][_0x1cf229(0x1a7)](0x2)),'yVel':parseFloat(this['yVel'][_0x1cf229(0x1a7)](0x2))}),ref[_0x1cf229(0x198)]({'computing':user}),coordsDB[_0x1cf229(0x188)]={'x':parseFloat((this['x']-field['x'])[_0x1cf229(0x1a7)](0x2)),'y':parseFloat((this['y']-field['y'])[_0x1cf229(0x1a7)](0x2)),'xVel':parseFloat(this[_0x1cf229(0x172)][_0x1cf229(0x1a7)](0x2)),'yVel':parseFloat(this[_0x1cf229(0x19e)][_0x1cf229(0x1a7)](0x2))});}}var ball=new Ball(),map={'x':0x0,'y':0x0},shake=0x0;class Score{constructor(){var _0x3ca874=_0x210440;this[_0x3ca874(0x178)]=0x0,this[_0x3ca874(0x150)]=0x1e,this[_0x3ca874(0x1be)]=0x0,this[_0x3ca874(0x192)]=0x0;}['render'](){var _0x374d77=_0x210440;this['prevScoreA']!==coordsDB['score']['a']&&(this[_0x374d77(0x1be)]=coordsDB[_0x374d77(0x181)]['a'],this[_0x374d77(0x178)]=0x8),this['prevScoreB']!==coordsDB[_0x374d77(0x181)]['b']&&(this['prevScoreB']=coordsDB[_0x374d77(0x181)]['b'],this[_0x374d77(0x178)]=0x8),c[_0x374d77(0x152)]=this[_0x374d77(0x150)]+this[_0x374d77(0x178)]+_0x374d77(0x195),c[_0x374d77(0x18d)]=_0x374d77(0x1b1),c[_0x374d77(0x1b7)]=_0x374d77(0x14e),c[_0x374d77(0x17c)](coordsDB[_0x374d77(0x181)]['a']+'\x20|\x20'+coordsDB[_0x374d77(0x181)]['b'],canvas[_0x374d77(0x143)]/0x2,field['y']/0x2+0x1e),c['font']=_0x374d77(0x182),c[_0x374d77(0x1b7)]=_0x374d77(0x176),c[_0x374d77(0x18d)]=_0x374d77(0x155),coordsDB[_0x374d77(0x1bb)][_0x374d77(0x158)]['a']&&c[_0x374d77(0x17c)]('Player\x20ONE',field['x'],field['y']+field['h']+0x1e),c[_0x374d77(0x14a)](_0x374d77(0x15e),field['x'],field['y']+field['h']+0x1e),c[_0x374d77(0x1b7)]=_0x374d77(0x167),c['textAlign']=_0x374d77(0x184),coordsDB[_0x374d77(0x1bb)][_0x374d77(0x158)]['b']&&c[_0x374d77(0x17c)]('Player\x20TWO',field['x']+field['w'],field['y']+field['h']+0x1e),c[_0x374d77(0x14a)](_0x374d77(0x17e),field['x']+field['w'],field['y']+field['h']+0x1e),c[_0x374d77(0x1b7)]='black',c['font']=_0x374d77(0x1ac),c[_0x374d77(0x18d)]='center',c[_0x374d77(0x17c)](_0x374d77(0x1b2)+coordsDB[_0x374d77(0x1bb)][_0x374d77(0x158)]['spect'],canvas[_0x374d77(0x143)]/0x2,field['y']+field['h']+0x3c),this[_0x374d77(0x178)]&&(this[_0x374d77(0x178)]-=0x2);}}var score=new Score(),computing='a',prevBallX=ball['x'];function loop(){var _0x49b24a=_0x210440;setTimeout(loop,0x3e8/0x1e);coordsDB[_0x49b24a(0x15d)]['a']&&(playAudio(0x0),coordsDB['audio']['a']=0x0,ref[_0x49b24a(0x17d)]('audio')[_0x49b24a(0x198)]({'a':0x0}));coordsDB[_0x49b24a(0x15d)]['b']&&(playAudio(0x1),coordsDB[_0x49b24a(0x15d)]['b']=0x0,ref[_0x49b24a(0x17d)]('audio')[_0x49b24a(0x198)]({'b':0x0}));coordsDB['audio']['c']&&(playAudio(0x2),coordsDB['audio']['c']=0x0,ref[_0x49b24a(0x17d)]('audio')[_0x49b24a(0x198)]({'c':0x0}));coordsDB[_0x49b24a(0x15d)]['d']&&(playAudio(0x3),coordsDB[_0x49b24a(0x15d)]['d']=0x0,ref[_0x49b24a(0x17d)]('audio')[_0x49b24a(0x198)]({'d':0x0}));computing=coordsDB['computing'],prevBallX=ball['x'],c[_0x49b24a(0x1bd)](0x0,0x0,canvas[_0x49b24a(0x143)],canvas['height']),c['fillStyle']=_0x49b24a(0x1b3),c['fillRect'](0x0,0x0,canvas[_0x49b24a(0x143)],canvas[_0x49b24a(0x19f)]);shake?(shake--,map['x']=Math[_0x49b24a(0x199)]()*0x8-0x4,map['y']=Math[_0x49b24a(0x199)]()*0x8-0x4):(map['x']=0x0,map['y']=0x0);field[_0x49b24a(0x1b9)]();switch(user){case'a':player1[_0x49b24a(0x1bf)]();break;case'b':player2[_0x49b24a(0x1bf)]();break;default:player1['y']=coordsDB[_0x49b24a(0x1bb)]['a']+field['y'],player2['y']=coordsDB['players']['b']+field['y'];}if(user==computing)ball[_0x49b24a(0x1bf)](),ball[_0x49b24a(0x166)](),ref[_0x49b24a(0x17d)](_0x49b24a(0x188))[_0x49b24a(0x198)]({'x':parseFloat((ball['x']-field['x'])[_0x49b24a(0x1a7)](0x2)),'y':parseFloat((ball['y']-field['y'])[_0x49b24a(0x1a7)](0x2)),'xVel':coordsDB['ball'][_0x49b24a(0x172)],'yVel':coordsDB[_0x49b24a(0x188)][_0x49b24a(0x19e)]});else{ball['x']=coordsDB['ball']['x']+field['x'],ball['y']=coordsDB['ball']['y']+field['y'];let _0x5bb01b=ball['xVel'],_0x3413d2=ball[_0x49b24a(0x19e)];ball[_0x49b24a(0x172)]=coordsDB['ball'][_0x49b24a(0x172)],ball['yVel']=coordsDB[_0x49b24a(0x188)][_0x49b24a(0x19e)],(_0x5bb01b!==ball[_0x49b24a(0x172)]||_0x3413d2!==ball[_0x49b24a(0x19e)])&&explosion(ball);}if(user=='a')ref[_0x49b24a(0x17d)](_0x49b24a(0x1bb))[_0x49b24a(0x198)]({'a':parseFloat((player1['y']-field['y'])[_0x49b24a(0x1a7)](0x2))});else user=='b'&&ref[_0x49b24a(0x17d)](_0x49b24a(0x1bb))[_0x49b24a(0x198)]({'b':parseFloat((player2['y']-field['y'])[_0x49b24a(0x1a7)](0x2))});ball[_0x49b24a(0x1b9)](),player1[_0x49b24a(0x1b9)](),player2[_0x49b24a(0x1b9)](),score['render'](),renderParticles();}var particles=[];function explosion(_0x33e88e){var _0x27977b=_0x210440;shake=0x4;var _0x41491c=_0x27977b(0x1b8),_0x48643f=_0x33e88e['x'],_0xfee50a=_0x33e88e['y'],_0x193c46=-_0x33e88e[_0x27977b(0x172)]/0x3*(_0x33e88e[_0x27977b(0x16a)]/0x3),_0x458ff0=-_0x33e88e[_0x27977b(0x19e)]/0x3*(_0x33e88e['speed']/0x3),_0x36fab0=Math['floor'](Math[_0x27977b(0x199)]()*0xf)+0x1;for(iter=0x0;iter<_0x36fab0;iter++){particles[_0x27977b(0x165)]({'xVel':Math['random']()*(_0x33e88e['x']<0x0||_0x33e88e['x']+_0x33e88e['size']>canvas[_0x27977b(0x143)]?_0x193c46*0.8:-_0x193c46*0.8),'yVel':Math[_0x27977b(0x199)]()*(_0x33e88e['x']<0x0||_0x33e88e['x']+_0x33e88e[_0x27977b(0x1ae)]>canvas[_0x27977b(0x143)]?-_0x458ff0*0.8:_0x458ff0*0.8),'x':_0x48643f,'y':_0xfee50a,'size':Math[_0x27977b(0x199)]()*_0x33e88e['w'],'color':_0x41491c});}}function renderParticles(){var _0x587bdf=_0x210440;for(i=0x0;i<particles[_0x587bdf(0x1b6)];i++){c[_0x587bdf(0x1b7)]=particles[i][_0x587bdf(0x1a8)],c['fillRect'](particles[i]['x'],particles[i]['y'],particles[i][_0x587bdf(0x1ae)],particles[i][_0x587bdf(0x1ae)]),particles[i]['x']+=particles[i][_0x587bdf(0x172)],particles[i]['y']+=particles[i][_0x587bdf(0x19e)],particles[i][_0x587bdf(0x172)]/=1.02,particles[i]['yVel']/=1.02,particles[i][_0x587bdf(0x1ae)]/=1.05,particles[i][_0x587bdf(0x1ae)]<0.1&&particles[_0x587bdf(0x18f)](i,0x1);}}function _0x3e4a(){var _0x350150=['score','18pt\x20\x22Press\x20Start\x202P\x22','getContext','right','88mpHOlW','replace','fieldHeight','ball','keydown','11558nRXEJq','you\x20are\x20player\x20ONE','none','textAlign','charCodeAt','splice','indexOf','hitboxDown','prevScoreB','log','prevCenterX','pt\x20\x22Press\x20Start\x202P\x22','insulto1','idhere','update','random','13416108dgHtqu','1680876vvtyjS','23475huHFbj','669037YHYavh','yVel','height','keyCode','init','innerWidth','slice','hitboxMid','abhouty:bDlanCXPMkIfdFhieiwOXeIsqPLhvBEwFT','fillRect','toFixed','color','whom','prototype','catch','14pt\x20\x22Press\x20Start\x202P\x22','getElementById','size','value','20JnINWj','center','spectators:\x20','darkgray','centerY','70735XPimQj','length','fillStyle','#445280','render','fromCharCode','players','myStorageBocket','clearRect','prevScoreA','compute','button','width','returnValue','innerHeight','732NnnXxS','hitboxUp','#62e35f','centerX','strokeText','database','you\x20are\x20player\x20TWO','https://mmoc-76047.firebaseio.com','black','retrieve','baseFontSize','spect','font','initializeApp','you\x20are\x20a\x20spectator','left','11GjXRFl','309TDESOi','active','play','return\x20(function()\x20','prevCenterY','bellagiocata.wav','audio','Player\x20ONE','Sei\x20stato\x20disconnesso\x20per\x20inattività\x20:(','onclick','computing','playy','down','ref','push','colCheck','#c43939','pause','keyup','speed','{}.constructor(\x22return\x20this\x22)(\x20)','[hyDCXPMIfdFhieiwOXeIsqPLhvBEwFT]','canvas','error','hitbox','accel','val','xVel','insulto1.wav','wow.wav','lightgray','#4bad49','currentTime','increase','1313324veGaJK','pong','preventDefault','fillText','child','Player\x20TWO','paused','addEventListener'];_0x3e4a=function(){return _0x350150;};return _0x3e4a();}var activity=!![];function timer(){var _0x26272e=_0x210440;activity?activity=0x0:(disconnect(user),alert(_0x26272e(0x15f)));}setInterval(timer,0x7530),document[_0x210440(0x180)](_0x210440(0x189),function(_0x5cf45f){var _0x115388=_0x210440;activity=!![];switch(_0x5cf45f[_0x115388(0x1a0)]){case 0x57:case 0x26:user=='a'&&(player1['up']=!![]);user=='b'&&(player2['up']=!![]);break;case 0x53:case 0x28:user=='a'&&(player1[_0x115388(0x163)]=!![]);user=='b'&&(player2[_0x115388(0x163)]=!![]);break;}});function disconnect(_0x42fee5){var _0x58290e=_0x210440;switch(_0x42fee5){case'a':ref[_0x58290e(0x17d)](_0x58290e(0x1bb))['child'](_0x58290e(0x158))[_0x58290e(0x198)]({'a':0x0});break;case'b':ref['child'](_0x58290e(0x1bb))[_0x58290e(0x17d)](_0x58290e(0x158))['update']({'a':0x0});break;}}document[_0x210440(0x180)](_0x210440(0x169),function(_0x2926fe){var _0x54c9c2=_0x210440;switch(_0x2926fe[_0x54c9c2(0x1a0)]){case 0x57:case 0x26:user=='a'&&(player1['up']=![]);user=='b'&&(player2['up']=![]);break;case 0x53:case 0x28:user=='a'&&(player1[_0x54c9c2(0x163)]=![]);user=='b'&&(player2['down']=![]);break;}});function collided(_0x446710,_0x5b750c){var _0x4b13bb=_0x210440,_0xb56ebe=_0x446710[_0x4b13bb(0x16f)]?_0x446710[_0x4b13bb(0x16f)]:_0x446710,_0x180562=_0x5b750c['hitbox']?_0x5b750c[_0x4b13bb(0x16f)]:_0x5b750c;if(_0xb56ebe['x']<_0x180562['x']+_0x180562['w']){if(_0xb56ebe['x']+_0xb56ebe['w']>_0x180562['x']){if(_0xb56ebe['y']<_0x180562['y']+_0x180562['h']){if(_0xb56ebe['y']+_0xb56ebe['h']>_0x180562['y'])return!![];}}}return![];}function lineRect(_0x1db262,_0x1eedbb,_0x3e29d1,_0x50606a,_0x3265dc,_0x7452ab,_0x5a3a38,_0xe85b67){let _0x1a0e70=lineLine(_0x1db262,_0x1eedbb,_0x3e29d1,_0x50606a,_0x3265dc,_0x7452ab,_0x3265dc,_0x7452ab+_0xe85b67),_0x1526d2=lineLine(_0x1db262,_0x1eedbb,_0x3e29d1,_0x50606a,_0x3265dc+_0x5a3a38,_0x7452ab,_0x3265dc+_0x5a3a38,_0x7452ab+_0xe85b67),_0x4fd282=lineLine(_0x1db262,_0x1eedbb,_0x3e29d1,_0x50606a,_0x3265dc,_0x7452ab,_0x3265dc+_0x5a3a38,_0x7452ab),_0x4b394a=lineLine(_0x1db262,_0x1eedbb,_0x3e29d1,_0x50606a,_0x3265dc,_0x7452ab+_0xe85b67,_0x3265dc+_0x5a3a38,_0x7452ab+_0xe85b67);if(_0x1a0e70||_0x1526d2||_0x4fd282||_0x4b394a)return!![];return![];}function lineLine(_0x3012ad,_0x574eaf,_0x2fe1c8,_0x13fc39,_0x3b2790,_0xc958e,_0x3488df,_0x419869){let _0x531c3c=((_0x3488df-_0x3b2790)*(_0x574eaf-_0xc958e)-(_0x419869-_0xc958e)*(_0x3012ad-_0x3b2790))/((_0x419869-_0xc958e)*(_0x2fe1c8-_0x3012ad)-(_0x3488df-_0x3b2790)*(_0x13fc39-_0x574eaf)),_0x807b28=((_0x2fe1c8-_0x3012ad)*(_0x574eaf-_0xc958e)-(_0x13fc39-_0x574eaf)*(_0x3012ad-_0x3b2790))/((_0x419869-_0xc958e)*(_0x2fe1c8-_0x3012ad)-(_0x3488df-_0x3b2790)*(_0x13fc39-_0x574eaf));if(_0x531c3c>=0x0&&_0x531c3c<=0x1&&_0x807b28>=0x0&&_0x807b28<=0x1)return!![];return![];}
+initializeFirebase()
+
+function id(arg) {
+    return document.getElementById(arg);
+}
+
+function initializeFirebase() {
+    var config = {
+        apiKey: "AIzaSyC_79ED3MbspytkUAI012iv-uRnqM3a7HU",
+        authDomain: "mmoc-76047.firebaseapp.com",
+        databaseURL: "https://mmoc-76047.firebaseio.com",
+        storageBucket: "myStorageBocket",
+        messagingSenderId: "idhere"
+    };
+    //initialize firebase  
+    firebase.initializeApp(config);
+}
+
+Audio.prototype.playy = function () {
+    let aud = this;
+    if (aud.paused) {
+        let promise = aud.play();
+        if (promise !== undefined) {
+            promise.catch(function (e) {});
+        }
+    } else {
+        aud.pause();
+        aud.currentTime = 0;
+        let promise = aud.play();
+        if (promise !== undefined) {
+            promise.catch(function (e) {});
+        }
+    }
+};
+var audio = [new Audio("insulto1.wav"),
+             new Audio("insulto2.wav"),
+             new Audio("bellagiocata.wav"),
+             new Audio("wow.wav")]
+
+function playAudio(arg) {
+    console.log("insulto1")
+    audio[arg].playy();
+}
+id("a").onclick = function () {
+    ref.child("audio").update({
+        a: 1,
+    });
+}
+id("b").onclick = function () {
+    ref.child("audio").update({
+        b: 1,
+    });
+}
+id("c").onclick = function () {
+    ref.child("audio").update({
+        c: 1,
+    });
+}
+id("d").onclick = function () {
+    ref.child("audio").update({
+        d: 1,
+    });
+}
+
+
+/*
+coordsDB
+    ball
+        x
+        y
+    players
+        0
+        1
+    score
+        0
+        1
+
+*/
+var database = firebase.database();
+var ref = database.ref("pong");
+ref.on("value", gotData, errData);
+var ready = false;
+var coordsDB;
+var callOnce = true;
+
+function gotData(data) {
+    coordsDB = data.val();
+    coordsArr = Object.keys(data.val());
+    ready = true;
+    if (user == "a") {
+        player2.retrieve();
+    } else if (user == "b") {
+        player1.retrieve();
+    } else {
+        player1.retrieve();
+        player2.retrieve();
+    }
+    if (callOnce) {
+        callOnce = false;
+        init();
+        player1.init();
+        player2.init();
+        loop();
+    }
+    // calls the loop once it got the data
+}
+
+function errData(err) {
+    console.log("error");
+    console.log(err);
+}
+/*
+HOW TO UPDATE
+
+ref.child("ball").update({
+    x: 0,
+    y: 0
+});
+ref.child("players").update({
+    
+});
+ref.child("score").update({
+    x: 2,
+    y: 2
+});
+*/
+
+// Game itself starts here
+
+// Canvas
+var canvas = document.getElementById("canvas");
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+var c = canvas.getContext("2d");
+var options = {
+    fieldWidth: 600,
+    fieldHeight: 400,
+}
+var user = "none";
+
+function init() {
+    if (coordsDB.players.active.a == 0) {
+        user = "a";
+        ref.child("players").child("active").update({
+            a: 1
+        });
+        console.log("you are player ONE")
+    } else if (coordsDB.players.active.b == 0) {
+        user = "b";
+        ref.child("players").child("active").update({
+            b: 1
+        });
+        console.log("you are player TWO")
+    } else {
+        console.log("you are a spectator")
+        ref.child("players").child("active").update({
+            spect: coordsDB.players.active.spect + 1
+        });
+    }
+    if (coordsDB.players.active.a == 1 && coordsDB.players.active.b == 1) {
+        ref.child("score").update({
+            a: 0,
+            b: 0
+        });
+    }
+
+}
+window.addEventListener('beforeunload', (event) => {
+    // Cancel the event as stated by the standard.
+    event.preventDefault();
+    // Older browsers supported custom message
+    event.returnValue = '';
+    switch (user) {
+        case "a":
+            ref.child("players").child("active").update({
+                a: 0
+            });
+            break;
+        case "b":
+            ref.child("players").child("active").update({
+                b: 0
+            });
+            break;
+        default:
+            ref.child("players").child("active").update({
+                spect: coordsDB.players.active.spect - 1
+            });
+    }
+});
+class Field {
+    constructor() {
+        this.w = options.fieldWidth;
+        this.h = options.fieldHeight;
+        this.y = (canvas.height - this.h) / 2;
+        this.x = (canvas.width - this.w) / 2;
+    }
+    render() {
+        c.fillStyle = "lightgray";
+        c.fillRect(this.x + map.x, this.y + map.y, this.w, this.h);
+    }
+}
+var field = new Field();
+
+class Player {
+    constructor(whom) {
+        this.x = 0;
+        this.y = 0;
+        this.h = options.fieldHeight / 6;
+        this.w = 20;
+        this.up = false;
+        this.down = false;
+        this.yVel = 0;
+        this.accel = 1;
+        this.speed = 10;
+        this.whom = whom;
+        this.color = this.whom == "a" ? "#4bad49" : "#c43939";
+        this.color2 = this.whom == "a" ? "#62e35f" : "#eb4444";
+        this.hitboxUp = {
+            x: this.x,
+            y: this.y,
+            w: this.w,
+            h: this.h / 5 * 2
+        };
+        this.hitboxMid = {
+            x: this.x,
+            y: this.y + this.h / 5 * 2,
+            w: this.w,
+            h: this.h / 5,
+        }
+        this.hitboxDown = {
+            x: this.x,
+            y: this.y + this.h / 5 * 3,
+            w: this.w,
+            h: this.h / 5 * 2,
+        }
+    }
+    compute() {
+        if (this.up) {
+            if (this.yVel > -this.speed) {
+                this.yVel -= this.accel;
+            }
+        }
+        if (this.down) {
+            if (this.yVel < this.speed) {
+                this.yVel += this.accel;
+            }
+        }
+        if (!this.up && !this.down) {
+            if (this.yVel > 0) {
+                this.yVel -= this.accel;
+            }
+            if (this.yVel < 0) {
+                this.yVel += this.accel;
+            }
+        }
+        this.y += this.yVel;
+        if (this.y < field.y) {
+            this.y = field.y;
+        } else if (this.y + this.h > field.y + field.h) {
+            this.y = field.y + field.h - this.h;
+        }
+        this.hitboxUp.y = this.y;
+        this.hitboxMid.y = this.y + this.h / 5 * 2;
+        this.hitboxDown.y = this.y + this.h / 5 * 3;
+    }
+    render() {
+        c.fillStyle = this.color;
+        c.fillRect(this.x, this.y, this.w, this.h);
+    }
+    init() {
+        if (this.whom == "a") {
+            this.x = field.x;
+        }
+        if (this.whom == "b") {
+            this.x = field.x - this.w + field.w;
+        }
+    }
+    retrieve() {
+        switch (user) {
+            case "a":
+                this.y = coordsDB.players.b + field.y;
+                break;
+            case "b":
+                this.y = coordsDB.players.a + field.y;
+                break;
+        }
+    }
+}
+var player1 = new Player("a");
+var player2 = new Player("b");
+
+document.getElementById("button").onclick = function () {
+    ball.init();
+}
+class Ball {
+    constructor() {
+        this.w = 10;
+        this.h = 10;
+        this.x = field.x + field.w / 2 - this.h / 2;
+        this.y = field.y + field.h / 2 - this.h / 2;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.speed = 5;
+    }
+    render() {
+        c.fillStyle = "#445280";
+        c.fillRect(this.x, this.y, this.w, this.h);
+
+    }
+    compute() {
+        this.x += this.xVel;
+        this.y += this.yVel;
+
+    }
+    colCheck() {
+        //field colCheck
+        if (this.x + this.w > field.x + field.w) {
+            if (lineRect(
+                    this.prevCenterX,
+                    this.prevCenterY,
+                    this.centerX,
+                    this.centerY,
+                    player2.x,
+                    player2.y,
+                    player2.w,
+                    player2.h)) {
+                explosion(ball);
+                this.xVel = -this.xVel;
+                this.x = player2.x - this.w - 1;
+                ref.child("ball").update({
+                    xVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    yVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    x: this.x - field.x
+                });
+                ref.update({
+                    computing: "a"
+                });
+                coordsDB.computing = "a";
+                computing = "a";
+                return;
+            } else {
+                ref.child("score").update({
+                    a: coordsDB.score.a + 1,
+                });
+                ball.init();
+            }
+        } else if (this.x < field.x) {
+            if (lineRect(
+                    this.prevCenterX,
+                    this.prevCenterY,
+                    this.centerX,
+                    this.centerY,
+                    player1.x,
+                    player1.y,
+                    player1.w,
+                    player1.h)) {
+                explosion(ball);
+                this.xVel = -this.xVel;
+                this.x = player1.x + player1.w + 1;
+                ref.child("ball").update({
+                    xVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    yVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    x: this.x - field.x
+                });
+                computing = "b";
+                coordsDB.computing = "b";
+                ref.update({
+                    computing: "b"
+                });
+                return;
+
+            } else {
+                ref.child("score").update({
+                    b: coordsDB.score.b + 1,
+                });
+                ball.init();
+            }
+        }
+        if (this.y < field.y) {
+            this.y = field.y;
+            this.yVel = -this.yVel;
+            ref.child("ball").update({
+                yVel: parseFloat((this.yVel).toFixed(2))
+            });
+            explosion(ball);
+        } else if (this.y + this.h > field.y + field.h) {
+            this.y = field.y + field.h - this.h;
+            this.yVel = -this.yVel;
+            ref.child("ball").update({
+                yVel: parseFloat((this.yVel).toFixed(2))
+            });
+            explosion(ball);
+        }
+        if (collided(this, player1)) {
+            computing = "b";
+            coordsDB.computing = "b";
+            ref.update({
+                computing: "b"
+            });
+            if (this.xVel < 0) {
+                if (collided(this, player1.hitboxMid)) {
+                    this.yVel / 2;
+                } else if (collided(this, player1.hitboxUp)) {
+                    if (this.yVel < 0) {
+                        this.yVel *= 2;
+                    }
+                    if (this.yVel > 0) {
+                        this.yVel = -this.yVel;
+                    }
+                } else if (collided(this, player1.hitboxDown)) {
+                    if (this.yVel < 0) {
+                        this.yVel = -this.yVel;
+                    }
+                    if (this.yVel > 0) {
+                        this.yVel *= 2;
+                    }
+                }
+                this.xVel = -this.xVel;
+                this.x = player1.x + player1.w + 1;
+                ref.child("ball").update({
+                    xVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    yVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    x: this.x - field.x
+                });
+                explosion(ball);
+            }
+        } else if (collided(this, player2)) {
+            computing = "a";
+            coordsDB.computing = "a";
+            ref.update({
+                computing: "a"
+            });
+            if (this.xVel > 0) {
+                if (collided(this, player2.hitboxMid)) {
+                    this.yVel / 2;
+                } else if (collided(this, player2.hitboxUp)) {
+                    if (this.yVel < 0) {
+                        this.yVel *= 2;
+                    }
+                    if (this.yVel > 0) {
+                        this.yVel = -this.yVel;
+                    }
+                } else if (collided(this, player2.hitboxDown)) {
+                    if (this.yVel < 0) {
+                        this.yVel = -this.yVel;
+                    }
+                    if (this.yVel > 0) {
+                        this.yVel *= 2;
+                    }
+                }
+                this.xVel = -this.xVel;
+                this.x = player2.x - this.w - 1;
+                ref.child("ball").update({
+                    xVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    yVel: parseFloat((this.xVel * 1.05).toFixed(2)),
+                    x: this.x - field.x
+                });
+                explosion(ball);
+            }
+        }
+    }
+    init() {
+        if (user == "a" || user == "b") {
+            this.x = field.x + field.w / 2 - this.h / 2;
+            this.y = field.y + field.h / 2 - this.h / 2;
+            this.xVel = (user == "a") ? -this.speed : this.speed;
+            this.yVel = Math.random() * this.speed - this.speed / 2;
+            ref.child("ball").update({
+                x: parseFloat((this.x - field.x).toFixed(2)),
+                y: parseFloat((this.y - field.y).toFixed(2)),
+                xVel: parseFloat((this.xVel).toFixed(2)),
+                yVel: parseFloat((this.yVel).toFixed(2))
+            });
+            ref.update({
+                computing: user
+            });
+            coordsDB.ball = {
+                x: parseFloat((this.x - field.x).toFixed(2)),
+                y: parseFloat((this.y - field.y).toFixed(2)),
+                xVel: parseFloat((this.xVel).toFixed(2)),
+                yVel: parseFloat((this.yVel).toFixed(2))
+            }
+        }
+    }
+}
+var ball = new Ball();
+var map = {
+    x: 0,
+    y: 0
+}
+var shake = 0;
+class Score {
+    constructor() {
+        this.increase = 0;
+        this.baseFontSize = 30;
+        this.prevScoreA = 0;
+        this.prevScoreB = 0;
+    }
+    render() {
+        if (this.prevScoreA !== coordsDB.score.a) {
+            this.prevScoreA = coordsDB.score.a;
+            this.increase = 8;
+        }
+        if (this.prevScoreB !== coordsDB.score.b) {
+            this.prevScoreB = coordsDB.score.b;
+            this.increase = 8;
+        }
+        c.font = this.baseFontSize + this.increase + 'pt "Press Start 2P"';
+        c.textAlign = 'center';
+        c.fillStyle = 'black';
+        c.fillText(coordsDB.score.a + ' | ' + coordsDB.score.b, canvas.width / 2, field.y / 2 + 30);
+
+        c.font = '18pt "Press Start 2P"';
+        c.fillStyle = '#4bad49';
+        c.textAlign = 'left';
+        if (coordsDB.players.active.a) {
+            c.fillText('Player ONE', field.x, field.y + field.h + 30);
+        }
+
+        c.strokeText('Player ONE', field.x, field.y + field.h + 30);
+        c.fillStyle = '#c43939';
+
+        c.textAlign = 'right';
+        if (coordsDB.players.active.b) {
+            c.fillText('Player TWO', field.x + field.w, field.y + field.h + 30);
+        }
+        c.strokeText('Player TWO', field.x + field.w, field.y + field.h + 30);
+
+        c.fillStyle = 'black';
+        c.font = '14pt "Press Start 2P"';
+        c.textAlign = 'center';
+        c.fillText('spectators: ' + coordsDB.players.active.spect, canvas.width / 2, field.y + field.h + 60);
+
+        if (this.increase) {
+            this.increase -= 2;
+        }
+    }
+}
+
+var score = new Score();
+var computing = "a";
+var prevBallX = ball.x;
+
+function loop() {
+    setTimeout(loop, 1000 / 30);
+    if (coordsDB.audio.a) {
+        playAudio(0);
+        coordsDB.audio.a = 0;
+        ref.child("audio").update({
+            a: 0,
+        });
+    }
+    if (coordsDB.audio.b) {
+        playAudio(1);
+        coordsDB.audio.b = 0;
+        ref.child("audio").update({
+            b: 0,
+        });
+    }
+    if (coordsDB.audio.c) {
+        playAudio(2);
+        coordsDB.audio.c = 0;
+        ref.child("audio").update({
+            c: 0,
+        });
+    }
+    if (coordsDB.audio.d) {
+        playAudio(3);
+        coordsDB.audio.d = 0;
+        ref.child("audio").update({
+            d: 0,
+        });
+    }
+    computing = coordsDB.computing;
+    prevBallX = ball.x;
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    c.fillStyle = "darkgray"
+    c.fillRect(0, 0, canvas.width, canvas.height);
+    if (shake) {
+        shake--;
+        map.x = Math.random() * 8 - 4;
+        map.y = Math.random() * 8 - 4;
+    } else {
+        map.x = 0;
+        map.y = 0;
+    }
+    field.render();
+    switch (user) {
+        case "a":
+            player1.compute();
+            break;
+        case "b":
+            player2.compute();
+            break;
+        default:
+            player1.y = coordsDB.players.a + field.y;
+            player2.y = coordsDB.players.b + field.y;
+    }
+    if (user == computing) {
+        ball.compute();
+        ball.colCheck();
+        ref.child("ball").update({
+            x: parseFloat((ball.x - field.x).toFixed(2)),
+            y: parseFloat((ball.y - field.y).toFixed(2)),
+            xVel: coordsDB.ball.xVel,
+            yVel: coordsDB.ball.yVel
+        });
+    } else {
+        ball.x = coordsDB.ball.x + field.x;
+        ball.y = coordsDB.ball.y + field.y;
+        let prevxVel = ball.xVel;
+        let prevyVel = ball.yVel;
+        ball.xVel = coordsDB.ball.xVel;
+        ball.yVel = coordsDB.ball.yVel;
+        if (prevxVel !== ball.xVel || prevyVel !== ball.yVel) {
+            explosion(ball);
+        }
+    }
+    if (user == "a") {
+        ref.child("players").update({
+            a: parseFloat((player1.y - field.y).toFixed(2))
+        });
+    } else if (user == "b") {
+        ref.child("players").update({
+            b: parseFloat((player2.y - field.y).toFixed(2))
+        });
+    }
+    ball.render();
+    player1.render();
+    player2.render();
+    score.render();
+    renderParticles();
+}
+
+var particles = [];
+
+function explosion(bullet) {
+    shake = 4;
+    var color = "#445280";
+    var x = bullet.x;
+    var y = bullet.y;
+    var speedX = (-bullet.xVel / 3) * (bullet.speed / 3);
+    var speedY = (-bullet.yVel / 3) * (bullet.speed / 3);
+    var randNum = Math.floor(Math.random() * 15) + 1;
+    for (iter = 0; iter < randNum; iter++) {
+        particles.push({
+            xVel: Math.random() * ((bullet.x < 0 || bullet.x + bullet.size > canvas.width) ? (speedX * 0.8) : (-speedX * 0.8)),
+            yVel: Math.random() * ((bullet.x < 0 || bullet.x + bullet.size > canvas.width) ? (-speedY * 0.8) : (speedY * 0.8)),
+            x: x,
+            y: y,
+            size: Math.random() * bullet.w,
+            color: color
+        });
+    }
+}
+
+function renderParticles() {
+    for (i = 0; i < particles.length; i++) {
+        c.fillStyle = particles[i].color;
+        c.fillRect(
+            particles[i].x,
+            particles[i].y,
+            particles[i].size,
+            particles[i].size);
+
+        particles[i].x += particles[i].xVel;
+        particles[i].y += particles[i].yVel;
+        particles[i].xVel /= 1.02;
+        particles[i].yVel /= 1.02;
+        particles[i].size /= 1.05;
+        if (particles[i].size < 0.1) {
+            particles.splice(i, 1);
+        }
+    }
+}
+
+var activity = true;
+
+function timer() {
+    if (activity) {
+        activity = 0;
+    }else{
+        disconnect(user);
+        alert("Sei stato disconnesso per inattività :(");
+    }
+}
+
+
+
+setInterval(timer, 30000);
+document.addEventListener("keydown", function (evt) {
+    activity = true;
+    switch (evt.keyCode) {
+        //up
+        case 87:
+        case 38:
+            if (user == "a") {
+                player1.up = true;
+            }
+            if (user == "b") {
+                player2.up = true;
+            }
+            break;
+            //down
+        case 83:
+        case 40:
+            if (user == "a") {
+                player1.down = true;
+            }
+            if (user == "b") {
+                player2.down = true;
+            }
+            break;
+    }
+})
+
+function disconnect(who) {
+    switch (who) {
+        case "a":
+            ref.child("players").child("active").update({
+                a: 0
+            });
+            break;
+        case "b":
+            ref.child("players").child("active").update({
+                a: 0
+            });
+            break;
+
+    }
+}
+document.addEventListener("keyup", function (evt) {
+    switch (evt.keyCode) {
+        //up
+        case 87:
+        case 38:
+            if (user == "a") {
+                player1.up = false;
+            }
+            if (user == "b") {
+                player2.up = false;
+            }
+            break;
+            //down
+        case 83:
+        case 40:
+            if (user == "a") {
+                player1.down = false;
+            }
+            if (user == "b") {
+                player2.down = false;
+            }
+            break;
+    }
+})
+
+function collided(a, b) {
+    var square1 = a.hitbox ? a.hitbox : a;
+    var square2 = b.hitbox ? b.hitbox : b;
+    if (square1.x < square2.x + square2.w) {
+        if (square1.x + square1.w > square2.x) {
+            if (square1.y < square2.y + square2.h) {
+                if (square1.y + square1.h > square2.y) {
+                    return true;
+                }
+            }
+        }
+    }
+    return false;
+}
+
+
+
+// LINE/RECTANGLE (float x1, float y1, float x2, float y2, float rx, float ry, float rw, float rh)
+function lineRect(x1, y1, x2, y2, rx, ry, rw, rh) {
+    // check if the line has hit any of the rectangle's sides
+    // uses the Line/Line function below
+    let left = lineLine(x1, y1, x2, y2, rx, ry, rx, ry + rh);
+    let right = lineLine(x1, y1, x2, y2, rx + rw, ry, rx + rw, ry + rh);
+    let top = lineLine(x1, y1, x2, y2, rx, ry, rx + rw, ry);
+    let bottom = lineLine(x1, y1, x2, y2, rx, ry + rh, rx + rw, ry + rh);
+
+    // if ANY of the above are true, the line
+    // has hit the rectangle
+    if (left || right || top || bottom) {
+        return true;
+    }
+    return false;
+}
+
+
+// LINE/LINE (float x1, float y1, float x2, float y2, float x3, float y3, float x4, float y4)
+function lineLine(x1, y1, x2, y2, x3, y3, x4, y4) {
+
+    // calculate the direction of the lines
+    let uA = ((x4 - x3) * (y1 - y3) - (y4 - y3) * (x1 - x3)) / ((y4 - y3) * (x2 - x1) - (x4 - x3) * (y2 - y1));
+    let uB = ((x2 - x1) * (y1 - y3) - (y2 - y1) * (x1 - x3)) / ((y4 - y3) * (x2 - x1) - (x4 - x3) * (y2 - y1));
+
+    // if uA and uB are between 0-1, lines are colliding
+    if (uA >= 0 && uA <= 1 && uB >= 0 && uB <= 1) {
+        return true;
+    }
+    return false;
+}

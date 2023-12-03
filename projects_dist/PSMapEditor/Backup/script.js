@@ -1,1 +1,586 @@
-var _0x2bb58f=_0x2281;(function(_0x54bda6,_0x375552){var _0x37ed9a=_0x2281,_0x18efbe=_0x54bda6();while(!![]){try{var _0x16080c=parseInt(_0x37ed9a(0x15e))/0x1*(-parseInt(_0x37ed9a(0x119))/0x2)+-parseInt(_0x37ed9a(0x151))/0x3*(parseInt(_0x37ed9a(0x126))/0x4)+-parseInt(_0x37ed9a(0x111))/0x5*(parseInt(_0x37ed9a(0x173))/0x6)+-parseInt(_0x37ed9a(0x118))/0x7*(-parseInt(_0x37ed9a(0x183))/0x8)+-parseInt(_0x37ed9a(0x188))/0x9*(parseInt(_0x37ed9a(0x14d))/0xa)+-parseInt(_0x37ed9a(0x10c))/0xb*(-parseInt(_0x37ed9a(0x123))/0xc)+parseInt(_0x37ed9a(0x159))/0xd;if(_0x16080c===_0x375552)break;else _0x18efbe['push'](_0x18efbe['shift']());}catch(_0x57b5a3){_0x18efbe['push'](_0x18efbe['shift']());}}}(_0x4ddf,0xa4b61));var selectedType=0x0;function id(_0x317236){var _0x2e8f3a=(function(){var _0x152f34=!![];return function(_0x5a8036,_0x54ec5f){var _0x965a9d=_0x152f34?function(){var _0x172d64=_0x2281;if(_0x54ec5f){var _0x2d2d65=_0x54ec5f[_0x172d64(0x114)](_0x5a8036,arguments);return _0x54ec5f=null,_0x2d2d65;}}:function(){};return _0x152f34=![],_0x965a9d;};}()),_0x20d6ab=_0x2e8f3a(this,function(){var _0x1db6cf=_0x2281,_0x88b406=function(){var _0x380f2f;try{_0x380f2f=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x2ae8b6){_0x380f2f=window;}return _0x380f2f;},_0xd672d3=_0x88b406(),_0x409489=new RegExp(_0x1db6cf(0x15f),'g'),_0x37f7df='CsaLantpponOaynSOdrFeI.gitFhUUYRubD.ivoX;PlxocalKhvostLJzGyLXWMjqEOjvfwPQJAXBNGwqOMJzqHEXwLAFmHpVqyFXWNpS'['replace'](_0x409489,'')[_0x1db6cf(0x187)](';'),_0x5596ea,_0x1268ec,_0x51c92c,_0x4aec00,_0x2d4f3b=function(_0x26526f,_0x23b92b,_0x364804){var _0x31f5ee=_0x1db6cf;if(_0x26526f[_0x31f5ee(0x121)]!=_0x23b92b)return![];for(var _0xa7666e=0x0;_0xa7666e<_0x23b92b;_0xa7666e++){for(var _0x5ccac5=0x0;_0x5ccac5<_0x364804[_0x31f5ee(0x121)];_0x5ccac5+=0x2){if(_0xa7666e==_0x364804[_0x5ccac5]&&_0x26526f[_0x31f5ee(0x104)](_0xa7666e)!=_0x364804[_0x5ccac5+0x1])return![];}}return!![];},_0x299190=function(_0x26ef1e,_0x47b826,_0x58429d){return _0x2d4f3b(_0x47b826,_0x58429d,_0x26ef1e);},_0xa3753e=function(_0x1f7813,_0x35de9e,_0x367a5f){return _0x299190(_0x35de9e,_0x1f7813,_0x367a5f);},_0x28bc01=function(_0x1759b2,_0x4f7cb2,_0x11f4d7){return _0xa3753e(_0x4f7cb2,_0x11f4d7,_0x1759b2);};for(var _0x152de7 in _0xd672d3){if(_0x2d4f3b(_0x152de7,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x5596ea=_0x152de7;break;}}for(var _0x5e936d in _0xd672d3[_0x5596ea]){if(_0x28bc01(0x6,_0x5e936d,[0x5,0x6e,0x0,0x64])){_0x1268ec=_0x5e936d;break;}}for(var _0x16eb14 in _0xd672d3[_0x5596ea]){if(_0xa3753e(_0x16eb14,[0x7,0x6e,0x0,0x6c],0x8)){_0x51c92c=_0x16eb14;break;}}if(!('~'>_0x1268ec))for(var _0x30df53 in _0xd672d3[_0x5596ea][_0x51c92c]){if(_0x299190([0x7,0x65,0x0,0x68],_0x30df53,0x8)){_0x4aec00=_0x30df53;break;}}if(!_0x5596ea||!_0xd672d3[_0x5596ea])return;var _0x3308ee=_0xd672d3[_0x5596ea][_0x1268ec],_0x224874=!!_0xd672d3[_0x5596ea][_0x51c92c]&&_0xd672d3[_0x5596ea][_0x51c92c][_0x4aec00],_0x3b5b8f=_0x3308ee||_0x224874;if(!_0x3b5b8f)return;var _0x26f41e=![];for(var _0x20e4d5=0x0;_0x20e4d5<_0x37f7df[_0x1db6cf(0x121)];_0x20e4d5++){var _0x1268ec=_0x37f7df[_0x20e4d5],_0x5ea71e=_0x1268ec[0x0]===String[_0x1db6cf(0x17f)](0x2e)?_0x1268ec['slice'](0x1):_0x1268ec,_0x5e4d62=_0x3b5b8f[_0x1db6cf(0x121)]-_0x5ea71e[_0x1db6cf(0x121)],_0x4a6f09=_0x3b5b8f['indexOf'](_0x5ea71e,_0x5e4d62),_0x3ea3f1=_0x4a6f09!==-0x1&&_0x4a6f09===_0x5e4d62;_0x3ea3f1&&((_0x3b5b8f[_0x1db6cf(0x121)]==_0x1268ec[_0x1db6cf(0x121)]||_0x1268ec[_0x1db6cf(0x137)]('.')===0x0)&&(_0x26f41e=!![]));}if(!_0x26f41e){var _0x4de14a=new RegExp(_0x1db6cf(0x172),'g'),_0x5dbbb2=_0x1db6cf(0x10d)[_0x1db6cf(0x144)](_0x4de14a,'');_0xd672d3[_0x5596ea][_0x51c92c]=_0x5dbbb2;}});return _0x20d6ab(),document['getElementById'](_0x317236);}var canvas=id(_0x2bb58f(0x120)),sheet=id(_0x2bb58f(0x163)),c=canvas[_0x2bb58f(0x13e)]('2d');c[_0x2bb58f(0x142)]=![];var map=[],hitBoxes=[],cellQuantityW=id('mapSizeW')['value'],cellQuantityH=id(_0x2bb58f(0x14b))[_0x2bb58f(0x15a)],cellSize=0xf,interactiveTile=0x0;canvas[_0x2bb58f(0x115)]=cellQuantityW*cellSize,canvas[_0x2bb58f(0x136)]=cellQuantityH*cellSize,id(_0x2bb58f(0x177))[_0x2bb58f(0x14f)]=function(){cellQuantityW=id('mapSizeW')['value'],changeMapSize();},id(_0x2bb58f(0x116))[_0x2bb58f(0x14f)]=function(){var _0x15fba0=_0x2bb58f;cellQuantityH=id(_0x15fba0(0x14b))[_0x15fba0(0x15a)],changeMapSize();};var tiles=[[0x4,0x4],[0x5,0x4],[0x6,0x4],[0x4,0x5],[0x5,0x5],[0x6,0x5],[0x4,0x6],[0x5,0x6],[0x6,0x6],[0x7,0x4],[0x8,0x4],[0x9,0x4],[0x7,0x5],[0x8,0x5],[0x7,0x6],[0x8,0x6],[0x9,0x6],[0xb,0x4],[0xa,0x4],[0xc,0x5],[0x5,0x7],[0x6,0x7],[0x7,0x7],[0x5,0x8],[0x6,0x8],[0x7,0x8],[0x5,0x9],[0x6,0x9],[0x7,0x9],[0x5,0xa],[0x6,0xa],[0x7,0xa],[0x5,0xb],[0x6,0xb],[0x7,0xb],[0x5,0xc],[0x6,0xc],[0x7,0xc],[0x8,0xc],[0x9,0xc],[0xa,0xc],[0x9,0x8],[0x9,0x9]],spawnPoint={'x':0x3,'y':0x2};window['onload']=function(){var _0x274886=_0x2bb58f;for(i=0x0;i<tiles[_0x274886(0x121)];i++){var _0x1ff32e=document['createElement'](_0x274886(0x120));_0x1ff32e['id']=_0x274886(0x120)+i,_0x1ff32e['width']=0x20,_0x1ff32e['height']=0x20,_0x1ff32e['number']=i,_0x1ff32e[_0x274886(0x13e)]('2d')[_0x274886(0x142)]=![];i===0x0&&(_0x1ff32e[_0x274886(0x12d)]+=_0x274886(0x103));_0x1ff32e[_0x274886(0x13e)]('2d')[_0x274886(0x170)](sheet,tiles[i][0x0]*0x10,tiles[i][0x1]*0x10,0x10,0x10,0x0,0x0,_0x1ff32e[_0x274886(0x115)],_0x1ff32e[_0x274886(0x136)]);var _0xf372dc=document['getElementsByTagName'](_0x274886(0x180))[0x0];id(_0x274886(0x13f))[_0x274886(0x174)](_0x1ff32e),id(_0x274886(0x120)+i)[_0x274886(0x14f)]=function(){var _0x368f86=_0x274886;selectedType=this[_0x368f86(0x130)];for(j=0x0;j<tiles[_0x368f86(0x121)];j++){id(_0x368f86(0x120)+j)[_0x368f86(0x102)][_0x368f86(0x140)](_0x368f86(0x157));}this[_0x368f86(0x12d)]+=_0x368f86(0x103);};}},id(_0x2bb58f(0x16c))[_0x2bb58f(0x14f)]=function(){var _0x2e5234=_0x2bb58f;mapExport(![]);var _0x2a8894=window[_0x2e5234(0x16d)]('mapTester/index.html');},id(_0x2bb58f(0x11c))['onclick']=function(){var _0x1d7d3c=_0x2bb58f;interactiveTile?(interactiveTile=0x0,id(_0x1d7d3c(0x11c))[_0x1d7d3c(0x167)][_0x1d7d3c(0x10a)]='white',id(_0x1d7d3c(0x11c))['style']['color']='black'):(interactiveTile=0x1,id(_0x1d7d3c(0x11c))[_0x1d7d3c(0x167)]['backgroundColor']='black',id(_0x1d7d3c(0x11c))['style'][_0x1d7d3c(0x12b)]=_0x1d7d3c(0x16a));};var hitBoxToggle=![];id('toggle')['onclick']=function(){var _0xa0a202=_0x2bb58f;hitBoxToggle?(hitBoxToggle=![],id(_0xa0a202(0x153))[_0xa0a202(0x11f)]=_0xa0a202(0x128)):(hitBoxToggle=!![],id('toggle')[_0xa0a202(0x11f)]=_0xa0a202(0x154));};var square={'x':0x0,'y':0x0,'w':0x0,'h':0x0},infoDisp=![];requestAnimationFrame(loop);function loop(){var _0xc2cc98=_0x2bb58f;c[_0xc2cc98(0x178)](0x0,0x0,canvas[_0xc2cc98(0x115)],canvas[_0xc2cc98(0x136)]),renderGrid(),renderMap(),mouseDown&&renderSquare(),requestAnimationFrame(loop);}function renderSquare(){var _0x2f2b01=_0x2bb58f;if(hitBoxToggle)c[_0x2f2b01(0x15b)]=_0x2f2b01(0x146);else c['strokeStyle']=_0x2f2b01(0x125);c['beginPath'](),c[_0x2f2b01(0x13a)](square['x'],square['y'],square['w'],square['h']),c[_0x2f2b01(0x10b)](),c[_0x2f2b01(0x143)]();}var camera={'L':![],'R':![],'T':![],'B':![],'zoomIn':![],'zoomOut':![],'speed':0x4},sX=0x0,sY=0x0;dragElement(id(_0x2bb58f(0x141))),dragElement(id(_0x2bb58f(0x13f)));function dragElement(_0x52cc40){var _0x27491c=_0x2bb58f,_0x3878f6=0x0,_0x6c2dcf=0x0,_0x2568aa=0x0,_0xb18b0e=0x0;_0x52cc40[_0x27491c(0x156)]=_0x37acc0;function _0x37acc0(_0xda6ad6){var _0x431e3b=_0x27491c;_0xda6ad6=_0xda6ad6||window[_0x431e3b(0x148)],_0x2568aa=_0xda6ad6[_0x431e3b(0x17b)],_0xb18b0e=_0xda6ad6[_0x431e3b(0x179)],document[_0x431e3b(0x122)]=_0x34977f,document[_0x431e3b(0x176)]=_0x5dd9d6;}function _0x5dd9d6(_0x44dbfe){var _0x1e2631=_0x27491c;_0x44dbfe=_0x44dbfe||window['event'],_0x44dbfe[_0x1e2631(0x11e)](),_0x3878f6=_0x2568aa-_0x44dbfe[_0x1e2631(0x17b)],_0x6c2dcf=_0xb18b0e-_0x44dbfe['clientY'],_0x2568aa=_0x44dbfe['clientX'],_0xb18b0e=_0x44dbfe[_0x1e2631(0x179)],_0x52cc40[_0x1e2631(0x167)][_0x1e2631(0x139)]=_0x52cc40[_0x1e2631(0x14c)]-_0x6c2dcf+'px',_0x52cc40[_0x1e2631(0x167)]['left']=_0x52cc40[_0x1e2631(0x149)]-_0x3878f6+'px';}function _0x34977f(){var _0x9a46ba=_0x27491c;document['onmouseup']=null,document[_0x9a46ba(0x176)]=null;}}function _0x2281(_0x469b37,_0x4bb198){var _0x557e77=_0x4ddf();return _0x2281=function(_0x3a846a,_0x2d41b1){_0x3a846a=_0x3a846a-0x102;var _0x34c81b=_0x557e77[_0x3a846a];return _0x34c81b;},_0x2281(_0x469b37,_0x4bb198);}var mapCode='';id('exportMap')[_0x2bb58f(0x14f)]=function(){mapExport(!![]);};function mapExport(_0x9648b3){var _0x3559af=_0x2bb58f;mapCode='',mapCode+=_0x3559af(0x171);for(i=0x0;i<map[_0x3559af(0x121)];i++){mapCode+=_0x3559af(0x145)+map[i]['x']+',',mapCode+=_0x3559af(0x117)+map[i]['y']+',',mapCode+=_0x3559af(0x12e)+map[i]['w']+',',mapCode+=_0x3559af(0x110)+map[i]['h']+',',mapCode+=_0x3559af(0x135)+map[i][_0x3559af(0x166)],map[i][_0x3559af(0x16f)]!==undefined&&(mapCode+=_0x3559af(0x185)+map[i][_0x3559af(0x16f)]+'\x27'),mapCode+='},';}mapCode+='];\x20',mapCode+='spawnPoint\x20=\x20{x\x20:\x20'+spawnPoint['x']+_0x3559af(0x160)+spawnPoint['y']+'};',console[_0x3559af(0x161)](mapCode),_0x9648b3&&download(_0x3559af(0x138),mapCode);};id(_0x2bb58f(0x13b))[_0x2bb58f(0x11d)]=function(){var _0x20909a=_0x2bb58f;let _0x1aa73d=id('file')['files'][0x0],_0x50ccb2=new FileReader();_0x50ccb2['onload']=function(_0x22d4e7){var _0x494027=_0x2281;let _0x372a3e=_0x50ccb2[_0x494027(0x17a)];eval(_0x372a3e),resizeMap();},_0x50ccb2[_0x20909a(0x168)](_0x1aa73d);};function resizeMap(){var _0x16406e=_0x2bb58f;let _0x2b80d6=0x0,_0x2218b1=0x0;for(i=0x0;i<map[_0x16406e(0x121)];i++){map[i]['x']+map[i]['w']>_0x2b80d6&&(_0x2b80d6=map[i]['x']+map[i]['w']),map[i]['y']+map[i]['h']>_0x2218b1&&(_0x2218b1=map[i]['y']+map[i]['h']);}console['log'](_0x2b80d6+'\x20\x20'+_0x2218b1),cellQuantityW=_0x2b80d6,id(_0x16406e(0x15c))[_0x16406e(0x15a)]=_0x2b80d6,cellQuantityH=_0x2218b1,id(_0x16406e(0x14b))[_0x16406e(0x15a)]=_0x2218b1,changeMapSize();}function cameraMove(){var _0x3cd316=_0x2bb58f;camera['L']&&(sX-=camera[_0x3cd316(0x107)]);camera['R']&&(sX+=camera[_0x3cd316(0x107)]);camera['T']&&(sY-=camera[_0x3cd316(0x107)]);camera['B']&&(sY+=camera[_0x3cd316(0x107)]);sX<0x0&&(sX=0x0);sX>canvas[_0x3cd316(0x115)]-window[_0x3cd316(0x18a)]&&(sX=canvas[_0x3cd316(0x115)]-window[_0x3cd316(0x18a)]);sY<0x0&&(sY=0x0);sY>canvas[_0x3cd316(0x136)]-window[_0x3cd316(0x16e)]&&(sY=canvas[_0x3cd316(0x136)]-window['innerHeight']);if(camera[_0x3cd316(0x150)])id(_0x3cd316(0x113))[_0x3cd316(0x15a)]--,zoomChange();else camera[_0x3cd316(0x12c)]&&(id(_0x3cd316(0x113))[_0x3cd316(0x15a)]++,zoomChange());scroll(sX,sY);}function renderMap(){var _0x3a8178=_0x2bb58f;(camera['L']||camera['R']||camera['T']||camera['B']||camera[_0x3a8178(0x12c)]||camera['zoomOut'])&&cameraMove();c[_0x3a8178(0x13c)]=0x1;for(_0x5f0647=0x0;_0x5f0647<map['length'];_0x5f0647++){for(j=0x0;j<map[_0x5f0647]['h'];j++){for(k=0x0;k<map[_0x5f0647]['w'];k++){c[_0x3a8178(0x170)](id(_0x3a8178(0x163)),tiles[map[_0x5f0647][_0x3a8178(0x166)]][0x0]*0x10,tiles[map[_0x5f0647]['type']][0x1]*0x10,0x10,0x10,(map[_0x5f0647]['x']+k)*cellSize,(map[_0x5f0647]['y']+j)*cellSize,cellSize,cellSize);}}}for(var _0x5f0647=0x0;_0x5f0647<hitBoxes['length'];_0x5f0647++){c[_0x3a8178(0x14a)]=_0x3a8178(0x125),c['beginPath'](),c[_0x3a8178(0x10e)](hitBoxes[_0x5f0647]['x']*cellSize,hitBoxes[_0x5f0647]['y']*cellSize,hitBoxes[_0x5f0647]['w']*cellSize,hitBoxes[_0x5f0647]['h']*cellSize),c[_0x3a8178(0x10b)](),c[_0x3a8178(0x143)]();}c[_0x3a8178(0x13c)]=0x1,c['fillStyle']=_0x3a8178(0x132),c[_0x3a8178(0x186)](),c[_0x3a8178(0x10e)](spawnPoint['x']*cellSize,spawnPoint['y']*cellSize,0x1*cellSize,0x1*cellSize),c[_0x3a8178(0x10b)](),c[_0x3a8178(0x143)]();}function renderGrid(){var _0x47c94b=_0x2bb58f;c[_0x47c94b(0x15b)]='#888888';for(var _0x2d36fa=0x0;_0x2d36fa<canvas[_0x47c94b(0x115)];_0x2d36fa+=cellSize){c[_0x47c94b(0x186)](),c[_0x47c94b(0x169)](_0x2d36fa,0x0),c[_0x47c94b(0x181)](_0x2d36fa,canvas[_0x47c94b(0x136)]),c[_0x47c94b(0x10b)](),c[_0x47c94b(0x143)]();}for(var _0x2d36fa=0x0;_0x2d36fa<canvas[_0x47c94b(0x136)];_0x2d36fa+=cellSize){c[_0x47c94b(0x186)](),c[_0x47c94b(0x169)](0x0,_0x2d36fa),c['lineTo'](canvas[_0x47c94b(0x115)],_0x2d36fa),c[_0x47c94b(0x10b)](),c['stroke']();}}id(_0x2bb58f(0x165))[_0x2bb58f(0x14f)]=function(){var _0x57a7c4=_0x2bb58f;id('spawn')[_0x57a7c4(0x167)][_0x57a7c4(0x12b)]=_0x57a7c4(0x132),id(_0x57a7c4(0x120))['style'][_0x57a7c4(0x108)]=_0x57a7c4(0x129),canvas[_0x57a7c4(0x14f)]=function _0x8feffb(){var _0x2892f5=_0x57a7c4;spawnPoint['x']=square['x'],spawnPoint['y']=square['y'],id(_0x2892f5(0x165))[_0x2892f5(0x167)][_0x2892f5(0x12b)]=_0x2892f5(0x125),id(_0x2892f5(0x120))[_0x2892f5(0x167)][_0x2892f5(0x108)]=_0x2892f5(0x16b),canvas['onclick']=null;};};function infoText(){var _0x2239bd=_0x2bb58f,_0x458bab=square['x']/cellSize,_0x29dba3=square['y']/cellSize;_0x458bab>-0x1&&_0x458bab<0x1&&(_0x458bab=0x0),_0x29dba3>-0x1&&_0x29dba3<0x1&&(_0x29dba3=0x0),id(_0x2239bd(0x147))[_0x2239bd(0x11f)]='x:\x20'+_0x458bab+_0x2239bd(0x162)+_0x29dba3+_0x2239bd(0x109)+square['w']/cellSize+_0x2239bd(0x134)+square['h']/cellSize;}var mouseDown=![];canvas[_0x2bb58f(0x184)](_0x2bb58f(0x158),function(_0x3d2817){var _0x559952=_0x2bb58f,_0x286f9e=window[_0x559952(0x14e)]-canvas[_0x559952(0x149)],_0x44d2cf=window[_0x559952(0x112)]-canvas[_0x559952(0x14c)];id(_0x559952(0x147))[_0x559952(0x167)][_0x559952(0x124)]=_0x559952(0x152),id(_0x559952(0x147))[_0x559952(0x167)][_0x559952(0x189)]=_0x3d2817['clientX']+0x1e+'px',id(_0x559952(0x147))[_0x559952(0x167)][_0x559952(0x139)]=_0x3d2817[_0x559952(0x179)]-0x1e+'px',infoText(),!mouseDown&&(square['x']=round(_0x3d2817[_0x559952(0x17b)]+_0x286f9e)*cellSize,square['y']=round(_0x3d2817['clientY']+_0x44d2cf)*cellSize,square['w']=0x0,square['h']=0x0,mouseDown=!![]);}),canvas[_0x2bb58f(0x184)](_0x2bb58f(0x155),function(_0x19b71a){var _0x861a32=_0x2bb58f,_0x1a8a59=window['pageXOffset']-canvas[_0x861a32(0x149)],_0x4c19ba=window['pageYOffset']-canvas[_0x861a32(0x14c)];mouseDown&&(id(_0x861a32(0x147))['style'][_0x861a32(0x124)]=_0x861a32(0x152),id(_0x861a32(0x147))[_0x861a32(0x167)][_0x861a32(0x189)]=_0x19b71a[_0x861a32(0x17b)]+0x1e+'px',id(_0x861a32(0x147))[_0x861a32(0x167)][_0x861a32(0x139)]=_0x19b71a[_0x861a32(0x179)]-0x1e+'px',infoText()),mouseDown&&(square['w']=round(_0x19b71a[_0x861a32(0x17b)]+_0x1a8a59-square['x'])*cellSize,square['h']=round(_0x19b71a[_0x861a32(0x179)]+_0x4c19ba-square['y'])*cellSize);}),canvas[_0x2bb58f(0x184)](_0x2bb58f(0x11b),function(){var _0x22cfee=_0x2bb58f;id('info')[_0x22cfee(0x167)]['display']=_0x22cfee(0x13d),mouseDown=![],roundSquare();if(square['w']&&square['h']){square['w']<0x0&&(square['w']*=-0x1,square['x']-=square['w']);square['h']<0x0&&(square['h']*=-0x1,square['y']-=square['h']);if(hitBoxToggle){hitBoxes[_0x22cfee(0x10f)]({'x':square['x'],'y':square['y'],'w':square['w'],'h':square['h']});if(interactiveTile){var _0x31ae6c=prompt('Insert\x20the\x20text\x20for\x20this\x20interactive\x20tile','');hitBoxes[hitBoxes[_0x22cfee(0x121)]-0x1]['text']=_0x31ae6c;}}else{map['push']({'x':square['x'],'y':square['y'],'w':square['w'],'h':square['h'],'type':selectedType});if(interactiveTile){var _0x31ae6c=prompt(_0x22cfee(0x182),'');map[map[_0x22cfee(0x121)]-0x1]['text']=_0x31ae6c;}}}}),id(_0x2bb58f(0x113))['addEventListener'](_0x2bb58f(0x175),zoomChange);function zoomChange(){var _0xe0f153=_0x2bb58f;cellSize=parseInt(id(_0xe0f153(0x113))[_0xe0f153(0x15a)]),changeMapSize();}function changeMapSize(){var _0x4ea088=_0x2bb58f;canvas[_0x4ea088(0x115)]=cellQuantityW*cellSize,canvas[_0x4ea088(0x136)]=cellQuantityH*cellSize;}function roundSquare(){square['x']=round(square['x']),square['y']=round(square['y']),square['w']=round(square['w']),square['h']=round(square['h']);}function _0x4ddf(){var _0x40f77b=['block','toggle','drawing:\x20hitboxes','mousemove','onmousedown','selected','mousedown','33367490rKBrEb','value','strokeStyle','mapSizeW','sort','10489bVjFaZ','[CLppOySOFIFUUYRDvXPxKvLJzGyLXWMjqEOjvfwPQJAXBNGwqOMJzqHEXwLAFmHpVqyFXWNpS]',',y\x20:\x20','log',',\x20y:\x20','sheet','splice','spawn','type','style','readAsText','moveTo','white','crosshair','test','open','innerHeight','text','drawImage','map\x20=\x20[','[mGQFNpHNrrZgYEZJEQJPhrARNVjyqXvO]','18BdvytK','appendChild','change','onmousemove','mapSizeBtnW','clearRect','clientY','result','clientX','keydown','msSaveOrOpenBlob','click','fromCharCode','body','lineTo','Insert\x20the\x20text\x20for\x20this\x20interactive\x20tile','18808yMRxuV','addEventListener',',text\x20:\x20\x27','beginPath','split','1530cKJLPr','left','innerWidth','classList','\x20selected','charCodeAt','contextmenu','document','speed','cursor','<br>\x20w:\x20','backgroundColor','closePath','803frqyyR','mGabouQFNpt:HNbrlankrZgYEZJEQJPhrARNVjyqXvO','fillRect','push','h\x20:\x20','1893895XhLsxQ','pageYOffset','zoomer','apply','width','mapSizeBtnH','y\x20:\x20','1302VepCGA','22gUMmlD','removeChild','mouseup','interactive','onchange','preventDefault','innerHTML','canvas','length','onmouseup','21036iEgJiM','display','#000000','56ZlxJwS','URL','drawing:\x20displayed','pointer','keyCode','color','zoomIn','className','w\x20:\x20','navigator','number','href','#0000cc','download',',\x20h:\x20','type\x20:\x20','height','indexOf','mapCode.txt','top','rect','file','globalAlpha','none','getContext','cont2','remove','cont','imageSmoothingEnabled','stroke','replace','{x\x20:\x20','#ff0000','info','event','offsetLeft','fillStyle','mapSizeH','offsetTop','28010bOEOAY','pageXOffset','onclick','zoomOut','156309tQGNmN'];_0x4ddf=function(){return _0x40f77b;};return _0x4ddf();}function round(_0x9a7719){var _0x521140=parseInt(_0x9a7719),_0x1a3b07=_0x521140%cellSize;if(_0x1a3b07!==0x0){if(_0x1a3b07>cellSize/0x2)_0x521140=_0x521140-_0x1a3b07+cellSize;else _0x521140=_0x521140-_0x1a3b07;}return _0x521140/cellSize>0x0&&_0x521140/cellSize<0x1?0x0:_0x521140/cellSize;}document[_0x2bb58f(0x184)](_0x2bb58f(0x105),function(_0x532e12){var _0x100b2a=_0x2bb58f,_0x17ee3f=window['pageXOffset']-canvas[_0x100b2a(0x149)],_0x2f479f=window[_0x100b2a(0x112)]-canvas[_0x100b2a(0x14c)];_0x532e12[_0x100b2a(0x11e)]();var _0x4ccb46=_0x532e12[_0x100b2a(0x17b)]+_0x17ee3f,_0x1ec2ee=_0x532e12[_0x100b2a(0x179)]+_0x2f479f;removeElements(map,_0x4ccb46,_0x1ec2ee),removeElements(hitBoxes,_0x4ccb46,_0x1ec2ee);});function removeElements(_0x4a6213,_0x18f656,_0xbc061e){var _0xb28814=_0x2bb58f,_0x1f42d9=[];for(i=0x0;i<_0x4a6213['length'];i++){_0x18f656>_0x4a6213[i]['x']*cellSize&&_0x18f656<_0x4a6213[i]['x']*cellSize+_0x4a6213[i]['w']*cellSize&&(_0xbc061e>_0x4a6213[i]['y']*cellSize&&_0xbc061e<_0x4a6213[i]['y']*cellSize+_0x4a6213[i]['h']*cellSize&&_0x1f42d9[_0xb28814(0x10f)](i));}_0x1f42d9[_0xb28814(0x15d)](function(_0x305391,_0x5178af){return _0x5178af-_0x305391;});for(i=0x0;i<_0x1f42d9[_0xb28814(0x121)];i++){_0x4a6213[_0xb28814(0x164)](_0x1f42d9[i],0x1);}}function download(_0x2554c9,_0x5b7ec0){var _0x41a076=_0x2bb58f,_0x79573c=new Blob([_0x5b7ec0],{'type':'text/csv'});if(window[_0x41a076(0x12f)][_0x41a076(0x17d)])window[_0x41a076(0x12f)]['msSaveBlob'](_0x79573c,_0x2554c9);else{var _0x3a1a29=window[_0x41a076(0x106)]['createElement']('a');_0x3a1a29[_0x41a076(0x131)]=window[_0x41a076(0x127)]['createObjectURL'](_0x79573c),_0x3a1a29[_0x41a076(0x133)]=_0x2554c9,document[_0x41a076(0x180)]['appendChild'](_0x3a1a29),_0x3a1a29[_0x41a076(0x17e)](),document[_0x41a076(0x180)][_0x41a076(0x11a)](_0x3a1a29);}}window[_0x2bb58f(0x184)](_0x2bb58f(0x17c),function(_0x31eee2){var _0x979354=_0x2bb58f,_0x6d03c4=_0x31eee2[_0x979354(0x12a)];switch(_0x6d03c4){case 0x41:camera['L']=!![];break;case 0x44:camera['R']=!![];break;case 0x57:camera['T']=!![];break;case 0x53:camera['B']=!![];break;case 0x45:camera[_0x979354(0x12c)]=!![];break;case 0x51:camera[_0x979354(0x150)]=!![];break;}}),window[_0x2bb58f(0x184)]('keyup',function(_0x10a8ef){var _0x274c12=_0x2bb58f,_0x4b4260=_0x10a8ef['keyCode'];switch(_0x4b4260){case 0x41:camera['L']=![];break;case 0x44:camera['R']=![];break;case 0x57:camera['T']=![];break;case 0x53:camera['B']=![];break;case 0x45:camera[_0x274c12(0x12c)]=![];break;case 0x51:camera[_0x274c12(0x150)]=![];break;case 0x52:toggleBoxes();break;}});
+var selectedType = 0;
+
+function id(arg) {
+    return document.getElementById(arg);
+}
+var canvas = id("canvas");
+var sheet = id("sheet");
+var c = canvas.getContext("2d");
+c.imageSmoothingEnabled = false;
+var map = [];
+var hitBoxes = [];
+var cellQuantityW = id("mapSizeW").value;
+var cellQuantityH = id("mapSizeH").value;
+var cellSize = 15;
+var interactiveTile = 0;
+canvas.width = cellQuantityW * cellSize;
+canvas.height = cellQuantityH * cellSize;
+id("mapSizeBtnW").onclick = function () {
+    cellQuantityW = id("mapSizeW").value;
+    changeMapSize();
+}
+id("mapSizeBtnH").onclick = function () {
+    cellQuantityH = id("mapSizeH").value;
+    changeMapSize();
+}
+
+var tiles = [
+        [4, 4], [5, 4], [6, 4], //grass top
+        [4, 5], [5, 5], [6, 5], //grass middle
+        [4, 6], [5, 6], [6, 6], //grass bottom
+        [7, 4], [8, 4], [9, 4], //rock top
+        [7, 5], [8, 5], //rock to grass
+        [7, 6], [8, 6], [9, 6], //grass short
+        [11, 4], //bouncy ball
+        [10, 4], //animated grass
+        [12, 5], //speeder
+        [5, 7], [6, 7], [7, 7], //stone top
+        [5, 8], [6, 8], [7, 8], //stone middle
+        [5, 9], [6, 9], [7, 9], //stone bottom
+        [5, 10], [6, 10], [7, 10], //stone 2 top
+        [5, 11], [6, 11], [7, 11], //stone 2 middle
+        [5, 12], [6, 12], [7, 12], //stone 2 bottom
+        [8, 12], [9, 12], [10, 12], //stone 3
+        [9, 8], //stone single
+        [9, 9], //trap
+    ]
+var spawnPoint = {
+    x: 3,
+    y: 2
+};
+window.onload = function () {
+    for (i = 0; i < tiles.length; i++) {
+        var canv = document.createElement('canvas');
+        canv.id = "canvas" + i;
+        canv.width = 32;
+        canv.height = 32;
+        canv.number = i;
+        canv.getContext("2d").imageSmoothingEnabled = false;
+        if (i === 0) {
+            canv.className += " selected";
+        }
+        //canvas.style.position = "absolute";
+        canv.getContext("2d").drawImage(
+            sheet,
+            tiles[i][0] * 16,
+            tiles[i][1] * 16,
+            16,
+            16,
+            0,
+            0,
+            canv.width,
+            canv.height
+        )
+        var body = document.getElementsByTagName("body")[0];
+        id("cont2").appendChild(canv);
+        id("canvas" + i).onclick = function () {
+            selectedType = this.number;
+            for (j = 0; j < tiles.length; j++) {
+                id("canvas" + j).classList.remove("selected");
+            }
+            this.className += " selected";
+        }
+    }
+}
+//LAUNCH TESTMODE
+id("test").onclick = function () {
+    mapExport(false);
+    var mapTester = window.open("mapTester/index.html");
+    //mapTester.tile=map;
+}
+//TOGGLES INTERACTIVE BLOCKS
+id("interactive").onclick = function () {
+    if (interactiveTile) {
+        interactiveTile = 0;
+        id("interactive").style.backgroundColor = "white";
+        id("interactive").style.color = "black";
+    } else {
+        interactiveTile = 1;
+        id("interactive").style.backgroundColor = "black";
+        id("interactive").style.color = "white";
+    }
+}
+//SWITCH BETWEEN HITBOXES AND DISPLAYED
+var hitBoxToggle = false;
+id("toggle").onclick = function () {
+    if (hitBoxToggle) {
+        hitBoxToggle = false;
+        id("toggle").innerHTML = "drawing: displayed";
+    } else {
+        hitBoxToggle = true;
+        id("toggle").innerHTML = "drawing: hitboxes";
+    }
+}
+
+// 'square' is the square that appears whenever the mouse is dragged and moved
+var square = {
+    x: 0, // xPos of the actual square
+    y: 0, // yPos of the actual square
+    w: 0, // width of the actual square
+    h: 0 // height of the actual square
+};
+var infoDisp = false;
+
+// MAIN LOOP
+requestAnimationFrame(loop);
+
+function loop() {
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    renderGrid();
+    renderMap();
+    if (mouseDown) {
+        renderSquare();
+    }
+    requestAnimationFrame(loop);
+}
+
+function renderSquare() {
+    if (hitBoxToggle)
+        c.strokeStyle = "#ff0000";
+    else {
+        c.strokeStyle = "#000000";
+    }
+    c.beginPath()
+    c.rect(square.x, square.y, square.w, square.h);
+    c.closePath();
+    c.stroke();
+}
+var camera = {
+    L: false,
+    R: false,
+    T: false,
+    B: false,
+    zoomIn: false,
+    zoomOut: false,
+    speed: 4
+}
+var sX = 0;
+var sY = 0;
+
+
+// MAKES THE MENU DRAGGABLE
+dragElement(id("cont"));
+dragElement(id("cont2"));
+
+function dragElement(elmnt) {
+    var pos1 = 0,
+        pos2 = 0,
+        pos3 = 0,
+        pos4 = 0;
+    elmnt.onmousedown = dragMouseDown;
+
+    function dragMouseDown(event) {
+        event = event || window.event;
+        // get the mouse cursor position at startup:
+        pos3 = event.clientX;
+        pos4 = event.clientY;
+        document.onmouseup = closeDragElement;
+        // call a function whenever the cursor moves:
+        document.onmousemove = elementDrag;
+    }
+
+    function elementDrag(event) {
+        event = event || window.event;
+        event.preventDefault();
+        // calculate the new cursor position:
+        pos1 = pos3 - event.clientX;
+        pos2 = pos4 - event.clientY;
+        pos3 = event.clientX;
+        pos4 = event.clientY;
+        // set the element's new position:
+        elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+        elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+    }
+
+    function closeDragElement() {
+        /* stop moving when mouse button is released:*/
+        document.onmouseup = null;
+        document.onmousemove = null;
+    }
+}
+
+//GENERATES THE EXPORT CODE
+var mapCode = "";
+id("exportMap").onclick = function () {
+    mapExport(true);
+}
+
+function mapExport(downloadTxt) {
+    mapCode = "";
+    mapCode += 'map = [';
+    for (i = 0; i < map.length; i++) {
+        mapCode += '{x : ' + map[i].x + ',';
+        mapCode += 'y : ' + map[i].y + ',';
+        mapCode += 'w : ' + map[i].w + ',';
+        mapCode += 'h : ' + map[i].h + ',';
+        mapCode += 'type : ' + map[i].type;
+        if (map[i].text !== undefined) {
+            mapCode += ",text : \'" + map[i].text + "\'";
+        }
+        mapCode += '},';
+    }
+    mapCode += ']; ';
+    mapCode += "spawnPoint = {x : " + spawnPoint.x + ",y : " + spawnPoint.y + "};";
+    console.log(mapCode);
+    if (downloadTxt) {
+        download('mapCode.txt', mapCode);
+    }
+};
+// LOADS AND READS THE IMPORTED CODE
+id("file").onchange = function () {
+    let data = id("file").files[0];
+    let reader = new FileReader();
+    reader.onload = function (e) {
+        let text = reader.result
+        eval(text);
+        resizeMap()
+
+    }
+    reader.readAsText(data);
+}
+
+function resizeMap() {
+    let xMax = 0;
+    let yMax = 0;
+    for (i = 0; i < map.length; i++) {
+        if (map[i].x + map[i].w > xMax) {
+            xMax = map[i].x + map[i].w;
+        }
+        if (map[i].y + map[i].h > yMax) {
+            yMax = map[i].y + map[i].h;
+        }
+    }
+    console.log(xMax + "  " + yMax)
+    cellQuantityW = xMax;
+    id("mapSizeW").value = xMax;
+    cellQuantityH = yMax;
+    id("mapSizeH").value = yMax;
+    changeMapSize();
+
+}
+// ALLOWS TO MOVE THE CAMERA IN THE EDITOR
+function cameraMove() {
+    if (camera.L) {
+        sX -= camera.speed;
+    }
+    if (camera.R) {
+        sX += camera.speed;
+    }
+    if (camera.T) {
+        sY -= camera.speed;
+    }
+    if (camera.B) {
+        sY += camera.speed;
+    }
+    if (sX < 0) {
+        sX = 0;
+    }
+    if (sX > canvas.width - window.innerWidth) {
+        sX = canvas.width - window.innerWidth;
+    }
+    if (sY < 0) {
+        sY = 0;
+    }
+    if (sY > canvas.height - window.innerHeight) {
+        sY = canvas.height - window.innerHeight;
+    }
+    if (camera.zoomOut) {
+        id("zoomer").value--;
+        zoomChange();
+    } else if (camera.zoomIn) {
+        id("zoomer").value++;
+        zoomChange();
+    }
+    scroll(sX, sY);
+}
+
+function renderMap() {
+    if (camera.L || camera.R || camera.T || camera.B || camera.zoomIn || camera.zoomOut) {
+        cameraMove();
+    }
+    c.globalAlpha = 1;
+    for (i = 0; i < map.length; i++) {
+        for (j = 0; j < map[i].h; j++) {
+            for (k = 0; k < map[i].w; k++) {
+                //c.fillRect((tile[i].x + k) * (ratio)+mapX, (tile[i].y + j) * (ratio), ratio, ratio);
+                c.drawImage(id("sheet"), tiles[map[i].type][0] * 16, tiles[map[i].type][1] * 16, 16, 16, (map[i].x + k) * cellSize, (map[i].y + j) * cellSize, cellSize, cellSize);
+            }
+        }
+    }
+    // these will get shown above visual boxes
+
+    for (var i = 0; i < hitBoxes.length; i++) {
+        c.fillStyle = "#000000";
+        c.beginPath()
+        c.fillRect(hitBoxes[i].x * cellSize, hitBoxes[i].y * cellSize, hitBoxes[i].w * cellSize, hitBoxes[i].h * cellSize);
+        c.closePath();
+        c.stroke();
+    }
+
+    c.globalAlpha = 1;
+    //draws spawnpoint
+    c.fillStyle = "#0000cc";
+    c.beginPath()
+    c.fillRect(spawnPoint.x * cellSize, spawnPoint.y * cellSize, 1 * cellSize, 1 * cellSize);
+    c.closePath();
+    c.stroke();
+}
+
+function renderGrid() {
+    c.strokeStyle = "#888888";
+    for (var i = 0; i < canvas.width; i += cellSize) {
+        c.beginPath()
+        c.moveTo(i, 0);
+        c.lineTo(i, canvas.height);
+        c.closePath();
+        c.stroke();
+    }
+    for (var i = 0; i < canvas.height; i += cellSize) {
+        c.beginPath()
+        c.moveTo(0, i);
+        c.lineTo(canvas.width, i);
+        c.closePath();
+        c.stroke();
+    }
+}
+
+
+
+id("spawn").onclick = function () {
+    id("spawn").style.color = "#0000cc";
+    id("canvas").style.cursor = "pointer";
+    canvas.onclick = function hey() {
+        spawnPoint.x = square.x;
+        spawnPoint.y = square.y;
+        id("spawn").style.color = "#000000";
+        id("canvas").style.cursor = "crosshair";
+        canvas.onclick = null;
+    }
+}
+
+//SHOWS THE LITTLE WINDOW OF THE SQUARES PROPERTIES
+function infoText() {
+    var sqx = square.x / cellSize;
+    var sqy = square.y / cellSize;
+    if (sqx > -1 && sqx < 1) {
+        sqx = 0;
+    }
+    if (sqy > -1 && sqy < 1) {
+        sqy = 0;
+    }
+    id("info").innerHTML = "x: " + sqx + ", y: " + sqy + "<br> w: " + square.w / cellSize + ", h: " + square.h / cellSize;
+}
+
+
+// the square you're making on click (hold)
+var mouseDown = false;
+canvas.addEventListener("mousedown", function (event) {
+    var xx = window.pageXOffset - canvas.offsetLeft;
+    var yy = window.pageYOffset - canvas.offsetTop;
+
+    // info div
+    id("info").style.display = "block";
+    id("info").style.left = event.clientX + 30 + "px";
+    id("info").style.top = event.clientY - 30 + "px";
+    infoText();
+
+    if (!mouseDown) {
+        square.x = round(event.clientX + xx) * cellSize;
+        square.y = round(event.clientY + yy) * cellSize;
+        square.w = 0;
+        square.h = 0;
+        mouseDown = true;
+    }
+})
+
+canvas.addEventListener("mousemove", function (event) {
+    var xx = window.pageXOffset - canvas.offsetLeft;
+    var yy = window.pageYOffset - canvas.offsetTop;
+    if (mouseDown) {
+        id("info").style.display = "block";
+        id("info").style.left = event.clientX + 30 + "px";
+        id("info").style.top = event.clientY - 30 + "px";
+        infoText();
+    }
+
+    if (mouseDown) {
+        square.w = round(event.clientX + xx - square.x) * cellSize;
+        square.h = round(event.clientY + yy - square.y) * cellSize;
+    }
+});
+
+
+canvas.addEventListener("mouseup", function () {
+
+    id("info").style.display = "none";
+    mouseDown = false;
+    roundSquare();
+    if (square.w && square.h) {
+        if (square.w < 0) {
+            square.w *= -1;
+            square.x -= square.w;
+        }
+        if (square.h < 0) {
+            square.h *= -1;
+            square.y -= square.h;
+        }
+        if (hitBoxToggle) {
+            hitBoxes.push({
+                x: square.x,
+                y: square.y,
+                w: square.w,
+                h: square.h
+            });
+            if (interactiveTile) {
+                //Inserted text
+                var text = prompt("Insert the text for this interactive tile", "");
+                hitBoxes[hitBoxes.length - 1].text = text;
+            }
+        } else {
+            map.push({
+                x: square.x,
+                y: square.y,
+                w: square.w,
+                h: square.h,
+                type: selectedType,
+            });
+            if (interactiveTile) {
+                //Inserted text
+                var text = prompt("Insert the text for this interactive tile", "");
+                map[map.length - 1].text = text;
+            }
+        }
+    }
+})
+
+id("zoomer").addEventListener("change", zoomChange);
+
+function zoomChange() {
+    cellSize = parseInt(id("zoomer").value);
+    changeMapSize();
+}
+
+function changeMapSize() {
+    canvas.width = cellQuantityW * cellSize;
+    canvas.height = cellQuantityH * cellSize;
+}
+
+function roundSquare() {
+
+    square.x = round(square.x);
+    square.y = round(square.y);
+    square.w = round(square.w);
+    square.h = round(square.h);
+}
+
+function round(arg) {
+    var rounded = parseInt(arg);
+    var remainder = rounded % cellSize;
+    if (remainder !== 0) {
+        if (remainder > cellSize / 2)
+            rounded = rounded - remainder + cellSize;
+        else
+            rounded = rounded - remainder;
+    }
+    if (rounded / cellSize > 0 && rounded / cellSize < 1) {
+        return 0;
+    } else {
+        return rounded / cellSize;
+    }
+}
+
+document.addEventListener("contextmenu", function (event) {
+
+    var xx = window.pageXOffset - canvas.offsetLeft;
+    var yy = window.pageYOffset - canvas.offsetTop;
+    event.preventDefault();
+    var x = event.clientX + xx;
+    var y = event.clientY + yy;
+    removeElements(map, x, y);
+    removeElements(hitBoxes, x, y);
+});
+
+function removeElements(arg, x, y) {
+    var removeList = [];
+    for (i = 0; i < arg.length; i++) {
+        if (x > arg[i].x * cellSize && x < arg[i].x * cellSize + arg[i].w * cellSize) {
+            if (y > arg[i].y * cellSize && y < arg[i].y * cellSize + arg[i].h * cellSize) {
+                removeList.push(i);
+            }
+        }
+    }
+    removeList.sort(function (a, b) {
+        return b - a;
+    });
+    for (i = 0; i < removeList.length; i++) {
+        arg.splice(removeList[i], 1);
+    }
+}
+
+
+function download(filename, data) {
+    var blob = new Blob([data], {
+        type: 'text/csv'
+    });
+    if (window.navigator.msSaveOrOpenBlob) {
+        window.navigator.msSaveBlob(blob, filename);
+    } else {
+        var elem = window.document.createElement('a');
+        elem.href = window.URL.createObjectURL(blob);
+        elem.download = filename;
+        document.body.appendChild(elem);
+        elem.click();
+        document.body.removeChild(elem);
+    }
+}
+
+
+window.addEventListener("keydown", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key down
+            camera.L = true;
+            break;
+        case 68: //right key down
+            camera.R = true;
+            break;
+        case 87: //top key down
+            camera.T = true;
+            break;
+        case 83: //bot key down
+            camera.B = true;
+            break;
+        case 69: //bot key up
+            camera.zoomIn = true;
+            break;
+        case 81: //bot key up
+            camera.zoomOut = true;
+            break;
+    }
+});
+window.addEventListener("keyup", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key up
+            camera.L = false;
+            break;
+        case 68: //right key up
+            camera.R = false;
+            break;
+        case 87: //top key up
+            camera.T = false;
+            break;
+        case 83: //bot key up
+            camera.B = false;
+            break;
+        case 69: //bot key up
+            camera.zoomIn = false;
+            break;
+        case 81: //bot key up
+            camera.zoomOut = false;
+            break;
+        case 82:
+            toggleBoxes();
+            break;
+    }
+});

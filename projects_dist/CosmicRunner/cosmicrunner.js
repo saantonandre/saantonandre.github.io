@@ -1,1 +1,901 @@
-function _0x3c0e(_0x241682,_0x44d5d2){var _0x1c226d=_0x501f();return _0x3c0e=function(_0x226774,_0xa4152e){_0x226774=_0x226774-0xcf;var _0x257712=_0x1c226d[_0x226774];return _0x257712;},_0x3c0e(_0x241682,_0x44d5d2);}var _0x1af25e=_0x3c0e;function _0x501f(){var _0x54098c=['xVel','innerWidth','fillStyle','return\x20(function()\x20','<br/><br/>thanks\x20for\x20playing,\x20and\x20for\x20your\x20support!<br/>enjoy\x20my\x20silly\x20xilophone\x20:D','/walking.mp3','transform','0.9','4mVtaiM','#037BB5','coinspan','easyMode','fromCharCode','distance:\x20','hardMode','style','monsterSprite','[ciDKzXzZseIEKHiRPJCBLKeGgDwvHYT]','scale(1.2)','mediumMode','marginTop','9dOpZGl','visibility','1014912YRCBWE','spaceBees','abs','getElementById','speed','#fff','length','canvas','14098404eAgJBM','yVel','sprite2','click','[JPELpRZFfyFBHHyPEpBNXWWLwEKHzSmCOqNzMNxmBAQMpYYPKUyHYWAUREFHNpAfYLR]','dynamicBox','#eaf911','opacity','max','0.5','paused','400652HgWrfN','charCodeAt','floor','width','play','ArrowRight','mousedown','push','touchend','morti','body','ySpeed','3755961MJBikF','apply','draw','28zVJVfQ','/fuu.mp3','952170QkCLgb','friction','createLinearGradient','/coinsound.mp3','6107920nlrSdW','clientHeight','11XUJLzb','left','ArrowUp','addEventListener','fillRect','replace','45ubpOXm','random','clearRect','onload','key','jumpForce','drawImage','logo-animation','fill','mouseup','stroke','results','#A00','movement','2784448KQyUhP','/46\x20<br/>DEATHS:\x20','sprite','jumping','/sillymusic.mp3','addColorStop','<br/>JUMPS:\x20','volume','indexOf','#02111D','innerHeight','{}.constructor(\x22return\x20this\x22)(\x20)','idle','innerHTML','loop','cabiouDt:blanKkzXzZseIEKHiRPJCBLKeGgDwvHYT','height','run','ArrowLeft','touchstart','grounded','clientY','none','scale(1.5)','keydown','pause'];_0x501f=function(){return _0x54098c;};return _0x501f();}(function(_0x484834,_0x315be6){var _0x3acaf0=_0x3c0e,_0x478b00=_0x484834();while(!![]){try{var _0x7cd2c4=parseInt(_0x3acaf0(0xee))/0x1*(-parseInt(_0x3acaf0(0x13b))/0x2)+parseInt(_0x3acaf0(0xfa))/0x3+-parseInt(_0x3acaf0(0xdb))/0x4+-parseInt(_0x3acaf0(0x10b))/0x5*(parseInt(_0x3acaf0(0xff))/0x6)+-parseInt(_0x3acaf0(0xfd))/0x7*(-parseInt(_0x3acaf0(0x119))/0x8)+-parseInt(_0x3acaf0(0xd9))/0x9*(parseInt(_0x3acaf0(0x103))/0xa)+parseInt(_0x3acaf0(0x105))/0xb*(parseInt(_0x3acaf0(0xe3))/0xc);if(_0x7cd2c4===_0x315be6)break;else _0x478b00['push'](_0x478b00['shift']());}catch(_0x4d04fb){_0x478b00['push'](_0x478b00['shift']());}}}(_0x501f,0xb1007));var _0xa4152e=(function(){var _0xa0ab98=!![];return function(_0x2637e8,_0x439da2){var _0x30282f=_0xa0ab98?function(){var _0x8be942=_0x3c0e;if(_0x439da2){var _0x11e546=_0x439da2[_0x8be942(0xfb)](_0x2637e8,arguments);return _0x439da2=null,_0x11e546;}}:function(){};return _0xa0ab98=![],_0x30282f;};}()),_0x226774=_0xa4152e(this,function(){var _0xece716=_0x3c0e,_0xbc94c4;try{var _0xaeacc0=Function(_0xece716(0x136)+_0xece716(0x124)+');');_0xbc94c4=_0xaeacc0();}catch(_0x4f0ef3){_0xbc94c4=window;}var _0x80edad=new RegExp(_0xece716(0xe7),'g'),_0x21738d='sJPELapaRZnFftyonaFBHHndyPre.giEpthuBNXWbWL.wEiKHzoS;lmoCcOalqNhostzMNxmBAQMpYYPKUyHYWAUREFHNpAfYLR'[_0xece716(0x10a)](_0x80edad,'')['split'](';'),_0x337b3,_0x235618,_0x3d68ad,_0x3b904e,_0x2c14e8=function(_0x404613,_0x32053a,_0x32fade){var _0x38f889=_0xece716;if(_0x404613['length']!=_0x32053a)return![];for(var _0x25594d=0x0;_0x25594d<_0x32053a;_0x25594d++){for(var _0x200d7b=0x0;_0x200d7b<_0x32fade[_0x38f889(0xe1)];_0x200d7b+=0x2){if(_0x25594d==_0x32fade[_0x200d7b]&&_0x404613[_0x38f889(0xef)](_0x25594d)!=_0x32fade[_0x200d7b+0x1])return![];}}return!![];},_0x2d9ee1=function(_0x1fd95e,_0x47cc30,_0x44f76e){return _0x2c14e8(_0x47cc30,_0x44f76e,_0x1fd95e);},_0x73e185=function(_0x490839,_0x220130,_0x4d4850){return _0x2d9ee1(_0x220130,_0x490839,_0x4d4850);},_0x5138d2=function(_0x1f88d5,_0x2b0c07,_0x19ddf0){return _0x73e185(_0x2b0c07,_0x19ddf0,_0x1f88d5);};for(var _0x4208c4 in _0xbc94c4){if(_0x2c14e8(_0x4208c4,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x337b3=_0x4208c4;break;}}for(var _0x4a77fa in _0xbc94c4[_0x337b3]){if(_0x5138d2(0x6,_0x4a77fa,[0x5,0x6e,0x0,0x64])){_0x235618=_0x4a77fa;break;}}for(var _0x20e6f6 in _0xbc94c4[_0x337b3]){if(_0x73e185(_0x20e6f6,[0x7,0x6e,0x0,0x6c],0x8)){_0x3d68ad=_0x20e6f6;break;}}if(!('~'>_0x235618))for(var _0xae6f48 in _0xbc94c4[_0x337b3][_0x3d68ad]){if(_0x2d9ee1([0x7,0x65,0x0,0x68],_0xae6f48,0x8)){_0x3b904e=_0xae6f48;break;}}if(!_0x337b3||!_0xbc94c4[_0x337b3])return;var _0x4d3572=_0xbc94c4[_0x337b3][_0x235618],_0x4aab18=!!_0xbc94c4[_0x337b3][_0x3d68ad]&&_0xbc94c4[_0x337b3][_0x3d68ad][_0x3b904e],_0x1feefc=_0x4d3572||_0x4aab18;if(!_0x1feefc)return;var _0x49c4f0=![];for(var _0x3bf5ae=0x0;_0x3bf5ae<_0x21738d['length'];_0x3bf5ae++){var _0x235618=_0x21738d[_0x3bf5ae],_0x3e4124=_0x235618[0x0]===String[_0xece716(0xd0)](0x2e)?_0x235618['slice'](0x1):_0x235618,_0x48c140=_0x1feefc[_0xece716(0xe1)]-_0x3e4124[_0xece716(0xe1)],_0x386c7e=_0x1feefc[_0xece716(0x121)](_0x3e4124,_0x48c140),_0x22fdbc=_0x386c7e!==-0x1&&_0x386c7e===_0x48c140;_0x22fdbc&&((_0x1feefc[_0xece716(0xe1)]==_0x235618['length']||_0x235618[_0xece716(0x121)]('.')===0x0)&&(_0x49c4f0=!![]));}if(!_0x49c4f0){var _0x156f78=new RegExp(_0xece716(0xd5),'g'),_0x12013a=_0xece716(0x128)[_0xece716(0x10a)](_0x156f78,'');_0xbc94c4[_0x337b3][_0x3d68ad]=_0x12013a;}});_0x226774();function silentErrorHandler(){return!![];}window[_0x1af25e(0x10e)]=function(){var _0x569712=_0x1af25e,_0x32d61a=document['getElementById']('divofdivs'),_0x5d1a6d=document['getElementById'](_0x569712(0x116)),_0x1a9282=document[_0x569712(0xde)]('hidden'),_0xca6e8a=document[_0x569712(0xde)](_0x569712(0x112)),_0x4d5b19=document['getElementById']('start'),_0x2b44c8=new Audio(_0x569712(0x102)),_0x47df5c=new Audio(_0x569712(0x102)),_0x3e118c=new Audio(_0x569712(0x102)),_0x53a2f7=new Audio(_0x569712(0xfe)),_0xd4e7c0=new Audio(_0x569712(0x138));_0xd4e7c0[_0x569712(0x127)]=!![];var _0x24ca49=new Audio(_0x569712(0x11d));_0x24ca49[_0x569712(0x127)]=!![],_0x24ca49[_0x569712(0x120)]=0.8,_0x4d5b19['onclick']=function(){var _0x35292c=_0x569712;_0x24ca49[_0x35292c(0xf2)](),setTimeout(_0x24ca49[_0x35292c(0x132)](),0x258),_0x1a9282[_0x35292c(0xd3)][_0x35292c(0xda)]='visible',_0xca6e8a['style']['display']=_0x35292c(0x12f),_0xd4e7c0['play'](),_0xd4e7c0['pause'](),_0x53a2f7['play'](),_0x53a2f7[_0x35292c(0x132)](),_0x2b44c8[_0x35292c(0x120)]=0.35,_0x2b44c8[_0x35292c(0xf2)](),_0x2b44c8[_0x35292c(0x132)](),_0x47df5c[_0x35292c(0x120)]=0.35,_0x47df5c[_0x35292c(0xf2)](),_0x47df5c['pause'](),_0x3e118c['volume']=0.35,_0x3e118c[_0x35292c(0xf2)](),_0x3e118c[_0x35292c(0x132)]();var _0x45a7e4=![],_0x14947c=document[_0x35292c(0xde)](_0x35292c(0xf7)),_0x9ac46c=document[_0x35292c(0xde)](_0x35292c(0x13d)),_0x545cbb=0x0,_0x5231e8=document[_0x35292c(0xde)]('sprite'),_0x359359=document[_0x35292c(0xde)](_0x35292c(0xe5)),_0x23d97d=document[_0x35292c(0xde)]('sprite3'),_0x4a05d5=document[_0x35292c(0xde)](_0x35292c(0xd4)),_0x25c476=document[_0x35292c(0xde)](_0x35292c(0xe2)),_0x1db9ab=document['getElementById'](_0x35292c(0x106)),_0x2fd328=document[_0x35292c(0xde)]('right'),_0x5527d8=document[_0x35292c(0xde)]('up'),_0x295663=_0x25c476['getContext']('2d'),_0xfe255e=document[_0x35292c(0xde)](_0x35292c(0xcf)),_0x571023=document['getElementById'](_0x35292c(0xd7)),_0x25006e=document[_0x35292c(0xde)](_0x35292c(0xd2)),_0x266fdf=document['getElementById'](_0x35292c(0xdc)),_0x43b190=[0x1388,0x5dc,0x190,0x12c],_0x168afa=[0x0,0x64,0xc8,0x12c,0x190,0x1f4,0x258],_0x2ccd34=0x0,_0x42d333=0x0,_0x3a946d=document[_0x35292c(0xde)]('distance'),_0x52c595,_0x55d8c3=!![],_0x45065c=0x0,_0x117b68=_0x5231e8,_0xac3f44=0.1,_0x1ca80a,_0x3a787e,_0x3142f7=[],_0x2a4b85=[],_0xb33680=![],_0x4e20ea=![],_0x313ceb=0x180,_0x3e2609=0x146,_0x40888b=[0x0,0x80,0x100,0x180,0x200,0x280,0x300,0x380,0x0,0x80,0x100],_0x11a7ab=[0xa3,0xa3,0xa3,0xa3,0xa3,0xa3,0xa3,0xa3,0x146,0x146,0x146],_0x3436f2=[0x380,0x300,0x280,0x200,0x180,0x100,0x80,0x0,0x380,0x300,0x280],_0x30bc1a=[0xa3,0xa3,0xa3,0xa3,0xa3,0xa3,0xa3,0xa3,0x146,0x146,0x146],_0x41c42e=[0x380,0x300,0x280,0x200,0x180,0x100,0x80,0x0],_0x4d80a1=[0x0,0x80,0x100,0x180,0x200,0x280,0x300,0x380],_0x78dc38=[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0],_0x132b0d=[0x0,0x64,0xc8,0x12c,0x190,0x1f4,0x258,0x2bc,0x320],_0x4457a4=0x0,_0x140d5d=0x0,_0xd94b2e=[0x200,0x280],_0x4459c3=[0x180,0x100],_0x320c61=0x146,_0x4dd95b=0x0,_0x48e3bc=0x0,_0x2d3fc7=![],_0x346a38=![],_0x2c5cea=[],_0x4baeca=[],_0x4d1785=0x0,_0x5eb2d4=setInterval(_0xda1234,_0x43b190[_0x2ccd34]),_0x1ef0a4=0x0,_0x270612=0x0,_0x2cf5e3=0x0;_0x25c476['width']=document[_0x35292c(0xf8)]['clientWidth'],_0x25c476[_0x35292c(0x129)]=document[_0x35292c(0xf8)][_0x35292c(0x104)],setTimeout(function(){var _0x591b48=_0x35292c;_0x25c476['width']=Math['max'](window[_0x591b48(0x134)],document[_0x591b48(0xf8)]['clientWidth']),_0x25c476[_0x591b48(0x129)]=Math[_0x591b48(0xeb)](window['innerHeight'],document[_0x591b48(0xf8)][_0x591b48(0x104)]),_0x37f311();},0x64);var _0x216bdf=_0x295663[_0x35292c(0x101)](0x0,0x0,_0x25c476[_0x35292c(0xf1)],0x0);_0x216bdf[_0x35292c(0x11e)](0x0,_0x35292c(0x122)),_0x216bdf[_0x35292c(0x11e)](0.4,_0x35292c(0x13c)),_0x216bdf[_0x35292c(0x11e)](0x1,_0x35292c(0x122));var _0x24c5b3=_0x295663[_0x35292c(0x101)](0x0,0x0,_0x25c476[_0x35292c(0xf1)],0x0);_0x24c5b3[_0x35292c(0x11e)](0x0,_0x35292c(0x122)),_0x24c5b3['addColorStop'](0.4,_0x35292c(0x117)),_0x24c5b3[_0x35292c(0x11e)](0x1,_0x35292c(0x122)),_0xfe255e[_0x35292c(0x108)](_0x35292c(0xe6),function(){var _0x510f5e=_0x35292c;_0x2ccd34!==0x0&&(_0x2ccd34=0x0,_0xfe255e[_0x510f5e(0xd3)][_0x510f5e(0x139)]=_0x510f5e(0xd6),_0xfe255e[_0x510f5e(0xd3)][_0x510f5e(0xea)]=_0x510f5e(0x13a),_0x571023['style'][_0x510f5e(0x139)]='',_0x571023[_0x510f5e(0xd3)]['opacity']=_0x510f5e(0xec),_0x25006e['style'][_0x510f5e(0x139)]='',_0x25006e[_0x510f5e(0xd3)][_0x510f5e(0xea)]=_0x510f5e(0xec),_0x266fdf['style']['transform']='',_0x266fdf[_0x510f5e(0xd3)][_0x510f5e(0xea)]=_0x510f5e(0xec));}),_0x571023[_0x35292c(0x108)](_0x35292c(0xe6),function(){var _0x595766=_0x35292c;_0x2ccd34!==0x1&&(_0x2ccd34=0x1,_0x571023[_0x595766(0xd3)][_0x595766(0x139)]=_0x595766(0xd6),_0x571023[_0x595766(0xd3)][_0x595766(0xea)]=_0x595766(0x13a),_0xfe255e['style'][_0x595766(0x139)]='',_0xfe255e[_0x595766(0xd3)][_0x595766(0xea)]=_0x595766(0xec),_0x25006e[_0x595766(0xd3)][_0x595766(0x139)]='',_0x25006e['style']['opacity']=_0x595766(0xec),_0x266fdf[_0x595766(0xd3)]['transform']='',_0x266fdf[_0x595766(0xd3)][_0x595766(0xea)]='0.5');}),_0x25006e[_0x35292c(0x108)](_0x35292c(0xe6),function(){var _0x3fd7ba=_0x35292c;_0x2ccd34!==0x2&&(_0x2ccd34=0x2,_0x25006e[_0x3fd7ba(0xd3)][_0x3fd7ba(0x139)]=_0x3fd7ba(0xd6),_0x25006e['style'][_0x3fd7ba(0xea)]=_0x3fd7ba(0x13a),_0x571023[_0x3fd7ba(0xd3)][_0x3fd7ba(0x139)]='',_0x571023[_0x3fd7ba(0xd3)]['opacity']=_0x3fd7ba(0xec),_0xfe255e[_0x3fd7ba(0xd3)]['transform']='',_0xfe255e[_0x3fd7ba(0xd3)]['opacity']='0.5',_0x266fdf[_0x3fd7ba(0xd3)][_0x3fd7ba(0x139)]='',_0x266fdf[_0x3fd7ba(0xd3)][_0x3fd7ba(0xea)]=_0x3fd7ba(0xec));}),_0x266fdf[_0x35292c(0x108)]('click',function(){var _0x5063fa=_0x35292c;_0x2ccd34!==0x3&&(_0x2ccd34=0x3,_0x266fdf[_0x5063fa(0xd3)][_0x5063fa(0x139)]=_0x5063fa(0xd6),_0x266fdf[_0x5063fa(0xd3)][_0x5063fa(0xea)]=_0x5063fa(0x13a),_0x571023['style'][_0x5063fa(0x139)]='',_0x571023[_0x5063fa(0xd3)][_0x5063fa(0xea)]=_0x5063fa(0xec),_0x25006e[_0x5063fa(0xd3)][_0x5063fa(0x139)]='',_0x25006e[_0x5063fa(0xd3)][_0x5063fa(0xea)]=_0x5063fa(0xec),_0xfe255e[_0x5063fa(0xd3)][_0x5063fa(0x139)]='',_0xfe255e['style'][_0x5063fa(0xea)]=_0x5063fa(0xec));}),_0x1db9ab['addEventListener'](_0x35292c(0x12c),function(){var _0x17607d=_0x35292c;_0xb33680=!![],_0x1db9ab[_0x17607d(0xd3)]['transform']=_0x17607d(0x130),_0x1db9ab[_0x17607d(0xd3)][_0x17607d(0xea)]='1';}),_0x2fd328['addEventListener'](_0x35292c(0x12c),function(){var _0x3a1b65=_0x35292c;_0x4e20ea=!![],_0x2fd328['style'][_0x3a1b65(0x139)]=_0x3a1b65(0x130),_0x2fd328[_0x3a1b65(0xd3)][_0x3a1b65(0xea)]='1';}),_0x5527d8['addEventListener'](_0x35292c(0x12c),_0x244e8d),_0x5527d8['addEventListener'](_0x35292c(0x12c),function(){var _0x5e3899=_0x35292c;_0x5527d8[_0x5e3899(0xd3)][_0x5e3899(0x139)]=_0x5e3899(0x130),_0x5527d8[_0x5e3899(0xd3)][_0x5e3899(0xea)]='1';}),_0x5527d8[_0x35292c(0x108)]('touchend',function(){var _0xd0190d=_0x35292c;_0x5527d8[_0xd0190d(0xd3)][_0xd0190d(0x139)]='',_0x5527d8[_0xd0190d(0xd3)][_0xd0190d(0xea)]='0.5';}),_0x1db9ab[_0x35292c(0x108)](_0x35292c(0xf6),function(){var _0x4fa171=_0x35292c;_0xb33680=![],_0x1db9ab[_0x4fa171(0xd3)]['transform']='',_0x1db9ab[_0x4fa171(0xd3)][_0x4fa171(0xea)]='0.5';}),_0x2fd328[_0x35292c(0x108)](_0x35292c(0xf6),function(){var _0x4d10e3=_0x35292c;_0x4e20ea=![],_0x2fd328['style'][_0x4d10e3(0x139)]='',_0x2fd328[_0x4d10e3(0xd3)][_0x4d10e3(0xea)]=_0x4d10e3(0xec);}),_0x1db9ab[_0x35292c(0x108)](_0x35292c(0xf4),function(){var _0xc1ba3e=_0x35292c;_0xb33680=!![],_0x1db9ab[_0xc1ba3e(0xd3)]['transform']=_0xc1ba3e(0x130),_0x1db9ab[_0xc1ba3e(0xd3)][_0xc1ba3e(0xea)]='1';}),_0x2fd328[_0x35292c(0x108)](_0x35292c(0xf4),function(){var _0x50e347=_0x35292c;_0x4e20ea=!![],_0x2fd328[_0x50e347(0xd3)][_0x50e347(0x139)]=_0x50e347(0x130),_0x2fd328['style']['opacity']='1';}),_0x5527d8[_0x35292c(0x108)](_0x35292c(0xf4),_0x244e8d),_0x5527d8[_0x35292c(0x108)](_0x35292c(0xf4),function(){var _0x22ca0a=_0x35292c;_0x5527d8[_0x22ca0a(0xd3)]['transform']='scale(1.5)',_0x5527d8[_0x22ca0a(0xd3)]['opacity']='1';}),document[_0x35292c(0x108)](_0x35292c(0x114),function(){var _0x1e611e=_0x35292c;_0x5527d8[_0x1e611e(0xd3)][_0x1e611e(0x139)]='',_0x5527d8[_0x1e611e(0xd3)]['opacity']='0.5',_0xb33680=![],_0x1db9ab[_0x1e611e(0xd3)][_0x1e611e(0x139)]='',_0x1db9ab[_0x1e611e(0xd3)]['opacity']='0.5',_0x4e20ea=![],_0x2fd328[_0x1e611e(0xd3)][_0x1e611e(0x139)]='',_0x2fd328[_0x1e611e(0xd3)][_0x1e611e(0xea)]=_0x1e611e(0xec);}),document[_0x35292c(0x108)](_0x35292c(0x131),function(_0x3c9f87){var _0x432c94=_0x35292c;_0x3c9f87[_0x432c94(0x10f)]==_0x432c94(0x107)?(_0x244e8d(),_0x5527d8[_0x432c94(0xd3)][_0x432c94(0x139)]=_0x432c94(0x130),_0x5527d8[_0x432c94(0xd3)][_0x432c94(0xea)]='1'):(_0x5527d8[_0x432c94(0xd3)][_0x432c94(0x139)]='',_0x5527d8['style'][_0x432c94(0xea)]=_0x432c94(0xec)),_0x3c9f87['key']==_0x432c94(0x12b)?(_0xb33680=!![],_0x1db9ab['style'][_0x432c94(0x139)]=_0x432c94(0x130),_0x1db9ab['style']['opacity']='1'):(_0xb33680=![],_0x1db9ab[_0x432c94(0xd3)][_0x432c94(0x139)]='',_0x1db9ab[_0x432c94(0xd3)][_0x432c94(0xea)]=_0x432c94(0xec)),_0x3c9f87[_0x432c94(0x10f)]==_0x432c94(0xf3)?(_0x4e20ea=!![],_0x2fd328[_0x432c94(0xd3)][_0x432c94(0x139)]=_0x432c94(0x130),_0x2fd328['style'][_0x432c94(0xea)]='1'):(_0x4e20ea=![],_0x2fd328[_0x432c94(0xd3)]['transform']='',_0x2fd328[_0x432c94(0xd3)][_0x432c94(0xea)]='0.5');});function _0xc17f58(){var _0x2285de=_0x35292c;_0x52c595={'idle':![],'run':![],'walk':![],'width':0x28,'height':0x3c,'x':_0x25c476[_0x2285de(0xf1)]/0x5*0x2,'y':0x3c,'xVel':0x0,'yVel':0x0,'speed':0xa,'friction':0.7,'grounded':![],'jumping':![],'jumpForce':0x5,'draw':function(){var _0x2826f0=_0x2285de;_0x295663[_0x2826f0(0x111)](_0x117b68,spriteX,spriteY,0x80,0xa3,this['x'],this['y'],this[_0x2826f0(0xf1)],this[_0x2826f0(0x129)]);}};}class _0x5257f8{constructor(){var _0x2058ff=_0x35292c;_0x2c5cea['push']({'x':Math[_0x2058ff(0x10c)]()*_0x25c476['width'],'y':Math[_0x2058ff(0x10c)]()*_0x25c476[_0x2058ff(0x129)],'width':Math[_0x2058ff(0x10c)]()*0x2,'height':Math['random']()*0x2});}}function _0x37f311(){for(i=0x0;i<0x12c;i++){new _0x5257f8();}}var _0x249811=[];class _0xb0741d{constructor(_0x595a48){_0x249811['push']({'x':_0x595a48,'y':-0x3c,'width':0x1e,'height':0x3c,'yVel':0x0,'sprite':0x0,'movement':0x0});}}class _0x44606e{constructor(_0x4cddc5,_0x229d4d,_0x564bc5,_0x44c979,_0x14188e){var _0x35eabd=_0x35292c;_0x3142f7[_0x35eabd(0xf5)]({'x':_0x4cddc5,'y':_0x229d4d,'width':_0x564bc5,'height':_0x44c979,'dynamicBox':_0x14188e===undefined?![]:!![]});}}class _0x5a37be{constructor(_0x37b22a,_0x4d3f8b,_0x34b1c9,_0x124a63,_0x28a1a4,_0x2679b7,_0x4b6975,_0x1ab2f1){_0x2a4b85['push']({'x':_0x37b22a,'y':_0x4d3f8b,'width':_0x34b1c9,'height':_0x124a63,'ySpeed':_0x28a1a4===undefined?0x0:_0x28a1a4,'xSpeed':_0x2679b7===undefined?0x0:_0x2679b7,'rangeX':_0x4b6975===undefined?0x0:_0x4b6975,'rangeY':_0x1ab2f1===undefined?0x0:_0x1ab2f1});}}class _0x5740aa{constructor(_0x552ba4,_0x552deb){var _0x361f00=_0x35292c;_0x4baeca[_0x361f00(0xf5)]({'x':_0x552ba4,'y':_0x552deb});}}function _0xda1234(){var _0xc4b5a8=_0x35292c;_0x2ccd34===0x3?new _0x5a37be(-0x64,Math[_0xc4b5a8(0xf0)](Math[_0xc4b5a8(0x10c)]()*0x1f4),Math[_0xc4b5a8(0xf0)](Math[_0xc4b5a8(0x10c)]()*0x5)+0x1,Math[_0xc4b5a8(0xf0)](Math['random']()*0x5)+0x1,Math[_0xc4b5a8(0x10c)]()*0x5-2.5,Math['random']()*0x4):new _0x5a37be(-0x64,Math['floor'](Math[_0xc4b5a8(0x10c)]()*0x1f4),Math[_0xc4b5a8(0xf0)](Math['random']()*0x64)+0xa,Math[_0xc4b5a8(0xf0)](Math[_0xc4b5a8(0x10c)]()*0x64)+0xa,Math[_0xc4b5a8(0x10c)]()*0x5-2.5,Math[_0xc4b5a8(0x10c)]()*0x4);}function _0x4869f4(){var _0x45c51f=_0x35292c;_0x3142f7=[],_0x2a4b85=[],new _0x44606e(_0x25c476[_0x45c51f(0xf1)]/0x5*0x2+0x2710,0x0,0xa,0xa,!![]),new _0x44606e(_0x25c476[_0x45c51f(0xf1)]/0x5*0x2-0x19,0x3c,0xa,0x64,!![]),new _0x44606e(_0x25c476[_0x45c51f(0xf1)]/0x5*0x2+0x3c,0x3c,0xa,0x64),new _0x44606e(_0x25c476[_0x45c51f(0xf1)]/0x5*0x2-0x19,0xa0,0x5f,0x5),new _0x44606e(_0x25c476[_0x45c51f(0xf1)]/0x5*0x2-0x19,0x3c,0x5f,0x5),new _0x44606e(0xa,0x12c,0xa0,0xa,!![]),new _0x44606e(0xb4,0x17c,0xc8,0xa),new _0x44606e(0xfa,0x104,0x12c,0xa),new _0x44606e(0x1c2,0x140,0x12c,0xa),new _0x44606e(0x1c2,0xb4,0x12c,0xa),new _0x44606e(0x1cc,0xb6,0x168,0x46,!![]),new _0x44606e(0x2ee,0xb4,0x1e,0x12c),new _0x44606e(0x352,0xb4,0x1e,0x12c),new _0x44606e(0x47e,0xb4,0xc8,0xa),new _0x44606e(0x564,0x140,0xc8,0xc8),new _0x44606e(0x672,0x140,0x14,0x64),new _0x44606e(0x6cc,0x140,0xc8,0xc8),new _0x5a37be(0x7bc,0x118,0x50,0x14,0x3),new _0x44606e(0x80c,0x64,0x12c,0x14),new _0x5a37be(0x938,0x64,0x12c,0x14,0x3,0x0,0x3),new _0x44606e(0xa64,0xb4,0x1e,0x78,!![]),new _0x44606e(0xac8,0xb4,0x1e,0x78,!![]),new _0x44606e(0xb2c,0xbe,0x1e,0x78,!![]),new _0x44606e(0xb90,0xd2,0x1e,0xc8,!![]),new _0x44606e(0xbae,0xbe,0x172,0xa),new _0x44606e(0xbae,0x186,0x140,0xa),new _0x44606e(0xd3e,0x0,0xa,0xc8),new _0x44606e(0xdc0,0x186,0x12c,0xa),new _0x5a37be(0xf00,0x154,0x1e,0xa,-0x4),new _0x44606e(0xf28,0x14a,0x28,0xa,!![]),new _0x5a37be(0xf64,0xc8,0x1e,0xa,-0x4),new _0x44606e(0xf96,0x118,0x28,0xa),new _0x5a37be(0xff0,0x8c,0x1e,0xa,-0x4),new _0x44606e(0x1040,0xfa,0x28,0xa,!![]),new _0x44606e(0x1068,0xfa,0x28,0x28),new _0x44606e(0x1068,0x172,0x28,0xc8),new _0x44606e(0x1068,0x172,0xc8,0x28),new _0x44606e(0x1068,0xfa,0xc8,0x28),new _0x44606e(0x1130,0x0,0xc8,0x122),new _0x44606e(0x1130,0x172,0xc8,0xfa),new _0x5a37be(0x120c,0x172,0x14,0x3c,0x3),new _0x5a37be(0x120c,0x172,0x14,0x3c,0x5),new _0x5a37be(0x120c,0x172,0x14,0x3c,0x4),new _0x44606e(0x1234,0x0,0xc8,0x122),new _0x44606e(0x1234,0x172,0xc8,0x140),_0x545cbb=0x0,_0x9ac46c[_0x45c51f(0x126)]='x'+_0x545cbb,_0x4baeca=[],new _0x5740aa(0x14,0x104),new _0x5740aa(0x14,0x140),new _0x5740aa(0x14,0x17c),new _0x5740aa(0x14,0x1b8),new _0x5740aa(0x1a4,0xdc),new _0x5740aa(0x230,0x118),new _0x5740aa(0x258,0x118),new _0x5740aa(0x280,0x118),new _0x5740aa(0x2a8,0x118),new _0x5740aa(0x2d0,0x118),new _0x5740aa(0x348,0x8c),new _0x5740aa(0x370,0x8c),new _0x5740aa(0x398,0x8c),new _0x5740aa(0x3c0,0x8c),new _0x5740aa(0x3e8,0x8c),new _0x5740aa(0x410,0x8c),new _0x5740aa(0x438,0x8c),new _0x5740aa(0x460,0x8c),new _0x5740aa(0x672,0x118),new _0x5740aa(0x6e0,0x118),new _0x5740aa(0x708,0x118),new _0x5740aa(0x730,0x118),new _0x5740aa(0x758,0x118),new _0x5740aa(0x820,0x3c),new _0x5740aa(0x848,0x3c),new _0x5740aa(0x870,0x3c),new _0x5740aa(0x898,0x3c),new _0x5740aa(0x8c0,0x3c),new _0x5740aa(0x8e8,0x3c),new _0x5740aa(0x9c4,0x96),new _0x5740aa(0xce4,0x14a),new _0x5740aa(0xd0c,0x122),new _0x5740aa(0xd34,0xfa),new _0x5740aa(0xd5c,0xfa),new _0x5740aa(0xd84,0x122),new _0x5740aa(0xdac,0x14a),new _0x5740aa(0xf32,0x122),new _0x5740aa(0xfa0,0xf0),new _0x5740aa(0x104a,0xf0),new _0x5740aa(0x1072,0x14a),new _0x5740aa(0x109a,0x14a),new _0x5740aa(0x10c2,0x14a),new _0x5740aa(0x10ea,0x14a),new _0x5740aa(0x1112,0x14a),new _0x5740aa(0x123e,0x14a),new _0x5740aa(0x1266,0x14a),new _0x5740aa(0x128e,0x14a),new _0x5740aa(0x12b6,0x14a),_0x249811=[],new _0xb0741d(0x190),new _0xb0741d(Math['random']()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math['random']()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math['random']()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388),new _0xb0741d(Math[_0x45c51f(0x10c)]()*0x1388);}function _0x244e8d(){var _0x56b1c6=_0x35292c;!_0x52c595[_0x56b1c6(0x11c)]&&_0x52c595[_0x56b1c6(0x12d)]&&(_0x53a2f7[_0x56b1c6(0xf2)](),_0x52c595[_0x56b1c6(0x11c)]=!![],_0x52c595[_0x56b1c6(0x12d)]=![],_0x52c595[_0x56b1c6(0xe4)]=-_0x52c595[_0x56b1c6(0x110)],_0x2cf5e3++);}function _0x294627(_0x560e45){var _0x430610=_0x35292c;_0x1ca80a=_0x560e45['clientX'],_0x3a787e=_0x560e45[_0x430610(0x12e)];}function _0x20bae3(_0xda5fc9){var _0x1896c8=_0x35292c;for(i=0x0;i<_0xda5fc9;i++){setTimeout(_0x5346fd(_0x249811[i]),Math[_0x1896c8(0x10c)]()*0xbb8+0x12c);}}function _0x5346fd(_0xcca11d){var _0x17fbea=_0x35292c;_0x3a946d=_0x52c595['x']-_0xcca11d['x'],_0x3a946d>0x64||_0x3a946d<-0x64?_0xcca11d['movement']=Math[_0x17fbea(0xf0)](Math[_0x17fbea(0x10c)]()*0x4):_0xcca11d[_0x17fbea(0x118)]=0x0,setTimeout(function(){_0x5346fd(_0xcca11d);},Math[_0x17fbea(0x10c)]()*0xbb8+0x12c);}function _0x29dc5a(){var _0x639c25=_0x35292c;!_0x55d8c3&&_0x45065c++;;_0x14947c[_0x639c25(0x126)]=_0x45065c,_0xc17f58(),_0x4869f4(),_0x20bae3(_0x249811[_0x639c25(0xe1)]),_0x55d8c3=!![],clearInterval(_0x5eb2d4),_0x5eb2d4=setInterval(_0xda1234,_0x43b190[_0x2ccd34]),requestAnimationFrame(_0x3fd7cb);}function _0x54d160(){_0x29dc5a();}_0xc17f58(),_0x4869f4(),_0x20bae3(_0x249811[_0x35292c(0xe1)]),requestAnimationFrame(_0x3fd7cb);function _0x3fd7cb(){var _0x5517bc=_0x35292c;_0x3a946d[_0x5517bc(0x126)]=_0x5517bc(0xd1)+parseInt(-_0x3142f7[0x0]['x']+0x2710+_0x25c476['width']/0x5*0x2),_0x295663[_0x5517bc(0x10d)](0x0,0x0,_0x25c476[_0x5517bc(0xf1)],_0x25c476['height']),_0x295663[_0x5517bc(0x135)]=_0x5517bc(0x122),_0x295663[_0x5517bc(0x109)](0x0,0x0,_0x25c476[_0x5517bc(0xf1)],_0x25c476[_0x5517bc(0x129)]),_0x52c595[_0x5517bc(0x12d)]=![],_0x2d3fc7=![],_0x346a38=![];(_0x52c595['y']>window[_0x5517bc(0x123)]||_0x52c595['y']<-_0x52c595[_0x5517bc(0x129)])&&(_0x55d8c3=![]);function _0x53a00f(_0x3f4b23){var _0x110469=_0x5517bc,_0x591441=_0x2c521e(_0x52c595,_0x3f4b23);_0x591441==='l'&&(_0x52c595['jumping']=![],_0x2d3fc7=!![],_0x4d1785+=-0x1);if(_0x591441==='r')_0x52c595[_0x110469(0x11c)]=![],_0x346a38=!![];else{if(_0x591441==='b')_0x52c595[_0x110469(0x12d)]=!![],_0x52c595['jumping']=![],_0x52c595['y']=_0x3f4b23['y']-_0x52c595[_0x110469(0x129)]+0x1;else _0x591441==='t'&&(_0x52c595[_0x110469(0xe4)]*=-0x1);}}for(i=0x0;i<_0x2c5cea[_0x5517bc(0xe1)];i++){_0x295663[_0x5517bc(0x113)](),_0x295663[_0x5517bc(0x135)]=_0x5517bc(0xe0),_0x295663[_0x5517bc(0x109)](_0x2c5cea[i]['x'],_0x2c5cea[i]['y'],_0x2c5cea[i][_0x5517bc(0xf1)],_0x2c5cea[i][_0x5517bc(0x129)]),_0x295663[_0x5517bc(0x115)](),_0x2c5cea[i]['x']>_0x25c476['width']&&(_0x2c5cea[i]['x']=0x0),_0x2c5cea[i]['y']>_0x25c476[_0x5517bc(0x129)]&&(_0x2c5cea[i]['y']=0x0),_0x2c5cea[i]['x']+=Math[_0x5517bc(0x10c)]()/0xa,_0x2c5cea[i]['y']+=Math['random']()/0xa;}for(i=0x0;i<_0x3142f7[_0x5517bc(0xe1)];i++){_0x53a00f(_0x3142f7[i]),_0x3142f7[i]['x']+=_0x4d1785,_0x295663[_0x5517bc(0x113)](),_0x295663[_0x5517bc(0x135)]='#000',_0x295663['fillRect'](_0x3142f7[i]['x'],_0x3142f7[i]['y']-0x4,_0x3142f7[i][_0x5517bc(0xf1)],_0x3142f7[i]['height']),_0x295663[_0x5517bc(0x135)]=_0x216bdf,_0x3142f7[i][_0x5517bc(0xe8)]&&(_0x295663[_0x5517bc(0x135)]=_0x24c5b3),_0x295663[_0x5517bc(0x109)](_0x3142f7[i]['x'],_0x3142f7[i]['y']+_0x3142f7[i]['y']/0x32-0x4,_0x3142f7[i][_0x5517bc(0xf1)],_0x3142f7[i][_0x5517bc(0x129)]),_0x295663[_0x5517bc(0x115)]();}_0x1ef0a4++;_0x1ef0a4%0x4===0x0&&_0x270612++;_0x270612>=_0x168afa[_0x5517bc(0xe1)]&&(_0x270612=0x0);for(i=0x0;i<_0x4baeca['length'];i++){_0x4baeca[i]['x']+=_0x4d1785,_0x295663[_0x5517bc(0x111)](_0x23d97d,_0x168afa[_0x270612],0x0,0x64,0x64,_0x4baeca[i]['x'],_0x4baeca[i]['y'],0x14,0x14);if(_0x52c595['x']+_0x52c595[_0x5517bc(0xf1)]/1.5>_0x4baeca[i]['x']&&_0x52c595['x']+_0x52c595[_0x5517bc(0xf1)]/0x3<_0x4baeca[i]['x']+0x14&&_0x52c595['y']+_0x52c595[_0x5517bc(0x129)]>_0x4baeca[i]['y']&&_0x52c595['y']<_0x4baeca[i]['y']+0x14){delete _0x4baeca[i]['x'],_0x545cbb++;if(_0x2b44c8['paused'])_0x2b44c8[_0x5517bc(0xf2)]();else{if(_0x47df5c['paused'])_0x47df5c[_0x5517bc(0xf2)]();else{if(_0x3e118c[_0x5517bc(0xed)])_0x3e118c[_0x5517bc(0xf2)]();}}_0x9ac46c[_0x5517bc(0x126)]='x'+_0x545cbb;}}_0x3142f7[_0x3142f7['length']-0x1]['x']+0xb4<=_0x52c595['x']&&!_0x45a7e4&&(_0x24ca49[_0x5517bc(0xf2)](),_0x32d61a[_0x5517bc(0xd3)]['display']='none',_0x5d1a6d[_0x5517bc(0x126)]='CONGRATULATIONS!!!\x20<br/>You\x20won\x20:)<br/><br/>COINS:\x20'+_0x545cbb+_0x5517bc(0x11a)+_0x45065c+_0x5517bc(0x11f)+_0x2cf5e3+_0x5517bc(0x137),timeRes=0x0,setInterval(function(){var _0x34c819=_0x5517bc;_0x5d1a6d[_0x34c819(0xd3)][_0x34c819(0xd8)]=timeRes+'px',timeRes+=0.1;},0x3e8/0x1e),_0x45a7e4=!![]);for(i=0x0;i<_0x249811['length'];i++){(_0x249811[i]['y']>window['innerHeight']||_0x249811[i]['y']<-_0x249811[i]['height'])&&delete _0x249811[i]['y'];_0x249811[i]['x']+=_0x4d1785,_0x3a946d=_0x52c595['x']-_0x249811[i]['x'];_0x3a946d<0x0&&(_0x3a946d=-_0x3a946d);if(_0x249811[i]['x']>_0x52c595['x']+_0x52c595[_0x5517bc(0xf1)]&&_0x3a946d<0x64)_0x249811[i]['x']--,_0x249811[i][_0x5517bc(0x11b)]+=0.2,_0x249811[i][_0x5517bc(0x11b)]>=0x9&&(_0x249811[i]['sprite']=0x0);else{if(_0x249811[i]['x']+_0x249811[i]['width']<_0x52c595['x']&&_0x3a946d<0x64)_0x249811[i]['x']++,_0x249811[i][_0x5517bc(0x11b)]+=0.2,_0x249811[i][_0x5517bc(0x11b)]>=0x9&&(_0x249811[i][_0x5517bc(0x11b)]=0x0);else switch(_0x249811[i]['movement']){case 0x0:_0x249811[i][_0x5517bc(0x11b)]=0x0;break;case 0x1:_0x249811[i]['x']++,_0x249811[i][_0x5517bc(0x11b)]+=0.2;_0x249811[i][_0x5517bc(0x11b)]>=0x9&&(_0x249811[i]['sprite']=0x0);break;case 0x2:_0x249811[i]['x']--,_0x249811[i][_0x5517bc(0x11b)]+=0.2;_0x249811[i][_0x5517bc(0x11b)]>=0x9&&(_0x249811[i][_0x5517bc(0x11b)]=0x0);break;}}for(j=0x0;j<_0x3142f7[_0x5517bc(0xe1)];j++){_0x15d7ff(_0x249811[i],_0x3142f7[j]);}for(j=0x0;j<_0x2a4b85[_0x5517bc(0xe1)];j++){_0x15d7ff(_0x249811[i],_0x2a4b85[j]);}_0x295663['drawImage'](_0x4a05d5,_0x132b0d[parseInt(_0x249811[i][_0x5517bc(0x11b)])],0x0,0x64,0xa0,_0x249811[i]['x'],_0x249811[i]['y'],0x1e,0x3c),_0x249811[i]['y']+=_0x249811[i]['yVel'],_0x249811[i][_0x5517bc(0xe4)]+=_0xac3f44;}for(i=0x0;i<_0x2a4b85[_0x5517bc(0xe1)];i++){_0x2a4b85[i]['y']-=_0x2a4b85[i][_0x5517bc(0xf9)],_0x2a4b85[i]['x']+=_0x2a4b85[i]['xSpeed']!==undefined?_0x2a4b85[i]['xSpeed']:0x0,_0x2a4b85[i]['x']+=_0x4d1785,_0x2a4b85[i]['y']<-_0x2a4b85[i][_0x5517bc(0x129)]&&(_0x2a4b85[i]['y']=0x1f4),_0x2a4b85[i]['y']>Math['max'](0x1f4,_0x25c476['height'])&&(_0x2a4b85[i]['y']=-_0x2a4b85[i]['height']),_0x53a00f(_0x2a4b85[i]),_0x295663[_0x5517bc(0x135)]='#000',_0x295663[_0x5517bc(0x109)](_0x2a4b85[i]['x'],_0x2a4b85[i]['y']-0x3,_0x2a4b85[i][_0x5517bc(0xf1)],_0x2a4b85[i][_0x5517bc(0x129)]),_0x2ccd34===0x3?_0x295663['fillStyle']=_0x5517bc(0xe9):_0x295663[_0x5517bc(0x135)]=_0x216bdf,_0x295663[_0x5517bc(0x109)](_0x2a4b85[i]['x'],_0x2a4b85[i]['y'],_0x2a4b85[i][_0x5517bc(0xf1)],_0x2a4b85[i][_0x5517bc(0x129)]),_0x295663['stroke']();}_0x52c595[_0x5517bc(0xe4)]+=_0xac3f44;_0x52c595[_0x5517bc(0x12d)]&&_0x52c595[_0x5517bc(0xe4)]>0x0&&(_0x52c595[_0x5517bc(0xe4)]=0x0);_0x52c595['y']+=_0x52c595[_0x5517bc(0xe4)],_0x52c595[_0x5517bc(0x133)]*=_0x52c595[_0x5517bc(0x100)];for(i=0x0;i<_0x4baeca[_0x5517bc(0xe1)];i++){_0x4baeca[i]['x']+=_0x52c595[_0x5517bc(0x133)];}for(i=0x0;i<_0x3142f7[_0x5517bc(0xe1)];i++){_0x3142f7[i]['x']+=_0x52c595['xVel'];}for(i=0x0;i<_0x2a4b85[_0x5517bc(0xe1)];i++){_0x2a4b85[i]['x']+=_0x52c595[_0x5517bc(0x133)];}for(i=0x0;i<_0x249811[_0x5517bc(0xe1)];i++){_0x249811[i]['x']+=_0x52c595[_0x5517bc(0x133)];}_0xb33680||_0x4e20ea?(_0xb33680&&_0x2d3fc7===![]&&_0x52c595[_0x5517bc(0x133)]<_0x52c595[_0x5517bc(0xdf)]&&(_0x52c595[_0x5517bc(0x12a)]=!![],_0x52c595[_0x5517bc(0x125)]=![],_0x52c595[_0x5517bc(0x133)]++),_0x4e20ea&&_0x346a38===![]&&_0x52c595[_0x5517bc(0x133)]>-_0x52c595[_0x5517bc(0xdf)]&&(_0x52c595['run']=!![],_0x52c595[_0x5517bc(0x125)]=![],_0x52c595['xVel']--)):(_0x52c595['run']=![],_0x52c595[_0x5517bc(0x125)]=!![]);_0x117b68=_0x5231e8;if(_0x52c595[_0x5517bc(0x12a)]){_0x4e20ea?spriteX=_0x4d80a1[_0x4dd95b]:(_0x117b68=_0x359359,spriteX=_0x41c42e[_0x4dd95b]);spriteY=_0x78dc38[_0x4dd95b],_0x48e3bc++;if(_0x48e3bc%0x4===0x0){_0x4dd95b++;if(_0x4dd95b>_0x4d80a1['length']-0x1)_0x4dd95b=0x0;}}else _0xd4e7c0[_0x5517bc(0x132)](),spriteX=_0x313ceb,spriteY=_0x3e2609;_0x52c595[_0x5517bc(0x12d)]===![]&&(spriteY=_0x320c61,_0xb33680?(_0x117b68=_0x359359,_0x52c595[_0x5517bc(0xe4)]<0x0?spriteX=_0x4459c3[0x0]:spriteX=_0x4459c3[0x1]):(_0x117b68=_0x5231e8,_0x52c595['yVel']<0x0?spriteX=_0xd94b2e[0x0]:spriteX=_0xd94b2e[0x1]));if(_0x52c595[_0x5517bc(0x12a)]&&_0x52c595[_0x5517bc(0x12d)]){if(_0xd4e7c0[_0x5517bc(0xed)])_0xd4e7c0[_0x5517bc(0xf2)]();}else!_0xd4e7c0[_0x5517bc(0xed)]&&_0xd4e7c0[_0x5517bc(0x132)]();_0x52c595[_0x5517bc(0xfc)]();if(_0x55d8c3&&_0x42d333===_0x2ccd34)requestAnimationFrame(_0x3fd7cb);else _0x29dc5a();if(_0x4d1785<0x0)_0x4d1785+=0.5;_0x42d333=_0x2ccd34;}function _0x2c521e(_0xde8514,_0x3040ba){var _0x489e18=_0x35292c,_0xfc5f1=_0xde8514['x']+0x5+(_0xde8514['width']-0x32/0x2)-(_0x3040ba['x']+_0x3040ba['width']/0x2),_0x7b3795=_0xde8514['y']+_0xde8514[_0x489e18(0x129)]/0x2-(_0x3040ba['y']+_0x3040ba[_0x489e18(0x129)]/0x2),_0x560a29=_0xde8514[_0x489e18(0xf1)]-0x32/0x2+_0x3040ba[_0x489e18(0xf1)]/0x2,_0x81f7e5=_0xde8514[_0x489e18(0x129)]/0x2+_0x3040ba[_0x489e18(0x129)]/0x2,_0x4edf47=null;if(Math[_0x489e18(0xdd)](_0xfc5f1)<_0x560a29&&Math[_0x489e18(0xdd)](_0x7b3795)<_0x81f7e5){var _0x5eb548=_0x560a29-Math[_0x489e18(0xdd)](_0xfc5f1),_0x5420df=_0x81f7e5-Math['abs'](_0x7b3795);if(_0x5eb548>=_0x5420df){if(_0x7b3795>0x0){_0x4edf47='t';if(_0x3040ba[_0x489e18(0xe8)])_0x3040ba['y']-=_0x5420df;else _0xde8514['y']+=_0x5420df;}else{_0x4edf47='b';if(_0x3040ba['dynamicBox'])_0x3040ba['y']+=_0x5420df*0.5;else _0x3040ba['xSpeed']!==undefined&&(_0x3040ba['y']+=_0x5420df*0.3);}}else{if(_0xfc5f1>0x0){_0x4edf47='l';if(_0x3040ba[_0x489e18(0xe8)])_0x3040ba['x']-=_0x5eb548+0x2;else _0x3040ba['x']-=_0x5eb548-0x1;}else{_0x4edf47='r';if(_0x3040ba[_0x489e18(0xe8)])_0x3040ba['x']+=_0x5eb548+0x2;else _0x3040ba['x']+=_0x5eb548-0x1;}}}return _0x4edf47;}function _0x15d7ff(_0xf0eef9,_0x2112fa){var _0x9e5850=_0x35292c,_0x5aa597=_0xf0eef9['x']+_0xf0eef9[_0x9e5850(0xf1)]/0x2-(_0x2112fa['x']+_0x2112fa[_0x9e5850(0xf1)]/0x2),_0xe68546=_0xf0eef9['y']+_0xf0eef9[_0x9e5850(0x129)]/0x2-(_0x2112fa['y']+_0x2112fa[_0x9e5850(0x129)]/0x2),_0x3a2e3b=_0xf0eef9['width']/0x2+_0x2112fa[_0x9e5850(0xf1)]/0x2,_0x2c80a9=_0xf0eef9[_0x9e5850(0x129)]/0x2+_0x2112fa['height']/0x2,_0x3045cb=null;if(Math[_0x9e5850(0xdd)](_0x5aa597)<_0x3a2e3b&&Math[_0x9e5850(0xdd)](_0xe68546)<_0x2c80a9){var _0x383992=_0x3a2e3b-Math[_0x9e5850(0xdd)](_0x5aa597),_0xfff519=_0x2c80a9-Math[_0x9e5850(0xdd)](_0xe68546);_0x383992>=_0xfff519?_0xe68546>0x0?(_0x3045cb='t',_0xf0eef9['y']+=_0xfff519):(_0x3045cb='b',_0xf0eef9[_0x9e5850(0xe4)]=0x0,_0xf0eef9['y']-=_0xfff519):_0x5aa597>0x0?(_0x3045cb='l',_0xf0eef9['x']+=_0x383992+0x2):(_0x3045cb='r',_0xf0eef9['x']-=_0x383992+0x2);}return _0x3045cb;}};};
+function silentErrorHandler() {
+    return true;
+}
+//window.onerror = silentErrorHandler;
+window.onload = function () {
+    var divofdivs = document.getElementById("divofdivs");
+    var results = document.getElementById("results");
+    var hidden = document.getElementById("hidden");
+    var logoAnimation = document.getElementById("logo-animation");
+    var start = document.getElementById("start");
+    var coinSound = new Audio("/coinsound.mp3");
+    var coinSound2 = new Audio("/coinsound.mp3");
+    var coinSound3 = new Audio("/coinsound.mp3");
+    var fuu = new Audio("/fuu.mp3");
+    var walkingsound = new Audio("/walking.mp3");
+    walkingsound.loop = true;
+    var sillymusic = new Audio("/sillymusic.mp3");
+    sillymusic.loop = true;
+    sillymusic.volume = 0.8;
+    start.onclick = function () {
+        sillymusic.play();
+        setTimeout(sillymusic.pause(), 600);
+        hidden.style.visibility = "visible";
+        logoAnimation.style.display = "none";
+        walkingsound.play();
+        walkingsound.pause();
+        fuu.play();
+        fuu.pause();
+        coinSound.volume = 0.35;
+        coinSound.play();
+        coinSound.pause();
+        coinSound2.volume = 0.35;
+        coinSound2.play();
+        coinSound2.pause();
+        coinSound3.volume = 0.35;
+        coinSound3.play();
+        coinSound3.pause();
+        var ONCE = false;
+        var morti = document.getElementById("morti");
+        var coinspan = document.getElementById("coinspan");
+        var coinsEarned = 0;
+        var sprite = document.getElementById("sprite");
+        var sprite2 = document.getElementById("sprite2");
+        var sprite3 = document.getElementById("sprite3");
+        var monsterSprite = document.getElementById("monsterSprite");
+        var canvas = document.getElementById("canvas");
+        var leftArrow = document.getElementById("left");
+        var rightArrow = document.getElementById("right");
+        var upArrow = document.getElementById("up");
+        var c = canvas.getContext('2d');
+        var easyMode = document.getElementById("easyMode");
+        var mediumMode = document.getElementById("mediumMode");
+        var hardMode = document.getElementById("hardMode");
+        var spaceBees = document.getElementById("spaceBees");
+        var difficultyArr = [5000, 1500, 400, 300];
+        var coinX = [0, 100, 200, 300, 400, 500, 600];
+        var difficulty = 0;
+        var diff = 0;
+        var distance = document.getElementById("distance");
+        var player;
+        var alive = true;
+        var deaths = 0;
+        var spriteP = sprite;
+        var gravity = 0.1;
+        var mouseX;
+        var mouseY;
+        var Boxes = [];
+        var movBoxes = [];
+        var leftKey = false;
+        var rightKey = false;
+        // ALL THE VARIABLE NEEDED FOR SPRITE RENDERING 
+        var px = 384;
+        var py = 326;
+        var pxWalk = [0, 128, 256, 384, 512, 640, 768, 896, 0, 128, 256];
+        var pyWalk = [163, 163, 163, 163, 163, 163, 163, 163, 326, 326, 326];
+        var pxWalk2 = [896, 768, 640, 512, 384, 256, 128, 0, 896, 768, 640];
+        var pyWalk2 = [163, 163, 163, 163, 163, 163, 163, 163, 326, 326, 326];
+        var pxRun2 = [896, 768, 640, 512, 384, 256, 128, 0];
+        var pxRun = [0, 128, 256, 384, 512, 640, 768, 896];
+        var pyRun = [0, 0, 0, 0, 0, 0, 0, 0];
+        var monsterSpriteX = [0, 100, 200, 300, 400, 500, 600, 700, 800]
+        var walk = 0;
+        var run = 0;
+        var jump1 = [512, 640];
+        var jump2 = [384, 256];
+        var jumpY = 326;
+        var ii = 0;
+        var jj = 0;
+        var blockL = false;
+        var blockR = false;
+        var bgBoxes = [];
+        var coins = [];
+        var increment = 0;
+        var spawning = setInterval(spawnObstacle, difficultyArr[difficulty])
+        var iterCoin = 0;
+        var iterCoin2 = 0;
+        var jumpCounter = 0;
+        // ADJUSTING CANVAS SIZE TO THE SCREEN
+        canvas.width = document.body.clientWidth;
+        canvas.height = document.body.clientHeight;
+
+        setTimeout(function () {
+            canvas.width = Math.max(window.innerWidth, document.body.clientWidth);
+            canvas.height = Math.max(window.innerHeight, document.body.clientHeight);
+            generateBgBoxes();
+        }, 100);
+
+        var gradient = c.createLinearGradient(0, 0, canvas.width, 0);
+        gradient.addColorStop(0, '#02111D');
+        gradient.addColorStop(0.4, '#037BB5');
+        gradient.addColorStop(1, '#02111D');
+        var gradient2 = c.createLinearGradient(0, 0, canvas.width, 0);
+        gradient2.addColorStop(0, '#02111D');
+        gradient2.addColorStop(0.4, '#A00');
+        gradient2.addColorStop(1, '#02111D');
+
+        //document.addEventListener("mousemove", trackPos);
+        //document.addEventListener("dblclick", jump);
+        // DIFFICULTIES
+
+        // you can do more stuff with the player variable
+        easyMode.addEventListener("click", function () {
+            if (difficulty !== 0) {
+                difficulty = 0;
+                easyMode.style.transform = "scale(1.2)";
+                easyMode.style.opacity = "0.9";
+
+                mediumMode.style.transform = "";
+                mediumMode.style.opacity = "0.5";
+                hardMode.style.transform = "";
+                hardMode.style.opacity = "0.5";
+                spaceBees.style.transform = "";
+                spaceBees.style.opacity = "0.5";
+            }
+        });
+        mediumMode.addEventListener("click", function () {
+            if (difficulty !== 1) {
+                difficulty = 1;
+                mediumMode.style.transform = "scale(1.2)";
+                mediumMode.style.opacity = "0.9";
+
+                easyMode.style.transform = "";
+                easyMode.style.opacity = "0.5";
+                hardMode.style.transform = "";
+                hardMode.style.opacity = "0.5";
+                spaceBees.style.transform = "";
+                spaceBees.style.opacity = "0.5";
+            }
+        });
+        hardMode.addEventListener("click", function () {
+            if (difficulty !== 2) {
+                difficulty = 2;
+                hardMode.style.transform = "scale(1.2)";
+                hardMode.style.opacity = "0.9";
+
+                mediumMode.style.transform = "";
+                mediumMode.style.opacity = "0.5";
+                easyMode.style.transform = "";
+                easyMode.style.opacity = "0.5";
+                spaceBees.style.transform = "";
+                spaceBees.style.opacity = "0.5";
+            }
+        });
+        spaceBees.addEventListener("click", function () {
+            if (difficulty !== 3) {
+                difficulty = 3;
+                spaceBees.style.transform = "scale(1.2)";
+                spaceBees.style.opacity = "0.9";
+
+                mediumMode.style.transform = "";
+                mediumMode.style.opacity = "0.5";
+                hardMode.style.transform = "";
+                hardMode.style.opacity = "0.5";
+                easyMode.style.transform = "";
+                easyMode.style.opacity = "0.5";
+            }
+        });
+        // MOBILE CONTROLS
+        leftArrow.addEventListener("touchstart", function () {
+            leftKey = true
+            leftArrow.style.transform = "scale(1.5)";
+            leftArrow.style.opacity = "1";
+        });
+        rightArrow.addEventListener("touchstart", function () {
+            rightKey = true
+            rightArrow.style.transform = "scale(1.5)";
+            rightArrow.style.opacity = "1";
+        });
+        upArrow.addEventListener("touchstart", jump);
+        upArrow.addEventListener("touchstart", function () {
+            upArrow.style.transform = "scale(1.5)";
+            upArrow.style.opacity = "1";
+        });
+        upArrow.addEventListener("touchend", function () {
+            upArrow.style.transform = "";
+            upArrow.style.opacity = "0.5";
+        });
+
+        leftArrow.addEventListener("touchend", function () {
+            leftKey = false
+            leftArrow.style.transform = "";
+            leftArrow.style.opacity = "0.5";
+        });
+        rightArrow.addEventListener("touchend", function () {
+            rightKey = false
+            rightArrow.style.transform = "";
+            rightArrow.style.opacity = "0.5";
+        });
+        // PC CONTROLS
+        leftArrow.addEventListener("mousedown", function () {
+            leftKey = true;
+            leftArrow.style.transform = "scale(1.5)";
+            leftArrow.style.opacity = "1";
+        });
+        rightArrow.addEventListener("mousedown", function () {
+            rightKey = true
+            rightArrow.style.transform = "scale(1.5)";
+            rightArrow.style.opacity = "1";
+
+        });
+        upArrow.addEventListener("mousedown", jump);
+        upArrow.addEventListener("mousedown", function () {
+            upArrow.style.transform = "scale(1.5)";
+            upArrow.style.opacity = "1";
+        });
+        document.addEventListener("mouseup", function () {
+            upArrow.style.transform = "";
+            upArrow.style.opacity = "0.5";
+            leftKey = false
+            leftArrow.style.transform = "";
+            leftArrow.style.opacity = "0.5";
+            rightKey = false
+            rightArrow.style.transform = "";
+            rightArrow.style.opacity = "0.5";
+        });
+        document.addEventListener("keydown", function (e) {
+            if (e.key == "ArrowUp") {
+                jump();
+                upArrow.style.transform = "scale(1.5)";
+                upArrow.style.opacity = "1";
+            } else {
+                upArrow.style.transform = "";
+                upArrow.style.opacity = "0.5";
+            }
+            if (e.key == 'ArrowLeft') {
+                leftKey = true;
+                leftArrow.style.transform = "scale(1.5)";
+                leftArrow.style.opacity = "1";
+            } else {
+                leftKey = false;
+                leftArrow.style.transform = "";
+                leftArrow.style.opacity = "0.5";
+            }
+            if (e.key == 'ArrowRight') {
+                rightKey = true;
+                rightArrow.style.transform = "scale(1.5)";
+                rightArrow.style.opacity = "1";
+            } else {
+                rightKey = false;
+                rightArrow.style.transform = "";
+                rightArrow.style.opacity = "0.5";
+            }
+        })
+
+        function spawnPlayer() {
+            player = {
+                idle: false,
+                run: false,
+                walk: false,
+                width: 40,
+                height: 60,
+                x: canvas.width / 5 * 2,
+                y: 60,
+                xVel: 0,
+                yVel: 0,
+                speed: 10,
+                friction: 0.7,
+                grounded: false,
+                jumping: false,
+                jumpForce: 5,
+                draw: function () {
+                    c.drawImage(spriteP, spriteX, spriteY, 128, 163, this.x, this.y, this.width, this.height);
+                }
+            };
+        }
+        // CREATING TERRAIN (x, y, width, height)
+        class bgBox {
+            constructor() {
+                bgBoxes.push({
+                    x: Math.random() * canvas.width,
+                    y: Math.random() * canvas.height,
+                    width: Math.random() * 2,
+                    height: Math.random() * 2
+                });
+            }
+        }
+
+        function generateBgBoxes() {
+            for (i = 0; i < 300; i++) {
+                new bgBox()
+            }
+        }
+        var monsters = [];
+        class Monster {
+            constructor(xx) {
+                monsters.push({
+                    x: xx,
+                    y: -60,
+                    width: 30,
+                    height: 60,
+                    yVel: 0,
+                    sprite: 0,
+                    movement: 0
+                });
+            }
+        }
+        class Box {
+            constructor(xx, yy, ww, hh, dynamic) {
+                Boxes.push({
+                    x: xx,
+                    y: yy,
+                    width: ww,
+                    height: hh,
+                    dynamicBox: (dynamic === undefined) ? false : true
+                });
+            }
+        }
+        class movBox {
+            constructor(xx, yy, ww, hh, ySp, xSp, rX, rY) {
+                movBoxes.push({
+                    x: xx,
+                    y: yy,
+                    width: ww,
+                    height: hh,
+                    ySpeed: (ySp === undefined) ? 0 : ySp,
+                    xSpeed: (xSp === undefined) ? 0 : xSp,
+                    rangeX: (rX === undefined) ? 0 : rX,
+                    rangeY: (rY === undefined) ? 0 : rY
+                });
+            }
+        }
+        class Coin {
+            constructor(xx, yy) {
+                coins.push({
+                    x: xx,
+                    y: yy
+                });
+            }
+        }
+
+        function spawnObstacle() {
+            if (difficulty === 3) {
+                new movBox(-100, Math.floor(Math.random() * 500), Math.floor(Math.random() * 5) + 1, Math.floor(Math.random() * 5) + 1, (Math.random() * 5) - 2.5, Math.random() * 4);
+            } else {
+                new movBox(-100, Math.floor(Math.random() * 500), Math.floor(Math.random() * 100) + 10, Math.floor(Math.random() * 100) + 10, (Math.random() * 5) - 2.5, Math.random() * 4);
+            }
+        }
+
+        function initializeMap() {
+            Boxes = [];
+            movBoxes = []; //height 60 y 0
+            new Box(canvas.width / 5 * 2 + 10000, 0, 10, 10, true)
+            new Box(canvas.width / 5 * 2 - 25, 60, 10, 100, true)
+            new Box(canvas.width / 5 * 2 + 60, 60, 10, 100)
+            new Box(canvas.width / 5 * 2 - 25, 160, 95, 5)
+            new Box(canvas.width / 5 * 2 - 25, 60, 95, 5)
+            new Box(10, 300, 160, 10, true);
+            new Box(180, 380, 200, 10);
+            new Box(250, 260, 300, 10);
+            new Box(450, 320, 300, 10);
+            new Box(450, 180, 300, 10);
+            new Box(460, 182, 360, 70, true);
+            new Box(750, 180, 30, 300);
+            new Box(850, 180, 30, 300);
+            new Box(1150, 180, 200, 10);
+            new Box(1380, 320, 200, 200); //1580
+            new Box(1650, 320, 20, 100); //1670
+            new Box(1740, 320, 200, 200); //1940
+            new movBox(1980, 280, 80, 20, 3);
+            new Box(2060, 100, 300, 20);
+            new movBox(2360, 100, 300, 20, 3, 0, 3);
+            new Box(2660, 180, 30, 120, true)
+            new Box(2760, 180, 30, 120, true)
+            new Box(2860, 190, 30, 120, true)
+            new Box(2960, 210, 30, 200, true)
+            new Box(2990, 190, 370, 10)
+            new Box(2990, 390, 320, 10)
+            new Box(3390, 0, 10, 200)
+            new Box(3520, 390, 300, 10)
+
+            new movBox(3840, 340, 30, 10, -4)
+            new Box(3880, 330, 40, 10, true)
+            new movBox(3940, 200, 30, 10, -4)
+            new Box(3990, 280, 40, 10)
+            new movBox(4080, 140, 30, 10, -4)
+            new Box(4160, 250, 40, 10, true)
+            new Box(4200, 250, 40, 40)
+            new Box(4200, 370, 40, 200)
+            new Box(4200, 370, 200, 40)
+            new Box(4200, 250, 200, 40)
+            new Box(4400, 0, 200, 290)
+            new Box(4400, 370, 200, 250)
+            new movBox(4620, 370, 20, 60, 3)
+            new movBox(4620, 370, 20, 60, 5)
+            new movBox(4620, 370, 20, 60, 4)
+            new Box(4660, 0, 200, 290)
+            new Box(4660, 370, 200, 320)
+
+            coinsEarned = 0;
+            coinspan.innerHTML = "x" + coinsEarned;
+            coins = []; //-40
+            new Coin(20, 260)
+            new Coin(20, 320)
+            new Coin(20, 380)
+            new Coin(20, 440)
+            new Coin(420, 220)
+            new Coin(560, 280)
+            new Coin(600, 280)
+            new Coin(640, 280)
+            new Coin(680, 280)
+            new Coin(720, 280)
+            new Coin(840, 140)
+            new Coin(880, 140)
+            new Coin(920, 140)
+            new Coin(960, 140)
+            new Coin(1000, 140)
+            new Coin(1040, 140)
+            new Coin(1080, 140)
+            new Coin(1120, 140)
+            new Coin(1650, 280)
+            new Coin(1760, 280)
+            new Coin(1800, 280)
+            new Coin(1840, 280)
+            new Coin(1880, 280)
+            new Coin(2080, 60)
+            new Coin(2120, 60)
+            new Coin(2160, 60)
+            new Coin(2200, 60)
+            new Coin(2240, 60)
+            new Coin(2280, 60)
+            new Coin(2500, 150)
+            new Coin(3300, 330)
+            new Coin(3340, 290)
+            new Coin(3380, 250)
+            new Coin(3420, 250)
+            new Coin(3460, 290)
+            new Coin(3500, 330)
+
+            new Coin(3890, 290)
+            new Coin(4000, 240)
+            new Coin(4170, 240)
+            new Coin(4210, 330)
+            new Coin(4250, 330)
+            new Coin(4290, 330)
+            new Coin(4330, 330)
+            new Coin(4370, 330)
+            new Coin(4670, 330)
+            new Coin(4710, 330)
+            new Coin(4750, 330)
+            new Coin(4790, 330)
+            monsters = []
+            new Monster(400);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+            new Monster(Math.random() * 5000);
+        }
+
+        function jump() {
+            if (!player.jumping && player.grounded) {
+                fuu.play();
+                player.jumping = true;
+                player.grounded = false;
+                player.yVel = -player.jumpForce;
+                jumpCounter++;
+            }
+        }
+
+        function trackPos(e) {
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+        }
+
+        function setMonstersInterval(howMany) {
+            for (i = 0; i < howMany; i++) {
+                setTimeout(switchMovement(monsters[i]), Math.random() * 3000 + 300)
+            }
+        }
+
+        function switchMovement(monst) {
+            distance = player.x - monst.x;
+            if (distance > 100 || distance < -100) {
+                monst.movement = Math.floor(Math.random() * 4)
+            } else {
+                monst.movement = 0
+            }
+            setTimeout(function () {
+                switchMovement(monst)
+            }, Math.random() * 3000 + 300)
+        }
+
+        function reset() {
+            if (!alive) {
+                deaths++
+            };
+            morti.innerHTML = deaths;
+            spawnPlayer();
+            initializeMap();
+            setMonstersInterval(monsters.length);
+            alive = true;
+            clearInterval(spawning);
+            spawning = setInterval(spawnObstacle, difficultyArr[difficulty])
+            requestAnimationFrame(loop);
+        }
+
+        function callReset() {
+            reset()
+        }
+        spawnPlayer();
+        initializeMap();
+        setMonstersInterval(monsters.length);
+        requestAnimationFrame(loop);
+        // MAIN LOOP
+        function loop() {
+            distance.innerHTML = "distance: " + parseInt(-Boxes[0].x + 10000 + canvas.width / 5 * 2);
+            c.clearRect(0, 0, canvas.width, canvas.height);
+            c.fillStyle = "#02111D";
+            c.fillRect(0, 0, canvas.width, canvas.height);
+
+            player.grounded = false;
+            blockL = false;
+            blockR = false;
+
+            if (player.y > window.innerHeight || player.y < -player.height) {
+                alive = false;
+            }
+
+            function collisions(terrain) {
+                var dir = colCheck(player, terrain);
+                if (dir === "l") {
+                    player.jumping = false;
+                    blockL = true;
+                    increment += -1;
+                }
+                if (dir === "r") {
+                    player.jumping = false;
+                    blockR = true;
+                } else if (dir === "b") {
+                    player.grounded = true;
+                    player.jumping = false;
+                    player.y = terrain.y - player.height + 1;
+                } else if (dir === "t") {
+                    player.yVel *= -1;
+                }
+            }
+            for (i = 0; i < bgBoxes.length; i++) {
+                c.fill();
+                c.fillStyle = '#fff';
+                c.fillRect(bgBoxes[i].x, bgBoxes[i].y, bgBoxes[i].width, bgBoxes[i].height);
+                c.stroke();
+                if (bgBoxes[i].x > canvas.width) {
+                    bgBoxes[i].x = 0;
+                }
+                if (bgBoxes[i].y > canvas.height) {
+                    bgBoxes[i].y = 0;
+                }
+                bgBoxes[i].x += Math.random() / 10;
+                bgBoxes[i].y += Math.random() / 10;
+            }
+            for (i = 0; i < Boxes.length; i++) {
+                // render Boxes
+                collisions(Boxes[i]);
+                Boxes[i].x += increment;
+                c.fill();
+                c.fillStyle = '#000';
+                c.fillRect(Boxes[i].x, Boxes[i].y - 4, Boxes[i].width, Boxes[i].height);
+                c.fillStyle = gradient;
+                if (Boxes[i].dynamicBox) {
+                    c.fillStyle = gradient2
+                }
+                c.fillRect(Boxes[i].x, Boxes[i].y + Boxes[i].y / 50 - 4, Boxes[i].width, Boxes[i].height);
+                c.stroke();
+                // checks collisions
+            }
+            // COINS
+            iterCoin++;
+            if (iterCoin % 4 === 0) {
+                iterCoin2++;
+            }
+            if (iterCoin2 >= coinX.length) {
+                iterCoin2 = 0;
+            }
+            for (i = 0; i < coins.length; i++) {
+                coins[i].x += increment;
+                c.drawImage(sprite3, coinX[iterCoin2], 0, 100, 100, coins[i].x, coins[i].y, 20, 20);
+                if (player.x + player.width / 1.5 > coins[i].x && player.x + player.width / 3 < coins[i].x + 20 &&
+                    player.y + player.height > coins[i].y && player.y < coins[i].y + 20) {
+                    delete coins[i].x;
+                    coinsEarned++;
+                    if (coinSound.paused)
+                        coinSound.play();
+                    else if (coinSound2.paused)
+                        coinSound2.play();
+                    else if (coinSound3.paused)
+                        coinSound3.play();
+                    coinspan.innerHTML = "x" + coinsEarned;
+                }
+            }
+            // MOVBOXES
+            if (Boxes[Boxes.length - 1].x + 180 <= player.x && !ONCE) {
+                sillymusic.play();
+                divofdivs.style.display = "none";
+                results.innerHTML = "CONGRATULATIONS!!! <br/>You won :)<br/><br/>COINS: " + coinsEarned + "/46 <br/>DEATHS: " + deaths + "<br/>JUMPS: " + jumpCounter + "<br/><br/>thanks for playing, and for your support!<br/>enjoy my silly xilophone :D";
+                timeRes = 0;
+                setInterval(function () {
+                    results.style.marginTop = timeRes + "px";
+                    timeRes += 0.1;
+                }, 1000 / 30)
+                ONCE = true;
+            }
+            for (i = 0; i < monsters.length; i++) {
+                //monsters death
+                if (monsters[i].y > window.innerHeight || monsters[i].y < -monsters[i].height) {
+                    delete monsters[i].y
+                }
+                //adjusting position to the increment value
+                monsters[i].x += increment;
+                //if its close to the player it moves towards him
+                distance = player.x - monsters[i].x;
+                if (distance < 0) {
+                    distance = -distance
+                }
+                if (monsters[i].x > player.x + player.width && distance < 100) {
+                    monsters[i].x--;
+                    monsters[i].sprite += 0.2;
+                    if (monsters[i].sprite >= 9) {
+                        monsters[i].sprite = 0;
+                    }
+                } else if (monsters[i].x + monsters[i].width < player.x && distance < 100) {
+                    monsters[i].x++;
+                    monsters[i].sprite += 0.2;
+                    if (monsters[i].sprite >= 9) {
+                        monsters[i].sprite = 0;
+                    }
+                } else {
+                    switch (monsters[i].movement) {
+                        case 0:
+                            monsters[i].sprite = 0;
+                            break;
+                        case 1:
+                            monsters[i].x++;
+                            monsters[i].sprite += 0.2;
+                            if (monsters[i].sprite >= 9) {
+                                monsters[i].sprite = 0;
+                            }
+                            break;
+                        case 2:
+                            monsters[i].x--;
+                            monsters[i].sprite += 0.2;
+                            if (monsters[i].sprite >= 9) {
+                                monsters[i].sprite = 0;
+                            }
+                            break;
+                    }
+                }
+
+                for (j = 0; j < Boxes.length; j++) {
+                    //drawImage(sprite,spriteCutX,spriteCutY,spriteCutWidth,spriteCutHeight,x,y,width,height)
+                    //monsters collision
+                    colCheck2(monsters[i], Boxes[j])
+                }
+                for (j = 0; j < movBoxes.length; j++) {
+                    //drawImage(sprite,spriteCutX,spriteCutY,spriteCutWidth,spriteCutHeight,x,y,width,height)
+                    //monsters collision
+                    colCheck2(monsters[i], movBoxes[j])
+                }
+                c.drawImage(monsterSprite, monsterSpriteX[parseInt(monsters[i].sprite)], 0, 100, 160, monsters[i].x, monsters[i].y, 30, 60);
+
+                monsters[i].y += monsters[i].yVel;
+                monsters[i].yVel += gravity;
+            }
+
+
+
+
+            for (i = 0; i < movBoxes.length; i++) {
+                // render movBoxes
+                movBoxes[i].y -= movBoxes[i].ySpeed;
+                movBoxes[i].x += (movBoxes[i].xSpeed !== undefined) ? movBoxes[i].xSpeed : 0;
+                movBoxes[i].x += increment;
+                if (movBoxes[i].y < -movBoxes[i].height) {
+                    movBoxes[i].y = 500;
+                }
+                if (movBoxes[i].y > Math.max(500, canvas.height)) {
+                    movBoxes[i].y = -movBoxes[i].height;
+                }
+                collisions(movBoxes[i]);
+                c.fillStyle = '#000';
+                c.fillRect(movBoxes[i].x, movBoxes[i].y - 3, movBoxes[i].width, movBoxes[i].height);
+                if (difficulty === 3) {
+                    c.fillStyle = '#eaf911';
+                } else {
+                    c.fillStyle = gradient;
+                }
+                c.fillRect(movBoxes[i].x, movBoxes[i].y, movBoxes[i].width, movBoxes[i].height);
+                c.stroke();
+                // checks collisions
+            }
+
+
+
+            player.yVel += gravity;
+
+
+            if (player.grounded && player.yVel > 0) {
+                player.yVel = 0;
+            }
+            player.y += player.yVel;
+            player.xVel *= player.friction;
+
+            for (i = 0; i < coins.length; i++) {
+                coins[i].x += player.xVel;
+            }
+            for (i = 0; i < Boxes.length; i++) {
+                Boxes[i].x += player.xVel;
+            }
+            for (i = 0; i < movBoxes.length; i++) {
+                movBoxes[i].x += player.xVel;
+            }
+            for (i = 0; i < monsters.length; i++) {
+                monsters[i].x += player.xVel;
+            }
+
+            if (leftKey || rightKey) {
+                if (leftKey && blockL === false && player.xVel < player.speed) {
+                    player.run = true;
+                    player.idle = false;
+                    player.xVel++;
+                }
+                if (rightKey && blockR === false && player.xVel > -player.speed) {
+                    player.run = true;
+                    player.idle = false;
+                    player.xVel--;
+                }
+            } else {
+                player.run = false;
+                player.idle = true;
+            }
+            //  SPRITE RENDERING
+
+            spriteP = sprite;
+            if (player.run) {
+                if (rightKey) {
+                    spriteX = pxRun[ii]
+                } else {
+                    spriteP = sprite2;
+                    spriteX = pxRun2[ii]
+                }
+                spriteY = pyRun[ii];
+                jj++;
+                if (jj % 4 === 0) {
+                    ii++;
+                    if (ii > pxRun.length - 1)
+                        ii = 0;
+                }
+            } else {
+                walkingsound.pause();
+                spriteX = px;
+                spriteY = py;
+            }
+            if (player.grounded === false) {
+                spriteY = jumpY;
+                if (leftKey) {
+                    spriteP = sprite2;
+                    if (player.yVel < 0) {
+                        spriteX = jump2[0];
+                    } else {
+                        spriteX = jump2[1];
+                    }
+                } else {
+                    spriteP = sprite;
+                    if (player.yVel < 0) {
+                        spriteX = jump1[0];
+                    } else {
+                        spriteX = jump1[1];
+                    }
+                }
+            }
+            if (player.run && player.grounded) {
+                if (walkingsound.paused)
+                    walkingsound.play();
+            } else {
+                if (!walkingsound.paused) {
+                    walkingsound.pause();
+                }
+            }
+            //  END SPRITE RENDERING
+            player.draw();
+            if (alive && diff === difficulty)
+                requestAnimationFrame(loop);
+            else {
+                reset()
+            }
+            if (increment < 0)
+                increment += .5;
+            diff = difficulty;
+        }
+
+        // THE COLLISION DETECTOR
+        function colCheck(PLAYER, Box) {
+            // get the vectors to check against
+            // colDir = collision direction
+            //player width and x pos are modified to match its actual size(x+5,width-50)
+            var vectorX = (PLAYER.x + 5 + (PLAYER.width - 50 / 2)) - (Box.x + (Box.width / 2)),
+                vectorY = (PLAYER.y + (PLAYER.height / 2)) - (Box.y + (Box.height / 2)),
+                hWidths = (PLAYER.width - 50 / 2) + (Box.width / 2),
+                hHeights = (PLAYER.height / 2) + (Box.height / 2),
+                colDir = null;
+            if (Math.abs(vectorX) < hWidths && Math.abs(vectorY) < hHeights) {
+                var oX = hWidths - Math.abs(vectorX),
+                    oY = hHeights - Math.abs(vectorY);
+                if (oX >= oY) {
+
+                    if (vectorY > 0) {
+                        colDir = "t";
+                        if (Box.dynamicBox)
+                            Box.y -= oY;
+                        else
+                            PLAYER.y += oY;
+                    } else {
+                        colDir = "b";
+                        if (Box.dynamicBox)
+                            Box.y += oY * 0.5;
+                        else
+                        if (Box.xSpeed !== undefined) {
+                            Box.y += oY * 0.3;
+                        }
+                    }
+                } else {
+                    if (vectorX > 0) {
+                        colDir = "l";
+                        if (Box.dynamicBox) {
+                            Box.x -= oX + 2;
+                        } else
+                            Box.x -= oX - 1;
+                    } else {
+                        colDir = "r";
+                        if (Box.dynamicBox)
+                            Box.x += oX + 2;
+                        else
+                            Box.x += oX - 1;
+                    }
+                }
+            }
+            return colDir;
+        }
+
+        function colCheck2(MONSTER, Box) {
+            // get the vectors to check against
+            // colDir = collision direction
+            //MONSTER width and x pos are modified to match its actual size(x+5,width-50)
+            var vectorX = (MONSTER.x + (MONSTER.width / 2)) - (Box.x + (Box.width / 2)),
+                vectorY = (MONSTER.y + (MONSTER.height / 2)) - (Box.y + (Box.height / 2)),
+                hWidths = (MONSTER.width / 2) + (Box.width / 2),
+                hHeights = (MONSTER.height / 2) + (Box.height / 2),
+                colDir = null;
+            if (Math.abs(vectorX) < hWidths && Math.abs(vectorY) < hHeights) {
+                var oX = hWidths - Math.abs(vectorX),
+                    oY = hHeights - Math.abs(vectorY);
+                if (oX >= oY) {
+
+                    if (vectorY > 0) {
+                        colDir = "t";
+                        MONSTER.y += oY;
+                    } else {
+                        colDir = "b";
+                        MONSTER.yVel = 0;
+                        MONSTER.y -= oY;
+                    }
+                } else {
+                    if (vectorX > 0) {
+                        colDir = "l";
+                        MONSTER.x += oX + 2;
+                    } else {
+                        colDir = "r";
+                        MONSTER.x -= oX + 2;
+                    }
+                }
+            }
+            return colDir;
+        }
+    }
+};

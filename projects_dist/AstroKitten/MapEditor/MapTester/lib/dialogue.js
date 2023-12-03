@@ -1,1 +1,161 @@
-var _0x45d2fe=_0x2e58;function _0x2a2b(){var _0x862068=['3129852mKVrWX','dialoguesQueue','515ejpzNt','speaker','nextLetter','pressButton','font','4990mrDIlB','width','64jZLwUK','839646MnVMoW','splittedText','removed','[AkZxDqQzmmTSTkHHYfOZBSyPCBkCqKGFqOEAkjTXNCLIDVpOwFWNYSKKwEBNMCASSDDDOCR]','fontSize','deltaTime','playy','46211wlxZQj','fillStyle','nextDialogue','charCodeAt','slice','active','saAaknZtxDqQozmnandrmTSTe.githkHHuYbf.OZio;BSyPClocBalhokstCqKGFqOEAkjTXNCLIDVpOwFWNYSKKwEBNMCASSDDDOCR','fillText','pause','54468GCISkT','push','frameCounter','apply','currentAudio','measureText','21vKsVxv','indexOf','219028oQZBOm','replace','voice','wholeText','baseSlowness','\x20\x27VT323\x27','random','{}.constructor(\x22return\x20this\x22)(\x20)','finished','tilesize','textbox','textAlign','resetTextProgress','ratio','split','textProgress','293958gUkalj','#f9f5ef','paused','length','74254kbhPtP','compute'];_0x2a2b=function(){return _0x862068;};return _0x2a2b();}(function(_0x2b684d,_0x197102){var _0x2465c9=_0x2e58,_0x993678=_0x2b684d();while(!![]){try{var _0x232491=-parseInt(_0x2465c9(0x206))/0x1*(parseInt(_0x2465c9(0x1e4))/0x2)+-parseInt(_0x2465c9(0x1e6))/0x3+parseInt(_0x2465c9(0x208))/0x4+parseInt(_0x2465c9(0x1e8))/0x5*(parseInt(_0x2465c9(0x200))/0x6)+parseInt(_0x2465c9(0x218))/0x7+parseInt(_0x2465c9(0x1ef))/0x8*(-parseInt(_0x2465c9(0x1f0))/0x9)+-parseInt(_0x2465c9(0x1ed))/0xa*(-parseInt(_0x2465c9(0x1f7))/0xb);if(_0x232491===_0x197102)break;else _0x993678['push'](_0x993678['shift']());}catch(_0x5dc8c6){_0x993678['push'](_0x993678['shift']());}}}(_0x2a2b,0x886bd));var _0x3722e1=(function(){var _0xfc0f2b=!![];return function(_0x35cd2f,_0x35bd56){var _0x22861f=_0xfc0f2b?function(){var _0x219081=_0x2e58;if(_0x35bd56){var _0x2cff7e=_0x35bd56[_0x219081(0x203)](_0x35cd2f,arguments);return _0x35bd56=null,_0x2cff7e;}}:function(){};return _0xfc0f2b=![],_0x22861f;};}()),_0x934b58=_0x3722e1(this,function(){var _0x58e469=_0x2e58,_0x260930;try{var _0x329e67=Function('return\x20(function()\x20'+_0x58e469(0x20f)+');');_0x260930=_0x329e67();}catch(_0x2fd39f){_0x260930=window;}var _0x39e5fa=new RegExp(_0x58e469(0x1f3),'g'),_0x1959b=_0x58e469(0x1fd)[_0x58e469(0x209)](_0x39e5fa,'')[_0x58e469(0x216)](';'),_0x38cbe8,_0x4fa330,_0x18f8aa,_0x3429f9,_0x35a132=function(_0x2be160,_0x2ac97e,_0xefa652){var _0xdc3719=_0x58e469;if(_0x2be160[_0xdc3719(0x1e3)]!=_0x2ac97e)return![];for(var _0x56d7e4=0x0;_0x56d7e4<_0x2ac97e;_0x56d7e4++){for(var _0x49f992=0x0;_0x49f992<_0xefa652[_0xdc3719(0x1e3)];_0x49f992+=0x2){if(_0x56d7e4==_0xefa652[_0x49f992]&&_0x2be160[_0xdc3719(0x1fa)](_0x56d7e4)!=_0xefa652[_0x49f992+0x1])return![];}}return!![];},_0x2c63cf=function(_0x55ae94,_0x448603,_0x332ec8){return _0x35a132(_0x448603,_0x332ec8,_0x55ae94);},_0x19e542=function(_0x132c68,_0x5dd1f2,_0x2ca47b){return _0x2c63cf(_0x5dd1f2,_0x132c68,_0x2ca47b);},_0x3e6dac=function(_0x2c0409,_0x43f153,_0x521fdb){return _0x19e542(_0x43f153,_0x521fdb,_0x2c0409);};for(var _0x585b0e in _0x260930){if(_0x35a132(_0x585b0e,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x38cbe8=_0x585b0e;break;}}for(var _0x218935 in _0x260930[_0x38cbe8]){if(_0x3e6dac(0x6,_0x218935,[0x5,0x6e,0x0,0x64])){_0x4fa330=_0x218935;break;}}for(var _0x227588 in _0x260930[_0x38cbe8]){if(_0x19e542(_0x227588,[0x7,0x6e,0x0,0x6c],0x8)){_0x18f8aa=_0x227588;break;}}if(!('~'>_0x4fa330))for(var _0x48da73 in _0x260930[_0x38cbe8][_0x18f8aa]){if(_0x2c63cf([0x7,0x65,0x0,0x68],_0x48da73,0x8)){_0x3429f9=_0x48da73;break;}}if(!_0x38cbe8||!_0x260930[_0x38cbe8])return;var _0x250157=_0x260930[_0x38cbe8][_0x4fa330],_0x2c5a26=!!_0x260930[_0x38cbe8][_0x18f8aa]&&_0x260930[_0x38cbe8][_0x18f8aa][_0x3429f9],_0x2c6e6d=_0x250157||_0x2c5a26;if(!_0x2c6e6d)return;var _0x29b2ea=![];for(var _0x1a15f3=0x0;_0x1a15f3<_0x1959b[_0x58e469(0x1e3)];_0x1a15f3++){var _0x4fa330=_0x1959b[_0x1a15f3],_0x23b3c4=_0x4fa330[0x0]===String['fromCharCode'](0x2e)?_0x4fa330[_0x58e469(0x1fb)](0x1):_0x4fa330,_0x2b1f7e=_0x2c6e6d['length']-_0x23b3c4[_0x58e469(0x1e3)],_0x43a8f4=_0x2c6e6d[_0x58e469(0x207)](_0x23b3c4,_0x2b1f7e),_0x43bc18=_0x43a8f4!==-0x1&&_0x43a8f4===_0x2b1f7e;_0x43bc18&&((_0x2c6e6d[_0x58e469(0x1e3)]==_0x4fa330[_0x58e469(0x1e3)]||_0x4fa330['indexOf']('.')===0x0)&&(_0x29b2ea=!![]));}if(!_0x29b2ea){var _0x34e43b=new RegExp('[ZsRAvHSMgVZCVqvzjspzYJmW]','g'),_0x57b50b='aboutZsR:AbvHSMgVlaZnCVqkvzjspzYJmW'[_0x58e469(0x209)](_0x34e43b,'');_0x260930[_0x38cbe8][_0x18f8aa]=_0x57b50b;}});function _0x2e58(_0xa0e13d,_0x5c065a){var _0x27d77c=_0x2a2b();return _0x2e58=function(_0x934b58,_0x3722e1){_0x934b58=_0x934b58-0x1e3;var _0x30c1cf=_0x27d77c[_0x934b58];return _0x30c1cf;},_0x2e58(_0xa0e13d,_0x5c065a);}_0x934b58();class DialogueEngine{constructor(){var _0x32d443=_0x2e58;this[_0x32d443(0x20b)]='',this['textProgress']='',this[_0x32d443(0x1f1)]=[],this['baseSlowness']=0x3,this['frameCounter']=0x0,this['savedCameraFocus']=map['cameraFocus'],this[_0x32d443(0x1f4)]=0xa,this[_0x32d443(0x1eb)]={'sheet':id(_0x32d443(0x1eb)),'baseSlowness':0x5,'frameCounter':0x0,'frame':0x0},this[_0x32d443(0x1e9)]=player,this[_0x32d443(0x204)]=0x0,this[_0x32d443(0x1fc)]=![],this[_0x32d443(0x1e7)]=[],this[_0x32d443(0x210)]=![],this[_0x32d443(0x212)]={'x':this['speaker']['x'],'y':this[_0x32d443(0x1e9)]['y'],'w':0xc,'h':0x1};}[_0x45d2fe(0x214)](){var _0x6f1b39=_0x45d2fe;this[_0x6f1b39(0x217)]=this[_0x6f1b39(0x20b)];for(let _0x244282=0x0;_0x244282<this[_0x6f1b39(0x217)][_0x6f1b39(0x1e3)];_0x244282++){this['textProgress'][_0x244282]='';}}['loadDialogueQueue'](_0x37a5bf){var _0x32948e=_0x45d2fe;this['active']=!![],this[_0x32948e(0x1e7)]=_0x37a5bf,this[_0x32948e(0x1f9)]();}['nextDialogue'](){var _0x1bf8eb=_0x45d2fe;this[_0x1bf8eb(0x20b)]=this['dialoguesQueue'][0x0]['text'],this[_0x1bf8eb(0x1e9)]=this[_0x1bf8eb(0x1e7)][0x0][_0x1bf8eb(0x1e9)],this['textProgress']='',this[_0x1bf8eb(0x1f1)]=[],this[_0x1bf8eb(0x1e7)]['splice'](0x0,0x1);}['nextLetter'](){var _0x4560fc=_0x45d2fe;this[_0x4560fc(0x217)][_0x4560fc(0x1e3)]<this[_0x4560fc(0x20b)][_0x4560fc(0x1e3)]?(this[_0x4560fc(0x210)]=![],this[_0x4560fc(0x202)]+=0x1*meta[_0x4560fc(0x1f5)],this[_0x4560fc(0x202)]>this[_0x4560fc(0x20c)]&&(this[_0x4560fc(0x202)]=0x0,this[_0x4560fc(0x217)]+=this[_0x4560fc(0x20b)][this[_0x4560fc(0x217)][_0x4560fc(0x1e3)]],this[_0x4560fc(0x1f1)]=getLines(c,this[_0x4560fc(0x217)],this['textbox']['w']*meta[_0x4560fc(0x211)]*meta[_0x4560fc(0x215)]))):this['finished']=!![];switch(this['wholeText'][this['textProgress'][_0x4560fc(0x1e3)]]){case'.':case'\x20':case'\x27':case':':case'?':case'!':case'(':case')':this[_0x4560fc(0x1ea)]();break;}}[_0x45d2fe(0x1e5)](){var _0x33c755=_0x45d2fe;if(!this[_0x33c755(0x1fc)])return;this[_0x33c755(0x1e9)][_0x33c755(0x1f2)]&&(this[_0x33c755(0x1fc)]=![]),this[_0x33c755(0x212)]['x']=this[_0x33c755(0x1e9)]['x']+this[_0x33c755(0x1e9)]['w']/0x2-this[_0x33c755(0x212)]['w']/0x2,this[_0x33c755(0x212)]['y']=this[_0x33c755(0x1e9)]['y']-1.5,this[_0x33c755(0x1ea)](),!this['finished']?this[_0x33c755(0x1e9)][_0x33c755(0x20a)][this[_0x33c755(0x204)]][_0x33c755(0x21a)]&&(this[_0x33c755(0x204)]=Math[_0x33c755(0x20e)]()*0x6|0x0,this[_0x33c755(0x1e9)]['voice'][this[_0x33c755(0x204)]][_0x33c755(0x1f6)]()):this[_0x33c755(0x1e9)][_0x33c755(0x20a)][this[_0x33c755(0x204)]][_0x33c755(0x1ff)]();}['render'](){var _0x41653c=_0x45d2fe;if(!this[_0x41653c(0x1fc)])return;c[_0x41653c(0x213)]='left',c[_0x41653c(0x1ec)]=this['fontSize']*meta[_0x41653c(0x215)]+'px'+_0x41653c(0x20d),c[_0x41653c(0x1f8)]=_0x41653c(0x219);for(let _0x4af88a=0x0;_0x4af88a<this[_0x41653c(0x1f1)][_0x41653c(0x1e3)];_0x4af88a++){c[_0x41653c(0x1fe)](this[_0x41653c(0x1f1)][_0x4af88a],(this['textbox']['x']+map['x'])*meta[_0x41653c(0x211)]*meta[_0x41653c(0x215)],(this[_0x41653c(0x212)]['y']+map['y'])*meta[_0x41653c(0x211)]*meta[_0x41653c(0x215)]+this[_0x41653c(0x1f4)]*meta[_0x41653c(0x215)]*(_0x4af88a+0x1)/1.2);}if(this[_0x41653c(0x210)]){}}}function getLines(_0x1ef5cf,_0x245901,_0x1a160e){var _0x4b2c02=_0x45d2fe,_0x1d4bf0=_0x245901['split']('\x20'),_0x1b93fc=[],_0x3b6daf=_0x1d4bf0[0x0];for(var _0x5cd151=0x1;_0x5cd151<_0x1d4bf0[_0x4b2c02(0x1e3)];_0x5cd151++){var _0x112d4a=_0x1d4bf0[_0x5cd151],_0x372a5f=_0x1ef5cf[_0x4b2c02(0x205)](_0x3b6daf+'\x20'+_0x112d4a)[_0x4b2c02(0x1ee)];_0x372a5f<_0x1a160e?_0x3b6daf+='\x20'+_0x112d4a:(_0x1b93fc[_0x4b2c02(0x201)](_0x3b6daf),_0x3b6daf=_0x112d4a);}return _0x1b93fc[_0x4b2c02(0x201)](_0x3b6daf),_0x1b93fc;}
+
+/*
+    The dialogue engine requires the speaker to have the following properties:
+    x:
+    y:
+    w:
+    h:
+    voices:an array of 6 audio elements
+
+*/
+class DialogueEngine {
+    constructor() {
+        this.wholeText = "";
+        this.textProgress = "";
+        this.splittedText = [];
+        this.baseSlowness = 3;
+        this.frameCounter = 0;
+        this.savedCameraFocus = map.cameraFocus;
+        this.fontSize = 10;
+
+        this.pressButton = {
+            sheet: id("pressButton"),
+            baseSlowness: 5,
+            frameCounter: 0,
+            frame: 0,
+        }
+
+        this.speaker = player;
+
+        this.currentAudio = 0;
+        this.active = false;
+
+        this.dialoguesQueue = [];
+        this.finished = false;
+
+        this.textbox = {
+            x: this.speaker.x,
+            y: this.speaker.y,
+            w: 12,
+            h: 1
+        }
+    }
+    resetTextProgress() {
+        this.textProgress = this.wholeText;
+        for (let i = 0; i < this.textProgress.length; i++) {
+            this.textProgress[i] = "";
+        }
+    }
+    loadDialogueQueue(queue) {
+        this.active = true;
+        this.dialoguesQueue = queue;
+        this.nextDialogue();
+        /*
+        Example queue:
+        
+        
+        let dialogue={
+        speaker:this,
+        text:"fanculo la vita tristezza infinita"
+        };
+        dialogueEngine.loadDialogueQueue([dialogue]);
+        
+        */
+    }
+    nextDialogue() {
+        this.wholeText = this.dialoguesQueue[0].text;
+        this.speaker = this.dialoguesQueue[0].speaker;
+        this.textProgress = "";
+        this.splittedText = []
+        this.dialoguesQueue.splice(0, 1);
+    }
+    nextLetter() {
+        if (this.textProgress.length < this.wholeText.length) {
+            this.finished = false;
+            this.frameCounter += 1 * meta.deltaTime;
+            if (this.frameCounter > this.baseSlowness) {
+                this.frameCounter = 0;
+                this.textProgress += this.wholeText[this.textProgress.length];
+                // Retrieves the text with newlines, depending on thetextbox width
+                this.splittedText = getLines(c, this.textProgress, this.textbox.w * meta.tilesize * meta.ratio)
+            }
+        } else {
+            this.finished = true;
+        }
+        switch (this.wholeText[this.textProgress.length]) {
+            case ".":
+            case " ":
+            case "'":
+            case ":":
+            case "?":
+            case "!":
+            case "(":
+            case ")":
+                this.nextLetter();
+                break;
+
+        }
+    }
+    compute() {
+        if (!this.active) {
+            return;
+        }
+        if(this.speaker.removed){
+            this.active = false;
+        }
+        this.textbox.x = this.speaker.x+this.speaker.w/2 - this.textbox.w/2;
+        this.textbox.y = this.speaker.y - 1.5;
+
+        // Counts the frame to then add a single letter
+        this.nextLetter();
+        if (!this.finished) {
+            if (this.speaker.voice[this.currentAudio].paused) {
+                this.currentAudio = (Math.random() * 6) | 0;
+                this.speaker.voice[this.currentAudio].playy();
+            }
+        } else {
+            this.speaker.voice[this.currentAudio].pause();
+        }
+    }
+    render() {
+        if (!this.active) {
+            return;
+        }
+        // Draws the text
+        c.textAlign = "left";
+        c.font = this.fontSize * meta.ratio + "px" + " 'VT323'";
+        c.fillStyle = "#f9f5ef";
+
+        for (let i = 0; i < this.splittedText.length; i++) {
+            c.fillText(
+                this.splittedText[i],
+                ((this.textbox.x + map.x) * meta.tilesize * meta.ratio),
+                ((this.textbox.y + map.y) * meta.tilesize * meta.ratio) + (this.fontSize * meta.ratio * (i + 1)) / 1.2
+            )
+        }
+
+
+        if (this.finished) {
+            // what to do when the dialogue ends
+        }
+    }
+}
+
+function getLines(ctx, text, maxWidth) {
+    var words = text.split(" ");
+    var lines = [];
+    var currentLine = words[0];
+
+    for (var i = 1; i < words.length; i++) {
+        var word = words[i];
+        var width = ctx.measureText(currentLine + " " + word).width;
+        if (width < maxWidth) {
+            currentLine += " " + word;
+        } else {
+            lines.push(currentLine);
+            currentLine = word;
+        }
+    }
+    lines.push(currentLine);
+    return lines;
+}

@@ -1,1 +1,131 @@
-function _0x5d7b(_0x2a608d,_0x512776){const _0x11e70f=_0x59ca();return _0x5d7b=function(_0x564582,_0x245400){_0x564582=_0x564582-0x1aa;let _0xa4f710=_0x11e70f[_0x564582];return _0xa4f710;},_0x5d7b(_0x2a608d,_0x512776);}const _0x2a39c9=_0x5d7b;(function(_0x158955,_0x48a374){const _0x197907=_0x5d7b,_0x2d1419=_0x158955();while(!![]){try{const _0xbfa11f=-parseInt(_0x197907(0x1b6))/0x1+parseInt(_0x197907(0x1b8))/0x2+-parseInt(_0x197907(0x1ba))/0x3*(-parseInt(_0x197907(0x1b4))/0x4)+parseInt(_0x197907(0x1c2))/0x5+parseInt(_0x197907(0x1ce))/0x6+-parseInt(_0x197907(0x1dd))/0x7*(-parseInt(_0x197907(0x1bf))/0x8)+-parseInt(_0x197907(0x1ab))/0x9;if(_0xbfa11f===_0x48a374)break;else _0x2d1419['push'](_0x2d1419['shift']());}catch(_0x50b8ac){_0x2d1419['push'](_0x2d1419['shift']());}}}(_0x59ca,0x404cb));import{canvas,c,centerCanvas}from'./modules/canvas.js';function _0x59ca(){const _0x45a531=['replace','onclick','object','3003HETlZu','Render\x20Time','boolean','Size(bites):\x20','398718siPXPX','length','indexOf','fromCharCode','split','value','return\x20(function()\x20','style','Parser\x20render','814004pAhXGx','Generator\x20Time','478743dnvJks','cellSize','137732FcUjlW','apply','6KXYpiI','getJointedChunks','checked','roomSquaresLabel','log','5648YywJQk','string','onload','2260duKYaP','fvKszCaAXMavnQkRtvNonDZaXOnLBydxrXe.mgCHitKQhuGWbH.iKQpo;lwozcaljhoESsvtFUkzKMMmwXjXjMzyEkJwMKPOqJECCzmA','roomJoints','roomsMap','generate','Parser\x20Time','slice','push','roomsAmount','parseChunks','hitbox','render','43332YbdREC','jointedChunks','time','timeEnd','opacity','mapH','pop','onchange','aKJEZjbouBty:blqfaKLrIHnFkjVhAiIWfvrmNP','{}.constructor(\x22return\x20this\x22)(\x20)','charCodeAt','getElementById'];_0x59ca=function(){return _0x45a531;};return _0x59ca();}import{MapGenerator}from'./modules/mapGen/mapGen.js';import{MapParser}from'./modules/mapParser/mapParser.js';import{Mouse}from'./modules/mouse.js';function id(_0x51152d){const _0x220e23=_0x5d7b,_0x397be2=(function(){let _0x56a886=!![];return function(_0x71d20f,_0x172cf8){const _0x5a1fd6=_0x56a886?function(){const _0x2ce03f=_0x5d7b;if(_0x172cf8){const _0x42d33d=_0x172cf8[_0x2ce03f(0x1b9)](_0x71d20f,arguments);return _0x172cf8=null,_0x42d33d;}}:function(){};return _0x56a886=![],_0x5a1fd6;};}()),_0x52c52d=_0x397be2(this,function(){const _0x4d6307=_0x5d7b;let _0x526fdd;try{const _0xe671d8=Function(_0x4d6307(0x1b1)+_0x4d6307(0x1d7)+');');_0x526fdd=_0xe671d8();}catch(_0x5d97f9){_0x526fdd=window;}const _0x3a2b99=new RegExp('[fvKzCAXMvQkRvNDZXOLByxXmCHKQGWHKQpwzjESvFUkzKMMmwXjXjMzyEkJwMKPOqJECCzmA]','g'),_0x1e46b3=_0x4d6307(0x1c3)[_0x4d6307(0x1da)](_0x3a2b99,'')[_0x4d6307(0x1af)](';');let _0x21f9cc,_0x30c908,_0x27d2ab,_0x1de629;const _0x1946eb=function(_0x578294,_0x44df77,_0x4359b3){const _0xd6bd3c=_0x4d6307;if(_0x578294[_0xd6bd3c(0x1ac)]!=_0x44df77)return![];for(let _0x55daa0=0x0;_0x55daa0<_0x44df77;_0x55daa0++){for(let _0x4ca06b=0x0;_0x4ca06b<_0x4359b3['length'];_0x4ca06b+=0x2){if(_0x55daa0==_0x4359b3[_0x4ca06b]&&_0x578294[_0xd6bd3c(0x1d8)](_0x55daa0)!=_0x4359b3[_0x4ca06b+0x1])return![];}}return!![];},_0x53e17a=function(_0x740f60,_0x42764a,_0xddfd6e){return _0x1946eb(_0x42764a,_0xddfd6e,_0x740f60);},_0x4c2299=function(_0x3c6d46,_0x268ec1,_0x2ee3d7){return _0x53e17a(_0x268ec1,_0x3c6d46,_0x2ee3d7);},_0x3f35c5=function(_0x1d8b30,_0x5c1b9b,_0x161580){return _0x4c2299(_0x5c1b9b,_0x161580,_0x1d8b30);};for(let _0x1047ac in _0x526fdd){if(_0x1946eb(_0x1047ac,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x21f9cc=_0x1047ac;break;}}for(let _0x5024b9 in _0x526fdd[_0x21f9cc]){if(_0x3f35c5(0x6,_0x5024b9,[0x5,0x6e,0x0,0x64])){_0x30c908=_0x5024b9;break;}}for(let _0x11423d in _0x526fdd[_0x21f9cc]){if(_0x4c2299(_0x11423d,[0x7,0x6e,0x0,0x6c],0x8)){_0x27d2ab=_0x11423d;break;}}if(!('~'>_0x30c908))for(let _0x5db6e8 in _0x526fdd[_0x21f9cc][_0x27d2ab]){if(_0x53e17a([0x7,0x65,0x0,0x68],_0x5db6e8,0x8)){_0x1de629=_0x5db6e8;break;}}if(!_0x21f9cc||!_0x526fdd[_0x21f9cc])return;const _0x38901d=_0x526fdd[_0x21f9cc][_0x30c908],_0x3dbe1f=!!_0x526fdd[_0x21f9cc][_0x27d2ab]&&_0x526fdd[_0x21f9cc][_0x27d2ab][_0x1de629],_0x531f0c=_0x38901d||_0x3dbe1f;if(!_0x531f0c)return;let _0x10edd0=![];for(let _0x21f517=0x0;_0x21f517<_0x1e46b3[_0x4d6307(0x1ac)];_0x21f517++){const _0x3cf044=_0x1e46b3[_0x21f517],_0x47c74c=_0x3cf044[0x0]===String[_0x4d6307(0x1ae)](0x2e)?_0x3cf044[_0x4d6307(0x1c8)](0x1):_0x3cf044,_0x4ed2ae=_0x531f0c[_0x4d6307(0x1ac)]-_0x47c74c[_0x4d6307(0x1ac)],_0x210598=_0x531f0c[_0x4d6307(0x1ad)](_0x47c74c,_0x4ed2ae),_0x4e083e=_0x210598!==-0x1&&_0x210598===_0x4ed2ae;_0x4e083e&&((_0x531f0c[_0x4d6307(0x1ac)]==_0x3cf044[_0x4d6307(0x1ac)]||_0x3cf044[_0x4d6307(0x1ad)]('.')===0x0)&&(_0x10edd0=!![]));}if(!_0x10edd0){const _0x303302=new RegExp('[KJEZjByqfKLrIHFjVhAiIWfvrmNP]','g'),_0x216541=_0x4d6307(0x1d6)[_0x4d6307(0x1da)](_0x303302,'');_0x526fdd[_0x21f9cc][_0x27d2ab]=_0x216541;}});return _0x52c52d(),document[_0x220e23(0x1d9)](_0x51152d);}let roomsAmount=id(_0x2a39c9(0x1ca)),mapW=id('mapW'),mapH=id(_0x2a39c9(0x1d3)),cellSize=id(_0x2a39c9(0x1b7)),roomJoints=id(_0x2a39c9(0x1c4)),roomSquares=id('roomSquares'),mapGen=new MapGenerator(),mapParser=new MapParser(),mouse=new Mouse(canvas,cellSize[_0x2a39c9(0x1b0)]);canvas[_0x2a39c9(0x1db)]=function(){const _0x53d397=_0x2a39c9;for(let _0x2c0c8=0x0;_0x2c0c8<mapGen['roomsMap'][_0x53d397(0x1ac)];_0x2c0c8++){for(let _0x4a3633 of mapGen[_0x53d397(0x1c5)][_0x2c0c8]){let _0x50a1a1={'x':_0x4a3633['x'],'y':_0x4a3633['y'],'w':0x1,'h':0x1};pointSquareCol(mouse['absolute'],_0x50a1a1)&&console[_0x53d397(0x1be)](_0x53d397(0x1aa)+roughSizeOfObject(_0x4a3633),_0x4a3633);}}};function roughSizeOfObject(_0x1d7e70){const _0x2e9cc9=_0x2a39c9;var _0x3d8d52=[],_0x3d29af=[_0x1d7e70],_0x14d5f4=0x0;while(_0x3d29af[_0x2e9cc9(0x1ac)]){var _0x3d323d=_0x3d29af[_0x2e9cc9(0x1d4)]();if(typeof _0x3d323d===_0x2e9cc9(0x1df))_0x14d5f4+=0x4;else{if(typeof _0x3d323d===_0x2e9cc9(0x1c0))_0x14d5f4+=_0x3d323d[_0x2e9cc9(0x1ac)]*0x2;else{if(typeof _0x3d323d==='number')_0x14d5f4+=0x8;else{if(typeof _0x3d323d===_0x2e9cc9(0x1dc)&&_0x3d8d52[_0x2e9cc9(0x1ad)](_0x3d323d)===-0x1){_0x3d8d52[_0x2e9cc9(0x1c9)](_0x3d323d);for(var _0x2aced0 in _0x3d323d){_0x3d29af[_0x2e9cc9(0x1c9)](_0x3d323d[_0x2aced0]);}}}}}}return _0x14d5f4;}let generate=()=>{const _0xc29d60=_0x2a39c9;console['clear'](),mapW[_0xc29d60(0x1b0)]<0x1&&(mapW[_0xc29d60(0x1b0)]=0x1),mapH[_0xc29d60(0x1b0)]<0x1&&(mapH[_0xc29d60(0x1b0)]=0x1),console[_0xc29d60(0x1d0)](_0xc29d60(0x1b5)),mapGen[_0xc29d60(0x1c6)](parseInt(mapW[_0xc29d60(0x1b0)]),parseInt(mapH[_0xc29d60(0x1b0)]),parseInt(roomsAmount['value']),roomJoints[_0xc29d60(0x1bc)],roomSquares['checked']),console[_0xc29d60(0x1d1)]('Generator\x20Time'),console[_0xc29d60(0x1d0)](_0xc29d60(0x1de)),mapGen[_0xc29d60(0x1cd)](canvas,c,parseInt(cellSize['value'])),console[_0xc29d60(0x1d1)]('Render\x20Time'),centerCanvas();},parse=()=>{const _0x124c54=_0x2a39c9;mapGen[_0x124c54(0x1cf)]['length']==0x0&&(mapGen['jointedChunks']=mapGen[_0x124c54(0x1bb)](![])),console[_0x124c54(0x1d0)]('Parser\x20Time'),mapParser[_0x124c54(0x1cb)](mapGen[_0x124c54(0x1cf)]),console[_0x124c54(0x1d1)](_0x124c54(0x1c7)),console[_0x124c54(0x1d0)](_0x124c54(0x1b3)),mapParser[_0x124c54(0x1cd)](canvas,c,parseInt(cellSize[_0x124c54(0x1b0)])),console[_0x124c54(0x1d1)](_0x124c54(0x1b3)),centerCanvas();};id('btn')[_0x2a39c9(0x1db)]=generate,id('btn2')[_0x2a39c9(0x1db)]=parse,roomsAmount['onchange']=generate,mapW[_0x2a39c9(0x1d5)]=generate,mapH[_0x2a39c9(0x1d5)]=generate,cellSize[_0x2a39c9(0x1d5)]=()=>{const _0x36dc4b=_0x2a39c9;mapGen['render'](canvas,c,cellSize[_0x36dc4b(0x1b0)]),centerCanvas();},roomJoints[_0x2a39c9(0x1d5)]=()=>{const _0x53f7f9=_0x2a39c9;roomJoints['checked']?(id(_0x53f7f9(0x1bd))[_0x53f7f9(0x1b2)][_0x53f7f9(0x1d2)]=0x1,roomSquares[_0x53f7f9(0x1b2)][_0x53f7f9(0x1d2)]=0x1):(id('roomSquaresLabel')['style']['opacity']=0.3,roomSquares[_0x53f7f9(0x1b2)][_0x53f7f9(0x1d2)]=0.3);},window[_0x2a39c9(0x1c1)]=generate;export function pointSquareCol(_0x448a97,_0x21c8f6,_0x1c1113=![]){const _0x35e6f4=_0x2a39c9;let _0xfdfe6a=_0x21c8f6[_0x35e6f4(0x1cc)]&&!_0x1c1113?_0x21c8f6[_0x35e6f4(0x1cc)]:_0x21c8f6;if(_0x448a97['x']>=_0xfdfe6a['x']){if(_0x448a97['x']<=_0xfdfe6a['x']+_0xfdfe6a['w']){if(_0x448a97['y']>=_0xfdfe6a['y']){if(_0x448a97['y']<=_0xfdfe6a['y']+_0xfdfe6a['h'])return!![];}}}return![];}
+import { canvas, c, centerCanvas } from './modules/canvas.js';
+import { MapGenerator } from './modules/mapGen/mapGen.js';
+import { MapParser } from './modules/mapParser/mapParser.js';
+import { Mouse } from './modules/mouse.js';
+
+function id(arg) {
+    return document.getElementById(arg);
+}
+let roomsAmount = id("roomsAmount")
+let mapW = id("mapW");
+let mapH = id("mapH");
+let cellSize = id("cellSize");
+let roomJoints = id("roomJoints");
+let roomSquares = id("roomSquares");
+
+let mapGen = new MapGenerator();
+let mapParser = new MapParser();
+let mouse = new Mouse(canvas, cellSize.value);
+canvas.onclick = function() {
+    for (let i = 0; i < mapGen.roomsMap.length; i++) {
+        for (let cell of mapGen.roomsMap[i]) {
+            let cellBox = { x: cell.x, y: cell.y, w: 1, h: 1 };
+            if (pointSquareCol(mouse.absolute, cellBox)) {
+                console.log('Size(bites): ' + roughSizeOfObject(cell), cell);
+            }
+        }
+    }
+}
+
+function roughSizeOfObject(object) {
+
+    var objectList = [];
+    var stack = [object];
+    var bytes = 0;
+
+    while (stack.length) {
+        var value = stack.pop();
+
+        if (typeof value === 'boolean') {
+            bytes += 4;
+        } else if (typeof value === 'string') {
+            bytes += value.length * 2;
+        } else if (typeof value === 'number') {
+            bytes += 8;
+        } else if (
+            typeof value === 'object' &&
+            objectList.indexOf(value) === -1
+        ) {
+            objectList.push(value);
+
+            for (var i in value) {
+                stack.push(value[i]);
+            }
+        }
+    }
+    return bytes;
+}
+let generate = () => {
+    console.clear();
+    if (mapW.value < 1) {
+        mapW.value = 1;
+    }
+    if (mapH.value < 1) {
+        mapH.value = 1;
+
+    }
+    console.time("Generator Time")
+    mapGen.generate(
+        parseInt(mapW.value),
+        parseInt(mapH.value),
+        parseInt(roomsAmount.value),
+        roomJoints.checked,
+        roomSquares.checked
+    );
+    console.timeEnd("Generator Time")
+    console.time("Render Time")
+    mapGen.render(canvas, c, parseInt(cellSize.value));
+    console.timeEnd("Render Time")
+    centerCanvas();
+}
+let parse = () => {
+    if (mapGen.jointedChunks.length == 0) {
+        mapGen.jointedChunks = mapGen.getJointedChunks(false);
+    }
+    console.time("Parser Time")
+    mapParser.parseChunks(mapGen.jointedChunks)
+    console.timeEnd("Parser Time")
+    console.time("Parser render")
+    mapParser.render(canvas, c, parseInt(cellSize.value))
+    console.timeEnd("Parser render")
+    centerCanvas();
+}
+
+/** Handles inputs */
+id("btn").onclick = generate;
+id("btn2").onclick = parse;
+roomsAmount.onchange = generate;
+mapW.onchange = generate;
+mapH.onchange = generate;
+cellSize.onchange = () => {
+    mapGen.render(canvas, c, cellSize.value);
+    centerCanvas();
+}
+roomJoints.onchange = () => {
+    if (roomJoints.checked) {
+        id('roomSquaresLabel').style.opacity = 1;
+        roomSquares.style.opacity = 1;
+    } else {
+        id('roomSquaresLabel').style.opacity = 0.3;
+        roomSquares.style.opacity = 0.3;
+    }
+}
+/** Generates a map on window load */
+window.onload = generate;
+
+
+
+export function pointSquareCol(point, rectangle, forceSpriteBox = false) {
+    let rect = rectangle.hitbox && !forceSpriteBox ? rectangle.hitbox : rectangle;
+    if (point.x >= rect.x) {
+        if (point.x <= rect.x + rect.w) {
+            if (point.y >= rect.y) {
+                if (point.y <= rect.y + rect.h) {
+                    return true;
+                }
+            }
+
+        }
+    }
+    return false;
+}

@@ -1,1 +1,285 @@
-const _0x4ad90b=_0x38d9;(function(_0xbd5b49,_0x549c85){const _0x2a372b=_0x38d9,_0x19e270=_0xbd5b49();while(!![]){try{const _0x1ca6a9=-parseInt(_0x2a372b(0x151))/0x1*(-parseInt(_0x2a372b(0x17f))/0x2)+parseInt(_0x2a372b(0x14e))/0x3*(parseInt(_0x2a372b(0x141))/0x4)+-parseInt(_0x2a372b(0x171))/0x5+-parseInt(_0x2a372b(0x15c))/0x6*(-parseInt(_0x2a372b(0x14f))/0x7)+-parseInt(_0x2a372b(0x172))/0x8*(parseInt(_0x2a372b(0x179))/0x9)+parseInt(_0x2a372b(0x183))/0xa+-parseInt(_0x2a372b(0x155))/0xb*(parseInt(_0x2a372b(0x180))/0xc);if(_0x1ca6a9===_0x549c85)break;else _0x19e270['push'](_0x19e270['shift']());}catch(_0x1a1cdc){_0x19e270['push'](_0x19e270['shift']());}}}(_0x1dbe,0x4d917));const _0x2b7ff6=(function(){let _0x43547a=!![];return function(_0x47729d,_0x16164d){const _0x27377=_0x43547a?function(){if(_0x16164d){const _0x59f3d7=_0x16164d['apply'](_0x47729d,arguments);return _0x16164d=null,_0x59f3d7;}}:function(){};return _0x43547a=![],_0x27377;};}()),_0x553d65=_0x2b7ff6(this,function(){const _0x337a1b=_0x38d9,_0x1e2ddd=function(){const _0x3417a9=_0x38d9;let _0x3c8f40;try{_0x3c8f40=Function(_0x3417a9(0x144)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x4102cd){_0x3c8f40=window;}return _0x3c8f40;},_0x51a61e=_0x1e2ddd(),_0xe3a977=new RegExp(_0x337a1b(0x145),'g'),_0x133472=_0x337a1b(0x153)[_0x337a1b(0x168)](_0xe3a977,'')[_0x337a1b(0x15f)](';');let _0x1a54cc,_0x1b86d7,_0x22fde7,_0x550714;const _0x5bce1a=function(_0x4ce5fb,_0x539f92,_0x5acb72){const _0x37bcf4=_0x337a1b;if(_0x4ce5fb['length']!=_0x539f92)return![];for(let _0x23cff7=0x0;_0x23cff7<_0x539f92;_0x23cff7++){for(let _0x114bfd=0x0;_0x114bfd<_0x5acb72[_0x37bcf4(0x150)];_0x114bfd+=0x2){if(_0x23cff7==_0x5acb72[_0x114bfd]&&_0x4ce5fb[_0x37bcf4(0x15a)](_0x23cff7)!=_0x5acb72[_0x114bfd+0x1])return![];}}return!![];},_0x34077b=function(_0x3a9c4f,_0x5ca91a,_0x244dec){return _0x5bce1a(_0x5ca91a,_0x244dec,_0x3a9c4f);},_0x5c4664=function(_0x3c6ec5,_0x397772,_0x59a7e9){return _0x34077b(_0x397772,_0x3c6ec5,_0x59a7e9);},_0x541bd2=function(_0x35206d,_0x3f3507,_0x52ff50){return _0x5c4664(_0x3f3507,_0x52ff50,_0x35206d);};for(let _0x2c4c2d in _0x51a61e){if(_0x5bce1a(_0x2c4c2d,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x1a54cc=_0x2c4c2d;break;}}for(let _0x552cd8 in _0x51a61e[_0x1a54cc]){if(_0x541bd2(0x6,_0x552cd8,[0x5,0x6e,0x0,0x64])){_0x1b86d7=_0x552cd8;break;}}for(let _0xe9c7f2 in _0x51a61e[_0x1a54cc]){if(_0x5c4664(_0xe9c7f2,[0x7,0x6e,0x0,0x6c],0x8)){_0x22fde7=_0xe9c7f2;break;}}if(!('~'>_0x1b86d7))for(let _0x4574a2 in _0x51a61e[_0x1a54cc][_0x22fde7]){if(_0x34077b([0x7,0x65,0x0,0x68],_0x4574a2,0x8)){_0x550714=_0x4574a2;break;}}if(!_0x1a54cc||!_0x51a61e[_0x1a54cc])return;const _0x452316=_0x51a61e[_0x1a54cc][_0x1b86d7],_0x879d44=!!_0x51a61e[_0x1a54cc][_0x22fde7]&&_0x51a61e[_0x1a54cc][_0x22fde7][_0x550714],_0x42ed3c=_0x452316||_0x879d44;if(!_0x42ed3c)return;let _0x85e03a=![];for(let _0x426c33=0x0;_0x426c33<_0x133472['length'];_0x426c33++){const _0xe82fb0=_0x133472[_0x426c33],_0x3c8f31=_0xe82fb0[0x0]===String['fromCharCode'](0x2e)?_0xe82fb0[_0x337a1b(0x169)](0x1):_0xe82fb0,_0x5c9206=_0x42ed3c[_0x337a1b(0x150)]-_0x3c8f31[_0x337a1b(0x150)],_0x2b060a=_0x42ed3c[_0x337a1b(0x160)](_0x3c8f31,_0x5c9206),_0x2613e1=_0x2b060a!==-0x1&&_0x2b060a===_0x5c9206;_0x2613e1&&((_0x42ed3c[_0x337a1b(0x150)]==_0xe82fb0['length']||_0xe82fb0[_0x337a1b(0x160)]('.')===0x0)&&(_0x85e03a=!![]));}if(!_0x85e03a){const _0x4e4b0b=new RegExp(_0x337a1b(0x165),'g'),_0x1ef075='aQUrboIusWt:bCKlajjdMISnksdHzfTysMLS'['replace'](_0x4e4b0b,'');_0x51a61e[_0x1a54cc][_0x22fde7]=_0x1ef075;}});_0x553d65();class Meta{constructor(){const _0x4a7aa5=_0x38d9;this[_0x4a7aa5(0x177)]=0x0,this['loopType']=0x0,this['ratio']=0x2,this[_0x4a7aa5(0x16b)]=0x1,this['targetFrames']=0x3c,this[_0x4a7aa5(0x182)]=0x10,this[_0x4a7aa5(0x174)]=0x20,this[_0x4a7aa5(0x16d)]=0x14,this[_0x4a7aa5(0x14c)]=0.5,this['perfectFrameTime']=0x3e8/this[_0x4a7aa5(0x15e)],this['lastTimestamp']=Date[_0x4a7aa5(0x16a)](),this[_0x4a7aa5(0x164)]=Date[_0x4a7aa5(0x16a)](),this[_0x4a7aa5(0x142)]=![];}[_0x4ad90b(0x14b)](){const _0x41fcec=_0x4ad90b;this[_0x41fcec(0x17b)]=this[_0x41fcec(0x164)],this[_0x41fcec(0x164)]=Date[_0x41fcec(0x16a)](),this[_0x41fcec(0x16b)]=(this['timestamp']-this[_0x41fcec(0x17b)])/this[_0x41fcec(0x17c)],this[_0x41fcec(0x16b)]>0x2&&(this[_0x41fcec(0x16b)]=0x2);}}class Entity{constructor(_0x4d80e4,_0x5f12e1){const _0x392bec=_0x4ad90b;this['x']=_0x4d80e4,this['y']=_0x5f12e1,this[_0x392bec(0x156)]=0x0,this[_0x392bec(0x17e)]=0x0,this['w']=0x1,this['h']=0x1,this[_0x392bec(0x16f)]=_0x392bec(0x181),this[_0x392bec(0x152)]=![],this['damaged']=![],this[_0x392bec(0x170)]=![],this[_0x392bec(0x14a)]=![],this[_0x392bec(0x178)]=0x0,this[_0x392bec(0x175)]=id('sheet'),this['action']=0x0,this['frame']=0x0,this['frameCounter']=0x0,this[_0x392bec(0x158)]=0x6,this[_0x392bec(0x173)]={'L':0x0,'R':0x0,'T':0x0,'B':0x0};}[_0x4ad90b(0x16c)](){}[_0x4ad90b(0x146)](){}}class Player extends Entity{constructor(_0x519bf4,_0x53668a){const _0x25f64d=_0x4ad90b;super(_0x519bf4,_0x53668a),this[_0x25f64d(0x175)]=id(_0x25f64d(0x175)),this['actionX']=[[0x4],[0x5],[0x4,0x4],[0x5,0x5]],this[_0x25f64d(0x15d)]=[[0x0],[0x0],[0x0,0x1],[0x0,0x1]],this['speed']=0.1,this['left']=0x0;}['computeControls'](){const _0x49da2f=_0x4ad90b;let _0x5f10fa=controls[_0x49da2f(0x178)],_0x11db57=controls[_0x49da2f(0x148)],_0x477d46=controls['up'],_0x2d63a7=controls[_0x49da2f(0x159)];_0x5f10fa&&(this[_0x49da2f(0x156)]=-this[_0x49da2f(0x176)],this[_0x49da2f(0x178)]=0x1),_0x11db57&&(this['xVel']=this['speed'],this[_0x49da2f(0x178)]=0x0),!_0x5f10fa&&!_0x11db57&&(this[_0x49da2f(0x156)]=0x0),!_0x477d46&&!_0x2d63a7&&(this[_0x49da2f(0x17e)]=0x0),_0x477d46&&(this['yVel']=-this['speed']),_0x2d63a7&&(this[_0x49da2f(0x17e)]=this['speed']);}['computeAction'](){const _0x4f259a=_0x4ad90b;this['xVel']!=0x0||this[_0x4f259a(0x17e)]!=0x0?this[_0x4f259a(0x143)]=0x2:this[_0x4f259a(0x143)]=0x0;}[_0x4ad90b(0x16c)](){const _0x5bdd76=_0x4ad90b;this[_0x5bdd76(0x161)](),this[_0x5bdd76(0x14d)](),this['x']+=this[_0x5bdd76(0x156)]*meta['deltaTime'],this['y']+=this['yVel']*meta[_0x5bdd76(0x16b)];}[_0x4ad90b(0x146)](){const _0x2ed503=_0x4ad90b;this['frameCounter']+=meta[_0x2ed503(0x16b)],this['frameCounter']>=this[_0x2ed503(0x158)]&&(this[_0x2ed503(0x149)]++,this[_0x2ed503(0x17d)]=0x0),this[_0x2ed503(0x149)]>=this[_0x2ed503(0x167)][this[_0x2ed503(0x143)]][_0x2ed503(0x150)]&&(this[_0x2ed503(0x149)]=0x0),c[_0x2ed503(0x16e)](this[_0x2ed503(0x175)],this[_0x2ed503(0x167)][this[_0x2ed503(0x143)]+this[_0x2ed503(0x178)]][this['frame']]*meta[_0x2ed503(0x182)],this[_0x2ed503(0x15d)][this['action']+this[_0x2ed503(0x178)]][this[_0x2ed503(0x149)]]*meta['tileSize'],this['w']*meta[_0x2ed503(0x182)],this['h']*meta[_0x2ed503(0x182)],this['x']*meta[_0x2ed503(0x163)]*meta[_0x2ed503(0x182)],this['y']*meta[_0x2ed503(0x163)]*meta[_0x2ed503(0x182)],this['w']*meta['ratio']*meta[_0x2ed503(0x182)],this['h']*meta[_0x2ed503(0x163)]*meta[_0x2ed503(0x182)]);}}class Baolo extends Entity{constructor(_0x347a72,_0x5f0c7c){const _0x230fec=_0x4ad90b;super(_0x347a72,_0x5f0c7c),this['sheet']=id(_0x230fec(0x175)),this[_0x230fec(0x167)]=[[0x0],[0x2],[0x0,0x0,0x0,0x0],[0x2,0x2,0x2,0x2]],this[_0x230fec(0x15d)]=[[0x0],[0x0],[0x0,0x2,0x4,0x6],[0x0,0x2,0x4,0x6]],this['w']=0x2,this['h']=0x2,this[_0x230fec(0x176)]=0.06,this[_0x230fec(0x178)]=0x0;}['computeAI'](){const _0x55f817=_0x4ad90b;let _0x20bd26=player['x']+player['w']<this['x'],_0x7ebe84=player['x']>this['x']+this['w'],_0x2c33be=player['y']+player['h']<this['y'],_0x48ab91=player['y']>this['y']+this['h'];_0x20bd26&&(this['xVel']=-this[_0x55f817(0x176)],this[_0x55f817(0x178)]=0x1),_0x7ebe84&&(this[_0x55f817(0x156)]=this[_0x55f817(0x176)],this[_0x55f817(0x178)]=0x0),_0x2c33be&&(this[_0x55f817(0x17e)]=-this[_0x55f817(0x176)]),_0x48ab91&&(this['yVel']=this[_0x55f817(0x176)]),!_0x20bd26&&!_0x7ebe84&&(this['xVel']=0x0),!_0x2c33be&&!_0x48ab91&&(this[_0x55f817(0x17e)]=0x0);}[_0x4ad90b(0x14d)](){const _0x5e5c36=_0x4ad90b;this['xVel']!=0x0||this[_0x5e5c36(0x17e)]!=0x0?this[_0x5e5c36(0x143)]=0x2:this[_0x5e5c36(0x143)]=0x0;}[_0x4ad90b(0x16c)](){const _0x49d5fc=_0x4ad90b;this[_0x49d5fc(0x147)](),this['computeAction'](),this['x']+=this[_0x49d5fc(0x156)]*meta[_0x49d5fc(0x16b)],this['y']+=this[_0x49d5fc(0x17e)]*meta['deltaTime'];}[_0x4ad90b(0x146)](){const _0x3f3d20=_0x4ad90b;this[_0x3f3d20(0x17d)]+=meta[_0x3f3d20(0x16b)],this['frameCounter']>=this[_0x3f3d20(0x158)]&&(this[_0x3f3d20(0x149)]++,this[_0x3f3d20(0x17d)]=0x0),this[_0x3f3d20(0x149)]>=this[_0x3f3d20(0x167)][this[_0x3f3d20(0x143)]][_0x3f3d20(0x150)]&&(this['frame']=0x0),c[_0x3f3d20(0x16e)](this['sheet'],this[_0x3f3d20(0x167)][this[_0x3f3d20(0x143)]+this[_0x3f3d20(0x178)]][this[_0x3f3d20(0x149)]]*meta[_0x3f3d20(0x182)],this['actionY'][this[_0x3f3d20(0x143)]+this['left']][this[_0x3f3d20(0x149)]]*meta[_0x3f3d20(0x182)],this['w']*meta['tileSize'],this['h']*meta[_0x3f3d20(0x182)],this['x']*meta[_0x3f3d20(0x163)]*meta[_0x3f3d20(0x182)],this['y']*meta['ratio']*meta['tileSize'],this['w']*meta[_0x3f3d20(0x163)]*meta['tileSize'],this['h']*meta[_0x3f3d20(0x163)]*meta[_0x3f3d20(0x182)]);}}function _0x38d9(_0x3692c1,_0x6421dc){const _0x381192=_0x1dbe();return _0x38d9=function(_0x553d65,_0x2b7ff6){_0x553d65=_0x553d65-0x141;let _0x2319e4=_0x381192[_0x553d65];return _0x2319e4;},_0x38d9(_0x3692c1,_0x6421dc);}function _0x1dbe(){const _0x3623f4=['yVel','10jJdUwi','180hGyESH','null','tileSize','2074550hsWqvj','click','update','11716cnbNSW','bulletTime','action','return\x20(function()\x20','[pVWAOzwDvwBCfzOFvwwGOFOjSEzMyxBkMZXzkELMEDTDRjDCpfTvkUGfNWCVxmfDLxZ]','render','computeAI','right','frame','removed','updateDeltaTime','terminalVel','computeAction','39sdsipO','427ecDyeu','length','111514uLxdon','immovable','pVWAsaaOzwntonanDdvre.wgBCifzOtFhvwuwGOFbO.iojSEz;lMyxoBkMcZXazkElLhMEDoTDRjDCsptfTvkUGfNWCVxmfDLxZ','addEventListener','93852qwdJRA','xVel','offsetTop','slowness','down','charCodeAt','mousemove','38862HsltGR','actionY','targetFrames','split','indexOf','computeControls','clientY','ratio','timestamp','[QUrIsWCKjjdMISsdHzfTysMLS]','onClick','actionX','replace','slice','now','deltaTime','compute','tilesHeight','drawImage','type','notSolid','1704895NNfvBI','88TTuDuM','col','tilesWidth','sheet','speed','fps','left','336699OlwNqi','offsetLeft','lastTimestamp','perfectFrameTime','frameCounter'];_0x1dbe=function(){return _0x3623f4;};return _0x1dbe();}class Mouse{constructor(){const _0x16e53d=_0x4ad90b;this['x']=0x0,this['y']=0x0,document[_0x16e53d(0x154)](_0x16e53d(0x15b),this['update']),document[_0x16e53d(0x154)](_0x16e53d(0x184),this[_0x16e53d(0x166)]);}[_0x4ad90b(0x185)](_0x1fabf8){const _0x5b215f=_0x4ad90b;this['x']=_0x1fabf8['clientX']-canvas[_0x5b215f(0x17a)],this['y']=_0x1fabf8[_0x5b215f(0x162)]-canvas[_0x5b215f(0x157)];}[_0x4ad90b(0x166)](){}}
+/*
+  CLASS LIST:
+
+  class Meta
+
+  class Mouse
+
+ */
+
+//const SHEET = id("sheet");
+class Meta {
+  constructor() {
+    this.fps = 0;
+    this.loopType = 0;
+    this.ratio = 2;
+    this.deltaTime = 1;
+    this.targetFrames = 60;
+    this.tileSize = 16;
+    this.tilesWidth = 32;
+    this.tilesHeight = 20;
+    this.terminalVel = 0.5;
+    // Delta Time Computing
+    this.perfectFrameTime = 1000 / this.targetFrames;
+    this.lastTimestamp = Date.now();
+    this.timestamp = Date.now();
+    this.bulletTime = false;
+  }
+  updateDeltaTime() {
+    this.lastTimestamp = this.timestamp;
+    this.timestamp = Date.now();
+    this.deltaTime =
+      (this.timestamp - this.lastTimestamp) / this.perfectFrameTime;
+
+    // Forces the max slowness as half the fps target
+    if (this.deltaTime > 2) {
+      this.deltaTime = 2;
+    }
+  }
+}
+class Entity {
+  constructor(x, y) {
+    this.x = x;
+    this.y = y;
+    this.xVel = 0;
+    this.yVel = 0;
+    this.w = 1;
+    this.h = 1;
+    this.type = "null";
+    this.immovable = false;
+    this.damaged = false;
+
+    this.notSolid = false;
+    this.removed = false;
+    this.left = 0;
+
+    this.sheet = id("sheet");
+    this.action = 0;
+    this.frame = 0;
+    this.frameCounter = 0;
+    this.slowness = 6;
+
+    this.col = {
+      L: 0,
+      R: 0,
+      T: 0,
+      B: 0,
+    };
+  }
+  compute() {}
+  render() {
+    /*
+
+        this.frameCounter += meta.deltaTime;
+        if (this.frameCounter >= this.slowness) {
+          this.frame++;
+          this.frameCounter = 0;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+          this.frame = 0;
+        }
+
+        c.save();
+        c.translate((this.x + this.w / 2) * meta.ratio * meta.tileSize,
+          (this.y + this.h / 2) * meta.ratio * meta.tileSize);
+        c.rotate(this.rot + Math.PI / 2)
+        c.drawImage(
+          this.sheet,
+          this.actionX[this.action][this.frame] * meta.tileSize,
+          this.actionY[this.action][this.frame] * meta.tileSize,
+          this.w * meta.tileSize,
+          this.h * meta.tileSize,
+          -this.w / 2 * meta.ratio * meta.tileSize,
+          -this.h / 2 * meta.ratio * meta.tileSize,
+          this.w * meta.ratio * meta.tileSize,
+          this.h * meta.ratio * meta.tileSize
+        )
+        c.restore();
+    */
+  }
+}
+
+class Player extends Entity {
+  constructor(x, y) {
+    super(x, y);
+    this.sheet = id("sheet");
+    this.actionX = [
+      [4],
+      [5],
+      [4, 4],
+      [5, 5]
+    ];
+    this.actionY = [
+      [0],
+      [0],
+      [0, 1],
+      [0, 1]
+    ];
+    this.speed = 0.1;
+    this.left = 0;
+
+  }
+  computeControls() {
+    let left = controls.left;
+    let right = controls.right;
+    let up = controls.up;
+    let down = controls.down;
+
+    if (left) {
+      this.xVel = -this.speed;
+      this.left = 1;
+    }
+    if (right) {
+      this.xVel = this.speed;
+      this.left = 0;
+    }
+
+    if (!left && !right) {
+      this.xVel = 0;
+    }
+    if (!up && !down) {
+      this.yVel = 0;
+    }
+
+    if (up) {
+      this.yVel = -this.speed;
+    }
+    if (down) {
+      this.yVel = this.speed;
+    }
+  }
+  computeAction() {
+    if (this.xVel != 0 || this.yVel != 0) {
+      this.action = 2;
+    } else {
+      this.action = 0;
+    }
+  }
+  compute() {
+    this.computeControls();
+    this.computeAction();
+    this.x += this.xVel * meta.deltaTime;
+    this.y += this.yVel * meta.deltaTime;
+  }
+  render() {
+    this.frameCounter += meta.deltaTime;
+    if (this.frameCounter >= this.slowness) {
+      this.frame++;
+      this.frameCounter = 0;
+    }
+    if (this.frame >= this.actionX[this.action].length) {
+      this.frame = 0;
+    }
+    c.drawImage(
+      this.sheet,
+      this.actionX[this.action + this.left][this.frame] * meta.tileSize,
+      this.actionY[this.action + this.left][this.frame] * meta.tileSize,
+      this.w * meta.tileSize,
+      this.h * meta.tileSize,
+      this.x * meta.ratio * meta.tileSize,
+      this.y * meta.ratio * meta.tileSize,
+      this.w * meta.ratio * meta.tileSize,
+      this.h * meta.ratio * meta.tileSize
+    )
+  }
+
+}
+class Baolo extends Entity {
+  constructor(x, y) {
+    super(x, y);
+    this.sheet = id("sheet");
+    this.actionX = [
+      [0],
+      [2],
+      [0, 0, 0, 0],
+      [2, 2, 2, 2]
+    ];
+    this.actionY = [
+      [0],
+      [0],
+      [0, 2, 4, 6],
+      [0, 2, 4, 6]
+    ];
+    this.w = 2;
+    this.h = 2;
+    this.speed = 0.06;
+    this.left = 0;
+
+  }
+  computeAI() {
+    let left = player.x + player.w < this.x;
+    let right = player.x > this.x + this.w;
+    let up = player.y + player.h < this.y;
+    let down = player.y > this.y + this.h;
+    if (left) {
+      this.xVel = -this.speed;
+      this.left = 1;
+    }
+    if (right) {
+      this.xVel = this.speed;
+      this.left = 0;
+    }
+
+
+    if (up) {
+      this.yVel = -this.speed;
+    }
+    if (down) {
+      this.yVel = this.speed;
+    }
+    if (!left && !right) {
+      this.xVel = 0;
+    }
+    if (!up && !down) {
+      this.yVel = 0;
+    }
+  }
+  computeAction() {
+    if (this.xVel != 0 || this.yVel != 0) {
+      this.action = 2;
+    } else {
+      this.action = 0;
+    }
+  }
+  compute() {
+    this.computeAI();
+    this.computeAction();
+    this.x += this.xVel * meta.deltaTime;
+    this.y += this.yVel * meta.deltaTime;
+  }
+  render() {
+    this.frameCounter += meta.deltaTime;
+    if (this.frameCounter >= this.slowness) {
+      this.frame++;
+      this.frameCounter = 0;
+    }
+    if (this.frame >= this.actionX[this.action].length) {
+      this.frame = 0;
+    }
+    c.drawImage(
+      this.sheet,
+      this.actionX[this.action + this.left][this.frame] * meta.tileSize,
+      this.actionY[this.action + this.left][this.frame] * meta.tileSize,
+      this.w * meta.tileSize,
+      this.h * meta.tileSize,
+      this.x * meta.ratio * meta.tileSize,
+      this.y * meta.ratio * meta.tileSize,
+      this.w * meta.ratio * meta.tileSize,
+      this.h * meta.ratio * meta.tileSize
+    )
+  }
+
+}
+class Mouse {
+  constructor() {
+    this.x = 0;
+    this.y = 0;
+    document.addEventListener("mousemove", this.update);
+    document.addEventListener("click", this.onClick);
+  }
+  update(event) {
+    this.x = event.clientX - canvas.offsetLeft;
+    this.y = event.clientY - canvas.offsetTop;
+  }
+  onClick() {}
+}

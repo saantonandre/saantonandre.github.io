@@ -1,1 +1,275 @@
-const _0x2f9516=_0x2be6;function _0x3efc(){const _0x421dbe=['split','deaths','map','deathsMap','./maps.json','fill','createElement','tilesize','[rWOEMySvAjJgGLXiwqFHMfcHTp]','entries','style','{}.constructor(\x22return\x20this\x22)(\x20)','46224RYoEgb','canvas-cont','add','title','maxSumDeaths','135UjOVZS','width','6020224SYGAew','levels-cont','forEach','maps','lvlButtons','17074GlusLB','return\x20(function()\x20','level','116350uiRNwL','length','toString','height','render','getElementById','innerText','deathsN','tiles','replace','basesize','maxDeaths','levelsMaxDeaths','110yBbIbV','fromCharCode','339130RAgiss','#FF0000','appendChild','log','remove','push','querySelector','setParams','onclick','Level\x20','arc','classList','sort','charCodeAt','RRsjaVSaykntonmanWdreMCM.githzXGJub.ikXMoUVyyymI;KlocBEmmaElvhoQHstVyPGRAJSUXRZwNCkBKRCOWRqPJPEYTXzMRVXfRpZ','strokeStyle','selected','playButtons','then','slice','colorPlayButtons','Player\x20','backgroundColor','round','1631ZQSLDS','max','filter','init','./tiles.json','padStart','body','colorLvlButtons','miscData','canvas','Resizing\x20','players-cont','BUTTON','9649760WEljgn','apply','session','type','reduce','clearRect','drawImage','json','onload','#ff0000','sheet','rabWoutOE:MbySlvAajJgGnLkXiwqFHMfcHTp','values','sessions','3677844awXgmL','beginPath'];_0x3efc=function(){return _0x421dbe;};return _0x3efc();}function _0x2be6(_0x48cf62,_0x49a743){const _0x374115=_0x3efc();return _0x2be6=function(_0x1b8369,_0x38cd43){_0x1b8369=_0x1b8369-0x13d;let _0x4f5ff0=_0x374115[_0x1b8369];return _0x4f5ff0;},_0x2be6(_0x48cf62,_0x49a743);}(function(_0x57752f,_0x1eb1a8){const _0x15993b=_0x2be6,_0x5551cc=_0x57752f();while(!![]){try{const _0x5b8411=-parseInt(_0x15993b(0x155))/0x1*(-parseInt(_0x15993b(0x165))/0x2)+-parseInt(_0x15993b(0x19a))/0x3+-parseInt(_0x15993b(0x150))/0x4+-parseInt(_0x15993b(0x167))/0x5+-parseInt(_0x15993b(0x149))/0x6*(-parseInt(_0x15993b(0x17f))/0x7)+parseInt(_0x15993b(0x18c))/0x8+parseInt(_0x15993b(0x14e))/0x9*(-parseInt(_0x15993b(0x158))/0xa);if(_0x5b8411===_0x1eb1a8)break;else _0x5551cc['push'](_0x5551cc['shift']());}catch(_0x11d2ef){_0x5551cc['push'](_0x5551cc['shift']());}}}(_0x3efc,0xec137));const _0x38cd43=(function(){let _0x117d3=!![];return function(_0xc4e749,_0x2ac202){const _0x2d8dd8=_0x117d3?function(){const _0x34cf9d=_0x2be6;if(_0x2ac202){const _0x52c0ba=_0x2ac202[_0x34cf9d(0x18d)](_0xc4e749,arguments);return _0x2ac202=null,_0x52c0ba;}}:function(){};return _0x117d3=![],_0x2d8dd8;};}()),_0x1b8369=_0x38cd43(this,function(){const _0x7593=_0x2be6,_0x358013=function(){const _0x35679b=_0x2be6;let _0x12dd53;try{_0x12dd53=Function(_0x35679b(0x156)+_0x35679b(0x148)+');')();}catch(_0x259896){_0x12dd53=window;}return _0x12dd53;},_0x41a735=_0x358013(),_0x1c2a1e=new RegExp('[RRjVSykmWMCMzXGJkXMUVyyymIKBEmmEvQHVyPGRAJSUXRZwNCkBKRCOWRqPJPEYTXzMRVXfRpZ]','g'),_0x4886a7=_0x7593(0x175)['replace'](_0x1c2a1e,'')[_0x7593(0x13d)](';');let _0x394841,_0x20d2b5,_0x3d617a,_0x210706;const _0x41dfbb=function(_0x58a697,_0xb4297b,_0x262417){const _0x90019a=_0x7593;if(_0x58a697[_0x90019a(0x159)]!=_0xb4297b)return![];for(let _0x106638=0x0;_0x106638<_0xb4297b;_0x106638++){for(let _0x2c3100=0x0;_0x2c3100<_0x262417[_0x90019a(0x159)];_0x2c3100+=0x2){if(_0x106638==_0x262417[_0x2c3100]&&_0x58a697[_0x90019a(0x174)](_0x106638)!=_0x262417[_0x2c3100+0x1])return![];}}return!![];},_0x30791c=function(_0x32c167,_0x1bf3f9,_0x4629d7){return _0x41dfbb(_0x1bf3f9,_0x4629d7,_0x32c167);},_0xca59ef=function(_0x545e97,_0x5439ec,_0x2a507a){return _0x30791c(_0x5439ec,_0x545e97,_0x2a507a);},_0x187569=function(_0x273b1a,_0x462dd3,_0x4ed430){return _0xca59ef(_0x462dd3,_0x4ed430,_0x273b1a);};for(let _0x189df0 in _0x41a735){if(_0x41dfbb(_0x189df0,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x394841=_0x189df0;break;}}for(let _0x775220 in _0x41a735[_0x394841]){if(_0x187569(0x6,_0x775220,[0x5,0x6e,0x0,0x64])){_0x20d2b5=_0x775220;break;}}for(let _0x31c50b in _0x41a735[_0x394841]){if(_0xca59ef(_0x31c50b,[0x7,0x6e,0x0,0x6c],0x8)){_0x3d617a=_0x31c50b;break;}}if(!('~'>_0x20d2b5))for(let _0x1b4bd3 in _0x41a735[_0x394841][_0x3d617a]){if(_0x30791c([0x7,0x65,0x0,0x68],_0x1b4bd3,0x8)){_0x210706=_0x1b4bd3;break;}}if(!_0x394841||!_0x41a735[_0x394841])return;const _0x483401=_0x41a735[_0x394841][_0x20d2b5],_0x43c991=!!_0x41a735[_0x394841][_0x3d617a]&&_0x41a735[_0x394841][_0x3d617a][_0x210706],_0x39bbc1=_0x483401||_0x43c991;if(!_0x39bbc1)return;let _0x3f87a7=![];for(let _0x14ba5c=0x0;_0x14ba5c<_0x4886a7['length'];_0x14ba5c++){const _0x2a2d01=_0x4886a7[_0x14ba5c],_0x293b77=_0x2a2d01[0x0]===String[_0x7593(0x166)](0x2e)?_0x2a2d01[_0x7593(0x17a)](0x1):_0x2a2d01,_0x5b9c9d=_0x39bbc1[_0x7593(0x159)]-_0x293b77[_0x7593(0x159)],_0x3b6858=_0x39bbc1['indexOf'](_0x293b77,_0x5b9c9d),_0x97d0ee=_0x3b6858!==-0x1&&_0x3b6858===_0x5b9c9d;_0x97d0ee&&((_0x39bbc1[_0x7593(0x159)]==_0x2a2d01['length']||_0x2a2d01['indexOf']('.')===0x0)&&(_0x3f87a7=!![]));}if(!_0x3f87a7){const _0x27116f=new RegExp(_0x7593(0x145),'g'),_0x47ab38=_0x7593(0x197)[_0x7593(0x161)](_0x27116f,'');_0x41a735[_0x394841][_0x3d617a]=_0x47ab38;}});_0x1b8369();class State{constructor(){const _0x30b43f=_0x2be6;this['level']=0x0,this[_0x30b43f(0x18e)]='0',this['basesize']=0x10,this[_0x30b43f(0x144)]=0x10,this['lvlButtons']=[],this['playButtons']=[],this[_0x30b43f(0x160)]=[],this[_0x30b43f(0x199)]={},this[_0x30b43f(0x153)]=[],this[_0x30b43f(0x187)]={'maxDeaths':0x0,'maxSumDeaths':0x0,'levelsMaxDeaths':[0x0]},this[_0x30b43f(0x140)]={},this[_0x30b43f(0x185)]=document[_0x30b43f(0x16d)](_0x30b43f(0x185)),this['canvas']=document[_0x30b43f(0x143)](_0x30b43f(0x188)),this['c']=this[_0x30b43f(0x188)]['getContext']('2d'),this[_0x30b43f(0x182)]();}[_0x2f9516(0x182)]=async()=>{const _0x2ecb67=_0x2f9516;document[_0x2ecb67(0x15d)](_0x2ecb67(0x14a))[_0x2ecb67(0x169)](this[_0x2ecb67(0x188)]),this[_0x2ecb67(0x160)]=await fetch(_0x2ecb67(0x183))[_0x2ecb67(0x179)](_0xe74bf4=>_0xe74bf4[_0x2ecb67(0x193)]()),this[_0x2ecb67(0x199)]=await fetch('./sessions.json')[_0x2ecb67(0x179)](_0x1d1cf=>_0x1d1cf[_0x2ecb67(0x193)]()),this[_0x2ecb67(0x153)]=await fetch(_0x2ecb67(0x141))[_0x2ecb67(0x179)](_0x757530=>_0x757530[_0x2ecb67(0x193)]())[_0x2ecb67(0x179)](_0x61b183=>_0x61b183['map'](_0x5cc470=>_0x5cc470[_0x2ecb67(0x173)]((_0xa34000,_0x50e465)=>_0x50e465[_0x2ecb67(0x18f)]>_0xa34000[_0x2ecb67(0x18f)]?0x1:-0x1))),this['miscData']={'maxDeaths':0x0,'maxSumDeaths':0x0,'levelsMaxDeaths':new Array(this[_0x2ecb67(0x153)]['length'])[_0x2ecb67(0x142)](0x0)},this[_0x2ecb67(0x140)]=Object[_0x2ecb67(0x146)](this[_0x2ecb67(0x199)])['reduce']((_0xe7c1ab,[_0x44346a,_0x4c7fa5])=>{const _0x406508=_0x2ecb67,_0x5d9cb2=new Array(this[_0x406508(0x153)]['length'])[_0x406508(0x142)](0x0),_0x20551b=Math[_0x406508(0x180)](..._0x5d9cb2);_0x4c7fa5[_0x406508(0x13e)]?.['forEach'](({lvl:_0x4ab679})=>_0x5d9cb2[_0x4ab679]++),_0x5d9cb2['forEach']((_0x2038e7,_0x56583e)=>{const _0x564ce3=_0x406508;_0x2038e7>this[_0x564ce3(0x187)][_0x564ce3(0x164)][_0x56583e]&&(this[_0x564ce3(0x187)][_0x564ce3(0x164)][_0x56583e]=_0x2038e7);});_0x20551b>this['miscData'][_0x406508(0x163)]&&(this[_0x406508(0x187)][_0x406508(0x163)]=_0x20551b);const _0x524b86=_0x5d9cb2['reduce']((_0x19088a,_0x4ecea9)=>_0x19088a+_0x4ecea9,0x0);return _0x524b86>this[_0x406508(0x187)][_0x406508(0x14d)]&&(this[_0x406508(0x187)][_0x406508(0x14d)]=_0x524b86),{..._0xe7c1ab,[_0x44346a]:_0x5d9cb2};},{}),this[_0x2ecb67(0x154)]=levelButtons(this[_0x2ecb67(0x187)][_0x2ecb67(0x164)],_0x176515=>this[_0x2ecb67(0x16e)]({'l':_0x176515}));let _0xc3e18d=document['getElementById'](_0x2ecb67(0x151));this[_0x2ecb67(0x154)]['forEach'](_0x2604a7=>_0xc3e18d[_0x2ecb67(0x169)](_0x2604a7)),this['playButtons']=playerButtons(this[_0x2ecb67(0x199)],_0x12028b=>this['setParams']({'s':_0x12028b}));let _0x1c9ccc=document['getElementById'](_0x2ecb67(0x18a));this[_0x2ecb67(0x178)][_0x2ecb67(0x152)](_0x26a75b=>_0x1c9ccc['appendChild'](_0x26a75b)),this[_0x2ecb67(0x16e)]({'l':0x0,'s':Object['keys'](this[_0x2ecb67(0x199)])[0x0]});};[_0x2f9516(0x15c)]=()=>{const _0x262d19=_0x2f9516;resizeCanvas(this[_0x262d19(0x188)],this[_0x262d19(0x153)][this[_0x262d19(0x157)]],this['tilesize']),drawMap(this['canvas'],this['c'],this[_0x262d19(0x153)][this[_0x262d19(0x157)]],this[_0x262d19(0x160)],this[_0x262d19(0x144)],this[_0x262d19(0x162)]),drawDeaths(this['c'],this[_0x262d19(0x199)][this[_0x262d19(0x18e)]][_0x262d19(0x13e)],this[_0x262d19(0x144)],this[_0x262d19(0x157)]),this['colorLvlButtons'](),this['colorPlayButtons']();};['setParams']=(_0x209821={'l':this[_0x2f9516(0x157)],'s':this[_0x2f9516(0x18e)]})=>{const _0xb1244d=_0x2f9516;console[_0xb1244d(0x16a)](_0x209821),this[_0xb1244d(0x157)]=_0x209821['l']!==undefined?_0x209821['l']:this['level'],this[_0xb1244d(0x18e)]=_0x209821['s']!==undefined?_0x209821['s']:this[_0xb1244d(0x18e)],this['render']();};[_0x2f9516(0x17b)]=()=>{const _0x42b827=_0x2f9516,_0x323bc2=Math[_0x42b827(0x180)](...Object[_0x42b827(0x198)](this[_0x42b827(0x199)])[_0x42b827(0x13f)](_0x4f9de4=>_0x4f9de4[_0x42b827(0x15f)]));this['playButtons'][_0x42b827(0x152)]((_0x203e54,_0x10036a)=>{const _0x1e70a4=_0x42b827,_0x1a4614=this['sessions'][_0x203e54['id']][_0x1e70a4(0x15f)],_0x544034=Math[_0x1e70a4(0x17e)](_0x1a4614/_0x323bc2*0xff)[_0x1e70a4(0x15a)](0x10)[_0x1e70a4(0x184)](0x2,'0');console[_0x1e70a4(0x16a)]({'deathsHex':_0x544034}),_0x203e54[_0x1e70a4(0x147)][_0x1e70a4(0x17d)]=_0x1e70a4(0x195)+_0x544034;});};[_0x2f9516(0x186)]=()=>{const _0x14a738=_0x2f9516,_0x5a2457=this[_0x14a738(0x140)][this[_0x14a738(0x18e)]],_0x56de53=Math[_0x14a738(0x180)](..._0x5a2457);this[_0x14a738(0x154)][_0x14a738(0x152)]((_0xfcf8a2,_0x462de5)=>{const _0x35d31b=_0x14a738,_0x36ad18=Math[_0x35d31b(0x17e)](_0x5a2457[_0x462de5]/_0x56de53*0xff)[_0x35d31b(0x15a)](0x10)[_0x35d31b(0x184)](0x2,'0');_0xfcf8a2[_0x35d31b(0x147)][_0x35d31b(0x17d)]='#ff0000'+_0x36ad18;});};}window[_0x2f9516(0x194)]=()=>{new State();};const resizeCanvas=(_0x21e147,_0x35d874,_0x4e7e68)=>{const _0x2a65b7=_0x2f9516,{w:_0x4bedaa,h:_0x5f3e27}=_0x35d874[_0x2a65b7(0x190)]((_0x2912a8,_0xd67e6a)=>{return _0xd67e6a['x']+_0xd67e6a['w']>_0x2912a8['w']&&(_0x2912a8['w']=_0xd67e6a['x']+_0xd67e6a['w']),_0xd67e6a['y']+_0xd67e6a['h']>_0x2912a8['h']&&(_0x2912a8['h']=_0xd67e6a['y']+_0xd67e6a['h']),_0x2912a8;},{'w':0x0,'h':0x0});_0x21e147[_0x2a65b7(0x14f)]=_0x4bedaa*_0x4e7e68,_0x21e147[_0x2a65b7(0x15b)]=_0x5f3e27*_0x4e7e68,console[_0x2a65b7(0x16a)](_0x2a65b7(0x189)+_0x4bedaa*_0x4e7e68+'\x20'+_0x5f3e27*_0x4e7e68);},levelButtons=(_0x2b023e,_0x16db4)=>{const _0xefbf28=_0x2f9516,_0x3b3cf5=[];for(let _0x4c6ac2=0x0;_0x4c6ac2<_0x2b023e[_0xefbf28(0x159)];_0x4c6ac2++){let _0x3d8819=document[_0xefbf28(0x143)](_0xefbf28(0x18b));_0x3d8819[_0xefbf28(0x15e)]=_0x4c6ac2,_0x3d8819[_0xefbf28(0x14c)]=_0xefbf28(0x170)+_0x4c6ac2,_0x3b3cf5[_0xefbf28(0x16c)](_0x3d8819);}return _0x3b3cf5[_0xefbf28(0x152)]((_0xe1b03,_0x29e333)=>{_0xe1b03['onclick']=()=>{const _0x5dd9de=_0x2be6;_0x3b3cf5[_0x5dd9de(0x152)](_0x5aeb8c=>_0x5aeb8c[_0x5dd9de(0x172)][_0x5dd9de(0x16b)](_0x5dd9de(0x177))),_0xe1b03[_0x5dd9de(0x172)][_0x5dd9de(0x14b)](_0x5dd9de(0x177)),_0x16db4(_0x29e333);};}),_0x3b3cf5;},playerButtons=(_0x1ba0d6,_0x18b902)=>{const _0x2422c9=_0x2f9516,_0x1e5674=[];let _0x5a1957=0x0;for(const _0x43b519 in _0x1ba0d6){let _0x5ade2f=document[_0x2422c9(0x143)](_0x2422c9(0x18b));_0x5ade2f[_0x2422c9(0x15e)]=_0x5a1957,_0x5ade2f['id']=_0x43b519,_0x5ade2f[_0x2422c9(0x14c)]=_0x2422c9(0x17c)+_0x5a1957,_0x1e5674[_0x2422c9(0x16c)](_0x5ade2f),_0x5a1957++;}return _0x1e5674['forEach'](_0x3eae22=>{const _0x4aeb7f=_0x2422c9;_0x3eae22[_0x4aeb7f(0x16f)]=()=>{const _0x387557=_0x4aeb7f;_0x1e5674[_0x387557(0x152)](_0x27e05f=>_0x27e05f[_0x387557(0x172)][_0x387557(0x16b)](_0x387557(0x177))),_0x3eae22[_0x387557(0x172)]['add'](_0x387557(0x177)),_0x18b902(_0x3eae22['id']);};}),_0x1e5674;},drawMap=(_0x3ca0c6,_0x4333f6,_0x531570,_0x1764ce,_0x3c5fbb,_0x2eb5d9)=>{const _0x4154f7=_0x2f9516,_0x55113b=document['getElementById'](_0x4154f7(0x196));_0x4333f6[_0x4154f7(0x191)](0x0,0x0,_0x3ca0c6[_0x4154f7(0x14f)],_0x3ca0c6[_0x4154f7(0x15b)]),_0x531570[_0x4154f7(0x152)](_0x5ef44e=>{const _0x55ec1c=_0x4154f7;for(let _0x5ca01c=0x0;_0x5ca01c<_0x5ef44e['h'];_0x5ca01c++){for(let _0x276c36=0x0;_0x276c36<_0x5ef44e['w'];_0x276c36++){_0x4333f6[_0x55ec1c(0x192)](_0x55113b,_0x1764ce[_0x5ef44e[_0x55ec1c(0x18f)]][0x0]*_0x2eb5d9,_0x1764ce[_0x5ef44e[_0x55ec1c(0x18f)]][0x1]*_0x2eb5d9,_0x2eb5d9,_0x2eb5d9,(_0x5ef44e['x']+_0x276c36)*_0x3c5fbb,(_0x5ef44e['y']+_0x5ca01c)*_0x3c5fbb,_0x3c5fbb,_0x3c5fbb);}}});},drawDeaths=(_0x585f34,_0x53a9b8,_0x2f0c7a,_0x2a888c)=>{const _0x56692d=_0x2f9516;_0x53a9b8[_0x56692d(0x181)](_0x5b2cb0=>_0x5b2cb0['lvl']===_0x2a888c)['forEach'](({x:_0x16f776,y:_0x2a36e2})=>{const _0x4d8d80=_0x56692d;_0x585f34[_0x4d8d80(0x19b)](),_0x585f34[_0x4d8d80(0x171)](_0x16f776*_0x2f0c7a,_0x2a36e2*_0x2f0c7a,_0x2f0c7a*1.5,0x0,0x2*Math['PI']),_0x585f34['lineWidth']=0x3,_0x585f34[_0x4d8d80(0x176)]=_0x4d8d80(0x168),_0x585f34['stroke']();});};
+/** saantonandre - The following code has been refactored on 2023-10-27 */
+
+/**
+ * @typedef {{
+ *          x: number,
+ *          y: number,
+ *          lvl: number,
+ *      }[]} Deaths
+ * @typedef {Record<string,{
+ *      deaths: Deaths,
+ *      date: string,
+ *      deathsN: number,
+ *      retention: number,
+ *      level: number,
+ * }>} Sessions
+ *
+ *  @typedef {[number,number]} Tile
+ *  @typedef {{
+ *      x: number,
+ *      y: number,
+ *      w: number,
+ *      h: number,
+ *      type: number
+ * }} MapTile
+ *  @typedef {MapTile[]} GameMap
+ */
+class State {
+  constructor() {
+    this.level = 0;
+    this.session = "0";
+    this.basesize = 16;
+    this.tilesize = 16;
+    /** @type {HTMLButtonElement[]} */
+    this.lvlButtons = [];
+    /** @type {HTMLButtonElement[]} */
+    this.playButtons = [];
+    /** @type {Tile[]} */
+    this.tiles = [];
+    /** @type {Sessions} */
+    this.sessions = {};
+    /** @type {GameMap[]} */
+    this.maps = [];
+    this.miscData = {
+      maxDeaths: 0,
+      maxSumDeaths: 0,
+      levelsMaxDeaths: [0],
+    };
+    /**
+     * @typedef {Record<string,number[]>} DeathsMap
+     * @type {DeathsMap}
+     */
+    this.deathsMap = {};
+    this.body = document.querySelector("body");
+    this.canvas = document.createElement("canvas");
+    this.c = this.canvas.getContext("2d");
+    this.init();
+  }
+  init = async () => {
+    document.getElementById("canvas-cont").appendChild(this.canvas);
+    this.tiles = await fetch("./tiles.json").then((data) => data.json());
+    this.sessions = await fetch("./sessions.json").then((data) => data.json());
+    this.maps = await fetch("./maps.json")
+      .then((data) => data.json())
+      .then((res) =>
+        res.map((gameMap) => gameMap.sort((a, b) => (b.type > a.type ? 1 : -1)))
+      );
+    this.miscData = {
+      maxDeaths: 0,
+      maxSumDeaths: 0,
+      levelsMaxDeaths: new Array(this.maps.length).fill(0),
+    };
+    this.deathsMap = Object.entries(this.sessions).reduce(
+      (prev, [user, record]) => {
+        /** @type {number[]} */
+        const deathArray = new Array(this.maps.length).fill(0);
+        const maxDeaths = Math.max(...deathArray);
+        record.deaths?.forEach(({ lvl }) => deathArray[lvl]++);
+        deathArray.forEach((n, i) => {
+          if (n > this.miscData.levelsMaxDeaths[i]) {
+            this.miscData.levelsMaxDeaths[i] = n;
+          }
+        });
+        if (maxDeaths > this.miscData.maxDeaths) {
+          this.miscData.maxDeaths = maxDeaths;
+        }
+        const sumDeaths = deathArray.reduce((a, b) => a + b, 0);
+        if (sumDeaths > this.miscData.maxSumDeaths) {
+          this.miscData.maxSumDeaths = sumDeaths;
+        }
+        return { ...prev, [user]: deathArray };
+      },
+      {}
+    );
+    this.lvlButtons = levelButtons(this.miscData.levelsMaxDeaths, (level) =>
+      this.setParams({ l: level })
+    );
+    let lvlCont = document.getElementById("levels-cont");
+    this.lvlButtons.forEach((b) => lvlCont.appendChild(b));
+
+    this.playButtons = playerButtons(this.sessions, (player) =>
+      this.setParams({ s: player })
+    );
+    let playersCont = document.getElementById("players-cont");
+    this.playButtons.forEach((b) => playersCont.appendChild(b));
+
+    this.setParams({ l: 0, s: Object.keys(this.sessions)[0] });
+  };
+  render = () => {
+    resizeCanvas(this.canvas, this.maps[this.level], this.tilesize);
+    drawMap(
+      this.canvas,
+      this.c,
+      this.maps[this.level],
+      this.tiles,
+      this.tilesize,
+      this.basesize
+    );
+    drawDeaths(
+      this.c,
+      this.sessions[this.session].deaths,
+      this.tilesize,
+      this.level
+    );
+    this.colorLvlButtons();
+    this.colorPlayButtons();
+  };
+  setParams = (params = { l: this.level, s: this.session }) => {
+    console.log(params);
+    this.level = params.l !== undefined ? params.l : this.level;
+    this.session = params.s !== undefined ? params.s : this.session;
+    this.render();
+  };
+  colorPlayButtons = () => {
+    const max = Math.max(...Object.values(this.sessions).map((v) => v.deathsN));
+    this.playButtons.forEach((button, i) => {
+      const deaths = this.sessions[button.id].deathsN;
+      const deathsHex = Math.round((deaths / max) * 255)
+        .toString(16)
+        .padStart(2, "0");
+        console.log({deathsHex})
+      button.style.backgroundColor = `#ff0000${deathsHex}`;
+    });
+  };
+  colorLvlButtons = () => {
+    const deaths = this.deathsMap[this.session];
+    const max = Math.max(...deaths);
+    this.lvlButtons.forEach((button, i) => {
+      const deathsHex = Math.round((deaths[i] / max) * 255)
+        .toString(16)
+        .padStart(2, "0");
+      button.style.backgroundColor = `#ff0000${deathsHex}`;
+    });
+  };
+}
+window.onload = () => {
+  new State();
+};
+/**
+ * @param {HTMLCanvasElement} canvas
+ * @param {GameMap} map
+ * @param {number} tilesize
+ *
+ */
+const resizeCanvas = (canvas, map, tilesize) => {
+  const { w, h } = map.reduce(
+    (prev, tile) => {
+      if (tile.x + tile.w > prev.w) {
+        prev.w = tile.x + tile.w;
+      }
+      if (tile.y + tile.h > prev.h) {
+        prev.h = tile.y + tile.h;
+      }
+      return prev;
+    },
+    { w: 0, h: 0 }
+  );
+  canvas.width = w * tilesize;
+  canvas.height = h * tilesize;
+  console.log(`Resizing ${w * tilesize} ${h * tilesize}`);
+};
+/**
+ * @param {number[]} maxDeathsArr
+ * @param {function} callback
+ * @returns
+ */
+const levelButtons = (maxDeathsArr, callback) => {
+  /** @type {HTMLButtonElement[]} */
+  const buttons = [];
+  for (let i = 0; i < maxDeathsArr.length; i++) {
+    let btn = document.createElement("BUTTON");
+    btn.innerText = i;
+    btn.title = `Level ${i}`;
+    buttons.push(btn);
+  }
+  buttons.forEach((btn, i) => {
+    btn.onclick = () => {
+      buttons.forEach((b) => b.classList.remove("selected"));
+      btn.classList.add("selected");
+      callback(i);
+    };
+  });
+  return buttons;
+};
+/**
+ * @param {Sessions} sessions
+ * @param {function} callback
+ * @returns
+ */
+const playerButtons = (sessions, callback) => {
+  /** @type {HTMLButtonElement[]} */
+  const buttons = [];
+  let i = 0;
+  for (const player in sessions) {
+    let btn = document.createElement("BUTTON");
+    btn.innerText = i;
+    btn.id = player;
+    btn.title = `Player ${i}`;
+    buttons.push(btn);
+    i++;
+  }
+  buttons.forEach((btn) => {
+    btn.onclick = () => {
+      buttons.forEach((b) => b.classList.remove("selected"));
+      btn.classList.add("selected");
+      callback(btn.id);
+    };
+  });
+  return buttons;
+};
+/**
+ * @param {HTMLCanvasElement} canvas
+ * @param {CanvasRenderingContext2D} c
+ * @param {GameMap} gameMap
+ * @param {Tile[]} tiles
+ * @param {number} tilesize
+ * @param {number} baseSize
+ */
+const drawMap = (canvas, c, gameMap, tiles, tilesize, baseSize) => {
+  const sheet = document.getElementById("sheet");
+  c.clearRect(0, 0, canvas.width, canvas.height);
+  gameMap.forEach((tile) => {
+    for (let j = 0; j < tile.h; j++) {
+      for (let k = 0; k < tile.w; k++) {
+        c.drawImage(
+          sheet,
+          tiles[tile.type][0] * baseSize,
+          tiles[tile.type][1] * baseSize,
+          baseSize,
+          baseSize,
+          (tile.x + k) * tilesize,
+          (tile.y + j) * tilesize,
+          tilesize,
+          tilesize
+        );
+      }
+    }
+  });
+};
+/**
+ * @param {CanvasRenderingContext2D} c
+ * @param {Deaths} deaths
+ * @param {number} tilesize
+ * @param {number} level
+ */
+const drawDeaths = (c, deaths, tilesize, level) => {
+  deaths
+    .filter((d) => d.lvl === level)
+    .forEach(({ x, y }) => {
+      c.beginPath();
+      c.arc(x * tilesize, y * tilesize, tilesize * 1.5, 0, 2 * Math.PI);
+      c.lineWidth = 3;
+      c.strokeStyle = "#FF0000";
+      c.stroke();
+    });
+};

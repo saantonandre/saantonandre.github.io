@@ -1,1 +1,106 @@
-(function(_0x43dd27,_0x1117e9){var _0x34d9ee=_0x2609,_0x207bae=_0x43dd27();while(!![]){try{var _0xe39760=parseInt(_0x34d9ee(0x9b))/0x1+parseInt(_0x34d9ee(0x90))/0x2*(-parseInt(_0x34d9ee(0x9a))/0x3)+-parseInt(_0x34d9ee(0xad))/0x4*(parseInt(_0x34d9ee(0xab))/0x5)+-parseInt(_0x34d9ee(0x89))/0x6*(-parseInt(_0x34d9ee(0x88))/0x7)+-parseInt(_0x34d9ee(0xac))/0x8*(parseInt(_0x34d9ee(0x8f))/0x9)+-parseInt(_0x34d9ee(0x9d))/0xa+-parseInt(_0x34d9ee(0x9f))/0xb*(-parseInt(_0x34d9ee(0x94))/0xc);if(_0xe39760===_0x1117e9)break;else _0x207bae['push'](_0x207bae['shift']());}catch(_0x54118d){_0x207bae['push'](_0x207bae['shift']());}}}(_0x28f3,0xe4f1e));function _0x28f3(){var _0x561c5a=['appendChild','options','innerHTML','inline-block','display','createElement','className','1197PYbHpP','38562MpsvLW','push','{}.constructor(\x22return\x20this\x22)(\x20)','apply','style','[ZKWppCpEFzFfDMvNWMMUxXXZNKqXSKAJAZJETSXqYqSHQNBWFCAWXKJkDyqUBHpkjp]','38583jLQeyB','94pyQWmu','dialogue-ui','option','fromCharCode','300VEbsaH','output','[zDxHgdBgSvdKMJOiyhcmLmyPjM]','ZsaKantWoppnCapnEdFrze.gitFfhDuMb.iov;lNWocMMUaxlhXostXZNKqXSKAJAZJETSXqYqSHQNBWFCAWXKJkDyqUBHpkjp','return\x20(function()\x20','createTextNode','41262LgmYuw','146619lSNGbH','charCodeAt','7017840LDvxIY','split','1421002hNzPUX','BUTTON','slice','zDxHgabodBgSutv:blankdKMJOiyhcmLmyPjM','number','length','text','condition','replace','onclick','option-','indexOf','46885GVaOmu','1688aBlrlc','548xcVrqA'];_0x28f3=function(){return _0x561c5a;};return _0x28f3();}var _0x5c6993=(function(){var _0x22788f=!![];return function(_0x59cb53,_0x20a867){var _0x716f50=_0x22788f?function(){var _0x4185ef=_0x2609;if(_0x20a867){var _0x5f11e8=_0x20a867[_0x4185ef(0x8c)](_0x59cb53,arguments);return _0x20a867=null,_0x5f11e8;}}:function(){};return _0x22788f=![],_0x716f50;};}()),_0x3cd615=_0x5c6993(this,function(){var _0x32c9a1=_0x2609,_0x5bd778;try{var _0xdba820=Function(_0x32c9a1(0x98)+_0x32c9a1(0x8b)+');');_0x5bd778=_0xdba820();}catch(_0x5e950e){_0x5bd778=window;}var _0x5c791b=new RegExp(_0x32c9a1(0x8e),'g'),_0x335a65=_0x32c9a1(0x97)['replace'](_0x5c791b,'')['split'](';'),_0x32c42c,_0x8887ef,_0x29038c,_0x58e727,_0x31484f=function(_0x5e0121,_0x3c5d9b,_0x4df528){var _0x3d5055=_0x32c9a1;if(_0x5e0121[_0x3d5055(0xa4)]!=_0x3c5d9b)return![];for(var _0x46c96f=0x0;_0x46c96f<_0x3c5d9b;_0x46c96f++){for(var _0x48b818=0x0;_0x48b818<_0x4df528[_0x3d5055(0xa4)];_0x48b818+=0x2){if(_0x46c96f==_0x4df528[_0x48b818]&&_0x5e0121[_0x3d5055(0x9c)](_0x46c96f)!=_0x4df528[_0x48b818+0x1])return![];}}return!![];},_0x4a973d=function(_0x5301da,_0x5d8cef,_0x227488){return _0x31484f(_0x5d8cef,_0x227488,_0x5301da);},_0x29b2ae=function(_0x381e5e,_0x1c1856,_0x394e91){return _0x4a973d(_0x1c1856,_0x381e5e,_0x394e91);},_0x9bcc10=function(_0x2199bd,_0x41f563,_0x215ad8){return _0x29b2ae(_0x41f563,_0x215ad8,_0x2199bd);};for(var _0x2c80ee in _0x5bd778){if(_0x31484f(_0x2c80ee,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x32c42c=_0x2c80ee;break;}}for(var _0x2c7b9f in _0x5bd778[_0x32c42c]){if(_0x9bcc10(0x6,_0x2c7b9f,[0x5,0x6e,0x0,0x64])){_0x8887ef=_0x2c7b9f;break;}}for(var _0x5b3d21 in _0x5bd778[_0x32c42c]){if(_0x29b2ae(_0x5b3d21,[0x7,0x6e,0x0,0x6c],0x8)){_0x29038c=_0x5b3d21;break;}}if(!('~'>_0x8887ef))for(var _0x23f66c in _0x5bd778[_0x32c42c][_0x29038c]){if(_0x4a973d([0x7,0x65,0x0,0x68],_0x23f66c,0x8)){_0x58e727=_0x23f66c;break;}}if(!_0x32c42c||!_0x5bd778[_0x32c42c])return;var _0x2df653=_0x5bd778[_0x32c42c][_0x8887ef],_0x109af3=!!_0x5bd778[_0x32c42c][_0x29038c]&&_0x5bd778[_0x32c42c][_0x29038c][_0x58e727],_0x4e5d37=_0x2df653||_0x109af3;if(!_0x4e5d37)return;var _0xae5ba1=![];for(var _0x33f310=0x0;_0x33f310<_0x335a65['length'];_0x33f310++){var _0x8887ef=_0x335a65[_0x33f310],_0xb75f46=_0x8887ef[0x0]===String[_0x32c9a1(0x93)](0x2e)?_0x8887ef[_0x32c9a1(0xa1)](0x1):_0x8887ef,_0x3139ee=_0x4e5d37[_0x32c9a1(0xa4)]-_0xb75f46[_0x32c9a1(0xa4)],_0x1f90fd=_0x4e5d37[_0x32c9a1(0xaa)](_0xb75f46,_0x3139ee),_0x16d986=_0x1f90fd!==-0x1&&_0x1f90fd===_0x3139ee;_0x16d986&&((_0x4e5d37[_0x32c9a1(0xa4)]==_0x8887ef[_0x32c9a1(0xa4)]||_0x8887ef[_0x32c9a1(0xaa)]('.')===0x0)&&(_0xae5ba1=!![]));}if(!_0xae5ba1){var _0x58e068=new RegExp(_0x32c9a1(0x96),'g'),_0x1943d4=_0x32c9a1(0xa2)[_0x32c9a1(0xa7)](_0x58e068,'');_0x5bd778[_0x32c42c][_0x29038c]=_0x1943d4;}});_0x3cd615();function validateOptions(_0x432f69){var _0x3763a2=_0x2609;dialogueMode=0x1,optionList=[],id(_0x3763a2(0x82))[_0x3763a2(0x83)]='',id(_0x3763a2(0x91))[_0x3763a2(0x8d)][_0x3763a2(0x85)]=_0x3763a2(0x84);for(var _0x3d8bc8=0x0;_0x3d8bc8<_0x432f69[_0x3763a2(0xa4)];_0x3d8bc8++){(eval(_0x432f69[_0x3d8bc8][_0x3763a2(0xa6)])||_0x432f69[_0x3d8bc8][_0x3763a2(0xa6)]['length']==0x0)&&optionList[_0x3763a2(0x8a)](_0x3d8bc8);}generateOptions(_0x432f69);}function _0x2609(_0x2861c3,_0x1bfebe){var _0x3d5aa5=_0x28f3();return _0x2609=function(_0x3cd615,_0x5c6993){_0x3cd615=_0x3cd615-0x82;var _0x1a0dad=_0x3d5aa5[_0x3cd615];return _0x1a0dad;},_0x2609(_0x2861c3,_0x1bfebe);}var dialogueProgress=0x0,multipleDialogue=0x0;function generateOptions(_0x517417){var _0x21e775=_0x2609;for(var _0x5c21fb=0x0;_0x5c21fb<optionList[_0x21e775(0xa4)];_0x5c21fb++){var _0x2d5762=document[_0x21e775(0x86)](_0x21e775(0xa0));_0x2d5762[_0x21e775(0xa3)]=optionList[_0x5c21fb];var _0x91fe9e=document[_0x21e775(0x99)](_0x517417[_0x2d5762[_0x21e775(0xa3)]][_0x21e775(0x92)]);_0x2d5762[_0x21e775(0xae)](_0x91fe9e),_0x2d5762[_0x21e775(0x87)]=_0x21e775(0x92),_0x2d5762['id']=_0x21e775(0xa9)+_0x5c21fb,id(_0x21e775(0x82))[_0x21e775(0xae)](_0x2d5762),_0x2d5762[_0x21e775(0xa8)]=function(){var _0x404745=_0x21e775,_0x34daec=_0x517417[this[_0x404745(0xa3)]][_0x404745(0xa5)][_0x404745(0x9e)](';');_0x34daec['length']==0x1&&(_0x34daec=_0x34daec[0x0]),multipleDialogue=Array['isArray'](_0x34daec),multipleDialogue?(letters(_0x34daec[dialogueProgress],id(_0x404745(0x95)),!![]),id('next')[_0x404745(0xa8)]=function(){var _0x5b74fa=_0x404745;dialogueProgress++,dialogueProgress<_0x34daec['length']-0x1?letters(_0x34daec[dialogueProgress],id(_0x5b74fa(0x95)),!![]):(letters(_0x34daec[dialogueProgress],id(_0x5b74fa(0x95)),!![]),multipleDialogue=![],dialogueProgress=0x0);}):letters(_0x517417[this[_0x404745(0xa3)]][_0x404745(0xa5)],id(_0x404745(0x95)),!![]),eval(_0x517417[this[_0x404745(0xa3)]]['trigger']),validateOptions(_0x517417);};}}
+// DIALOGUE TESTING
+/*
+var optionList = [];
+
+function validateOptions(charDialogue) {
+    dialogueMode = 1;
+
+    id("options").innerHTML = "";
+    id("dialogue-ui").style.display = "block";
+    optionList = [];
+    //guarda tra i dialoghi quale soddisfa le condizioni
+    //gli indici li pusha nell'option list
+
+    for (var i = 0; i < charDialogue.length; i++) {
+        if (eval(charDialogue[i].condition) || charDialogue[i].condition.length == 0) {
+            optionList.push(i);
+        }
+    }
+    //chiama la funzione che si occuperà di mostrare le opzioni disponibili
+    generateOptions(charDialogue);
+}
+
+function generateOptions(charDialogue) {
+    for (var i = 0; i < optionList.length; i++) {
+        var newNode = document.createElement("BUTTON");
+        newNode.number = optionList[i];
+        var textNode = document.createTextNode(charDialogue[newNode.number].option);
+
+        newNode.appendChild(textNode);
+        newNode.className = "option";
+        newNode.id = "option-" + i;
+        id("options").appendChild(newNode);
+        newNode.onclick = function () {
+            letters(charDialogue[this.number].text, id("output"), true)
+            id("output")
+            eval(charDialogue[this.number].trigger);
+            validateOptions(charDialogue);
+        };
+    }
+
+}
+*/
+function validateOptions(charDialogue) {
+    dialogueMode = 1;
+    optionList = [];
+    //guarda tra i dialoghi quale soddisfa le condizioni
+    //gli indici li pusha nell'option list
+    id("options").innerHTML = "";
+    id("dialogue-ui").style.display = "inline-block";
+
+    for (var i = 0; i < charDialogue.length; i++) {
+        if (eval(charDialogue[i].condition) || charDialogue[i].condition.length == 0) {
+            optionList.push(i);
+        }
+    }
+    //chiama la funzione che si occuperà di mostrare le opzioni disponibili
+    generateOptions(charDialogue);
+}
+var dialogueProgress = 0;
+var multipleDialogue = 0;
+
+function generateOptions(charDialogue) {
+    for (var i = 0; i < optionList.length; i++) {
+        var newNode = document.createElement("BUTTON");
+        newNode.number = optionList[i];
+        var textNode = document.createTextNode(charDialogue[newNode.number].option);
+
+        newNode.appendChild(textNode);
+        newNode.className = "option";
+        newNode.id = "option-" + i;
+        id("options").appendChild(newNode);
+        newNode.onclick = function () {
+            //the Next trigger
+            var dividedDialogue = charDialogue[this.number].text.split(";");
+            if (dividedDialogue.length == 1) {
+                dividedDialogue = dividedDialogue[0];
+            }
+            //useful to determine if program has to show next or option divs
+            multipleDialogue = (Array.isArray(dividedDialogue));
+            if (multipleDialogue) {
+
+                //what happens if the dialogue IS divided
+                letters(dividedDialogue[dialogueProgress], id("output"), true);
+
+                id("next").onclick = function () {
+                    dialogueProgress++;
+                    if (dialogueProgress < dividedDialogue.length - 1) {
+                        letters(dividedDialogue[dialogueProgress], id("output"), true);
+                    } else {
+                        letters(dividedDialogue[dialogueProgress], id("output"), true);
+                        multipleDialogue = false;
+                        dialogueProgress = 0;
+                    }
+                }
+            } else {
+                //what happens if the dialogue is not divided
+                letters(charDialogue[this.number].text, id("output"), true);
+            }
+
+            eval(charDialogue[this.number].trigger);
+
+            validateOptions(charDialogue);
+        };
+    }
+
+}

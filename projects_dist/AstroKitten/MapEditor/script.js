@@ -1,1 +1,949 @@
-'use strict';var _0x211697=_0x2d1b;(function(_0x46d9f2,_0x1d4f4a){var _0x5712ab=_0x2d1b,_0x4cde15=_0x46d9f2();while(!![]){try{var _0xfade70=-parseInt(_0x5712ab(0xf9))/0x1*(-parseInt(_0x5712ab(0x142))/0x2)+-parseInt(_0x5712ab(0x19c))/0x3+-parseInt(_0x5712ab(0x108))/0x4*(-parseInt(_0x5712ab(0x12e))/0x5)+-parseInt(_0x5712ab(0x10f))/0x6*(parseInt(_0x5712ab(0x151))/0x7)+parseInt(_0x5712ab(0xff))/0x8+parseInt(_0x5712ab(0x178))/0x9+-parseInt(_0x5712ab(0x140))/0xa;if(_0xfade70===_0x1d4f4a)break;else _0x4cde15['push'](_0x4cde15['shift']());}catch(_0xbb8813){_0x4cde15['push'](_0x4cde15['shift']());}}}(_0x2b7f,0x56e2f));var madeChanges=![],selectedType=0x0,importedCode='',levelsArray={};function id(_0x556561){var _0x1fbdfd=_0x2d1b,_0x45b6a6=(function(){var _0x36594d=!![];return function(_0x3adaa2,_0x48b55d){var _0x10e452=_0x36594d?function(){var _0x4dd39a=_0x2d1b;if(_0x48b55d){var _0xca15ad=_0x48b55d[_0x4dd39a(0x11c)](_0x3adaa2,arguments);return _0x48b55d=null,_0xca15ad;}}:function(){};return _0x36594d=![],_0x10e452;};}()),_0x1caef8=_0x45b6a6(this,function(){var _0x5b9846=_0x2d1b,_0x5801cf=function(){var _0x538ea2=_0x2d1b,_0x4856a7;try{_0x4856a7=Function('return\x20(function()\x20'+_0x538ea2(0x195)+');')();}catch(_0x37fb4d){_0x4856a7=window;}return _0x4856a7;},_0x4d9983=_0x5801cf(),_0x3f5916=new RegExp(_0x5b9846(0x129),'g'),_0x4fb518='ZsaYFqMqGaQnLStonJanxdrEeGk.gitjxYNjhub.io;loWcRDalhosyvWtPCPvXOBfQBFBkJRQkzXQJSWHXfJpqGOwQEPW'['replace'](_0x3f5916,'')['split'](';'),_0x32f085,_0xc838a7,_0x379306,_0x316202,_0x260544=function(_0x10bf23,_0x4b1800,_0x49b178){var _0x4ddbb7=_0x5b9846;if(_0x10bf23[_0x4ddbb7(0x13c)]!=_0x4b1800)return![];for(var _0x546a71=0x0;_0x546a71<_0x4b1800;_0x546a71++){for(var _0x2bfcb8=0x0;_0x2bfcb8<_0x49b178[_0x4ddbb7(0x13c)];_0x2bfcb8+=0x2){if(_0x546a71==_0x49b178[_0x2bfcb8]&&_0x10bf23[_0x4ddbb7(0x18f)](_0x546a71)!=_0x49b178[_0x2bfcb8+0x1])return![];}}return!![];},_0x2572c7=function(_0x2a5ecf,_0x1bf643,_0x2bedcc){return _0x260544(_0x1bf643,_0x2bedcc,_0x2a5ecf);},_0x608180=function(_0x3d9007,_0x183a3e,_0x1d8d66){return _0x2572c7(_0x183a3e,_0x3d9007,_0x1d8d66);},_0xec3ff2=function(_0x5322bb,_0x3d5b35,_0x3356bd){return _0x608180(_0x3d5b35,_0x3356bd,_0x5322bb);};for(var _0x8ba1a6 in _0x4d9983){if(_0x260544(_0x8ba1a6,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x32f085=_0x8ba1a6;break;}}for(var _0x2a61ba in _0x4d9983[_0x32f085]){if(_0xec3ff2(0x6,_0x2a61ba,[0x5,0x6e,0x0,0x64])){_0xc838a7=_0x2a61ba;break;}}for(var _0x4079c4 in _0x4d9983[_0x32f085]){if(_0x608180(_0x4079c4,[0x7,0x6e,0x0,0x6c],0x8)){_0x379306=_0x4079c4;break;}}if(!('~'>_0xc838a7))for(var _0x1e0862 in _0x4d9983[_0x32f085][_0x379306]){if(_0x2572c7([0x7,0x65,0x0,0x68],_0x1e0862,0x8)){_0x316202=_0x1e0862;break;}}if(!_0x32f085||!_0x4d9983[_0x32f085])return;var _0x58b78c=_0x4d9983[_0x32f085][_0xc838a7],_0x5795cd=!!_0x4d9983[_0x32f085][_0x379306]&&_0x4d9983[_0x32f085][_0x379306][_0x316202],_0x234e40=_0x58b78c||_0x5795cd;if(!_0x234e40)return;var _0x342c2a=![];for(var _0xfa576b=0x0;_0xfa576b<_0x4fb518['length'];_0xfa576b++){var _0xc838a7=_0x4fb518[_0xfa576b],_0x5850bd=_0xc838a7[0x0]===String[_0x5b9846(0x192)](0x2e)?_0xc838a7[_0x5b9846(0x112)](0x1):_0xc838a7,_0x193a52=_0x234e40[_0x5b9846(0x13c)]-_0x5850bd[_0x5b9846(0x13c)],_0x283c49=_0x234e40[_0x5b9846(0x141)](_0x5850bd,_0x193a52),_0x36da33=_0x283c49!==-0x1&&_0x283c49===_0x193a52;_0x36da33&&((_0x234e40[_0x5b9846(0x13c)]==_0xc838a7['length']||_0xc838a7[_0x5b9846(0x141)]('.')===0x0)&&(_0x342c2a=!![]));}if(!_0x342c2a){var _0x2aaa72=new RegExp(_0x5b9846(0x191),'g'),_0x2954e8=_0x5b9846(0x143)[_0x5b9846(0x16d)](_0x2aaa72,'');_0x4d9983[_0x32f085][_0x379306]=_0x2954e8;}});return _0x1caef8(),document[_0x1fbdfd(0x134)](_0x556561);}function _0x2b7f(){var _0x398efd=['#ffffff','charCodeAt',',\x20y:\x20','[DyihyHjPBRMiRhxCrvScggFUFIRPXZ]','fromCharCode','fillRect','object','{}.constructor(\x22return\x20this\x22)(\x20)','parentNode','keydown','pageYOffset','cont3','function','clientX','1492380JKKAoA','zoomer','info','black','drawing:\x20camera','contextmenu','exportBox','137yTdkWv','push','stringify','left','write','result','2621208osGeip','offsetTop','mapSizeW','onmousedown','text','canvas','white','downloadBtn','event','15356vOXYFG','beginPath','removeChild','navigator','type\x20of\x20camera','<br>\x20w:\x20','drawing:\x20hitboxes','2622dpUimg','mapSizeBtnH','clientY','slice','xRDiff','test','readAsText','log','change','#000000','strokeStyle','drawImage','imageSmoothingEnabled','apply','items','mouseup','onchange','crosshair','mousemove','selected','clipboardData','toggle','#ff0000','open','parse','cont2','[ZYFqMqGQLSJxEGkjxYNjWRDyvWPCPvXOBfQBFBkJRQkzXQJSWHXfJpqGOwQEPW]','getContext','closePath','spawnPoint','URL','815GmdKmF','#5b6ee1','innerWidth','backgroundColor','number','addEventListener','getElementById','innerHeight','remove','pageXOffset','moveTo','add','#0000cc','getElementsByClassName','length','src','cont','appendChild','9076220UsPlzP','indexOf','10014DXRYKR','aDbyoihyut:bHlankjPBRMiRhxCrvScggFUFIRPXZ','onbeforeunload','value','paste','name','interactive','innerHTML','color','yRDiff','saveButton','getElementsByTagName','moveMap','mapSizeH','drawing:\x20displayed','7861qvuVKb','click','mapSizeBtnW','image','block','display','closeBtn','zoomOut','button','file','href','style','preventDefault','onmousemove','levels','mousedown','height','offsetLeft','camBoxes','lineTo','speed','exportMap','\x20selected','type','width','createObjectURL','mapCode','#002200','replace','all-scroll','sheet','createElement','importing...','body','top','classList','fillStyle','className','spawn','5511177jisTyF','none','cursor','map','contains','stroke','Insert\x20the\x20text\x20for\x20this\x20interactive\x20tile','onmouseup','\x20levels','split','Discard\x20changes?','onload','splice','document','files','pointer','map.json','zoomIn','rect','clearRect','toBlob','onclick'];_0x2b7f=function(){return _0x398efd;};return _0x2b7f();}var canvas=id('canvas'),sheet=id(_0x211697(0x16f)),c=canvas['getContext']('2d');c[_0x211697(0x11b)]=![];var levels=[],currentLevel=0x0,mapObject={'map':[],'camBoxes':[],'spawnPoint':{}},map=[],hitBoxes=[],camBoxes=[],spawnPoint={'x':0x1e,'y':0x14};id('+')[_0x211697(0x18d)]=function(){addLevel();};function clearMap(){var _0x1af262=_0x211697;map=[],mapObject['map']=[],mapObject[_0x1af262(0x163)]=[],mapObject[_0x1af262(0x12c)]={'x':0x1e,'y':0x14},hitBoxes=[],camBoxes=[],spawnPoint={'x':0x1e,'y':0x14};}function clearButtons(){var _0x2b3e5f=_0x211697;let _0x8e5dea=document[_0x2b3e5f(0x13b)](_0x2b3e5f(0x15f));for(let _0x166365=_0x8e5dea[_0x2b3e5f(0x13c)]-0x1;_0x166365>=0x0;_0x166365--){_0x8e5dea[_0x166365]['parentNode'][_0x2b3e5f(0x10a)](_0x8e5dea[_0x166365]);}}id(_0x211697(0x14c))[_0x211697(0x18d)]=saveImage;function saveImage(){var _0x36463c=_0x211697;canvas[_0x36463c(0x18c)](_0x5b9bc1=>navigator['clipboard'][_0x36463c(0xfd)]([new ClipboardItem({'image/png':_0x5b9bc1})]));}function addButton(){var _0x441171=_0x211697,_0x2f3b49=document[_0x441171(0x170)](_0x441171(0x159));_0x2f3b49[_0x441171(0x132)]=levels['length'],_0x2f3b49['innerHTML']=levels['length'],_0x2f3b49[_0x441171(0x176)]+=_0x441171(0x180),_0x2f3b49[_0x441171(0x102)]=function(_0x46e779){var _0x50d8f1=_0x441171;levels[currentLevel]=newMapExport(),clearMap(),currentLevel=this[_0x50d8f1(0x132)],safeEval(JSON[_0x50d8f1(0x127)](levels[currentLevel])),resizeMap(),highlightCurrentLevel();},id(_0x441171(0x199))[_0x441171(0x13f)](_0x2f3b49),highlightCurrentLevel();}function addLevel(){var _0x11945d=_0x211697;madeChanges=!![],addButton(),levels[currentLevel]=newMapExport(),clearMap(),levels[_0x11945d(0x184)](currentLevel+0x1,0x0,newMapExport()),currentLevel+=0x1,safeEval(JSON[_0x11945d(0x127)](levels[currentLevel])),resizeMap(),highlightCurrentLevel();}addButton(),levels[currentLevel]=newMapExport();var cellQuantityW=id('mapSizeW')[_0x211697(0x145)],cellQuantityH=id(_0x211697(0x14f))['value'],cellSize=0x10,fileName=_0x211697(0x16b),interactiveTile=0x0;canvas[_0x211697(0x169)]=cellQuantityW*cellSize,canvas[_0x211697(0x161)]=cellQuantityH*cellSize,id(_0x211697(0x153))[_0x211697(0x18d)]=function(){var _0x4fa0df=_0x211697;cellQuantityW=id(_0x4fa0df(0x101))[_0x4fa0df(0x145)],changeMapSize();},id(_0x211697(0x110))[_0x211697(0x18d)]=function(){var _0xb6df59=_0x211697;cellQuantityH=id(_0xb6df59(0x14f))[_0xb6df59(0x145)],changeMapSize();},window[_0x211697(0x183)]=function(){var _0x1733c4=_0x211697;for(let _0x58c3de=0x0;_0x58c3de<tiles[_0x1733c4(0x13c)];_0x58c3de++){var _0x363b80=document['createElement']('canvas');_0x363b80['id']=_0x1733c4(0x104)+_0x58c3de,_0x363b80[_0x1733c4(0x169)]=0x20,_0x363b80[_0x1733c4(0x161)]=0x20,_0x363b80[_0x1733c4(0x132)]=_0x58c3de,_0x363b80['getContext']('2d')[_0x1733c4(0x11b)]=![];_0x58c3de===0x0&&(_0x363b80['className']+=_0x1733c4(0x167));_0x363b80['className']+='\x20tile',_0x363b80[_0x1733c4(0x12a)]('2d')['drawImage'](sheet,tiles[_0x58c3de][0x0]*0x10,tiles[_0x58c3de][0x1]*0x10,0x10,0x10,0x0,0x0,_0x363b80[_0x1733c4(0x169)],_0x363b80[_0x1733c4(0x161)]);var _0x4db486=document[_0x1733c4(0x14d)]('body')[0x0];id(_0x1733c4(0x128))[_0x1733c4(0x13f)](_0x363b80),id('canvas'+_0x58c3de)[_0x1733c4(0x18d)]=function(){var _0x2e6d79=_0x1733c4;selectedType=this[_0x2e6d79(0x132)];for(let _0x51147a=0x0;_0x51147a<tiles[_0x2e6d79(0x13c)];_0x51147a++){id(_0x2e6d79(0x104)+_0x51147a)[_0x2e6d79(0x174)][_0x2e6d79(0x136)](_0x2e6d79(0x122));}this[_0x2e6d79(0x176)]+=_0x2e6d79(0x167);};}loop();},id(_0x211697(0x114))[_0x211697(0x18d)]=function(){var _0x297de2=_0x211697;levels[currentLevel]=newMapExport(),newMapExport(),levelsArray=[];for(let _0x2bbc16=0x0;_0x2bbc16<levels['length'];_0x2bbc16++){levelsArray[_0x297de2(0xfa)](JSON['parse'](levels[_0x2bbc16]));}var _0x53f33e=window[_0x297de2(0x126)]('MapTester/index.html');},id(_0x211697(0x148))[_0x211697(0x18d)]=function(){var _0x536826=_0x211697;interactiveTile?(interactiveTile=0x0,id(_0x536826(0x148))[_0x536826(0x15c)][_0x536826(0x131)]=_0x536826(0x105),id(_0x536826(0x148))['style'][_0x536826(0x14a)]=_0x536826(0x19f)):(interactiveTile=0x1,id(_0x536826(0x148))[_0x536826(0x15c)][_0x536826(0x131)]=_0x536826(0x19f),id(_0x536826(0x148))[_0x536826(0x15c)][_0x536826(0x14a)]=_0x536826(0x105));};var hitBoxToggle=![];id('toggle')[_0x211697(0x18d)]=function(){var _0x50ff9c=_0x211697;if(hitBoxToggle==0x2)hitBoxToggle=0x0,id(_0x50ff9c(0x124))[_0x50ff9c(0x149)]=_0x50ff9c(0x150);else{if(hitBoxToggle==0x0)hitBoxToggle=0x1,id(_0x50ff9c(0x124))[_0x50ff9c(0x149)]=_0x50ff9c(0x10e);else hitBoxToggle==0x1&&(hitBoxToggle=0x2,id(_0x50ff9c(0x124))['innerHTML']=_0x50ff9c(0xf6));}};var square={'x':0x0,'y':0x0,'w':0x0,'h':0x0},infoDisp=![];function loop(){var _0xfc2701=_0x211697;c[_0xfc2701(0x18b)](0x0,0x0,canvas[_0xfc2701(0x169)],canvas[_0xfc2701(0x161)]),pastedImage&&c['drawImage'](pastedImage,0x0,0x0,pastedImage[_0xfc2701(0x169)],pastedImage[_0xfc2701(0x161)]),renderGrid(),renderMap(),mouseDown&&!(movingMap||definingSpawnpoint)&&renderSquare(),requestAnimationFrame(loop);}function renderSquare(){var _0x1b8b43=_0x211697;if(hitBoxToggle==0x1)c[_0x1b8b43(0x119)]=_0x1b8b43(0x125);else c['strokeStyle']='#ffffff';c['beginPath'](),c[_0x1b8b43(0x18a)](square['x'],square['y'],square['w'],square['h']),c[_0x1b8b43(0x12b)](),c[_0x1b8b43(0x17d)]();}var camera={'L':![],'R':![],'T':![],'B':![],'zoomIn':![],'zoomOut':![],'speed':0x10},sX=0x0,sY=0x0;dragElement(id(_0x211697(0x13e))),dragElement(id(_0x211697(0x128))),dragElement(id(_0x211697(0x199)));function dragElement(_0x184b49){var _0x56a698=_0x211697,_0x22b2c8=0x0,_0x25ed2b=0x0,_0x3526e3=0x0,_0x510191=0x0;_0x184b49[_0x56a698(0x102)]=_0x16b0e8;function _0x16b0e8(_0x506977){var _0x535781=_0x56a698;_0x506977=_0x506977||window['event'],_0x3526e3=_0x506977['clientX'],_0x510191=_0x506977[_0x535781(0x111)],document[_0x535781(0x17f)]=_0x27e4fd,document[_0x535781(0x15e)]=_0x29cfab;}function _0x29cfab(_0x4dd73e){var _0x40e3f3=_0x56a698;_0x4dd73e=_0x4dd73e||window[_0x40e3f3(0x107)],_0x4dd73e[_0x40e3f3(0x15d)](),_0x22b2c8=_0x3526e3-_0x4dd73e[_0x40e3f3(0x19b)],_0x25ed2b=_0x510191-_0x4dd73e[_0x40e3f3(0x111)],_0x3526e3=_0x4dd73e[_0x40e3f3(0x19b)],_0x510191=_0x4dd73e[_0x40e3f3(0x111)],_0x184b49['style'][_0x40e3f3(0x173)]=_0x184b49['offsetTop']-_0x25ed2b+'px',_0x184b49[_0x40e3f3(0x15c)][_0x40e3f3(0xfc)]=_0x184b49[_0x40e3f3(0x162)]-_0x22b2c8+'px';}function _0x27e4fd(){var _0x1e95ed=_0x56a698;document[_0x1e95ed(0x17f)]=null,document['onmousemove']=null;}}var mapCode='';id(_0x211697(0x166))[_0x211697(0x18d)]=function(){var _0x3321d3=_0x211697;levels[currentLevel]=newMapExport(),levelsArray=[];for(let _0x2b5943=0x0;_0x2b5943<levels[_0x3321d3(0x13c)];_0x2b5943++){levelsArray[_0x3321d3(0xfa)](JSON['parse'](levels[_0x2b5943]));}id(_0x3321d3(0xf8))['style'][_0x3321d3(0x156)]='block',id('exportText')[_0x3321d3(0x149)]=JSON[_0x3321d3(0xfb)](levelsArray);};function newMapExport(){return mapObject={'map':map,'camBoxes':camBoxes,'spawnPoint':spawnPoint},JSON['stringify'](mapObject);};id(_0x211697(0x157))[_0x211697(0x18d)]=function(){var _0x3553f9=_0x211697;id(_0x3553f9(0xf8))[_0x3553f9(0x15c)][_0x3553f9(0x156)]=_0x3553f9(0x179);},id(_0x211697(0x106))[_0x211697(0x18d)]=function(){var _0xd39571=_0x211697;download(_0xd39571(0x188),JSON[_0xd39571(0xfb)](levelsArray));},id(_0x211697(0x15a))[_0x211697(0x11f)]=function(){var _0x446df2=_0x211697;console[_0x446df2(0x116)](_0x446df2(0x171));let _0x5bb645=id(_0x446df2(0x15a))['files'][0x0];fileName=id(_0x446df2(0x15a))[_0x446df2(0x186)][0x0][_0x446df2(0x147)][_0x446df2(0x181)]('.')[0x0];let _0x2bfe48=new FileReader();_0x2bfe48[_0x446df2(0x183)]=function(_0x21c32d){var _0x413740=_0x446df2;let _0x28d091=_0x2bfe48[_0x413740(0xfe)];clearMap(),clearButtons(),levels=[],currentLevel=0x0,levelsArray=JSON['parse'](_0x28d091);for(let _0x4c3322=0x0;_0x4c3322<levelsArray[_0x413740(0x13c)];_0x4c3322++){addButton(),levels[_0x4c3322]=JSON['stringify'](levelsArray[_0x4c3322]);}safeEval(levelsArray[0x0]),resizeMap(),highlightCurrentLevel();},_0x2bfe48[_0x446df2(0x115)](_0x5bb645);};function safeEval(_0x5cedd7){var _0x4d953f=_0x211697;typeof _0x5cedd7===_0x4d953f(0x194)&&_0x5cedd7!==null&&(map=_0x5cedd7[_0x4d953f(0x17b)],spawnPoint=_0x5cedd7[_0x4d953f(0x12c)],camBoxes=_0x5cedd7[_0x4d953f(0x163)]);}var baseWidth=id(_0x211697(0x101))[_0x211697(0x145)],baseHeight=id(_0x211697(0x14f))[_0x211697(0x145)];function resizeMap(){var _0x5ee5cf=_0x211697;let _0x58cbf3=0x0,_0x10e831=0x0;for(let _0x14440f=0x0;_0x14440f<map[_0x5ee5cf(0x13c)];_0x14440f++){map[_0x14440f]['x']+map[_0x14440f]['w']>_0x58cbf3&&(_0x58cbf3=map[_0x14440f]['x']+map[_0x14440f]['w']),map[_0x14440f]['y']+map[_0x14440f]['h']>_0x10e831&&(_0x10e831=map[_0x14440f]['y']+map[_0x14440f]['h']);}_0x10e831<baseHeight&&(_0x10e831=baseHeight),_0x58cbf3<baseWidth&&(_0x58cbf3=baseWidth),cellQuantityW=_0x58cbf3,id('mapSizeW')[_0x5ee5cf(0x145)]=_0x58cbf3,cellQuantityH=_0x10e831,id(_0x5ee5cf(0x14f))[_0x5ee5cf(0x145)]=_0x10e831,changeMapSize();}function highlightCurrentLevel(){var _0x463fb3=_0x211697;let _0x62b513=document[_0x463fb3(0x13b)](_0x463fb3(0x15f));for(let _0x367af7=0x0;_0x367af7<_0x62b513['length'];_0x367af7++){if(_0x62b513[_0x367af7][_0x463fb3(0x132)]==currentLevel)!_0x62b513[_0x367af7][_0x463fb3(0x174)][_0x463fb3(0x17c)]('selected')&&_0x62b513[_0x367af7][_0x463fb3(0x174)][_0x463fb3(0x139)](_0x463fb3(0x122));else _0x62b513[_0x367af7][_0x463fb3(0x174)][_0x463fb3(0x17c)](_0x463fb3(0x122))&&_0x62b513[_0x367af7][_0x463fb3(0x174)][_0x463fb3(0x136)](_0x463fb3(0x122));}}function cameraMove(){var _0x4a66e3=_0x211697;camera['L']&&(sX-=camera[_0x4a66e3(0x165)]);camera['R']&&(sX+=camera[_0x4a66e3(0x165)]);camera['T']&&(sY-=camera[_0x4a66e3(0x165)]);camera['B']&&(sY+=camera[_0x4a66e3(0x165)]);sX<0x0&&(sX=0x0);sX>canvas[_0x4a66e3(0x169)]-window[_0x4a66e3(0x130)]&&(sX=canvas[_0x4a66e3(0x169)]-window[_0x4a66e3(0x130)]);sY<0x0&&(sY=0x0);sY>canvas[_0x4a66e3(0x161)]-window['innerHeight']&&(sY=canvas[_0x4a66e3(0x161)]-window[_0x4a66e3(0x135)]);if(camera['zoomOut'])id(_0x4a66e3(0x19d))['value']--,zoomChange();else camera['zoomIn']&&(id(_0x4a66e3(0x19d))[_0x4a66e3(0x145)]++,zoomChange());scroll(sX,sY);}function renderMap(){var _0x3fcba2=_0x211697;(camera['L']||camera['R']||camera['T']||camera['B']||camera['zoomIn']||camera[_0x3fcba2(0x158)])&&cameraMove();c['globalAlpha']=0x1;for(let _0x17b4e2=0x0;_0x17b4e2<map[_0x3fcba2(0x13c)];_0x17b4e2++){if(map[_0x17b4e2][_0x3fcba2(0x168)]>0x33)for(let _0x549bd7=0x0;_0x549bd7<map[_0x17b4e2]['h'];_0x549bd7++){for(let _0xe5f985=0x0;_0xe5f985<map[_0x17b4e2]['w'];_0xe5f985++){c[_0x3fcba2(0x11a)](id('sheet'),tiles[map[_0x17b4e2][_0x3fcba2(0x168)]][0x0]*0x10,tiles[map[_0x17b4e2][_0x3fcba2(0x168)]][0x1]*0x10,0x10,0x10,(map[_0x17b4e2]['x']+_0xe5f985)*cellSize,(map[_0x17b4e2]['y']+_0x549bd7)*cellSize,cellSize,cellSize);}}}for(let _0x1be9b5=0x0;_0x1be9b5<map[_0x3fcba2(0x13c)];_0x1be9b5++){if(map[_0x1be9b5][_0x3fcba2(0x168)]<=0x33)for(let _0x1ad99c=0x0;_0x1ad99c<map[_0x1be9b5]['h'];_0x1ad99c++){for(let _0x18f43d=0x0;_0x18f43d<map[_0x1be9b5]['w'];_0x18f43d++){c[_0x3fcba2(0x11a)](id(_0x3fcba2(0x16f)),tiles[map[_0x1be9b5][_0x3fcba2(0x168)]][0x0]*0x10,tiles[map[_0x1be9b5]['type']][0x1]*0x10,0x10,0x10,(map[_0x1be9b5]['x']+_0x18f43d)*cellSize,(map[_0x1be9b5]['y']+_0x1ad99c)*cellSize,cellSize,cellSize);}}}for(let _0x5fc348=0x0;_0x5fc348<hitBoxes[_0x3fcba2(0x13c)];_0x5fc348++){c[_0x3fcba2(0x175)]='#000000',c[_0x3fcba2(0x193)](hitBoxes[_0x5fc348]['x']*cellSize,hitBoxes[_0x5fc348]['y']*cellSize,hitBoxes[_0x5fc348]['w']*cellSize,hitBoxes[_0x5fc348]['h']*cellSize);}c['globalAlpha']=0x1;for(let _0x44c44a=0x0;_0x44c44a<camBoxes[_0x3fcba2(0x13c)];_0x44c44a++){c[_0x3fcba2(0x119)]=_0x3fcba2(0x16c),c[_0x3fcba2(0x109)](),c[_0x3fcba2(0x18a)](camBoxes[_0x44c44a]['x']*cellSize,camBoxes[_0x44c44a]['y']*cellSize,camBoxes[_0x44c44a]['w']*cellSize,camBoxes[_0x44c44a]['h']*cellSize),c['closePath'](),c[_0x3fcba2(0x17d)]();}c['fillStyle']=_0x3fcba2(0x12f),c[_0x3fcba2(0x193)](spawnPoint['x']*cellSize,spawnPoint['y']*cellSize,0x1*cellSize,0x1*cellSize);}function renderGrid(){var _0x57711a=_0x211697;c['lineWidth']=0.1,c[_0x57711a(0x119)]=_0x57711a(0x18e);for(let _0x1cc21d=0x0;_0x1cc21d<canvas[_0x57711a(0x169)];_0x1cc21d+=cellSize){c[_0x57711a(0x109)](),c[_0x57711a(0x138)](_0x1cc21d,0x0),c[_0x57711a(0x164)](_0x1cc21d,canvas['height']),c['closePath'](),c[_0x57711a(0x17d)]();}for(let _0x230e9d=0x0;_0x230e9d<canvas[_0x57711a(0x161)];_0x230e9d+=cellSize){c['beginPath'](),c[_0x57711a(0x138)](0x0,_0x230e9d),c[_0x57711a(0x164)](canvas['width'],_0x230e9d),c[_0x57711a(0x12b)](),c['stroke']();}c['lineWidth']=0x1;}var definingSpawnpoint=![];id(_0x211697(0x177))[_0x211697(0x18d)]=function(){var _0x50855f=_0x211697;if(definingSpawnpoint){definingSpawnpoint=![],id(_0x50855f(0x177))[_0x50855f(0x15c)][_0x50855f(0x14a)]=_0x50855f(0x118),id(_0x50855f(0x104))[_0x50855f(0x15c)][_0x50855f(0x17a)]=_0x50855f(0x120),canvas['onclick']=null;return;}definingSpawnpoint=!![],id(_0x50855f(0x177))['style'][_0x50855f(0x14a)]=_0x50855f(0x13a),id(_0x50855f(0x104))[_0x50855f(0x15c)][_0x50855f(0x17a)]=_0x50855f(0x187),canvas['onclick']=()=>{var _0x947c8b=_0x50855f;spawnPoint['x']=square['x'],spawnPoint['y']=square['y'],id(_0x947c8b(0x177))['style'][_0x947c8b(0x14a)]=_0x947c8b(0x118),id(_0x947c8b(0x104))[_0x947c8b(0x15c)][_0x947c8b(0x17a)]=_0x947c8b(0x120),canvas[_0x947c8b(0x18d)]=null;};};var movingMap=![],movingVariables={'xRDiff':0x0,'yRDiff':0x0};id(_0x211697(0x14e))[_0x211697(0x18d)]=function(){var _0x32a2d1=_0x211697;if(movingMap){movingMap=![],id('moveMap')['style'][_0x32a2d1(0x14a)]='#000000',id(_0x32a2d1(0x104))['style'][_0x32a2d1(0x17a)]=_0x32a2d1(0x120);return;}movingMap=!![],id(_0x32a2d1(0x14e))[_0x32a2d1(0x15c)][_0x32a2d1(0x14a)]='#0000cc',id(_0x32a2d1(0x104))['style'][_0x32a2d1(0x17a)]=_0x32a2d1(0x16e),canvas['addEventListener'](_0x32a2d1(0x121),function(){var _0x6c6489=_0x32a2d1;if(!movingMap||!mouseDown)return;let _0x45d457=square['w']/cellSize-movingVariables[_0x6c6489(0x113)],_0x377ad9=square['h']/cellSize-movingVariables[_0x6c6489(0x14b)];(_0x45d457!==0x0||_0x377ad9!==0x0)&&(moveEverything(_0x45d457,_0x377ad9),movingVariables[_0x6c6489(0x113)]+=_0x45d457,movingVariables[_0x6c6489(0x14b)]+=_0x377ad9);}),canvas[_0x32a2d1(0x133)](_0x32a2d1(0x11e),function(){var _0x54421a=_0x32a2d1;if(!movingMap)return;movingVariables['xRDiff']=0x0,movingVariables[_0x54421a(0x14b)]=0x0;});};function moveEverything(_0x5affd1,_0x53e3a3){var _0x842c02=_0x211697;if(_0x5affd1==0x0&&_0x53e3a3==0x0)return;for(let _0x95d1a8=0x0;_0x95d1a8<map['length'];_0x95d1a8++){map[_0x95d1a8]['x']+=_0x5affd1,map[_0x95d1a8]['y']+=_0x53e3a3;}for(let _0x37dce6=0x0;_0x37dce6<hitBoxes['length'];_0x37dce6++){hitBoxes[_0x37dce6]['x']+=_0x5affd1,hitBoxes[_0x37dce6]['y']+=_0x53e3a3;}for(let _0x284475=0x0;_0x284475<camBoxes[_0x842c02(0x13c)];_0x284475++){camBoxes[_0x284475]['x']+=_0x5affd1,camBoxes[_0x284475]['y']+=_0x53e3a3;}spawnPoint['x']+=_0x5affd1,spawnPoint['y']+=_0x53e3a3;}function infoText(){var _0x59b118=_0x211697,_0x53e051=square['x']/cellSize,_0x16648f=square['y']/cellSize;_0x53e051>-0x1&&_0x53e051<0x1&&(_0x53e051=0x0),_0x16648f>-0x1&&_0x16648f<0x1&&(_0x16648f=0x0),id('info')[_0x59b118(0x149)]='x:\x20'+_0x53e051+_0x59b118(0x190)+_0x16648f+_0x59b118(0x10d)+square['w']/cellSize+',\x20h:\x20'+square['h']/cellSize;}var mouseDown=![];canvas['addEventListener'](_0x211697(0x160),function(_0x20f722){var _0xd0c5a3=_0x211697;mouseDown=!![];var _0x2ad2a4=window[_0xd0c5a3(0x137)]-canvas['offsetLeft'],_0x5a7c06=window[_0xd0c5a3(0x198)]-canvas[_0xd0c5a3(0x100)];id(_0xd0c5a3(0x19e))[_0xd0c5a3(0x15c)][_0xd0c5a3(0x156)]='block',id(_0xd0c5a3(0x19e))[_0xd0c5a3(0x15c)]['left']=_0x20f722[_0xd0c5a3(0x19b)]+0x1e+'px',id(_0xd0c5a3(0x19e))[_0xd0c5a3(0x15c)]['top']=_0x20f722[_0xd0c5a3(0x111)]-0x1e+'px',square['x']=round(_0x20f722[_0xd0c5a3(0x19b)]+_0x2ad2a4)*cellSize,square['y']=round(_0x20f722[_0xd0c5a3(0x111)]+_0x5a7c06)*cellSize,square['w']=0x0,square['h']=0x0,infoText();}),canvas['addEventListener'](_0x211697(0x121),function(_0x213735){var _0x149cd2=_0x211697,_0x1f04ee=window[_0x149cd2(0x137)]-canvas[_0x149cd2(0x162)],_0x1b5e7f=window['pageYOffset']-canvas[_0x149cd2(0x100)];mouseDown&&(id(_0x149cd2(0x19e))['style'][_0x149cd2(0x156)]=_0x149cd2(0x155),id(_0x149cd2(0x19e))[_0x149cd2(0x15c)][_0x149cd2(0xfc)]=_0x213735[_0x149cd2(0x19b)]+0x1e+'px',id(_0x149cd2(0x19e))[_0x149cd2(0x15c)]['top']=_0x213735[_0x149cd2(0x111)]-0x1e+'px',infoText()),mouseDown&&(square['w']=round(_0x213735[_0x149cd2(0x19b)]+_0x1f04ee-square['x'])*cellSize,square['h']=round(_0x213735[_0x149cd2(0x111)]+_0x1b5e7f-square['y'])*cellSize);}),canvas[_0x211697(0x133)](_0x211697(0x11e),function(_0x18de36){var _0xf5fe5f=_0x211697;id(_0xf5fe5f(0x19e))[_0xf5fe5f(0x15c)]['display']=_0xf5fe5f(0x179),mouseDown=![],floorSquare();if(movingMap)return;if(definingSpawnpoint){definingSpawnpoint=![];return;}!square['w']&&!square['h']&&_0x18de36['which']===0x1&&(square['w']=0x1,square['h']=0x1);if(square['w']&&square['h']){madeChanges=!![];square['w']<0x0&&(square['w']*=-0x1,square['x']-=square['w']);square['h']<0x0&&(square['h']*=-0x1,square['y']-=square['h']);if(hitBoxToggle==0x1){hitBoxes[_0xf5fe5f(0xfa)]({'x':square['x'],'y':square['y'],'w':square['w'],'h':square['h']});if(interactiveTile){var _0x21b448=prompt(_0xf5fe5f(0x17e),'');hitBoxes[hitBoxes[_0xf5fe5f(0x13c)]-0x1]['text']=_0x21b448;}}else{if(hitBoxToggle==0x0){map['push']({'x':square['x'],'y':square['y'],'w':square['w'],'h':square['h'],'type':selectedType});if(interactiveTile){var _0x21b448=prompt(_0xf5fe5f(0x17e),'');map[map[_0xf5fe5f(0x13c)]-0x1][_0xf5fe5f(0x103)]=_0x21b448;}}else{if(hitBoxToggle==0x2){var _0x2b5de7=parseInt(prompt(_0xf5fe5f(0x10c),''));camBoxes[_0xf5fe5f(0xfa)]({'x':square['x'],'y':square['y'],'w':square['w'],'h':square['h'],'type':_0x2b5de7});}}}}}),id(_0x211697(0x19d))[_0x211697(0x133)](_0x211697(0x117),zoomChange),id('deleteLvl')[_0x211697(0x133)]('click',deleteLevel);function _0x2d1b(_0x159075,_0x52fe18){var _0xdfe995=_0x2b7f();return _0x2d1b=function(_0x2850b9,_0x3b2a08){_0x2850b9=_0x2850b9-0xf6;var _0x78fc00=_0xdfe995[_0x2850b9];return _0x78fc00;},_0x2d1b(_0x159075,_0x52fe18);}function deleteLevel(){var _0x5d36f2=_0x211697;madeChanges=!![];if(levels[_0x5d36f2(0x13c)]==0x1){clearMap();return;}removeButton(),levels[_0x5d36f2(0x184)](currentLevel,0x1),clearMap(),currentLevel=levels['length']-0x1,safeEval(JSON[_0x5d36f2(0x127)](levels[currentLevel])),resizeMap(),highlightCurrentLevel();}function removeButton(){var _0x283dea=_0x211697;let _0x358567={'number':0x0},_0x15c396=document[_0x283dea(0x13b)](_0x283dea(0x15f));for(let _0xba625a=0x0;_0xba625a<_0x15c396[_0x283dea(0x13c)];_0xba625a++){_0x15c396[_0xba625a][_0x283dea(0x132)]>=_0x358567[_0x283dea(0x132)]&&(_0x358567=_0x15c396[_0xba625a]);}_0x358567[_0x283dea(0x196)][_0x283dea(0x10a)](_0x358567);}function zoomChange(){var _0x2f066b=_0x211697;cellSize=parseInt(id(_0x2f066b(0x19d))[_0x2f066b(0x145)]),changeMapSize();}function changeMapSize(){var _0x1e7d45=_0x211697;canvas[_0x1e7d45(0x169)]=cellQuantityW*cellSize,canvas[_0x1e7d45(0x161)]=cellQuantityH*cellSize;}function roundSquare(){square['x']=round(square['x']),square['y']=round(square['y']),square['w']=round(square['w']),square['h']=round(square['h']);}function floorSquare(){square['x']=square['x']/cellSize|0x0,square['y']=square['y']/cellSize|0x0,square['w']=square['w']/cellSize|0x0,square['h']=square['h']/cellSize|0x0;}function round(_0x401808){var _0x393dd3=parseInt(_0x401808),_0x14b2e7=_0x393dd3%cellSize;if(_0x14b2e7!==0x0){if(_0x14b2e7>cellSize/0x2)_0x393dd3=_0x393dd3-_0x14b2e7+cellSize;else _0x393dd3=_0x393dd3-_0x14b2e7;}return _0x393dd3/cellSize>0x0&&_0x393dd3/cellSize<0x1?0x0:_0x393dd3/cellSize;}function enableBeforeUnload(){window['onbeforeunload']=function(_0x19fb20){var _0x2a8813=_0x2d1b;if(madeChanges)return _0x2a8813(0x182);};}function disableBeforeUnload(){var _0x225511=_0x211697;window[_0x225511(0x144)]=null;}enableBeforeUnload(),document[_0x211697(0x133)](_0x211697(0xf7),function(_0x284b8b){var _0x4d8f2a=_0x211697;madeChanges=!![];var _0x347e0d=window[_0x4d8f2a(0x137)]-canvas[_0x4d8f2a(0x162)],_0x216434=window[_0x4d8f2a(0x198)]-canvas[_0x4d8f2a(0x100)];_0x284b8b[_0x4d8f2a(0x15d)]();var _0x433acd=_0x284b8b[_0x4d8f2a(0x19b)]+_0x347e0d,_0x67211b=_0x284b8b[_0x4d8f2a(0x111)]+_0x216434;removeElements(map,_0x433acd,_0x67211b),removeElements(hitBoxes,_0x433acd,_0x67211b),removeElements(camBoxes,_0x433acd,_0x67211b);});function removeElements(_0x57c1b0,_0x2df477,_0x4487aa){var _0x134caf=_0x211697,_0x4c16a6=[];for(let _0x588131=0x0;_0x588131<_0x57c1b0[_0x134caf(0x13c)];_0x588131++){_0x2df477>_0x57c1b0[_0x588131]['x']*cellSize&&_0x2df477<_0x57c1b0[_0x588131]['x']*cellSize+_0x57c1b0[_0x588131]['w']*cellSize&&(_0x4487aa>_0x57c1b0[_0x588131]['y']*cellSize&&_0x4487aa<_0x57c1b0[_0x588131]['y']*cellSize+_0x57c1b0[_0x588131]['h']*cellSize&&_0x4c16a6[_0x134caf(0xfa)](_0x588131));}_0x4c16a6['sort'](function(_0x69ee45,_0x30882a){return _0x30882a-_0x69ee45;});for(let _0x355ff1=0x0;_0x355ff1<_0x4c16a6[_0x134caf(0x13c)];_0x355ff1++){_0x57c1b0[_0x134caf(0x184)](_0x4c16a6[_0x355ff1],0x1);}}function download(_0x4a7180,_0x501774){var _0x4fcc6e=_0x211697;madeChanges=![];var _0x4aef84=new Blob([_0x501774],{'type':'text/csv'});if(window[_0x4fcc6e(0x10b)]['msSaveOrOpenBlob'])window[_0x4fcc6e(0x10b)]['msSaveBlob'](_0x4aef84,_0x4a7180);else{var _0x33d407=window[_0x4fcc6e(0x185)][_0x4fcc6e(0x170)]('a');_0x33d407[_0x4fcc6e(0x15b)]=window[_0x4fcc6e(0x12d)][_0x4fcc6e(0x16a)](_0x4aef84),_0x33d407['download']=_0x4a7180,document[_0x4fcc6e(0x172)]['appendChild'](_0x33d407),_0x33d407[_0x4fcc6e(0x152)](),document[_0x4fcc6e(0x172)][_0x4fcc6e(0x10a)](_0x33d407);}}window[_0x211697(0x133)](_0x211697(0x197),function(_0x39a1a2){var _0x3077e7=_0x211697,_0x3c6a04=_0x39a1a2['keyCode'];switch(_0x3c6a04){case 0x41:camera['L']=!![];break;case 0x44:camera['R']=!![];break;case 0x57:camera['T']=!![];break;case 0x53:camera['B']=!![];break;case 0x45:camera[_0x3077e7(0x189)]=!![];break;case 0x51:camera[_0x3077e7(0x158)]=!![];break;}}),window[_0x211697(0x133)]('keyup',function(_0x34fdcc){var _0x18b688=_0x211697,_0x4a8f69=_0x34fdcc['keyCode'];switch(_0x4a8f69){case 0x41:camera['L']=![];break;case 0x44:camera['R']=![];break;case 0x57:camera['T']=![];break;case 0x53:camera['B']=![];break;case 0x45:camera['zoomIn']=![];break;case 0x51:camera[_0x18b688(0x158)]=![];break;case 0x52:toggleBoxes();break;}});var pastedImage;function retrieveImageFromClipboardAsBlob(_0x43372b,_0x22b849){var _0xe034d6=_0x211697;_0x43372b['clipboardData']==![]&&(typeof _0x22b849==_0xe034d6(0x19a)&&_0x22b849(undefined));;var _0x383bde=_0x43372b[_0xe034d6(0x123)][_0xe034d6(0x11d)];_0x383bde==undefined&&(typeof _0x22b849==_0xe034d6(0x19a)&&_0x22b849(undefined));;for(var _0x3948bf=0x0;_0x3948bf<_0x383bde[_0xe034d6(0x13c)];_0x3948bf++){if(_0x383bde[_0x3948bf][_0xe034d6(0x168)][_0xe034d6(0x141)](_0xe034d6(0x154))==-0x1)continue;var _0x43b4e0=_0x383bde[_0x3948bf]['getAsFile']();typeof _0x22b849=='function'&&_0x22b849(_0x43b4e0);}}window['addEventListener'](_0x211697(0x146),function(_0x5cb0fc){retrieveImageFromClipboardAsBlob(_0x5cb0fc,function(_0x39a3d){var _0x9bb08a=_0x2d1b;if(_0x39a3d){var _0x3e9f7e=new Image();_0x3e9f7e[_0x9bb08a(0x183)]=function(){var _0x1d449f=_0x9bb08a;pastedImage=_0x3e9f7e,id('mapSizeW')['value']=pastedImage[_0x1d449f(0x169)]/cellSize,cellQuantityW=pastedImage[_0x1d449f(0x169)]/cellSize,id(_0x1d449f(0x14f))[_0x1d449f(0x145)]=pastedImage[_0x1d449f(0x161)]/cellSize,cellQuantityH=pastedImage[_0x1d449f(0x161)]/cellSize,changeMapSize();};var _0x420b32=window[_0x9bb08a(0x12d)]||window['webkitURL'];_0x3e9f7e[_0x9bb08a(0x13d)]=_0x420b32[_0x9bb08a(0x16a)](_0x39a3d);}});},![]);
+// Whole-script strict mode syntax
+'use strict';
+/*jshint esversion: 6 */
+/*jslint bitwise: true */
+var madeChanges = false;
+var selectedType = 0;
+var importedCode = "";
+var levelsArray = {};
+
+function id(arg) {
+    return document.getElementById(arg);
+}
+var canvas = id("canvas");
+var sheet = id("sheet");
+var c = canvas.getContext("2d");
+c.imageSmoothingEnabled = false;
+
+// map JSONS will be pushed here
+var levels = [];
+var currentLevel = 0;
+
+var mapObject = {
+    //where the level will be pushed
+    map: [],
+    camBoxes: [],
+    spawnPoint: {},
+};
+
+
+// the current level
+var map = [];
+var hitBoxes = [];
+var camBoxes = [];
+var spawnPoint = {
+    x: 30,
+    y: 20
+};
+
+id("+").onclick = function () {
+    addLevel();
+}
+
+function clearMap() {
+    map = [];
+    mapObject.map = [];
+    mapObject.camBoxes = [];
+    mapObject.spawnPoint = {
+        x: 30,
+        y: 20
+    };
+    hitBoxes = [];
+    camBoxes = [];
+    spawnPoint = {
+        x: 30,
+        y: 20
+    };
+
+}
+
+function clearButtons() {
+    let arr = document.getElementsByClassName("levels");
+    for (let i = arr.length - 1; i >= 0; i--) {
+        arr[i].parentNode.removeChild(arr[i]);
+    }
+}
+
+id("saveButton").onclick = saveImage;
+
+function saveImage() {
+    canvas.toBlob(blob => navigator.clipboard.write([new ClipboardItem({
+        'image/png': blob
+    })]));
+}
+
+function addButton() {
+
+    var btn = document.createElement('button');
+    btn.number = levels.length;
+    btn.innerHTML = levels.length;
+    btn.className += " levels";
+    btn.onmousedown = function (e) {
+        levels[currentLevel] = newMapExport();
+        clearMap();
+        currentLevel = this.number;
+        safeEval(JSON.parse(levels[currentLevel]));
+        resizeMap();
+        highlightCurrentLevel();
+    }
+    id("cont3").appendChild(btn);
+    highlightCurrentLevel();
+}
+
+function addLevel() {
+    madeChanges = true;
+    // Adds a button in the level divs
+    addButton();
+    //saves the current level
+    levels[currentLevel] = newMapExport();
+    //clears the map
+    clearMap();
+    //pushes the cleared map to the levels queue
+    levels.splice(currentLevel + 1, 0, newMapExport())
+    //takes you to the newly created blank level
+    currentLevel += 1;
+    safeEval(JSON.parse(levels[currentLevel]));
+    resizeMap();
+    highlightCurrentLevel();
+}
+addButton();
+levels[currentLevel] = newMapExport();
+
+
+
+
+
+
+
+
+var cellQuantityW = id("mapSizeW").value;
+var cellQuantityH = id("mapSizeH").value;
+var cellSize = 16;
+var fileName = "mapCode";
+var interactiveTile = 0;
+
+canvas.width = cellQuantityW * cellSize;
+canvas.height = cellQuantityH * cellSize;
+id("mapSizeBtnW").onclick = function () {
+    cellQuantityW = id("mapSizeW").value;
+    changeMapSize();
+}
+id("mapSizeBtnH").onclick = function () {
+    cellQuantityH = id("mapSizeH").value;
+    changeMapSize();
+}
+
+window.onload = function () {
+    for (let i = 0; i < tiles.length; i++) {
+        var canv = document.createElement('canvas');
+        canv.id = "canvas" + i;
+        canv.width = 32;
+        canv.height = 32;
+        canv.number = i;
+        canv.getContext("2d").imageSmoothingEnabled = false;
+        if (i === 0) {
+            canv.className += " selected";
+        }
+        canv.className += " tile";
+        //canvas.style.position = "absolute";
+        canv.getContext("2d").drawImage(
+            sheet,
+            tiles[i][0] * 16,
+            tiles[i][1] * 16,
+            16,
+            16,
+            0,
+            0,
+            canv.width,
+            canv.height
+        )
+        var body = document.getElementsByTagName("body")[0];
+        id("cont2").appendChild(canv);
+        id("canvas" + i).onclick = function () {
+            selectedType = this.number;
+            for (let j = 0; j < tiles.length; j++) {
+                id("canvas" + j).classList.remove("selected");
+            }
+            this.className += " selected";
+        }
+    }
+    loop();
+}
+//LAUNCH TESTMODE
+id("test").onclick = function () {
+    levels[currentLevel] = newMapExport();
+    newMapExport();
+    levelsArray = [];
+    for (let i = 0; i < levels.length; i++) {
+        levelsArray.push(JSON.parse(levels[i]));
+    }
+    var mapTester = window.open("MapTester/index.html");
+    //mapTester.tile=map;
+}
+//TOGGLES INTERACTIVE BLOCKS
+id("interactive").onclick = function () {
+    if (interactiveTile) {
+        interactiveTile = 0;
+        id("interactive").style.backgroundColor = "white";
+        id("interactive").style.color = "black";
+    } else {
+        interactiveTile = 1;
+        id("interactive").style.backgroundColor = "black";
+        id("interactive").style.color = "white";
+    }
+}
+
+//SWITCH BETWEEN HITBOXES AND DISPLAYED
+var hitBoxToggle = false;
+id("toggle").onclick = function () {
+    if (hitBoxToggle == 2) {
+        hitBoxToggle = 0;
+        id("toggle").innerHTML = "drawing: displayed";
+    } else if (hitBoxToggle == 0) {
+        hitBoxToggle = 1;
+        id("toggle").innerHTML = "drawing: hitboxes";
+    } else if (hitBoxToggle == 1) {
+        hitBoxToggle = 2;
+        id("toggle").innerHTML = "drawing: camera";
+    }
+}
+
+// 'square' is the square that appears whenever the mouse is dragged and moved
+var square = {
+    x: 0, // xPos of the actual square
+    y: 0, // yPos of the actual square
+    w: 0, // width of the actual square
+    h: 0 // height of the actual square
+};
+var infoDisp = false;
+// MAIN LOOP
+
+function loop() {
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    if (pastedImage) {
+        c.drawImage(pastedImage, 0, 0, pastedImage.width, pastedImage.height)
+    }
+    renderGrid();
+    renderMap();
+    if (mouseDown && !(movingMap || definingSpawnpoint)) {
+        renderSquare();
+    }
+    requestAnimationFrame(loop);
+}
+
+function renderSquare() {
+    if (hitBoxToggle == 1)
+        c.strokeStyle = "#ff0000";
+    else {
+        c.strokeStyle = "#ffffff";
+    }
+    c.beginPath()
+    c.rect(square.x, square.y, square.w, square.h);
+    c.closePath();
+    c.stroke();
+}
+var camera = {
+    L: false,
+    R: false,
+    T: false,
+    B: false,
+    zoomIn: false,
+    zoomOut: false,
+    speed: 16
+}
+var sX = 0;
+var sY = 0;
+
+
+// MAKES THE MENUS DRAGGABLE
+dragElement(id("cont"));
+dragElement(id("cont2"));
+dragElement(id("cont3"));
+
+function dragElement(elmnt) {
+    var pos1 = 0,
+        pos2 = 0,
+        pos3 = 0,
+        pos4 = 0;
+    elmnt.onmousedown = dragMouseDown;
+
+    function dragMouseDown(event) {
+        event = event || window.event;
+        // get the mouse cursor position at startup:
+        pos3 = event.clientX;
+        pos4 = event.clientY;
+        document.onmouseup = closeDragElement;
+        // call a function whenever the cursor moves:
+        document.onmousemove = elementDrag;
+    }
+
+    function elementDrag(event) {
+        event = event || window.event;
+        event.preventDefault();
+        // calculate the new cursor position:
+        pos1 = pos3 - event.clientX;
+        pos2 = pos4 - event.clientY;
+        pos3 = event.clientX;
+        pos4 = event.clientY;
+        // set the element's new position:
+        elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+        elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+    }
+
+    function closeDragElement() {
+        /* stop moving when mouse button is released:*/
+        document.onmouseup = null;
+        document.onmousemove = null;
+    }
+}
+
+//GENERATES THE EXPORT CODE
+var mapCode = "";
+id("exportMap").onclick = function () {
+    levels[currentLevel] = newMapExport();
+    levelsArray = [];
+    for (let i = 0; i < levels.length; i++) {
+        levelsArray.push(JSON.parse(levels[i]));
+
+    }
+    id("exportBox").style.display = "block";
+    id("exportText").innerHTML = JSON.stringify(levelsArray);
+}
+
+function newMapExport() {
+    mapObject = {
+        map: map,
+        camBoxes: camBoxes,
+        spawnPoint: spawnPoint,
+    };
+    return JSON.stringify(mapObject);
+};
+id("closeBtn").onclick = function () {
+    id("exportBox").style.display = "none";
+}
+id("downloadBtn").onclick = function () {
+    download("map.json", JSON.stringify(levelsArray));
+}
+// LOADS AND READS THE IMPORTED CODE
+id("file").onchange = function () {
+    console.log("importing...")
+    let data = id("file").files[0];
+    fileName = id("file").files[0].name.split(".")[0];
+    let reader = new FileReader();
+    reader.onload = function (e) {
+        let text = reader.result
+        clearMap();
+        clearButtons();
+        levels = [];
+        currentLevel = 0;
+        levelsArray = JSON.parse(text);
+        for (let i = 0; i < levelsArray.length; i++) {
+            addButton();
+            levels[i] = (JSON.stringify(levelsArray[i]));
+        }
+        safeEval(levelsArray[0])
+        resizeMap()
+        highlightCurrentLevel();
+
+    }
+    reader.readAsText(data);
+}
+
+function safeEval(level) {
+    if (typeof level === 'object' && level !== null) {
+        map = level.map;
+        spawnPoint = level.spawnPoint;
+        camBoxes = level.camBoxes;
+    }
+}
+var baseWidth = id("mapSizeW").value;
+var baseHeight = id("mapSizeH").value;
+
+function resizeMap() {
+    let xMax = 0;
+    let yMax = 0;
+    for (let i = 0; i < map.length; i++) {
+        if (map[i].x + map[i].w > xMax) {
+            xMax = map[i].x + map[i].w;
+        }
+        if (map[i].y + map[i].h > yMax) {
+            yMax = map[i].y + map[i].h;
+        }
+    }
+    if (yMax < baseHeight) {
+        yMax = baseHeight;
+    }
+    if (xMax < baseWidth) {
+        xMax = baseWidth;
+    }
+    cellQuantityW = xMax;
+    id("mapSizeW").value = xMax;
+    cellQuantityH = yMax;
+    id("mapSizeH").value = yMax;
+    changeMapSize();
+
+}
+
+function highlightCurrentLevel() {
+    let lvls = document.getElementsByClassName("levels");
+    for (let i = 0; i < lvls.length; i++) {
+        if (lvls[i].number == currentLevel) {
+            if (!lvls[i].classList.contains("selected")) {
+                lvls[i].classList.add("selected");
+            }
+        } else if (lvls[i].classList.contains("selected")) {
+            lvls[i].classList.remove("selected")
+        }
+    }
+}
+// ALLOWS TO MOVE THE CAMERA IN THE EDITOR
+function cameraMove() {
+    if (camera.L) {
+        sX -= camera.speed;
+    }
+    if (camera.R) {
+        sX += camera.speed;
+    }
+    if (camera.T) {
+        sY -= camera.speed;
+    }
+    if (camera.B) {
+        sY += camera.speed;
+    }
+    if (sX < 0) {
+        sX = 0;
+    }
+    if (sX > canvas.width - window.innerWidth) {
+        sX = canvas.width - window.innerWidth;
+    }
+    if (sY < 0) {
+        sY = 0;
+    }
+    if (sY > canvas.height - window.innerHeight) {
+        sY = canvas.height - window.innerHeight;
+    }
+    if (camera.zoomOut) {
+        id("zoomer").value--;
+        zoomChange();
+    } else if (camera.zoomIn) {
+        id("zoomer").value++;
+        zoomChange();
+    }
+    scroll(sX, sY);
+}
+
+function renderMap() {
+    if (camera.L || camera.R || camera.T || camera.B || camera.zoomIn || camera.zoomOut) {
+        cameraMove();
+    }
+    c.globalAlpha = 1;
+    for (let i = 0; i < map.length; i++) {
+        if (map[i].type > 51) {
+            for (let j = 0; j < map[i].h; j++) {
+                for (let k = 0; k < map[i].w; k++) {
+                    //c.fillRect((tile[i].x + k) * (ratio)+mapX, (tile[i].y + j) * (ratio), ratio, ratio);
+                    c.drawImage(id("sheet"), tiles[map[i].type][0] * 16, tiles[map[i].type][1] * 16, 16, 16, (map[i].x + k) * cellSize, (map[i].y + j) * cellSize, cellSize, cellSize);
+                }
+            }
+        }
+    }
+    for (let i = 0; i < map.length; i++) {
+        if (map[i].type <= 51) {
+            for (let j = 0; j < map[i].h; j++) {
+                for (let k = 0; k < map[i].w; k++) {
+                    //c.fillRect((tile[i].x + k) * (ratio)+mapX, (tile[i].y + j) * (ratio), ratio, ratio);
+                    c.drawImage(id("sheet"), tiles[map[i].type][0] * 16, tiles[map[i].type][1] * 16, 16, 16, (map[i].x + k) * cellSize, (map[i].y + j) * cellSize, cellSize, cellSize);
+                }
+            }
+        }
+    }
+    // these will get shown above visual boxes
+
+    for (let i = 0; i < hitBoxes.length; i++) {
+        c.fillStyle = "#000000";
+        c.fillRect(hitBoxes[i].x * cellSize, hitBoxes[i].y * cellSize, hitBoxes[i].w * cellSize, hitBoxes[i].h * cellSize);
+    }
+    c.globalAlpha = 1;
+    for (let i = 0; i < camBoxes.length; i++) {
+        c.strokeStyle = "#002200";
+        c.beginPath();
+        c.rect(camBoxes[i].x * cellSize, camBoxes[i].y * cellSize, camBoxes[i].w * cellSize, camBoxes[i].h * cellSize);
+        c.closePath();
+        c.stroke();
+    }
+
+    //draws spawnpoint
+    c.fillStyle = "#5b6ee1";
+    c.fillRect(spawnPoint.x * cellSize, spawnPoint.y * cellSize, 1 * cellSize, 1 * cellSize);
+}
+
+function renderGrid() {
+    c.lineWidth = 0.1;
+    c.strokeStyle = "#ffffff";
+    for (let i = 0; i < canvas.width; i += cellSize) {
+        c.beginPath()
+        c.moveTo(i, 0);
+        c.lineTo(i, canvas.height);
+        c.closePath();
+        c.stroke();
+    }
+    for (let i = 0; i < canvas.height; i += cellSize) {
+        c.beginPath()
+        c.moveTo(0, i);
+        c.lineTo(canvas.width, i);
+        c.closePath();
+        c.stroke();
+    }
+    c.lineWidth = 1;
+}
+
+
+var definingSpawnpoint = false;
+id("spawn").onclick = function () {
+    if (definingSpawnpoint) {
+        definingSpawnpoint = false;
+        id("spawn").style.color = "#000000";
+        id("canvas").style.cursor = "crosshair";
+        canvas.onclick = null;
+        return;
+    }
+    definingSpawnpoint = true;
+    id("spawn").style.color = "#0000cc";
+    id("canvas").style.cursor = "pointer";
+    canvas.onclick = () => {
+        spawnPoint.x = square.x;
+        spawnPoint.y = square.y;
+        id("spawn").style.color = "#000000";
+        id("canvas").style.cursor = "crosshair";
+        canvas.onclick = null;
+    }
+}
+
+var movingMap = false;
+var movingVariables = {
+    // already applied movements
+    xRDiff: 0,
+    yRDiff: 0,
+}
+id("moveMap").onclick = function () {
+    if (movingMap) {
+        movingMap = false;
+        id("moveMap").style.color = "#000000";
+        id("canvas").style.cursor = "crosshair";
+        return;
+    }
+    movingMap = true;
+    id("moveMap").style.color = "#0000cc";
+    id("canvas").style.cursor = "all-scroll";
+    canvas.addEventListener("mousemove", function () {
+        if (!movingMap || !mouseDown) {
+            return;
+        }
+
+        let xDifference = square.w / cellSize - movingVariables.xRDiff;
+        let yDifference = square.h / cellSize - movingVariables.yRDiff;
+        if (xDifference !== 0 || yDifference !== 0) {
+            moveEverything(xDifference, yDifference);
+            movingVariables.xRDiff += xDifference;
+            movingVariables.yRDiff += yDifference;
+
+        }
+    })
+    canvas.addEventListener("mouseup", function () {
+        if (!movingMap) {
+            return;
+        }
+        movingVariables.xRDiff = 0;
+        movingVariables.yRDiff = 0;
+    })
+}
+
+function moveEverything(xDiff, yDiff) {
+    if (xDiff == 0 && yDiff == 0) {
+        return;
+    }
+    for (let i = 0; i < map.length; i++) {
+        map[i].x += xDiff;
+        map[i].y += yDiff;
+    }
+    for (let i = 0; i < hitBoxes.length; i++) {
+        hitBoxes[i].x += xDiff;
+        hitBoxes[i].y += yDiff;
+
+    }
+    for (let i = 0; i < camBoxes.length; i++) {
+        camBoxes[i].x += xDiff;
+        camBoxes[i].y += yDiff;
+
+    }
+
+    spawnPoint.x += xDiff;
+    spawnPoint.y += yDiff;
+}
+//SHOWS THE LITTLE WINDOW OF THE SQUARES PROPERTIES
+function infoText() {
+    var sqx = square.x / cellSize;
+    var sqy = square.y / cellSize;
+    if (sqx > -1 && sqx < 1) {
+        sqx = 0;
+    }
+    if (sqy > -1 && sqy < 1) {
+        sqy = 0;
+    }
+    id("info").innerHTML = "x: " + sqx + ", y: " + sqy + "<br> w: " + square.w / cellSize + ", h: " + square.h / cellSize;
+}
+
+
+// the square you're making on click (hold)
+var mouseDown = false;
+canvas.addEventListener("mousedown", function (event) {
+    mouseDown = true;
+    var xx = window.pageXOffset - canvas.offsetLeft;
+    var yy = window.pageYOffset - canvas.offsetTop;
+
+    // info div
+    id("info").style.display = "block";
+    id("info").style.left = event.clientX + 30 + "px";
+    id("info").style.top = event.clientY - 30 + "px";
+
+    square.x = round(event.clientX + xx) * cellSize;
+    square.y = round(event.clientY + yy) * cellSize;
+    square.w = 0;
+    square.h = 0;
+    infoText();
+})
+
+canvas.addEventListener("mousemove", function (event) {
+    var xx = window.pageXOffset - canvas.offsetLeft;
+    var yy = window.pageYOffset - canvas.offsetTop;
+    if (mouseDown) {
+        id("info").style.display = "block";
+        id("info").style.left = event.clientX + 30 + "px";
+        id("info").style.top = event.clientY - 30 + "px";
+        infoText();
+    }
+
+    if (mouseDown) {
+        square.w = round(event.clientX + xx - square.x) * cellSize;
+        square.h = round(event.clientY + yy - square.y) * cellSize;
+    }
+});
+
+
+canvas.addEventListener("mouseup", function (evt) {
+    id("info").style.display = "none";
+    mouseDown = false;
+    floorSquare();
+    if (movingMap) {
+        return;
+    }
+    if (definingSpawnpoint) {
+        definingSpawnpoint = false;
+        return;
+    }
+    if (!square.w && !square.h && evt.which === 1) {
+        square.w = 1;
+        square.h = 1;
+    }
+    if (square.w && square.h) {
+        madeChanges = true;
+        if (square.w < 0) {
+            square.w *= -1;
+            square.x -= square.w;
+        }
+        if (square.h < 0) {
+            square.h *= -1;
+            square.y -= square.h;
+        }
+        if (hitBoxToggle == 1) {
+            hitBoxes.push({
+                x: square.x,
+                y: square.y,
+                w: square.w,
+                h: square.h
+            });
+            if (interactiveTile) {
+                //Inserted text
+                var text = prompt("Insert the text for this interactive tile", "");
+                hitBoxes[hitBoxes.length - 1].text = text;
+            }
+        } else if (hitBoxToggle == 0) {
+            map.push({
+                x: square.x,
+                y: square.y,
+                w: square.w,
+                h: square.h,
+                type: selectedType,
+            });
+            if (interactiveTile) {
+                //Inserted text
+                var text = prompt("Insert the text for this interactive tile", "");
+                map[map.length - 1].text = text;
+            }
+        } else if (hitBoxToggle == 2) {
+            var typeOfCam = parseInt(prompt("type of camera", ""));
+            camBoxes.push({
+                x: square.x,
+                y: square.y,
+                w: square.w,
+                h: square.h,
+                type: typeOfCam,
+            });
+        }
+    }
+})
+
+id("zoomer").addEventListener("change", zoomChange);
+
+id("deleteLvl").addEventListener("click", deleteLevel);
+
+function deleteLevel() {
+    madeChanges = true;
+    if (levels.length == 1) {
+        clearMap();
+        return;
+    }
+    // Adds a button in the level divs
+    removeButton();
+    //saves the current level
+    levels.splice(currentLevel, 1);
+    //clears the map
+    clearMap();
+    //takes you to the newly created blank level
+    currentLevel = levels.length - 1;
+    safeEval(JSON.parse(levels[currentLevel]));
+    resizeMap();
+    highlightCurrentLevel();
+}
+
+function removeButton() {
+    let max = {
+        number: 0,
+    };
+    let lvlButtons = document.getElementsByClassName("levels");
+    for (let i = 0; i < lvlButtons.length; i++) {
+        if (lvlButtons[i].number >= max.number) {
+            max = lvlButtons[i];
+        }
+    }
+    max.parentNode.removeChild(max);
+}
+
+function zoomChange() {
+    cellSize = parseInt(id("zoomer").value);
+    changeMapSize();
+}
+
+function changeMapSize() {
+    canvas.width = cellQuantityW * cellSize;
+    canvas.height = cellQuantityH * cellSize;
+}
+
+function roundSquare() {
+    square.x = round(square.x);
+    square.y = round(square.y);
+    square.w = round(square.w);
+    square.h = round(square.h);
+
+}
+
+function floorSquare() {
+    square.x = (square.x / cellSize) | 0;
+    square.y = (square.y / cellSize) | 0;
+    square.w = (square.w / cellSize) | 0;
+    square.h = (square.h / cellSize) | 0;
+}
+
+function round(arg) {
+    var rounded = parseInt(arg);
+    var remainder = rounded % cellSize;
+    if (remainder !== 0) {
+        if (remainder > cellSize / 2)
+            rounded = rounded - remainder + cellSize;
+        else
+            rounded = rounded - remainder;
+    }
+    if (rounded / cellSize > 0 && rounded / cellSize < 1) {
+        return 0;
+    } else {
+        return rounded / cellSize;
+    }
+}
+
+function enableBeforeUnload() {
+    window.onbeforeunload = function (e) {
+        if (madeChanges) {
+            return "Discard changes?";
+        }
+    };
+}
+
+function disableBeforeUnload() {
+    window.onbeforeunload = null;
+}
+enableBeforeUnload();
+document.addEventListener("contextmenu", function (event) {
+    madeChanges = true;
+    var xx = window.pageXOffset - canvas.offsetLeft;
+    var yy = window.pageYOffset - canvas.offsetTop;
+    event.preventDefault();
+    var x = event.clientX + xx;
+    var y = event.clientY + yy;
+    removeElements(map, x, y);
+    removeElements(hitBoxes, x, y);
+    removeElements(camBoxes, x, y);
+});
+
+function removeElements(arg, x, y) {
+    var removeList = [];
+    for (let i = 0; i < arg.length; i++) {
+        if (x > arg[i].x * cellSize && x < arg[i].x * cellSize + arg[i].w * cellSize) {
+            if (y > arg[i].y * cellSize && y < arg[i].y * cellSize + arg[i].h * cellSize) {
+                removeList.push(i);
+            }
+        }
+    }
+    removeList.sort(function (a, b) {
+        return b - a;
+    });
+    for (let i = 0; i < removeList.length; i++) {
+        arg.splice(removeList[i], 1);
+    }
+}
+
+
+function download(filename, data) {
+    madeChanges = false;
+    var blob = new Blob([data], {
+        type: 'text/csv'
+    });
+    if (window.navigator.msSaveOrOpenBlob) {
+        window.navigator.msSaveBlob(blob, filename);
+    } else {
+        var elem = window.document.createElement('a');
+        elem.href = window.URL.createObjectURL(blob);
+        elem.download = filename;
+        document.body.appendChild(elem);
+        elem.click();
+        document.body.removeChild(elem);
+    }
+}
+
+
+window.addEventListener("keydown", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key down
+            camera.L = true;
+            break;
+        case 68: //right key down
+            camera.R = true;
+            break;
+        case 87: //top key down
+            camera.T = true;
+            break;
+        case 83: //bot key down
+            camera.B = true;
+            break;
+        case 69: //bot key up
+            camera.zoomIn = true;
+            break;
+        case 81: //bot key up
+            camera.zoomOut = true;
+            break;
+    }
+});
+window.addEventListener("keyup", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key up
+            camera.L = false;
+            break;
+        case 68: //right key up
+            camera.R = false;
+            break;
+        case 87: //top key up
+            camera.T = false;
+            break;
+        case 83: //bot key up
+            camera.B = false;
+            break;
+        case 69: //bot key up
+            camera.zoomIn = false;
+            break;
+        case 81: //bot key up
+            camera.zoomOut = false;
+            break;
+        case 82:
+            toggleBoxes();
+            break;
+    }
+});
+
+/**
+ * This handler retrieves the images from the clipboard as a blob and returns it in a callback.
+ * 
+ * @param pasteEvent 
+ * @param callback 
+ */
+var pastedImage;
+
+function retrieveImageFromClipboardAsBlob(pasteEvent, callback) {
+    if (pasteEvent.clipboardData == false) {
+        if (typeof (callback) == "function") {
+            callback(undefined);
+        }
+    };
+
+    var items = pasteEvent.clipboardData.items;
+
+    if (items == undefined) {
+        if (typeof (callback) == "function") {
+            callback(undefined);
+        }
+    };
+
+    for (var i = 0; i < items.length; i++) {
+        // Skip content if not image
+        if (items[i].type.indexOf("image") == -1) continue;
+        // Retrieve image on clipboard as blob
+        var blob = items[i].getAsFile();
+
+        if (typeof (callback) == "function") {
+            callback(blob);
+        }
+    }
+}
+window.addEventListener("paste", function (e) {
+
+    // Handle the event
+    retrieveImageFromClipboardAsBlob(e, function (imageBlob) {
+        // If there's an image, display it in the canvas
+        if (imageBlob) {
+
+            // Create an image to render the blob on the canvas
+            var img = new Image();
+
+            // Once the image loads, render the img on the canvas
+            img.onload = function () {
+                // Update dimensions of the canvas with the dimensions of the image
+
+                pastedImage = img;
+                id("mapSizeW").value = pastedImage.width / cellSize;
+                cellQuantityW = pastedImage.width / cellSize;
+                id("mapSizeH").value = pastedImage.height / cellSize;
+                cellQuantityH = pastedImage.height / cellSize;
+                changeMapSize();
+                // Draw the image
+                //c.drawImage(img, 0, 0);
+            };
+
+            // Crossbrowser support for URL
+            var URLObj = window.URL || window.webkitURL;
+
+            // Creates a DOMString containing a URL representing the object given in the parameter
+            // namely the original Blob
+            img.src = URLObj.createObjectURL(imageBlob);
+        }
+    });
+}, false);

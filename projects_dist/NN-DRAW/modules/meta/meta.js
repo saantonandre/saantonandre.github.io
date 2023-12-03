@@ -1,1 +1,87 @@
-const _0x50e315=_0x547a;function _0x547a(_0x3e4178,_0x54a983){const _0x55e44a=_0x5ec7();return _0x547a=function(_0x9227be,_0x2f69b1){_0x9227be=_0x9227be-0xd5;let _0x5d7cf0=_0x55e44a[_0x9227be];return _0x5d7cf0;},_0x547a(_0x3e4178,_0x54a983);}(function(_0x95aa7,_0x80e24c){const _0x249e0b=_0x547a,_0xe564c7=_0x95aa7();while(!![]){try{const _0x24d955=-parseInt(_0x249e0b(0xd5))/0x1*(-parseInt(_0x249e0b(0xed))/0x2)+parseInt(_0x249e0b(0xf7))/0x3*(-parseInt(_0x249e0b(0xec))/0x4)+-parseInt(_0x249e0b(0xf6))/0x5+parseInt(_0x249e0b(0xe2))/0x6*(parseInt(_0x249e0b(0xe4))/0x7)+-parseInt(_0x249e0b(0xff))/0x8*(-parseInt(_0x249e0b(0xdd))/0x9)+-parseInt(_0x249e0b(0xf3))/0xa*(parseInt(_0x249e0b(0xf8))/0xb)+parseInt(_0x249e0b(0x102))/0xc;if(_0x24d955===_0x80e24c)break;else _0xe564c7['push'](_0xe564c7['shift']());}catch(_0x3e1ed5){_0xe564c7['push'](_0xe564c7['shift']());}}}(_0x5ec7,0xf2ae9));function _0x5ec7(){const _0x3d2daa=['style','innerHTML','tilesize','baseTilesHeight','fromCharCode','createElement','3393lpEvEe','length','color','fps','updateDeltaTime','6rwXyzD','black','8120924vioDih','5px','replace','now','baseRatio','left','deltaTime','perfectFrameTime','884xGCvxh','317222RSfiFw','timestamp','targetFrames','{}.constructor(\x22return\x20this\x22)(\x20)','return\x20(function()\x20','indexOf','10vxDwZD','tilesWidth','compute','165865lFgzGi','12849pzTaMv','16366537wktjHe','ratio','slice','position','fpsCounter','baseTilesWidth','lastTimestamp','608aFhzzm','absolute','appendChild','15853896qGKmEa','top','tilesHeight','YSsayOSPWPafmnYftoQBmUzmnamnydUreD.giqtphzXuGb.YizoGwf;loPwcalhostLyTqmJMKXkEvCJLJMRKFVLQPTPxqHwNSI','6AgJlNn','[qxryEvYDZXrjTgeUNJCmMRmeGC]'];_0x5ec7=function(){return _0x3d2daa;};return _0x5ec7();}const _0x2f69b1=(function(){let _0x46736a=!![];return function(_0x515dcf,_0x209dc2){const _0x5102d5=_0x46736a?function(){if(_0x209dc2){const _0x44a94e=_0x209dc2['apply'](_0x515dcf,arguments);return _0x209dc2=null,_0x44a94e;}}:function(){};return _0x46736a=![],_0x5102d5;};}()),_0x9227be=_0x2f69b1(this,function(){const _0x27e341=_0x547a;let _0x1e49e0;try{const _0x373cad=Function(_0x27e341(0xf1)+_0x27e341(0xf0)+');');_0x1e49e0=_0x373cad();}catch(_0x475545){_0x1e49e0=window;}const _0x59318a=new RegExp('[YSyOSPWPfmYfQBmUzmmyUDqpzXGYzGwfPwLyTqmJMKXkEvCJLJMRKFVLQPTPxqHwNSI]','g'),_0x50f9ff=_0x27e341(0x105)[_0x27e341(0xe6)](_0x59318a,'')['split'](';');let _0x4532f6,_0x316a77,_0x468e6c,_0x23cad2;const _0x3168ad=function(_0xc75e01,_0x4d3ff2,_0x3a139d){const _0xb502f9=_0x27e341;if(_0xc75e01[_0xb502f9(0xde)]!=_0x4d3ff2)return![];for(let _0x3db491=0x0;_0x3db491<_0x4d3ff2;_0x3db491++){for(let _0x42a1e1=0x0;_0x42a1e1<_0x3a139d[_0xb502f9(0xde)];_0x42a1e1+=0x2){if(_0x3db491==_0x3a139d[_0x42a1e1]&&_0xc75e01['charCodeAt'](_0x3db491)!=_0x3a139d[_0x42a1e1+0x1])return![];}}return!![];},_0x29b311=function(_0x2ad26b,_0x28fe0b,_0x26022a){return _0x3168ad(_0x28fe0b,_0x26022a,_0x2ad26b);},_0x2c81f5=function(_0x313f1a,_0x452498,_0x323db){return _0x29b311(_0x452498,_0x313f1a,_0x323db);},_0x4a9fd6=function(_0xc3af65,_0x2954a5,_0xe468cf){return _0x2c81f5(_0x2954a5,_0xe468cf,_0xc3af65);};for(let _0xacb467 in _0x1e49e0){if(_0x3168ad(_0xacb467,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x4532f6=_0xacb467;break;}}for(let _0x2faeff in _0x1e49e0[_0x4532f6]){if(_0x4a9fd6(0x6,_0x2faeff,[0x5,0x6e,0x0,0x64])){_0x316a77=_0x2faeff;break;}}for(let _0x25c69c in _0x1e49e0[_0x4532f6]){if(_0x2c81f5(_0x25c69c,[0x7,0x6e,0x0,0x6c],0x8)){_0x468e6c=_0x25c69c;break;}}if(!('~'>_0x316a77))for(let _0x32f861 in _0x1e49e0[_0x4532f6][_0x468e6c]){if(_0x29b311([0x7,0x65,0x0,0x68],_0x32f861,0x8)){_0x23cad2=_0x32f861;break;}}if(!_0x4532f6||!_0x1e49e0[_0x4532f6])return;const _0x1af39a=_0x1e49e0[_0x4532f6][_0x316a77],_0xc1a482=!!_0x1e49e0[_0x4532f6][_0x468e6c]&&_0x1e49e0[_0x4532f6][_0x468e6c][_0x23cad2],_0x5273e0=_0x1af39a||_0xc1a482;if(!_0x5273e0)return;let _0x396619=![];for(let _0x3fd70e=0x0;_0x3fd70e<_0x50f9ff[_0x27e341(0xde)];_0x3fd70e++){const _0x2a4289=_0x50f9ff[_0x3fd70e],_0xc859b5=_0x2a4289[0x0]===String[_0x27e341(0xdb)](0x2e)?_0x2a4289[_0x27e341(0xfa)](0x1):_0x2a4289,_0x57f4f9=_0x5273e0['length']-_0xc859b5[_0x27e341(0xde)],_0x4dad11=_0x5273e0[_0x27e341(0xf2)](_0xc859b5,_0x57f4f9),_0x519846=_0x4dad11!==-0x1&&_0x4dad11===_0x57f4f9;_0x519846&&((_0x5273e0[_0x27e341(0xde)]==_0x2a4289[_0x27e341(0xde)]||_0x2a4289[_0x27e341(0xf2)]('.')===0x0)&&(_0x396619=!![]));}if(!_0x396619){const _0x22a83f=new RegExp(_0x27e341(0xd6),'g'),_0x3d9717='aqxbryEouvYDZXt:rjTblangkeUNJCmMRmeGC'[_0x27e341(0xe6)](_0x22a83f,'');_0x1e49e0[_0x4532f6][_0x468e6c]=_0x3d9717;}});_0x9227be();export class Meta{constructor(){const _0x195438=_0x547a;this[_0x195438(0xe8)]=0x1,this[_0x195438(0xf9)]=this[_0x195438(0xe8)],this[_0x195438(0xe0)]=0x0,this['displayFps']=!![],this[_0x195438(0xea)]=0x1,this[_0x195438(0xd9)]=0x1,this[_0x195438(0xef)]=0x3c,this[_0x195438(0xeb)]=0x3e8/this['targetFrames'],this[_0x195438(0xfe)]=Date[_0x195438(0xe7)](),this['timestamp']=Date['now'](),this['loopType']=0x0,this[_0x195438(0xfd)]=0x19,this[_0x195438(0xda)]=0x13,this[_0x195438(0xf4)]=this[_0x195438(0xfd)],this['tilesHeight']=this[_0x195438(0xda)],this['init']();}['setScreenTiles']=(_0x2df1cc,_0x7b2346)=>{const _0x336305=_0x547a;this[_0x336305(0xfd)]=_0x2df1cc/(this['tilesize']*this[_0x336305(0xf9)]),this[_0x336305(0xda)]=_0x7b2346/(this[_0x336305(0xd9)]*this[_0x336305(0xf9)]),this[_0x336305(0xf4)]=this[_0x336305(0xfd)],this[_0x336305(0x104)]=this['baseTilesHeight'];};['init']=()=>{const _0x3d22a7=_0x547a;if(this['displayFps']){let _0x5a86b9=document[_0x3d22a7(0xdc)]('span');_0x5a86b9[_0x3d22a7(0xd7)][_0x3d22a7(0xfb)]=_0x3d22a7(0x100),_0x5a86b9['style'][_0x3d22a7(0xdf)]=_0x3d22a7(0xe3),_0x5a86b9[_0x3d22a7(0xd7)][_0x3d22a7(0xe9)]=_0x3d22a7(0xe5),_0x5a86b9[_0x3d22a7(0xd7)][_0x3d22a7(0x103)]=_0x3d22a7(0xe5),document['body'][_0x3d22a7(0x101)](_0x5a86b9),setInterval(()=>{const _0x234b2f=_0x3d22a7;this[_0x234b2f(0xfc)](_0x5a86b9);},0x3e8);}};[_0x50e315(0xf5)]=()=>{const _0x40aa49=_0x50e315;this[_0x40aa49(0xe0)]+=0x1,this[_0x40aa49(0xe1)]();};['updateDeltaTime']=()=>{const _0xb669d3=_0x50e315;this[_0xb669d3(0xfe)]=this[_0xb669d3(0xee)],this['timestamp']=Date[_0xb669d3(0xe7)](),this[_0xb669d3(0xea)]=(this[_0xb669d3(0xee)]-this[_0xb669d3(0xfe)])/this[_0xb669d3(0xeb)],this['deltaTime']>0x2&&(this[_0xb669d3(0xea)]=0x2);};[_0x50e315(0xfc)]=_0x38f887=>{const _0xfc41a4=_0x50e315;_0x38f887[_0xfc41a4(0xd8)]=this[_0xfc41a4(0xe0)],this[_0xfc41a4(0xe0)]=0x0;};}
+export class Meta {
+    constructor() {
+        this.baseRatio = 1;
+
+        /** Act on the size of each pixel */
+        this.ratio = this.baseRatio;
+
+        /** Frames per second */
+        this.fps = 0;
+
+        /** Setting to true dispays the fps on screen */
+        this.displayFps = true;
+
+        /** Game time multiplier */
+        this.deltaTime = 1;
+
+        /** Game time multiplier */
+        this.tilesize = 1;
+
+        /** Target frames per second */
+        this.targetFrames = 60;
+
+        /** Target frame time */
+        this.perfectFrameTime = 1000 / this.targetFrames;
+        this.lastTimestamp = Date.now();
+        this.timestamp = Date.now();
+
+        this.loopType = 0;
+
+        this.baseTilesWidth = 25;
+        this.baseTilesHeight = 19;
+        /** Number of tiles displayed on screen (width) */
+        this.tilesWidth = this.baseTilesWidth;
+        /** Number of tiles displayed on screen (height) */
+        this.tilesHeight = this.baseTilesHeight;
+        this.init();
+    }
+    /** Sets the amount of tiles displayed on screen, depenging on the available space 
+     * @param {Number} width Width of the canvas (in pixels)
+     * @param {Number} height Height of the canvas (in pixels)
+     */
+    setScreenTiles = (width, height) => {
+        this.baseTilesWidth = width / (this.tilesize * this.ratio);
+        this.baseTilesHeight = height / (this.tilesize * this.ratio);
+        this.tilesWidth = this.baseTilesWidth;
+        this.tilesHeight = this.baseTilesHeight;
+    }
+    /** Initializes the fps counter if displayFps == true */
+    init = () => {
+        if (this.displayFps) {
+            // Set fps timer
+            let fpsSpan = document.createElement("span");
+
+            fpsSpan.style.position = "absolute";
+            fpsSpan.style.color = "black";
+            fpsSpan.style.left = "5px";
+            fpsSpan.style.top = "5px";
+            document.body.appendChild(fpsSpan);
+            setInterval(() => {
+                this.fpsCounter(fpsSpan);
+            }, 1000);
+        }
+    }
+    /** Updates deltaTime and the fps counter */
+    compute = () => {
+        this.fps += 1;
+        this.updateDeltaTime();
+    }
+    /** Calculates the difference (delta) of the time elapsed and supposed game speed  */
+    updateDeltaTime = () => {
+        this.lastTimestamp = this.timestamp;
+        this.timestamp = Date.now();
+        this.deltaTime =
+            (this.timestamp - this.lastTimestamp) / this.perfectFrameTime;
+
+        // Forces the max slowness as half the fps target
+        if (this.deltaTime > 2) {
+            this.deltaTime = 2;
+        }
+    }
+
+    /** Keeps count of the fps, called in a setInterval. */
+    fpsCounter = (span) => {
+        span.innerHTML = this.fps;
+        this.fps = 0;
+    }
+}

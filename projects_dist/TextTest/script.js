@@ -1,1 +1,270 @@
-var _0x4d11f8=_0x46f1;(function(_0x4096ce,_0x202078){var _0x38432f=_0x46f1,_0x352b4b=_0x4096ce();while(!![]){try{var _0x50a288=parseInt(_0x38432f(0x181))/0x1*(parseInt(_0x38432f(0x168))/0x2)+-parseInt(_0x38432f(0x186))/0x3+parseInt(_0x38432f(0x15d))/0x4*(-parseInt(_0x38432f(0x16b))/0x5)+parseInt(_0x38432f(0x187))/0x6*(parseInt(_0x38432f(0x15e))/0x7)+parseInt(_0x38432f(0x180))/0x8+-parseInt(_0x38432f(0x17f))/0x9+-parseInt(_0x38432f(0x17d))/0xa*(parseInt(_0x38432f(0x165))/0xb);if(_0x50a288===_0x202078)break;else _0x352b4b['push'](_0x352b4b['shift']());}catch(_0x31c37b){_0x352b4b['push'](_0x352b4b['shift']());}}}(_0x3ed7,0x3c75f));class SpriteFont{constructor(){var _0x32be96=_0x46f1;this[_0x32be96(0x16c)]=document['getElementById'](_0x32be96(0x16c)),this[_0x32be96(0x179)]=[],this['x']=0x0,this['y']=0x0,this['currentLetter']=0x1,this['lettersX']=[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1,0x1],this[_0x32be96(0x16d)]=[0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe,0xf,0x10,0x11,0x12,0x13,0x14,0x15,0x16,0x17,0x18,0x19,0x0,0x1,0x2,0x3,0x4,0x5,0x6,0x7,0x8,0x9,0xa,0xb,0xc,0xd,0xe],this[_0x32be96(0x178)]=0x8;}[_0x4d11f8(0x172)](_0x43ab30,_0x1524db,_0x5dc089){this['x']=_0x1524db,this['y']=_0x5dc089;for(let _0x28462a of _0x43ab30){this['printCharacter'](_0x28462a,this['x'],this['y']);}}[_0x4d11f8(0x188)](_0x5af255){var _0x37b3d5=_0x4d11f8;this[_0x37b3d5(0x16f)]=![];switch(_0x5af255){case'a':case'A':this[_0x37b3d5(0x184)]=0x0;break;case'b':case'B':this[_0x37b3d5(0x184)]=0x1;break;case'c':case'C':this[_0x37b3d5(0x184)]=0x2;break;case'd':case'D':this['currentLetter']=0x3;break;case'e':case'E':this[_0x37b3d5(0x184)]=0x4;break;case'f':case'F':this[_0x37b3d5(0x184)]=0x5;break;case'g':case'G':this[_0x37b3d5(0x184)]=0x6;break;case'h':case'H':this['currentLetter']=0x7;break;case'i':case'I':this[_0x37b3d5(0x184)]=0x8;break;case'j':case'J':this[_0x37b3d5(0x184)]=0x9;break;case'k':case'K':this['currentLetter']=0xa;break;case'l':case'L':this[_0x37b3d5(0x184)]=0xb;break;case'm':case'M':this[_0x37b3d5(0x184)]=0xc;break;case'n':case'N':this['currentLetter']=0xd;break;case'o':case'O':this[_0x37b3d5(0x184)]=0xe;break;case'p':case'P':this[_0x37b3d5(0x184)]=0xf;break;case'q':case'Q':this['currentLetter']=0x10;break;case'r':case'R':this[_0x37b3d5(0x184)]=0x11;break;case's':case'S':this[_0x37b3d5(0x184)]=0x12;break;case't':case'T':this[_0x37b3d5(0x184)]=0x13;break;case'u':case'U':this[_0x37b3d5(0x184)]=0x14;break;case'v':case'V':this[_0x37b3d5(0x184)]=0x15;break;case'w':case'W':this[_0x37b3d5(0x184)]=0x16;break;case'x':case'X':this[_0x37b3d5(0x184)]=0x17;break;case'y':case'Y':this['currentLetter']=0x18;break;case'z':case'Z':this[_0x37b3d5(0x184)]=0x19;break;case'1':this['currentLetter']=0x1a;break;case'2':this[_0x37b3d5(0x184)]=0x1b;break;case'3':this[_0x37b3d5(0x184)]=0x1c;break;case'4':this['currentLetter']=0x1d;break;case'5':this[_0x37b3d5(0x184)]=0x1e;break;case'6':this[_0x37b3d5(0x184)]=0x1f;break;case'7':this[_0x37b3d5(0x184)]=0x20;break;case'8':this[_0x37b3d5(0x184)]=0x21;break;case'9':this[_0x37b3d5(0x184)]=0x22;break;case'0':this[_0x37b3d5(0x184)]=0x23;break;case'.':this[_0x37b3d5(0x184)]=0x24;break;case',':this[_0x37b3d5(0x184)]=0x25;break;case'!':this[_0x37b3d5(0x184)]=0x26;break;case'?':this[_0x37b3d5(0x184)]=0x27;break;case'\x20':this[_0x37b3d5(0x16f)]=!![];break;default:this[_0x37b3d5(0x184)]=0x28;}!this[_0x37b3d5(0x16f)]&&c[_0x37b3d5(0x177)](this['sheet'],this['lettersX'][this[_0x37b3d5(0x184)]]*this[_0x37b3d5(0x178)],this[_0x37b3d5(0x16d)][this[_0x37b3d5(0x184)]]*this[_0x37b3d5(0x178)],this[_0x37b3d5(0x178)],this[_0x37b3d5(0x178)],this['x'],this['y'],this['tileSize'],this[_0x37b3d5(0x178)]),this['x']+=this[_0x37b3d5(0x178)];}}var canvas=document['getElementById']('canvas'),testAmount=0x1;function _0x3ed7(){var _0x3cfef9=['[AWEWNHGgqwwZcWUTTyEpKhrywdY]','1687023vOkJPA','3084656bMREII','10fLtYvF','value','length','currentLetter','apply','682893RPrBFz','1300014spEqeT','printCharacter','[xmWvWNjwVCNzVqAYkAEQTUIOkLDWEzmSKNVCZFXMDHMBCBGEYVxmyXqTDRzTDPkyIfBTvKyGXCY]','280584gGaDnh','14KtDEKB','oninput','innerWidth','height','indexOf','FPS:\x20','fillText','449119XmiCiU','width','log','61102uEPviU','clearRect','fps','30SExxFx','sheet','lettersY','slice','space','charCodeAt','onclick','printLine','fromCharCode','amount','getElementById','replace','drawImage','tileSize','actionArr','imageSmoothingEnabled','Testing\x20fillText\x20performance.\x20Set\x20the\x20rendering\x20amount\x20in\x20the\x20left\x20input','Testing\x20drawImage\x20performance.\x20Set\x20the\x20rendering\x20amount\x20in\x20the\x20left\x20input','10LtiSwp'];_0x3ed7=function(){return _0x3cfef9;};return _0x3ed7();}canvas[_0x4d11f8(0x166)]=window[_0x4d11f8(0x160)];var offsetY=0x2;canvas[_0x4d11f8(0x161)]=testAmount*offsetY+0xb4,console[_0x4d11f8(0x167)](canvas[_0x4d11f8(0x161)]);var c=canvas['getContext']('2d'),spriteFont=new SpriteFont();c[_0x4d11f8(0x17a)]=![];var fps=0x0;loop();var amountInput=document[_0x4d11f8(0x175)](_0x4d11f8(0x174));amountInput[_0x4d11f8(0x15f)]=()=>{var _0x478d98=_0x4d11f8;testAmount=parseInt(amountInput[_0x478d98(0x182)],0xa),canvas[_0x478d98(0x161)]=testAmount*offsetY+0xb4;};var drawImageRendering=!![],drawButton=document[_0x4d11f8(0x175)](_0x4d11f8(0x177));drawButton[_0x4d11f8(0x171)]=()=>{drawImageRendering=!![];};var fillButton=document[_0x4d11f8(0x175)](_0x4d11f8(0x164));fillButton['onclick']=()=>{drawImageRendering=![];};function loop(){var _0x83a8ed=_0x4d11f8,_0x173099=(function(){var _0x4fe9d7=!![];return function(_0x195fac,_0x25d50e){var _0xbb1179=_0x4fe9d7?function(){var _0x373a74=_0x46f1;if(_0x25d50e){var _0x36f6bd=_0x25d50e[_0x373a74(0x185)](_0x195fac,arguments);return _0x25d50e=null,_0x36f6bd;}}:function(){};return _0x4fe9d7=![],_0xbb1179;};}()),_0x334e60=_0x173099(this,function(){var _0x1673b1=_0x46f1,_0x688bf5=function(){var _0x356d0b;try{_0x356d0b=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x67f307){_0x356d0b=window;}return _0x356d0b;},_0x4e2ca8=_0x688bf5(),_0x11dd69=new RegExp(_0x1673b1(0x189),'g'),_0x51a70c='xmWsvaWaNntonandjrew.VgCiNztVhuqbAY.kiAo;lEocalhQostTUIOkLDWEzmSKNVCZFXMDHMBCBGEYVxmyXqTDRzTDPkyIfBTvKyGXCY'[_0x1673b1(0x176)](_0x11dd69,'')['split'](';'),_0x40ab10,_0x286a3f,_0x2a26ab,_0x29b0ce,_0x1c0715=function(_0x672f1a,_0xd4468b,_0x119644){var _0x352a41=_0x1673b1;if(_0x672f1a[_0x352a41(0x183)]!=_0xd4468b)return![];for(var _0xe7b092=0x0;_0xe7b092<_0xd4468b;_0xe7b092++){for(var _0x18a56e=0x0;_0x18a56e<_0x119644[_0x352a41(0x183)];_0x18a56e+=0x2){if(_0xe7b092==_0x119644[_0x18a56e]&&_0x672f1a[_0x352a41(0x170)](_0xe7b092)!=_0x119644[_0x18a56e+0x1])return![];}}return!![];},_0x27203d=function(_0x599ef5,_0x104005,_0xb243ed){return _0x1c0715(_0x104005,_0xb243ed,_0x599ef5);},_0x4a9b2d=function(_0x4f14e0,_0xdda4a1,_0x470e25){return _0x27203d(_0xdda4a1,_0x4f14e0,_0x470e25);},_0x1b7cb4=function(_0x3dc9ee,_0x1beb1e,_0x317f6d){return _0x4a9b2d(_0x1beb1e,_0x317f6d,_0x3dc9ee);};for(var _0x83c2a8 in _0x4e2ca8){if(_0x1c0715(_0x83c2a8,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x40ab10=_0x83c2a8;break;}}for(var _0x8c69d4 in _0x4e2ca8[_0x40ab10]){if(_0x1b7cb4(0x6,_0x8c69d4,[0x5,0x6e,0x0,0x64])){_0x286a3f=_0x8c69d4;break;}}for(var _0xbd8f89 in _0x4e2ca8[_0x40ab10]){if(_0x4a9b2d(_0xbd8f89,[0x7,0x6e,0x0,0x6c],0x8)){_0x2a26ab=_0xbd8f89;break;}}if(!('~'>_0x286a3f))for(var _0xcaa3f9 in _0x4e2ca8[_0x40ab10][_0x2a26ab]){if(_0x27203d([0x7,0x65,0x0,0x68],_0xcaa3f9,0x8)){_0x29b0ce=_0xcaa3f9;break;}}if(!_0x40ab10||!_0x4e2ca8[_0x40ab10])return;var _0x4bd7ad=_0x4e2ca8[_0x40ab10][_0x286a3f],_0xbf0531=!!_0x4e2ca8[_0x40ab10][_0x2a26ab]&&_0x4e2ca8[_0x40ab10][_0x2a26ab][_0x29b0ce],_0x443077=_0x4bd7ad||_0xbf0531;if(!_0x443077)return;var _0x276a81=![];for(var _0x5b5e1d=0x0;_0x5b5e1d<_0x51a70c[_0x1673b1(0x183)];_0x5b5e1d++){var _0x286a3f=_0x51a70c[_0x5b5e1d],_0x4735c4=_0x286a3f[0x0]===String[_0x1673b1(0x173)](0x2e)?_0x286a3f[_0x1673b1(0x16e)](0x1):_0x286a3f,_0xe49d7a=_0x443077[_0x1673b1(0x183)]-_0x4735c4[_0x1673b1(0x183)],_0x3433c0=_0x443077[_0x1673b1(0x162)](_0x4735c4,_0xe49d7a),_0x146a8f=_0x3433c0!==-0x1&&_0x3433c0===_0xe49d7a;_0x146a8f&&((_0x443077[_0x1673b1(0x183)]==_0x286a3f[_0x1673b1(0x183)]||_0x286a3f[_0x1673b1(0x162)]('.')===0x0)&&(_0x276a81=!![]));}if(!_0x276a81){var _0x102d57=new RegExp(_0x1673b1(0x17e),'g'),_0xcc93e4='abAWEouWt:blNanHGkgqwwZcWUTTyEpKhrywdY'[_0x1673b1(0x176)](_0x102d57,'');_0x4e2ca8[_0x40ab10][_0x2a26ab]=_0xcc93e4;}});_0x334e60(),fps++,c[_0x83a8ed(0x169)](0x0,0x0,canvas[_0x83a8ed(0x166)],canvas[_0x83a8ed(0x161)]),drawImageRendering?renderSpriteFont(testAmount):renderCanvasFont(testAmount),requestAnimationFrame(loop);}function renderCanvasFont(_0x23445b){var _0x5bee8c=_0x4d11f8;for(let _0x2b8ddc=0x0;_0x2b8ddc<_0x23445b;_0x2b8ddc++){c['font']='14px\x20Consolas',c[_0x5bee8c(0x164)](_0x5bee8c(0x17b),0x50,0x50+offsetY*_0x2b8ddc);}}function _0x46f1(_0x241911,_0xe214c2){var _0x47e6cd=_0x3ed7();return _0x46f1=function(_0x379bda,_0x30153d){_0x379bda=_0x379bda-0x15d;var _0x2a8071=_0x47e6cd[_0x379bda];return _0x2a8071;},_0x46f1(_0x241911,_0xe214c2);}function renderSpriteFont(_0x57c9fc){var _0x534051=_0x4d11f8;for(let _0x3b96f0=0x0;_0x3b96f0<_0x57c9fc;_0x3b96f0++){spriteFont[_0x534051(0x172)](_0x534051(0x17c),0x50,0x50+offsetY*_0x3b96f0);}}setInterval(function(){var _0x2c8bb2=_0x4d11f8;document[_0x2c8bb2(0x175)](_0x2c8bb2(0x16a))['innerHTML']=_0x2c8bb2(0x163)+fps,fps=0x0;},0x3e8);
+class SpriteFont {
+    constructor() {
+        this.sheet = document.getElementById("sheet");
+        this.actionArr = [];
+        this.x = 0;
+        this.y = 0;
+        this.currentLetter = 1;
+        this.lettersX = [
+            0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0,
+            0, 0, 0, 0, 0,
+            0, 1, 1, 1, 1,
+            1, 1, 1, 1, 1,
+            1, 1, 1, 1, 1,
+            1
+        ]
+        this.lettersY = [
+            0, 1, 2, 3, 4,
+            5, 6, 7, 8, 9,
+            10, 11, 12, 13,
+            14, 15, 16, 17,
+            18, 19, 20, 21,
+            22, 23, 24, 25,
+            0, 1, 2, 3, 4,
+            5, 6, 7, 8, 9,
+            10, 11, 12, 13,
+            14
+        ]
+        this.tileSize = 8;
+
+    }
+    printLine(string, x, y) {
+        this.x = x;
+        this.y = y;
+        for (let char of string) {
+            this.printCharacter(char, this.x, this.y);
+        }
+    }
+    printCharacter(char) {
+        this.space = false;
+        switch (char) {
+            case 'a':
+            case 'A':
+                this.currentLetter = 0;
+                break;
+            case 'b':
+            case 'B':
+                this.currentLetter = 1;
+                break;
+            case 'c':
+            case 'C':
+                this.currentLetter = 2;
+                break;
+            case 'd':
+            case 'D':
+                this.currentLetter = 3;
+                break;
+            case 'e':
+            case 'E':
+                this.currentLetter = 4;
+                break;
+            case 'f':
+            case 'F':
+                this.currentLetter = 5;
+                break;
+            case 'g':
+            case 'G':
+                this.currentLetter = 6;
+                break;
+            case 'h':
+            case 'H':
+                this.currentLetter = 7;
+                break;
+            case 'i':
+            case 'I':
+                this.currentLetter = 8;
+                break;
+            case 'j':
+            case 'J':
+                this.currentLetter = 9;
+                break;
+            case 'k':
+            case 'K':
+                this.currentLetter = 10;
+                break;
+            case 'l':
+            case 'L':
+                this.currentLetter = 11;
+                break;
+            case 'm':
+            case 'M':
+                this.currentLetter = 12;
+                break;
+            case 'n':
+            case 'N':
+                this.currentLetter = 13;
+                break;
+            case 'o':
+            case 'O':
+                this.currentLetter = 14;
+                break;
+            case 'p':
+            case 'P':
+                this.currentLetter = 15;
+                break;
+            case 'q':
+            case 'Q':
+                this.currentLetter = 16;
+                break;
+            case 'r':
+            case 'R':
+                this.currentLetter = 17;
+                break;
+            case 's':
+            case 'S':
+                this.currentLetter = 18;
+                break;
+            case 't':
+            case 'T':
+                this.currentLetter = 19;
+                break;
+            case 'u':
+            case 'U':
+                this.currentLetter = 20;
+                break;
+            case 'v':
+            case 'V':
+                this.currentLetter = 21;
+                break;
+            case 'w':
+            case 'W':
+                this.currentLetter = 22;
+                break;
+            case 'x':
+            case 'X':
+                this.currentLetter = 23;
+                break;
+            case 'y':
+            case 'Y':
+                this.currentLetter = 24;
+                break;
+            case 'z':
+            case 'Z':
+                this.currentLetter = 25;
+                break;
+            case '1':
+                this.currentLetter = 26;
+                break;
+            case '2':
+                this.currentLetter = 27;
+                break;
+            case '3':
+                this.currentLetter = 28;
+                break;
+            case '4':
+                this.currentLetter = 29;
+                break;
+            case '5':
+                this.currentLetter = 30;
+                break;
+            case '6':
+                this.currentLetter = 31;
+                break;
+            case '7':
+                this.currentLetter = 32;
+                break;
+            case '8':
+                this.currentLetter = 33;
+                break;
+            case '9':
+                this.currentLetter = 34;
+                break;
+            case '0':
+                this.currentLetter = 35;
+                break;
+            case '.':
+                this.currentLetter = 36;
+                break;
+            case ',':
+                this.currentLetter = 37;
+                break;
+            case '!':
+                this.currentLetter = 38;
+                break;
+            case '?':
+                this.currentLetter = 39;
+                break;
+            case ' ':
+                this.space = true;
+                break;
+            default:
+                this.currentLetter = 40;
+
+        }
+        if (!this.space) {
+            c.drawImage(
+                this.sheet,
+                this.lettersX[this.currentLetter] * this.tileSize,
+                this.lettersY[this.currentLetter] * this.tileSize,
+                this.tileSize,
+                this.tileSize,
+                this.x,
+                this.y,
+                this.tileSize,
+                this.tileSize
+            )
+        }
+        this.x += this.tileSize;
+    }
+}
+var canvas = document.getElementById("canvas");
+var testAmount = 1;
+canvas.width = window.innerWidth;
+var offsetY = 2;
+canvas.height = testAmount * offsetY + 180;
+console.log(canvas.height)
+var c = canvas.getContext("2d");
+var spriteFont = new SpriteFont();
+c.imageSmoothingEnabled = false;
+var fps = 0;
+loop();
+var amountInput = document.getElementById("amount");
+amountInput.oninput = () => {
+    testAmount = parseInt(amountInput.value, 10)
+    canvas.height = testAmount * offsetY + 180;
+};
+
+var drawImageRendering = true;
+
+var drawButton = document.getElementById("drawImage");
+drawButton.onclick = () => {drawImageRendering = true}
+var fillButton = document.getElementById("fillText");
+fillButton.onclick = () => {drawImageRendering = false}
+
+
+function loop() {
+    fps++;
+    c.clearRect(0, 0, canvas.width, canvas.height)
+
+    if (drawImageRendering) {
+        renderSpriteFont(testAmount);
+    } else {
+        renderCanvasFont(testAmount);
+    }
+    requestAnimationFrame(loop);
+}
+
+// Render using the context font
+function renderCanvasFont(amount) {
+    for (let i = 0; i < amount; i++) {
+        c.font = "14px Consolas";
+        c.fillText("Testing fillText performance. Set the rendering amount in the left input", 80, 80 + offsetY * i);
+    }
+
+}
+
+// Render using the sprite sheet font
+function renderSpriteFont(amount) {
+    for (let i = 0; i < amount; i++) {
+        spriteFont.printLine("Testing drawImage performance. Set the rendering amount in the left input", 80, 80 + offsetY * i);
+    }
+}
+
+// FPS counter
+setInterval(function () {
+    document.getElementById("fps").innerHTML = "FPS: " + fps;
+    fps = 0;
+}, 1000)

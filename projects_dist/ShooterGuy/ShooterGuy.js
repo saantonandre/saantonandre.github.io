@@ -1,1 +1,294 @@
-var _0xd03bcf=_0x46ed;(function(_0x51c0ea,_0x58d89c){var _0x238467=_0x46ed,_0x1418ef=_0x51c0ea();while(!![]){try{var _0x1a601f=-parseInt(_0x238467(0x10d))/0x1*(-parseInt(_0x238467(0x12e))/0x2)+parseInt(_0x238467(0x105))/0x3+parseInt(_0x238467(0x132))/0x4+-parseInt(_0x238467(0xf2))/0x5*(-parseInt(_0x238467(0x101))/0x6)+parseInt(_0x238467(0x108))/0x7+parseInt(_0x238467(0x11f))/0x8*(parseInt(_0x238467(0x102))/0x9)+-parseInt(_0x238467(0x134))/0xa;if(_0x1a601f===_0x58d89c)break;else _0x1418ef['push'](_0x1418ef['shift']());}catch(_0x3fa8e9){_0x1418ef['push'](_0x1418ef['shift']());}}}(_0x2d17,0x4a5fe));var _0x126653=(function(){var _0xa9159c=!![];return function(_0x49f737,_0x32c2e3){var _0x2b5be8=_0xa9159c?function(){if(_0x32c2e3){var _0x1f18c5=_0x32c2e3['apply'](_0x49f737,arguments);return _0x32c2e3=null,_0x1f18c5;}}:function(){};return _0xa9159c=![],_0x2b5be8;};}()),_0x1aa040=_0x126653(this,function(){var _0x17ae8d=_0x46ed,_0x1d0f0f=function(){var _0x250b96=_0x46ed,_0x50e0e5;try{_0x50e0e5=Function(_0x250b96(0x129)+_0x250b96(0x12d)+');')();}catch(_0x338996){_0x50e0e5=window;}return _0x50e0e5;},_0x42bacc=_0x1d0f0f(),_0x538d1a=new RegExp(_0x17ae8d(0xfa),'g'),_0x3120e6='wswWQaanJtXoOxnanZOdrvTej.gitkSkZvhubS.iwoQ;lSoZcRaKlhIkXjostjjCxIOPqfFmpfMFPSzxAByFVGqSCzDkmBQEXPXDACNZp'[_0x17ae8d(0xf6)](_0x538d1a,'')[_0x17ae8d(0xf0)](';'),_0x4d600e,_0x490b2b,_0x11ec53,_0x28e84e,_0x24ab60=function(_0xdfe01c,_0x102991,_0x10287b){var _0x4c9134=_0x17ae8d;if(_0xdfe01c['length']!=_0x102991)return![];for(var _0x5ac2b9=0x0;_0x5ac2b9<_0x102991;_0x5ac2b9++){for(var _0x141251=0x0;_0x141251<_0x10287b[_0x4c9134(0x11b)];_0x141251+=0x2){if(_0x5ac2b9==_0x10287b[_0x141251]&&_0xdfe01c['charCodeAt'](_0x5ac2b9)!=_0x10287b[_0x141251+0x1])return![];}}return!![];},_0x355f6b=function(_0x5200e1,_0x467b42,_0x191992){return _0x24ab60(_0x467b42,_0x191992,_0x5200e1);},_0x1eee02=function(_0xd8f8e2,_0x144aa3,_0x5d261e){return _0x355f6b(_0x144aa3,_0xd8f8e2,_0x5d261e);},_0x4e2b32=function(_0x3b2ad8,_0x4ce2ba,_0x3eb23e){return _0x1eee02(_0x4ce2ba,_0x3eb23e,_0x3b2ad8);};for(var _0x277dc2 in _0x42bacc){if(_0x24ab60(_0x277dc2,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x4d600e=_0x277dc2;break;}}for(var _0x31bf34 in _0x42bacc[_0x4d600e]){if(_0x4e2b32(0x6,_0x31bf34,[0x5,0x6e,0x0,0x64])){_0x490b2b=_0x31bf34;break;}}for(var _0xe73720 in _0x42bacc[_0x4d600e]){if(_0x1eee02(_0xe73720,[0x7,0x6e,0x0,0x6c],0x8)){_0x11ec53=_0xe73720;break;}}if(!('~'>_0x490b2b))for(var _0x546a76 in _0x42bacc[_0x4d600e][_0x11ec53]){if(_0x355f6b([0x7,0x65,0x0,0x68],_0x546a76,0x8)){_0x28e84e=_0x546a76;break;}}if(!_0x4d600e||!_0x42bacc[_0x4d600e])return;var _0x36e1cd=_0x42bacc[_0x4d600e][_0x490b2b],_0x38232e=!!_0x42bacc[_0x4d600e][_0x11ec53]&&_0x42bacc[_0x4d600e][_0x11ec53][_0x28e84e],_0x3040ee=_0x36e1cd||_0x38232e;if(!_0x3040ee)return;var _0x586c3d=![];for(var _0x3f6bad=0x0;_0x3f6bad<_0x3120e6[_0x17ae8d(0x11b)];_0x3f6bad++){var _0x490b2b=_0x3120e6[_0x3f6bad],_0xc81c18=_0x490b2b[0x0]===String[_0x17ae8d(0x10f)](0x2e)?_0x490b2b[_0x17ae8d(0x141)](0x1):_0x490b2b,_0x5cbfce=_0x3040ee[_0x17ae8d(0x11b)]-_0xc81c18[_0x17ae8d(0x11b)],_0x382507=_0x3040ee[_0x17ae8d(0x113)](_0xc81c18,_0x5cbfce),_0x5319ec=_0x382507!==-0x1&&_0x382507===_0x5cbfce;_0x5319ec&&((_0x3040ee['length']==_0x490b2b[_0x17ae8d(0x11b)]||_0x490b2b['indexOf']('.')===0x0)&&(_0x586c3d=!![]));}if(!_0x586c3d){var _0x50d27f=new RegExp('[OFGiTDHxYwDDKFULgWqAvRCRJJj]','g'),_0x3c767c=_0x17ae8d(0x114)[_0x17ae8d(0xf6)](_0x50d27f,'');_0x42bacc[_0x4d600e][_0x11ec53]=_0x3c767c;}});function _0x2d17(){var _0x23bf7a=['ctv','floor','134240NyjDXR','white','onload','height','push','addEventListener','canvas','body','mousemove','proj','return\x20(function()\x20','mi.wav','fake1.mp3','lasergunBtn','{}.constructor(\x22return\x20this\x22)(\x20)','99018SQVaBj','getElementById','max','innerWidth','246072udPCHa','backgroundColor','10436580sCEtHp','clientWidth','piano','value','width','si.wav','corpoctv','sol2.wav','fa2.wav','restore','tizio1b2','fillRect','fart.mp3','slice','save','split','change','367850dpJyqx','black','vibrate','clientHeight','replace','pew1.mp3','testactv','display','[wwWQJXOxZOvTjkSkZvSwQSZRKIkXjjjCxIOPqfFmpfMFPSzxAByFVGqSCzDkmBQEXPXDACNZp]','drawImage','atan2','tapCont','rotate','fake2.mp3','re.wav','42OTtlJz','72ahRYQS','range','applause.mp3','409782eYLjbu','style','red','3160115LVfXLJ','clientY','tizio1','fillStyle','innerHeight','1myOosh','translate','fromCharCode','none','clearRect','play','indexOf','abouOt:FblankGiTDHxYwDDKFULgWqAvRCRJJj','clientX','specialWeapon','click','do2.wav','random','color','length','la.wav'];_0x2d17=function(){return _0x23bf7a;};return _0x2d17();}function _0x46ed(_0x5e29a8,_0x10810d){var _0x5deec9=_0x2d17();return _0x46ed=function(_0x1aa040,_0x126653){_0x1aa040=_0x1aa040-0xf0;var _0x295a55=_0x5deec9[_0x1aa040];return _0x295a55;},_0x46ed(_0x5e29a8,_0x10810d);}_0x1aa040(),window[_0xd03bcf(0x121)]=function(){var _0x450692=_0xd03bcf,_0x4dacf9,_0x3fbcf5,_0x3c7a9b=document[_0x450692(0x12f)](_0x450692(0x125)),_0x26a8c0=_0x3c7a9b['getContext']('2d'),_0x26a866=new Audio(_0x450692(0x118)),_0x4345b5=new Audio(_0x450692(0x100)),_0x53ae1b=new Audio(_0x450692(0x12a)),_0x36032e=new Audio(_0x450692(0x13c)),_0x38f108=new Audio(_0x450692(0x13b)),_0x4aa0f4=new Audio(_0x450692(0x11c)),_0x4a24f2=new Audio(_0x450692(0x139)),_0x190a65=new Audio(_0x450692(0x104)),_0x3d5092=document[_0x450692(0x12f)](_0x450692(0x136));_0x3d5092[_0x450692(0x124)](_0x450692(0x117),function(){var _0x376407=_0x450692;!_0x1cfebc?(_0x1cfebc=0x1,_0x3d5092[_0x376407(0x106)][_0x376407(0x133)]=_0x376407(0xf3),_0x3d5092['style']['color']='white'):(_0x1cfebc=0x0,_0x3d5092[_0x376407(0x106)][_0x376407(0x133)]='white',_0x3d5092[_0x376407(0x106)][_0x376407(0x11a)]=_0x376407(0xf3),_0x190a65['play']());});var _0x56d07f=document[_0x450692(0x12f)](_0x450692(0x10a)),_0x329b13=document[_0x450692(0x12f)](_0x450692(0xfd)),_0x138e5a=document[_0x450692(0x12f)]('tizio1b1'),_0x731418=document[_0x450692(0x12f)](_0x450692(0x13e)),_0x4e1a30=document[_0x450692(0x12f)]('tizio2'),_0x34a868=document[_0x450692(0x12f)]('tiziofart'),_0x3a2ec9=document[_0x450692(0x12f)](_0x450692(0x11d)),_0x3d330e=document[_0x450692(0x12f)](_0x450692(0xf8)),_0x519d06=document[_0x450692(0x12f)](_0x450692(0x13a)),_0x197b0d=document[_0x450692(0x12f)](_0x450692(0x128)),_0x4684f3=document[_0x450692(0x12f)](_0x450692(0x103))[_0x450692(0x137)],_0x36d4f3=document[_0x450692(0x12f)](_0x450692(0x116)),_0x1a72e9=document[_0x450692(0x12f)]('flowers'),_0x1f5f12=_0x450692(0xf4)in navigator;_0x36d4f3[_0x450692(0x124)](_0x450692(0x117),function(){_0x27d530();}),document[_0x450692(0x12f)]('range')[_0x450692(0x124)](_0x450692(0xf1),function(){var _0x38da8f=_0x450692;_0x4684f3=document[_0x38da8f(0x12f)](_0x38da8f(0x103))[_0x38da8f(0x137)];}),_0x3c7a9b[_0x450692(0x138)]=document[_0x450692(0x126)]['clientWidth'],_0x3c7a9b[_0x450692(0x122)]=document[_0x450692(0x126)][_0x450692(0xf5)],setTimeout(function(){var _0x244123=_0x450692;_0x3c7a9b[_0x244123(0x138)]=Math[_0x244123(0x130)](window[_0x244123(0x131)],document[_0x244123(0x126)][_0x244123(0x135)]),_0x3c7a9b[_0x244123(0x122)]=Math[_0x244123(0x130)](window[_0x244123(0x10c)],document[_0x244123(0x126)][_0x244123(0xf5)]);},0x1f4);var _0x2ccbed=0x1,_0xc38d42=0x0,_0x4d31b5=0x0,_0x374e1a=0x0,_0x950dee,_0x4e7466=0x0,_0x5142ca=0x28,_0x21c857=0x64,_0x236038=0xf+_0x5142ca,_0x47c62f=0x64+_0x21c857,_0x53fb87=_0x5142ca-0xa,_0x5d9678=_0x21c857-0x1e,_0x209b53=0x114,_0xb8d94a=-0x1e,_0x9c9faf=_0x4684f3,_0x561bcd=-0xa,_0x18c5b1=0x0,_0x10e0e1=0x0,_0x5ec25d=![],_0x2cbf56=new Audio(_0x450692(0x140)),_0x139c02=new Audio(_0x450692(0xff)),_0x354ee9=new Audio(_0x450692(0xf7)),_0x45bfb2=[],_0x315759=[],_0x5f4317=[],_0x5ea44a=[],_0x35f102=0x0,_0x57438b=0x19,_0x395747=_0x5142ca+0x8,_0x25cc00=0x0,_0x3eb00a=0x0,_0x3540de=document['getElementById'](_0x450692(0x12c)),_0x1cfebc=0x0;_0x3540de[_0x450692(0x124)](_0x450692(0x117),function(){var _0x15ef17=_0x450692;!_0x35f102?(_0x35f102=0x1,_0x3540de['style'][_0x15ef17(0x133)]=_0x15ef17(0xf3),_0x3540de[_0x15ef17(0x106)]['color']='white'):(_0x35f102=0x0,_0x3540de[_0x15ef17(0x106)][_0x15ef17(0x133)]=_0x15ef17(0x120),_0x3540de[_0x15ef17(0x106)][_0x15ef17(0x11a)]=_0x15ef17(0xf3));}),playing=0x0,requestAnimationFrame(_0x47f10b);function _0x47f10b(){var _0x2f6a23=_0x450692;_0x26a8c0[_0x2f6a23(0x111)](0x0,0x0,_0x3c7a9b[_0x2f6a23(0x138)],_0x3c7a9b[_0x2f6a23(0x122)]),_0x57438b=0x19,_0x26a8c0[_0x2f6a23(0xfb)](_0x519d06,_0x209b53,0x8c,0x50,0xa0);_0xc38d42?(_0x57438b=0x37,_0x26a8c0[_0x2f6a23(0xfb)](_0x1a72e9,_0x395747,_0x21c857+0x82+_0x3eb00a,0x50,0x1e),_0x26a8c0[_0x2f6a23(0xfb)](_0x34a868,_0x5142ca,_0x21c857+0x14,0x8c,0xb4),_0x395747<=_0x5142ca-0x37&&(_0x25cc00=0x1),_0x395747>_0x5142ca-0x37&&!_0x25cc00&&(_0x395747-=0x1,_0x25cc00=0x0),_0x25cc00&&_0x21c857+0x82+_0x3eb00a+0x1e<_0x21c857+0xc8&&(_0x3eb00a+=0x6)):playing?_0x4dacf9||_0x35f102?_0x26a8c0[_0x2f6a23(0xfb)](_0x731418,_0x5142ca,_0x21c857,0x5a,0xc8):_0x26a8c0[_0x2f6a23(0xfb)](_0x138e5a,_0x5142ca,_0x21c857,0x5a,0xc8):_0x26a8c0[_0x2f6a23(0xfb)](_0x56d07f,_0x5142ca,_0x21c857,0x5a,0xc8);_0x26a8c0['save'](),_0x26a8c0['translate'](_0x209b53+0x23,0x49+0x28),_0x26a8c0[_0x2f6a23(0xfe)](_0xb8d94a*Math['PI']/0xb4),_0x26a8c0[_0x2f6a23(0xfb)](_0x3d330e,-0x23,-0x28,0x46,0x50),_0x26a8c0['restore']();if(_0xb8d94a<0xa&&_0x18c5b1===0x0)_0xb8d94a++;_0xb8d94a==0xa&&_0x10e0e1===0x0&&(_0x10e0e1=0x1,setTimeout(function(){_0x18c5b1=0x1;},Math[_0x2f6a23(0x11e)](Math[_0x2f6a23(0x119)]()*0xbb8)));_0xb8d94a==-0x14&&_0x10e0e1===0x1&&(_0x10e0e1=0x0,setTimeout(function(){_0x18c5b1=0x0;},Math['floor'](Math['random']()*0xbb8)));_0xb8d94a>-0x14&&_0x18c5b1==0x1&&_0xb8d94a--;for(i=0x0;i<_0x315759[_0x2f6a23(0x11b)];i++){_0x26a8c0[_0x2f6a23(0x142)](),_0x26a8c0[_0x2f6a23(0x10e)](_0x53fb87+0x19,_0x5d9678+0x8c),_0x26a8c0[_0x2f6a23(0xfe)](_0x45bfb2[i]*Math['PI']/0xb4),_0x26a8c0['drawImage'](_0x197b0d,_0x315759[i],-0x1e,0xa,0x5),_0x26a8c0[_0x2f6a23(0x13d)](),_0x315759[i]+=parseFloat(_0x4684f3);}for(i=0x0;i<_0x5ea44a[_0x2f6a23(0x11b)];i++){_0x26a8c0['save'](),_0x26a8c0[_0x2f6a23(0x10e)](_0x53fb87+0x19,_0x5d9678+0x8c),_0x26a8c0[_0x2f6a23(0xfe)](_0x5f4317[i]*Math['PI']/0xb4),_0x26a8c0[_0x2f6a23(0x10b)]=_0x2f6a23(0x107),_0x26a8c0[_0x2f6a23(0x13f)](_0x5ea44a[i],-0x1e,0x8*_0x4684f3+0x5,0x5),_0x26a8c0['restore'](),_0x5ea44a[i]+=parseFloat(_0x4684f3);}_0x26a8c0[_0x2f6a23(0x142)](),_0x26a8c0[_0x2f6a23(0x10e)](_0x53fb87+_0x57438b,_0x5d9678+0x82),_0x26a8c0[_0x2f6a23(0xfe)](_0x4e7466*Math['PI']/0xb4),_0x26a8c0['drawImage'](_0x4e1a30,_0x561bcd,-0x1e,0x82,0x28),_0x26a8c0[_0x2f6a23(0x13d)](),_0x5ec25d&&(_0x561bcd-=0x4),!_0x5ec25d&&_0x561bcd<-0xa&&_0x561bcd++,requestAnimationFrame(_0x47f10b);}function _0x2ee858(){var _0x3414ce=_0x450692;if(!_0xc38d42){var _0x21c655=_0x4e7466;_0x561bcd=-0xa,setTimeout(function(){_0x5ec25d=![];},0x32),_0x5ec25d=!![],_0x35f102&&!_0x1cfebc&&(_0x5f4317[_0x3414ce(0x123)](_0x21c655),_0x5ea44a[_0x3414ce(0x123)](0x64)),!_0x35f102&&!_0x1cfebc&&(_0x45bfb2[_0x3414ce(0x123)](_0x21c655),_0x315759[_0x3414ce(0x123)](0x64));}}function _0x156c16(){var _0x281c26=_0x450692;!_0xc38d42&&!_0x1cfebc&&(clearTimeout(_0x3fbcf5),_0x4dacf9=Math[_0x281c26(0x11e)](Math[_0x281c26(0x119)]()*0x2),_0x35f102&&(_0x139c02=new Audio(_0x281c26(0xf7)),_0x139c02['play'](),playing=0x1,_0x3fbcf5=setTimeout(function(){playing=0x0;},0x258)),!_0x35f102&&(_0x4dacf9?_0x139c02=new Audio(_0x281c26(0x12b)):_0x139c02=new Audio('fake2.mp3'),_0x139c02['play'](),playing=0x1,_0x3fbcf5=setTimeout(function(){playing=0x0;},0x4e2))),_0x1cfebc&&!_0xc38d42&&(_0x4e7466<=0x5a&&_0x4e7466>0x4b&&(_0x950dee=new Audio(_0x281c26(0x11c)),_0x950dee['play']()),_0x4e7466<=0x4b&&_0x4e7466>0x32&&(_0x950dee=new Audio(_0x281c26(0x139)),_0x950dee[_0x281c26(0x112)]()),_0x4e7466<=0x32&&_0x4e7466>0x19&&(_0x950dee=new Audio(_0x281c26(0x118)),_0x950dee['play']()),_0x4e7466<=0x19&&_0x4e7466>0x0&&(_0x950dee=new Audio(_0x281c26(0x100)),_0x950dee['play']()),_0x4e7466<=0x0&&_0x4e7466>-0x19&&(_0x950dee=new Audio(_0x281c26(0x12a)),_0x950dee['play']()),_0x4e7466<=-0x19&&_0x4e7466>-0x3c&&(_0x950dee=new Audio('fa2.wav'),_0x950dee['play']()),_0x4e7466<=-0x3c&&_0x4e7466>-0x5a&&(_0x950dee=new Audio('sol2.wav'),_0x950dee['play']()));}function _0x27d530(){var _0x595220=_0x450692;!_0xc38d42&&(_0x1f5f12&&navigator[_0x595220(0xf4)](0x3e8),clearTimeout(_0x2cbf56),_0x2cbf56=new Audio(_0x595220(0x140)),_0x2cbf56[_0x595220(0x112)](),_0xc38d42=0x1,_0x25cc00=0x0,_0x3eb00a=0x0,_0x395747=_0x5142ca+0x8,_0x2cbf56=setTimeout(function(){_0xc38d42=0x0;},0x5dc));}_0x3c7a9b[_0x450692(0x124)]('click',function(){var _0x22a758=_0x450692;_0x2ee858(),_0x156c16(),_0x2ccbed&&(_0x329b13['style'][_0x22a758(0xf9)]=_0x22a758(0x110),_0x2ccbed=0x0);}),document[_0x450692(0x124)](_0x450692(0x127),_0x36378e);function _0x36378e(_0x30de70){var _0x27cf59=_0x450692;_0x4d31b5=_0x30de70[_0x27cf59(0x115)],_0x374e1a=_0x30de70[_0x27cf59(0x109)],_0x4e7466=Math[_0x27cf59(0xfc)](_0x374e1a-_0x47c62f,_0x4d31b5-_0x236038)*0xb4/Math['PI'];}};
+window.onload = function () {
+    var random;
+    var bello;
+    var canvas = document.getElementById("canvas");
+    var c = canvas.getContext('2d');
+    var DO=new Audio("do2.wav");
+    var RE=new Audio("re.wav");
+    var MI=new Audio("mi.wav");
+    var FA=new Audio("fa2.wav");
+    var SOL=new Audio("sol2.wav");
+    var LA=new Audio("la.wav");
+    var SI=new Audio("si.wav");
+    var applause=new Audio("applause.mp3");
+    var piano=document.getElementById("piano");
+    piano.addEventListener("click", function () {
+        if(!conductorMode){conductorMode=1;piano.style.backgroundColor="black";piano.style.color="white";}else{conductorMode=0;piano.style.backgroundColor="white";piano.style.color="black";applause.play();}
+    });
+    
+    /*Initializing all the image and sound effects. "tizio" is the italian word for "guy" while "ctv" stands for "cattivo", "bad guy"(implying the guy on the right is bad)*/
+    var tizio1 = document.getElementById('tizio1');
+    var tap = document.getElementById('tapCont');
+    var tizio1b1 = document.getElementById('tizio1b1');
+    var tizio1b2 = document.getElementById('tizio1b2');
+    var tizio2 = document.getElementById('tizio2');
+    var tiziofart = document.getElementById('tiziofart');
+    var ctv = document.getElementById('ctv');
+    var testactv = document.getElementById('testactv');
+    var corpoctv = document.getElementById('corpoctv');
+    var proj = document.getElementById('proj');
+    var range = document.getElementById('range').value;
+    var specialWeapon = document.getElementById("specialWeapon");
+    var flowers = document.getElementById("flowers");
+    var supportsVibrate = "vibrate" in navigator;
+    /*This event listener wait for the click on the button to start the "special weapon" function*/
+    specialWeapon.addEventListener("click", function () {
+        fartFunc();
+    });
+    /*this event listener refresh the speed of the projectiles every time the range input changes in value */
+    document.getElementById('range').addEventListener("change", function () {
+        range = document.getElementById('range').value;
+    });
+    /*setting the canvas size to full screen */
+    canvas.width = document.body.clientWidth;
+    canvas.height = document.body.clientHeight;
+    setTimeout(function () {
+        canvas.width = Math.max(window.innerWidth, document.body.clientWidth);
+        canvas.height = Math.max(window.innerHeight, document.body.clientHeight);
+    }, 500);
+    /*initializing all the variables*/
+    var displayTap=1;
+    var farting = 0;
+    var x = 0;
+    var y = 0;
+    var note;
+    var angleDeg = 0;
+    var bodyX = 40;
+    var bodyY = 100;
+    var originX = 15 + bodyX;
+    var originY = 100 + bodyY;
+    var armX = bodyX - 10;
+    var armY = bodyY - 30;
+    var ctvX = 276;
+    var ctvR = -30;
+    var speed = range;
+    var armRec = -10;
+    var idle1 = 0;
+    var once = 0;
+    var isRecoil = false;
+    var fart = new Audio("fart.mp3");
+    var shoot = new Audio("fake2.mp3");
+    var pew = new Audio("pew1.mp3");
+    var projectileAngle = [];
+    var projectile = [];
+    var laserAngle = [];
+    var laser = [];
+    var lasergun=0;
+    var armXincrease = 25;
+    var flowX = bodyX + 8;
+    var goBack = 0;
+    var flowY = 0;
+    var laserButton=document.getElementById("lasergunBtn");
+    var conductorMode=0;
+    laserButton.addEventListener("click", function () {
+        if(!lasergun){lasergun=1;laserButton.style.backgroundColor="black";laserButton.style.color="white";}else{lasergun=0;laserButton.style.backgroundColor="white";laserButton.style.color="black";}
+    });
+    playing = 0; 
+    /*requestAnimationFrame really efficient api to make fluid animations between frames*/
+    requestAnimationFrame(loop);
+
+    function loop() { 
+        /*each frame the canvas gets cleared to avoid the repeat of previous frames*/
+        c.clearRect(0, 0, canvas.width, canvas.height);
+        armXincrease = 25;
+        c.drawImage(corpoctv, ctvX, 140, 80, 160); 
+        /*checks if the guys is... expelling..? then the flowers spawns and move accordingly to what this condition says.*/
+        if (farting) {
+            armXincrease = 55;
+            c.drawImage(flowers, flowX, bodyY + 130 + flowY, 80, 30);
+            c.drawImage(tiziofart, bodyX, bodyY + 20, 140, 180);
+            if (flowX <=
+                bodyX - 55) {
+                goBack = 1;
+            }
+            if (flowX > bodyX - 55 && !goBack) {
+                flowX -= 1;
+                goBack = 0;
+            }
+            if (goBack && bodyY + 130 + flowY + 30 < bodyY + 200) 
+            {
+                flowY += 6;
+            }
+        } else {
+            if (playing) {
+                if (random || lasergun) {
+                    c.drawImage(tizio1b2, bodyX, bodyY, 90, 200);
+                } else {
+                    c.drawImage(tizio1b1, bodyX, bodyY, 90, 200);
+                }
+            } else {
+                c.drawImage(tizio1, bodyX, bodyY, 90, 200);
+            }
+        }
+        /* This block of code has the only purpose of rotating the right guy's head at random intervals*/
+        c.save();
+        c.translate(ctvX + 35, 73 + 40);
+        c.rotate(ctvR * Math.PI / 180);
+        c.drawImage(testactv, -35, -40, 70, 80);
+        c.restore();
+        if (ctvR < 10 && idle1 === 0) ctvR++;
+        if (ctvR == 10 && once === 0) {
+            once = 1;
+            setTimeout(function () {
+                idle1 = 1
+            }, Math.floor(Math.random() * 3000));
+        }
+        if (ctvR == -20 && once === 1) {
+            once = 0;
+            setTimeout(function () {
+                idle1 = 0
+            }, Math.floor(Math.random() * 3000));
+        }
+        if (ctvR > -20 && idle1 == 1) {
+            ctvR--;
+        }
+        /*this loop refresh each projectile position every frame*/
+        for (i = 0; i < projectile.length; i++) {
+            c.save();
+            c.translate(armX + /*armXincrease*/25, armY + 140);
+            c.rotate(projectileAngle[i] * Math.PI / 180);
+            c.drawImage(proj, projectile[i], -30, 10, 5);
+            c.restore();
+            projectile[i] += parseFloat(range);
+        }
+        for (i = 0; i < laser.length; i++) {
+            c.save();
+            c.translate(armX + /*armXincrease*/25, armY + 140);
+            c.rotate(laserAngle[i] * Math.PI / 180);
+            c.fillStyle="red";
+            c.fillRect(laser[i], -30, 8*range+5, 5);
+            c.restore();
+            laser[i] += parseFloat(range);
+        }
+        
+        c.save(); 
+        // these are the coordinates of the guy's shoulder, aka the rotate origin
+        c.translate(armX + armXincrease, armY + 130);
+        c.rotate(angleDeg * Math.PI / 180);
+        c.drawImage(tizio2, armRec, -30, 130, 40);
+        c.restore();
+        
+        /* the recoil moves back and forth the arm whenever the guy is shooting*/
+        if (isRecoil) {
+            armRec -= 4;
+        }
+        if (!isRecoil && armRec < -10) {
+            armRec++;
+        }
+        /* calling again the "requestAnimationFrame" in order to make of this whole function an infinite loop */
+        requestAnimationFrame(loop);
+    }
+    /*the recoil function gets called whenever you click/tap, it pushes a new element in the projectiles array, which stores every projectiles position*/
+    function recoil() {
+        /* to prevent you to shoot and fart togheter, the audio feels messy otherwise :\*/
+        if (!farting) {
+            var one = angleDeg;
+            armRec = -10;
+            setTimeout(function () {
+                isRecoil = false;
+            }, 50);
+            isRecoil = true;
+            if (lasergun&&!conductorMode){
+            laserAngle.push(one);
+            laser.push(100);
+            }
+            if(!lasergun&&!conductorMode){
+            projectileAngle.push(one);
+            projectile.push(100);
+            } 
+        }
+    }
+    /*this function also get called on click/tap and*/
+    function shootMp3() {
+        if (!farting && !conductorMode) {
+            clearTimeout(bello);
+            random = Math.floor(Math.random() * 2);
+            if(lasergun){
+                    shoot = new Audio("pew1.mp3");
+                shoot.play();
+                playing = 1;
+                
+                bello = setTimeout(function () {
+                playing = 0;
+                }, 600);
+            }
+            if (!lasergun){
+                if (random) {
+                    shoot = new Audio("fake1.mp3");
+                } else {
+                    shoot = new Audio("fake2.mp3");
+                }
+                shoot.play();
+                playing = 1;
+                
+                bello = setTimeout(function () {
+                playing = 0;
+                }, 1250);
+            }
+        }
+        if(conductorMode&&!farting){
+            if (angleDeg<=90&&angleDeg>75){
+            note=new Audio("la.wav");
+            note.play();
+            }
+            if (angleDeg<=75&&angleDeg>50){
+            note=new Audio("si.wav");
+            note.play();
+            }
+            if (angleDeg<=50&&angleDeg>25){
+            note=new Audio("do2.wav");
+            note.play();
+            }
+            if (angleDeg<=25&&angleDeg>0){
+            note=new Audio("re.wav");
+            note.play();
+            }
+            if (angleDeg<=0&&angleDeg>-25){
+            note=new Audio("mi.wav");
+            note.play();
+            }
+            if (angleDeg<=-25&&angleDeg>-60){
+            note=new Audio("fa2.wav");
+            note.play();
+            }
+            if (angleDeg<=-60&&angleDeg>-90){
+            note=new Audio("sol2.wav");
+            note.play();
+            }
+        }
+    }
+
+    function fartFunc() {
+        /* this function initialize the flowers positions and starts the audio */
+        if (!farting) {
+        if (supportsVibrate){
+            navigator.vibrate(1000);
+            }
+            clearTimeout(fart);
+            fart = new Audio("fart.mp3");
+            fart.play();
+            farting = 1;
+            goBack = 0;
+            flowY = 0;
+            flowX = bodyX + 8;
+            fart = setTimeout(function () {
+                farting = 0;}, 1500);
+        }
+    }
+    canvas.addEventListener("click", function () {
+        recoil();
+        shootMp3()
+        if(displayTap){
+        tap.style.display="none";
+        displayTap=0;
+        }
+        
+    });
+    document.addEventListener("mousemove", trackPos);
+    /* trackPos costantly tracks the mouse position and calculates the angle (with the atan2 formula) that the arm should assume */
+    function trackPos(event) {
+        x = event.clientX;
+        y = event.clientY;
+        angleDeg = Math.atan2(y - originY, x - originX) * 180 / Math.PI;
+    }
+}

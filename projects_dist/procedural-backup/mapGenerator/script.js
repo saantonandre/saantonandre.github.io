@@ -1,1 +1,244 @@
-function _0x2125(_0x10fefa,_0x4966c6){const _0x1b34b8=_0x54bc();return _0x2125=function(_0x435a9b,_0x1feac7){_0x435a9b=_0x435a9b-0xff;let _0xd48bd7=_0x1b34b8[_0x435a9b];return _0xd48bd7;},_0x2125(_0x10fefa,_0x4966c6);}const _0x3fff3b=_0x2125;(function(_0x34a683,_0x705ed5){const _0x5ba18f=_0x2125,_0xd1c59=_0x34a683();while(!![]){try{const _0x1403bc=parseInt(_0x5ba18f(0x132))/0x1*(parseInt(_0x5ba18f(0x115))/0x2)+-parseInt(_0x5ba18f(0x10b))/0x3*(-parseInt(_0x5ba18f(0x125))/0x4)+-parseInt(_0x5ba18f(0x11b))/0x5+-parseInt(_0x5ba18f(0x11d))/0x6+-parseInt(_0x5ba18f(0x128))/0x7+parseInt(_0x5ba18f(0x10d))/0x8*(-parseInt(_0x5ba18f(0x106))/0x9)+parseInt(_0x5ba18f(0x131))/0xa*(parseInt(_0x5ba18f(0x124))/0xb);if(_0x1403bc===_0x705ed5)break;else _0xd1c59['push'](_0xd1c59['shift']());}catch(_0x340245){_0xd1c59['push'](_0xd1c59['shift']());}}}(_0x54bc,0xc3fc0));function id(_0xfdc2c0){const _0x4804a4=_0x2125,_0xecc076=(function(){let _0x1cf0b=!![];return function(_0x5dd762,_0x24becf){const _0x58de72=_0x1cf0b?function(){if(_0x24becf){const _0x51b86b=_0x24becf['apply'](_0x5dd762,arguments);return _0x24becf=null,_0x51b86b;}}:function(){};return _0x1cf0b=![],_0x58de72;};}()),_0x1352ea=_0xecc076(this,function(){const _0x439fb4=_0x2125,_0x52905b=function(){const _0x3ea09=_0x2125;let _0x4e9807;try{_0x4e9807=Function(_0x3ea09(0x11e)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x4ab92a){_0x4e9807=window;}return _0x4e9807;},_0xa889c=_0x52905b(),_0xcb9ad8=new RegExp(_0x439fb4(0x10f),'g'),_0x457124=_0x439fb4(0x12f)[_0x439fb4(0x126)](_0xcb9ad8,'')[_0x439fb4(0x11c)](';');let _0x572ea9,_0x50f7e6,_0x43b8da,_0x181aaf;const _0x1a228e=function(_0x1aa787,_0x51c31b,_0xe9e7ad){const _0x40a76f=_0x439fb4;if(_0x1aa787[_0x40a76f(0x111)]!=_0x51c31b)return![];for(let _0x53fae7=0x0;_0x53fae7<_0x51c31b;_0x53fae7++){for(let _0x269edf=0x0;_0x269edf<_0xe9e7ad[_0x40a76f(0x111)];_0x269edf+=0x2){if(_0x53fae7==_0xe9e7ad[_0x269edf]&&_0x1aa787[_0x40a76f(0x109)](_0x53fae7)!=_0xe9e7ad[_0x269edf+0x1])return![];}}return!![];},_0x34d41f=function(_0x2d64aa,_0x2743f2,_0x373ad2){return _0x1a228e(_0x2743f2,_0x373ad2,_0x2d64aa);},_0x430c1c=function(_0x228e1f,_0x2d12a0,_0x2e9859){return _0x34d41f(_0x2d12a0,_0x228e1f,_0x2e9859);},_0x131c92=function(_0x5a3e07,_0xbfee79,_0x256e84){return _0x430c1c(_0xbfee79,_0x256e84,_0x5a3e07);};for(let _0x5a17ae in _0xa889c){if(_0x1a228e(_0x5a17ae,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x572ea9=_0x5a17ae;break;}}for(let _0x24cefc in _0xa889c[_0x572ea9]){if(_0x131c92(0x6,_0x24cefc,[0x5,0x6e,0x0,0x64])){_0x50f7e6=_0x24cefc;break;}}for(let _0x986c18 in _0xa889c[_0x572ea9]){if(_0x430c1c(_0x986c18,[0x7,0x6e,0x0,0x6c],0x8)){_0x43b8da=_0x986c18;break;}}if(!('~'>_0x50f7e6))for(let _0x272f36 in _0xa889c[_0x572ea9][_0x43b8da]){if(_0x34d41f([0x7,0x65,0x0,0x68],_0x272f36,0x8)){_0x181aaf=_0x272f36;break;}}if(!_0x572ea9||!_0xa889c[_0x572ea9])return;const _0x577e8d=_0xa889c[_0x572ea9][_0x50f7e6],_0x4369ef=!!_0xa889c[_0x572ea9][_0x43b8da]&&_0xa889c[_0x572ea9][_0x43b8da][_0x181aaf],_0x4cac3b=_0x577e8d||_0x4369ef;if(!_0x4cac3b)return;let _0x3c325a=![];for(let _0x441ecc=0x0;_0x441ecc<_0x457124[_0x439fb4(0x111)];_0x441ecc++){const _0x5d52de=_0x457124[_0x441ecc],_0x1b56ae=_0x5d52de[0x0]===String['fromCharCode'](0x2e)?_0x5d52de[_0x439fb4(0x116)](0x1):_0x5d52de,_0x5181b0=_0x4cac3b[_0x439fb4(0x111)]-_0x1b56ae['length'],_0x4f5ade=_0x4cac3b[_0x439fb4(0x100)](_0x1b56ae,_0x5181b0),_0x1dd31e=_0x4f5ade!==-0x1&&_0x4f5ade===_0x5181b0;_0x1dd31e&&((_0x4cac3b[_0x439fb4(0x111)]==_0x5d52de[_0x439fb4(0x111)]||_0x5d52de[_0x439fb4(0x100)]('.')===0x0)&&(_0x3c325a=!![]));}if(!_0x3c325a){const _0x19e31d=new RegExp(_0x439fb4(0x121),'g'),_0xa37df6=_0x439fb4(0x12c)['replace'](_0x19e31d,'');_0xa889c[_0x572ea9][_0x43b8da]=_0xa37df6;}});return _0x1352ea(),document[_0x4804a4(0x12d)](_0xfdc2c0);}var canvas=id(_0x3fff3b(0xff));class Room{constructor(_0x426fbc,_0x52d6b6){const _0x4a9b2b=_0x3fff3b;this['x']=_0x426fbc,this['y']=_0x52d6b6,this['links']=[],this[_0x4a9b2b(0x102)]=0x0,this['left']=![],this[_0x4a9b2b(0x114)]=![],this['up']=![],this['down']=![];}}class MapGenerator{constructor(){const _0x6a13c2=_0x3fff3b;this[_0x6a13c2(0x112)]=[],this['w']=0xb,this['h']=0xb,this[_0x6a13c2(0x12a)]=0x10,this[_0x6a13c2(0x10a)]=0x0;}[_0x3fff3b(0x118)](){const _0xf9c1d5=_0x3fff3b;this[_0xf9c1d5(0x112)]=[],this[_0xf9c1d5(0x10a)]=[];for(let _0x5ec4b7=0x0;_0x5ec4b7<this['w'];_0x5ec4b7++){this[_0xf9c1d5(0x112)]['push']([]);for(let _0x496cf6=0x0;_0x496cf6<this['h'];_0x496cf6++){this[_0xf9c1d5(0x112)][_0x5ec4b7][_0xf9c1d5(0x122)](0x0);}}let _0x2320db=[this['w']/0x2|0x0,this['h']/0x2|0x0];this[_0xf9c1d5(0x10a)][_0xf9c1d5(0x122)](_0x2320db),this[_0xf9c1d5(0x112)][_0x2320db[0x0]][_0xf9c1d5(0x127)](_0x2320db[0x1],0x1,new Room(_0x2320db[0x0],_0x2320db[0x1]));let _0x32eb25=0x0;while(this[_0xf9c1d5(0x10a)][_0xf9c1d5(0x111)]<this[_0xf9c1d5(0x12a)]){let _0x50ed81=this['inhabitedRooms'][Math[_0xf9c1d5(0x119)]()*this[_0xf9c1d5(0x10a)][_0xf9c1d5(0x111)]|0x0],_0x157a42=this['pickDirection'](),_0x4d3eb7=[_0x157a42[0x0]+_0x50ed81[0x0],_0x157a42[0x1]+_0x50ed81[0x1]];if(_0x4d3eb7[0x0]<0x0||_0x4d3eb7[0x0]>=this['w']||_0x4d3eb7[0x1]<0x0||_0x4d3eb7[0x1]>=this['h']){_0x32eb25++;continue;}this[_0xf9c1d5(0x112)][_0x4d3eb7[0x0]][_0x4d3eb7[0x1]]==0x0&&(this[_0xf9c1d5(0x112)][_0x4d3eb7[0x0]]['splice'](_0x4d3eb7[0x1],0x1,new Room(_0x4d3eb7[0x0],_0x4d3eb7[0x1])),this[_0xf9c1d5(0x112)][_0x50ed81[0x0]][_0x50ed81[0x1]][_0xf9c1d5(0x110)][_0xf9c1d5(0x122)](_0x157a42),this[_0xf9c1d5(0x112)][_0x4d3eb7[0x0]][_0x4d3eb7[0x1]][_0xf9c1d5(0x110)][_0xf9c1d5(0x122)]([_0x157a42[0x0]*-0x1,_0x157a42[0x1]*-0x1]),_0x157a42[0x0]==0x0?_0x157a42[0x1]>0x1?(this[_0xf9c1d5(0x112)][_0x50ed81[0x0]][_0x50ed81[0x1]][_0xf9c1d5(0x130)]=!![],this[_0xf9c1d5(0x112)][_0x4d3eb7[0x0]][_0x4d3eb7[0x1]]['up']=!![]):(this[_0xf9c1d5(0x112)][_0x50ed81[0x0]][_0x50ed81[0x1]]['up']=!![],this[_0xf9c1d5(0x112)][_0x4d3eb7[0x0]][_0x4d3eb7[0x1]][_0xf9c1d5(0x130)]=!![]):_0x157a42[0x0]>0x1?(this['map'][_0x50ed81[0x0]][_0x50ed81[0x1]]['right']=!![],this[_0xf9c1d5(0x112)][_0x4d3eb7[0x0]][_0x4d3eb7[0x1]][_0xf9c1d5(0x104)]=!![]):(this[_0xf9c1d5(0x112)][_0x50ed81[0x0]][_0x50ed81[0x1]][_0xf9c1d5(0x104)]=!![],this[_0xf9c1d5(0x112)][_0x4d3eb7[0x0]][_0x4d3eb7[0x1]]['right']=!![]),this[_0xf9c1d5(0x10a)][_0xf9c1d5(0x122)](_0x4d3eb7));_0x32eb25++;if(_0x32eb25>0x3e8){console[_0xf9c1d5(0x12b)](_0xf9c1d5(0x11f)),console['log']('#inhabited\x20rooms:\x20'+this[_0xf9c1d5(0x10a)][_0xf9c1d5(0x111)]);break;}}return this[_0xf9c1d5(0x107)](_0x2320db),this[_0xf9c1d5(0x133)](),this['map'];}['assignRooms'](_0x7bfd1){const _0x534a00=_0x3fff3b;this[_0x534a00(0x112)][_0x7bfd1[0x0]][_0x7bfd1[0x1]][_0x534a00(0x102)]=0x1;let _0x41df90=this[_0x534a00(0x10a)],_0x5e4c9c=_0x7bfd1,_0x25e127=_0x7bfd1,_0x4e9733=0x0,_0x3de616=0x0;for(let _0x2f0c54=0x0;_0x2f0c54<_0x41df90[_0x534a00(0x111)];_0x2f0c54++){_0x4e9733=Math[_0x534a00(0x129)](_0x41df90[_0x2f0c54][0x0]-_0x7bfd1[0x0])+Math['abs'](_0x41df90[_0x2f0c54][0x1]-_0x7bfd1[0x1]),_0x4e9733>_0x3de616&&(_0x3de616=_0x4e9733,_0x5e4c9c=_0x41df90[_0x2f0c54]);}this[_0x534a00(0x112)][_0x5e4c9c[0x0]][_0x5e4c9c[0x1]][_0x534a00(0x102)]=0x3,(_0x4e9733=0x0,_0x3de616=0x0);for(let _0xc03ab3=0x0;_0xc03ab3<_0x41df90['length'];_0xc03ab3++){if(this['map'][_0x41df90[_0xc03ab3][0x0]][_0x41df90[_0xc03ab3][0x1]][_0x534a00(0x102)]===0x1)continue;_0x4e9733=Math[_0x534a00(0x129)](_0x41df90[_0xc03ab3][0x0]-_0x5e4c9c[0x0])+Math[_0x534a00(0x129)](_0x41df90[_0xc03ab3][0x1]-_0x5e4c9c[0x1])+Math[_0x534a00(0x129)](_0x41df90[_0xc03ab3][0x0]-_0x7bfd1[0x0])+Math['abs'](_0x41df90[_0xc03ab3][0x1]-_0x7bfd1[0x1]),_0x4e9733>_0x3de616&&(_0x3de616=_0x4e9733,_0x25e127=_0x41df90[_0xc03ab3]);}return this[_0x534a00(0x112)][_0x25e127[0x0]][_0x25e127[0x1]][_0x534a00(0x102)]=0x2,this[_0x534a00(0x112)];}['pickDirection'](){const _0x268ed6=_0x3fff3b;let _0x2fb7f0=[[-0x1,0x0],[0x1,0x0],[0x0,-0x1],[0x0,+0x1]];return _0x2fb7f0[Math[_0x268ed6(0x119)]()*_0x2fb7f0[_0x268ed6(0x111)]|0x0];}[_0x3fff3b(0x133)](){const _0x45dce8=_0x3fff3b;let _0x25d470='';for(let _0xaa8d84=0x0;_0xaa8d84<this['h'];_0xaa8d84++){for(let _0x493a3d=0x0;_0x493a3d<this['w'];_0x493a3d++){_0x25d470+=this[_0x45dce8(0x112)][_0x493a3d][_0xaa8d84][_0x45dce8(0x102)]>=0x0?this[_0x45dce8(0x112)][_0x493a3d][_0xaa8d84][_0x45dce8(0x102)]:'-',_0x25d470+='\x20';}_0x25d470+='\x0a';}console['log'](_0x25d470);}[_0x3fff3b(0x101)](){const _0x41cef4=_0x3fff3b;let _0x120c76=0x14;canvas[_0x41cef4(0x117)]=_0x120c76*this['w'],canvas[_0x41cef4(0x10c)]=_0x120c76*this['h'];let _0x4c4ec4;for(let _0x2fafe2=0x0;_0x2fafe2<this['w'];_0x2fafe2++){for(let _0x393562=0x0;_0x393562<this['h'];_0x393562++){_0x4c4ec4=this[_0x41cef4(0x112)][_0x2fafe2][_0x393562];if(_0x4c4ec4==0x0)continue;switch(this[_0x41cef4(0x112)][_0x2fafe2][_0x393562][_0x41cef4(0x102)]){case 0x0:c[_0x41cef4(0x108)]=_0x41cef4(0x10e);break;case 0x1:c[_0x41cef4(0x108)]=_0x41cef4(0x120);break;case 0x2:c[_0x41cef4(0x108)]=_0x41cef4(0x113);break;case 0x3:c['fillStyle']=_0x41cef4(0x12e);break;}c['fillRect'](_0x2fafe2*_0x120c76+_0x120c76/0xa,_0x393562*_0x120c76+_0x120c76/0xa,_0x120c76-_0x120c76/0x5,_0x120c76-_0x120c76/0x5);for(let _0x1ddc04=0x0;_0x1ddc04<_0x4c4ec4[_0x41cef4(0x110)][_0x41cef4(0x111)];_0x1ddc04++){c[_0x41cef4(0x108)]=_0x41cef4(0x105),c[_0x41cef4(0x11a)]((_0x2fafe2+_0x4c4ec4[_0x41cef4(0x110)][_0x1ddc04][0x0]/0x2)*_0x120c76+_0x120c76/0x2-_0x120c76/0xa,(_0x393562+_0x4c4ec4[_0x41cef4(0x110)][_0x1ddc04][0x1]/0x2)*_0x120c76+_0x120c76/0x2-_0x120c76/0xa,_0x120c76/0x5,_0x120c76/0x5);}}}}}var mapGen=new MapGenerator(),canvas=id(_0x3fff3b(0xff)),c=canvas[_0x3fff3b(0x123)]('2d');id('btn')[_0x3fff3b(0x103)]=generate;function generate(){const _0x6a4c75=_0x3fff3b;mapGen[_0x6a4c75(0x118)](),mapGen['render']();}window['onload']=generate;function _0x54bc(){const _0x29b471=['getElementById','red','saaTnZtYoOnjanqdrHGeVP.XgiWKtHhpub.ivUqEJo;RljocfJalTZhostBjxZQTFfCEGYWNGWKWNNyxmYQkkFFYNVUfCMRQCCN','down','13300QHdkkO','3362ztIfgB','consoleRender','canvas','indexOf','render','type','onclick','left','orange','9RcRrgl','assignRooms','fillStyle','charCodeAt','inhabitedRooms','1184814vnKdhM','height','5808280EaoVhQ','black','[TZYOjqHGVPXWKHpvUqEJRjfJTZBjxZQTFfCEGYWNGWKWNNyxmYQkkFFYNVUfCMRQCCN]','links','length','map','yellow','right','780ayjsgp','slice','width','generate','random','fillRect','3796605oaWffc','split','4625862IkIHEo','return\x20(function()\x20','EMERGENCY\x20EXIT','blue','[RRVjqFfPCypPSpURvpTpCVsCwPK]','push','getContext','5016PAWwpe','16FPowDL','replace','splice','3068289fTanSI','abs','rooms','log','RaRVbjqFfouPtCy:pblankPSpURvpTpCVsCwPK'];_0x54bc=function(){return _0x29b471;};return _0x54bc();}
+/*
+1. Have a grid-like system
+2. inhabit a room in the center
+3. Pick a random inhabited room (Parent)
+4. Pick a neighbor of Parent(←,↑,→,↓):
+is it free? 
+-y: (*) new Child, n: do nothing
+5. rooms amount reached? 
+-y: end, n: back to 3
+
+(*)Child and Parent will have a connection
+*/
+
+/**
+ * Need a class which just creates the map and returns it
+ * based on parameters
+ */
+function id(arg) {
+  return document.getElementById(arg);
+}
+var canvas = id("canvas");
+class Room {
+  constructor(posX, posY) {
+    this.x = posX;
+    this.y = posY;
+    this.links = [];
+    // Types: ["N", "S", "T", "B"]; NORMAL - START - TREASURE/SHOP - BOSS
+    this.type = 0;
+    this.left = false;
+    this.right = false;
+    this.up = false;
+    this.down = false;
+  }
+}
+class MapGenerator {
+  constructor() {
+    this.map = [];
+    this.w = 11;
+    this.h = 11;
+    this.rooms = 16;
+    this.inhabitedRooms = 0;
+  }
+  generate() {
+    this.map = [];
+    this.inhabitedRooms = [];
+    for (let i = 0; i < this.w; i++) {
+      this.map.push([]);
+      for (let j = 0; j < this.h; j++) {
+        this.map[i].push(0);
+      }
+    }
+    // Inhabit a room in the center
+    let center = [(this.w / 2) | 0, (this.h / 2) | 0];
+    this.inhabitedRooms.push(center);
+    this.map[center[0]].splice(center[1], 1, new Room(center[0], center[1]));
+    // Cycle
+    let count = 0;
+    while (this.inhabitedRooms.length < this.rooms) {
+      // Pick a random inhabited room (Parent)
+      let coords =
+        this.inhabitedRooms[(Math.random() * this.inhabitedRooms.length) | 0];
+      // Pick a neighbor of Parent(←,↑,→,↓)
+      let randDir = this.pickDirection();
+      let neighbor = [randDir[0] + coords[0], randDir[1] + coords[1]];
+      // Is it legit?
+      if (
+        neighbor[0] < 0 ||
+        neighbor[0] >= this.w ||
+        neighbor[1] < 0 ||
+        neighbor[1] >= this.h
+      ) {
+        // -y: continue cycling
+        count++;
+        continue;
+      }
+      // Is it free?
+      if (this.map[neighbor[0]][neighbor[1]] == 0) {
+        // -y:  new Child
+        this.map[neighbor[0]].splice(neighbor[1], 1, new Room(neighbor[0],neighbor[1]));
+
+        // put a link on both rooms
+        this.map[coords[0]][coords[1]].links.push(randDir);
+        this.map[neighbor[0]][neighbor[1]].links.push([
+          randDir[0] * -1,
+          randDir[1] * -1,
+        ]);
+        // Assigns the link direction
+        if (randDir[0] == 0) {
+          // verical
+          if (randDir[1] > 1) {
+            this.map[coords[0]][coords[1]].down = true;
+            this.map[neighbor[0]][neighbor[1]].up = true;
+          } else {
+            this.map[coords[0]][coords[1]].up = true;
+            this.map[neighbor[0]][neighbor[1]].down = true;
+          }
+        } else {
+          // hotizontal
+          if (randDir[0] > 1) {
+            this.map[coords[0]][coords[1]].right = true;
+            this.map[neighbor[0]][neighbor[1]].left = true;
+          } else {
+            this.map[coords[0]][coords[1]].left = true;
+            this.map[neighbor[0]][neighbor[1]].right = true;
+          }
+        }
+
+        // push the neighbor coords into the inhabited rooms array
+        this.inhabitedRooms.push(neighbor);
+      }
+
+      // n: do nothing
+      // emergency exit
+      count++;
+      if (count > 1000) {
+        console.log("EMERGENCY EXIT");
+        console.log("#inhabited rooms: " + this.inhabitedRooms.length);
+        break;
+      }
+    }
+    this.assignRooms(center);
+    // Outputs the map
+    this.consoleRender();
+    return this.map;
+  }
+  assignRooms(center) {
+    // Types: ["N", "S", "T", "B"]; NORMAL - START - TREASURE/SHOP - BOSS
+
+    // The start room is the first one
+    this.map[center[0]][center[1]].type = 1;
+    // The boss room is the furthest away from the start
+    let rooms = this.inhabitedRooms;
+    let furthest = center;
+    let furthest2 = center;
+    let dist = 0;
+    let maxDist = 0;
+
+    for (let i = 0; i < rooms.length; i++) {
+      dist =
+        Math.abs(rooms[i][0] - center[0]) + Math.abs(rooms[i][1] - center[1]);
+      if (dist > maxDist) {
+        maxDist = dist;
+        furthest = rooms[i];
+      }
+    }
+    this.map[furthest[0]][furthest[1]].type = 3; // Boss room
+
+    // The treasure room is the furthest away from the boss AND start room
+    (dist = 0), (maxDist = 0);
+    for (let i = 0; i < rooms.length; i++) {
+      if (this.map[rooms[i][0]][rooms[i][1]].type === 1) {
+        continue;
+      }
+      dist =
+      Math.abs(rooms[i][0] - furthest[0]) +
+      Math.abs(rooms[i][1] - furthest[1]) +
+      Math.abs(rooms[i][0] - center[0]) +
+      Math.abs(rooms[i][1] - center[1]) ;
+      if (dist > maxDist) {
+        maxDist = dist;
+        furthest2 = rooms[i];
+      }
+    }
+    this.map[furthest2[0]][furthest2[1]].type = 2; // Treasure room
+    return this.map;
+  }
+  pickDirection() {
+    // dir = [left, right, up, down]
+    let dirs = [
+      [-1, 0],
+      [1, 0],
+      [0, -1],
+      [0, +1],
+    ];
+    return dirs[(Math.random() * dirs.length) | 0];
+  }
+  consoleRender() {
+    let line = "";
+    for (let i = 0; i < this.h; i++) {
+      for (let j = 0; j < this.w; j++) {
+        line += this.map[j][i].type >= 0 ? this.map[j][i].type : "-";
+        line += " ";
+      }
+      line += "\n";
+    }
+    console.log(line);
+  }
+  render() {
+    let size = 20;
+    canvas.width = size * this.w;
+    canvas.height = size * this.h;
+    let room;
+    for (let i = 0; i < this.w; i++) {
+      for (let j = 0; j < this.h; j++) {
+        room = this.map[i][j];
+        if (room == 0) {
+          continue;
+        }
+        // Draws rooms
+        switch (this.map[i][j].type) {
+          case 0:
+            c.fillStyle = "black";
+            break;
+          case 1:
+            c.fillStyle = "blue";
+            break;
+          case 2:
+            c.fillStyle = "yellow";
+            break;
+          case 3:
+            c.fillStyle = "red";
+            break;
+        }
+        c.fillRect(
+          i * size + size / 10,
+          j * size + size / 10,
+          size - size / 5,
+          size - size / 5
+        );
+        // Draws links
+        for (let k = 0; k < room.links.length; k++) {
+          c.fillStyle = "orange";
+          c.fillRect(
+            (i + room.links[k][0] / 2) * size + size / 2 - size / 10,
+            (j + room.links[k][1] / 2) * size + size / 2 - size / 10,
+            size / 5,
+            size / 5
+          );
+        }
+      }
+    }
+  }
+}
+
+var mapGen = new MapGenerator();
+var canvas = id("canvas");
+var c = canvas.getContext("2d");
+
+id("btn").onclick = generate;
+function generate() {
+  mapGen.generate();
+  mapGen.render();
+}
+window.onload = generate;

@@ -1,0 +1,225 @@
+ <!DOCTYPE html>
+ <html>
+
+ <head>
+
+
+     <title>Map Tester</title>
+     <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet">
+     <link href="https://fonts.googleapis.com/css?family=VT323" rel="stylesheet">
+     <link href="style.css" rel="stylesheet" type="text/css">
+     <link rel="shortcut icon" href="resources/favicon.ico" type="image/x-icon">
+     <meta charset="UTF-8">
+     <meta name="apple-mobile-web-app-capable" content="yes">
+     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ </head>
+
+ <body>
+     <div id="loading">
+         <div>Loading...</div>
+     </div>
+     <div id="error">
+         <div id="errorText"></div>
+     </div>
+     <div id="stats" style="display:block;visibility: hidden; position:absolute;width:100%;z-index:2000;">
+         <span id="FPS" class="stat"></span><br>
+         <span id="BLOCKS" class="stat"></span><br>
+         <span id="COL-1" class="stat"></span><br>
+         <span id="COL-2" class="stat"></span><br>
+         <span id="COL-3" class="stat"></span><br>
+         <span id="COL-L" class="stat"></span><br>
+         <span id="COL-R" class="stat"></span><br>
+         <span id="COL-T" class="stat"></span><br>
+         <span id="COL-B" class="stat"></span><br>
+         <br>
+     </div>
+     <div style="display:none;position:absolute;text-align:left;">
+         <span style="float:right;"><b>Controls:</b><br><br><b>[A]-[D]</b> <br> move<br><br><b>[W]</b> <br> jump<br><br><b>[F]</b> <br> attack<br><br><b>[F] mid-air</b> <br> dash attack<br><br><b>[1]-[2]-[3]-[4]-[5]</b> <br> spawn monsters<br></span>
+     </div>
+     <!-- MOBILE UI-->
+     <div id="arrowCont">
+         <img class="arrows" id="left" src="ui/mobile/left.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="right" src="ui/mobile/right.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="up" src="ui/mobile/up.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="atk" src="ui/mobile/x.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+     </div>
+     <div id="othersCont">
+         <img class="arrows" id="lookFurtherBtn" src="ui/mobile/c.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+         <img class="arrows" id="lookDownBtn" src="ui/mobile/down.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+     </div>
+     <div id="spacebarCont">
+         <img class="arrows" id="spacebar" src="ui/mobile/spacebar.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+     </div>
+     <!-- MOBILE UI END-->
+     <div id="container">
+         <div id="title-screen">
+             <div id="buttons">
+                 <div id="newGame" class="button menu">NEW GAME</div>
+                 <div id="continue" class="button menu">CONTINUE</div>
+                 <div id="dialogueBtn" class="button menu">Dialogues(ON)</div>
+                 <img id="music2" class="button menu" src="ui/music-on2.png">
+                 <img id="audio2" class="button menu" src="ui/sound-on2.png">
+             </div>
+             <div id="twitter">
+                 <a href="https://twitter.com/saantonandre" target="_blank"><img id="twitter-logo" src="twitter.png"> @saantonandre</a>
+             </div>
+             <div id="version">Last patch: 2019-09-04</div>
+         </div>
+         <img id="controls" class="tutorials" src="tutorials/controls.png">
+         <img id="bouncy" class="tutorials" src="tutorials/bouncy.png">
+         <img id="crystal" class="tutorials" src="tutorials/crystal.png">
+         <img id="speeder" class="tutorials" src="tutorials/speeder.png">
+         <img id="spikes" class="tutorials" src="tutorials/spikes.png">
+         <img id="dash" class="tutorials" src="tutorials/dash.png">
+         <img id="lookDown" class="tutorials" src="tutorials/lookDown.png">
+         <img id="lookFurther" class="tutorials" src="tutorials/lookFurther.png">
+         <img id="jumping" class="tutorials" src="tutorials/jumping.png">
+         <img id="end" class="tutorials" src="tutorials/end.png">
+         <img id="slime" class="tutorials" src="tutorials/slime.png">
+         <div id="pause-screen">
+             <img id="pause-icon" src="ui/pause.png">
+             <div id="options">
+                 <img id="music" class="icons" src="ui/music-on.png">
+                 <img id="audio" class="icons" src="ui/sound-on.png">
+                 <img id="dialogues" class="icons" src="ui/dialogues-on.png"><br>
+                 <div id="ctrlButton" class="pauseButtons">CONTROLS</div>
+                 <div id="menuButton" class="pauseButtons">MAIN MENU</div>
+             </div>
+         </div>
+         <div id="disclaimer">note: this game autosaves as you progress</div>
+         <div id="disclaimer2">Your browser/device isn't handling the game properly.<br>Slow mode ON. Animations may look clumsy.</div>
+         <canvas id="canvas">
+         </canvas>
+     </div>
+     <div style="display:none">
+         <img id="sheet" src="resources/sheet11.png">
+         <img id="goldenSheet" src="resources/goldenSheet.png">
+         <img id="goldenSheet2" src="resources/goldenSheet.png">
+         <img id="altSheet" src="resources/sheetWarmPalette.png">
+         <img id="bearsheet" src="resources/bear-spritesheet.png">
+         <img id="bg1" src="resources/backgrounds/bg1.png">
+         <img id="bg2" src="resources/backgrounds/bg2.png">
+         <img id="bg3" src="resources/backgrounds/bg3.png">
+         <img id="bg4" src="resources/backgrounds/bg4.png">
+         <img id="cloud1" src="resources/backgrounds/clouds1.png">
+         <img id="cloud2" src="resources/backgrounds/clouds2.png">
+         <img id="hp-bar" src="resources/hp-bar2.png">
+         <img src="ui/music-off.png">
+         <img src="ui/sound-off.png">
+
+     </div>
+     <div style="display:none">
+         <audio src="resources/soundFxs/bounce1.mp3"></audio>
+         <audio src="resources/soundFxs/crystal.mp3"></audio>
+         <audio src="resources/soundFxs/bounce2.mp3"></audio>
+         <audio src="resources/soundFxs/bounce3.mp3"></audio>
+         <audio src="resources/soundFxs/bounce4.mp3"></audio>
+         <audio src="resources/soundFxs/dash.mp3"></audio>
+         <audio src="resources/soundFxs/death.mp3"></audio>
+         <audio src="resources/soundFxs/death2.mp3"></audio>
+         <audio src="resources/soundFxs/jump.mp3"></audio>
+         <audio src="resources/soundFxs/speed1.mp3"></audio>
+         <audio src="resources/soundFxs/speed2.mp3"></audio>
+         <audio src="resources/soundFxs/sword-attack.mp3"></audio>
+         <audio src="resources/soundFxs/sword-hit.mp3"></audio>
+         <audio src="resources/soundFxs/spikes1.mp3"></audio>
+         <audio src="resources/soundFxs/spikes2.mp3"></audio>
+         <audio src="resources/soundFxs/tremble.mp3"></audio>
+         <audio src="resources/soundFxs/fall.mp3"></audio>
+         <audio src="resources/soundFxs/portal.mp3"></audio>
+         <audio src="resources/soundFxs/money-1.mp3"></audio>
+         <audio src="resources/soundFxs/money-2.mp3"></audio>
+         <audio src="resources/soundFxs/money-3.mp3"></audio>
+     </div>
+     <div style="display:none">
+         <audio src="resources/soundFxs/music/Bach-1.mp3"></audio>
+         <audio src="resources/soundFxs/music/Bach-2.mp3"></audio>
+         <audio src="resources/soundFxs/music/Bach-3.mp3"></audio>
+         <audio src="resources/soundFxs/music/Bach-4.mp3"></audio>
+         <audio src="resources/soundFxs/music/Bach-5.mp3"></audio>
+         <audio src="resources/soundFxs/music/Bach-6.mp3"></audio>
+         <audio src="resources/soundFxs/music/Bach-7.mp3"></audio>
+
+         <audio src="resources/soundFxs/music/Haydn-1.mp3"></audio>
+         <audio src="resources/soundFxs/music/Haydn-2.mp3"></audio>
+     </div>
+     <div style="display:none">
+         <img id="d-layout" src="dialogue/layout.png">
+         <img id="ghost-0" src="dialogue/ghost-0.png">
+         <img id="ghost-1" src="dialogue/ghost-1.png">
+         <img id="ghost-2" src="dialogue/ghost-2.png">
+         <img id="player-0" src="dialogue/player-0.png">
+         <img id="player-1" src="dialogue/player-1.png">
+         <img id="player-2" src="dialogue/player-2.png">
+         <img src="dialogue/player1-0.png">
+         <img src="dialogue/player1-1.png">
+         <img src="dialogue/player1-2.png">
+         <img id="pizza-0" src="dialogue/pizza-0.png">
+         <img id="pizza-1" src="dialogue/pizza-1.png">
+         <img id="pizza-2" src="dialogue/pizza-2.png">
+         <img id="pizza-3" src="dialogue/pizza-3.png">
+
+         <img src="ui/dialogues-off.png">
+         <img src="ui/dialogues-on.png">
+         <img src="ui/sound-off.png">
+         <img src="ui/sound-on.png">
+         <img src="ui/music-off.png">
+         <img src="ui/music-on.png">
+         <img src="ui/sound-off2.png">
+         <img src="ui/sound-on2.png">
+         <img src="ui/music-off2.png">
+         <img src="ui/music-on2.png">
+     </div>
+     <div style="display:none">
+         <img id="pizza" src="pizza-sprite.png">
+         <img id="no-pizza" src="pizza-sprite2.png">
+         <audio src="resources/soundFxs/voices/ghost/1.mp3"></audio>
+         <audio src="resources/soundFxs/voices/ghost/2.mp3"></audio>
+         <audio src="resources/soundFxs/voices/ghost/3.mp3"></audio>
+         <audio src="resources/soundFxs/voices/ghost/4.mp3"></audio>
+
+         <audio src="resources/soundFxs/voices/player/1.mp3"></audio>
+         <audio src="resources/soundFxs/voices/player/2.mp3"></audio>
+         <audio src="resources/soundFxs/voices/player/3.mp3"></audio>
+         <audio src="resources/soundFxs/voices/player/4.mp3"></audio>
+         <audio src="resources/soundFxs/voices/player/5.mp3"></audio>
+         <audio src="resources/soundFxs/voices/player/6.mp3"></audio>
+
+         <audio src="resources/soundFxs/voices/pizza/1.mp3"></audio>
+         <audio src="resources/soundFxs/voices/pizza/2.mp3"></audio>
+         <audio src="resources/soundFxs/voices/pizza/3.mp3"></audio>
+         <audio src="resources/soundFxs/voices/pizza/4.mp3"></audio>
+         <audio src="resources/soundFxs/voices/pizza/5.mp3"></audio>
+         <audio src="resources/soundFxs/voices/pizza/6.mp3"></audio>
+         <audio src="resources/soundFxs/voices/pizza/7.mp3"></audio>
+         <audio src="resources/soundFxs/voices/pizza/8.mp3"></audio>
+     </div>
+     <script type="text/javascript">
+         /*jshint esversion: 6 */
+         var preventDefault = true;
+
+         function id(arg) {
+             return document.getElementById(arg);
+         }
+         window.onerror = pageError;
+
+         function pageError(msg, url, lineNo, columnNo) {
+             let LINE = parseInt(lineNo);
+             preventDefault = false;
+             id("error").style.display = "block";
+             if (LINE == 63 || LINE == 70) {
+                 id("errorText").innerHTML = "<span style='color:#ac3232;font-size:32px;'>This game is not supported on your browser :c</span><br><span style='color:white;font-size:25px;'>try on Chrome, Firefox or Edge!</span>"
+             } else {
+                 id("errorText").innerHTML = "<span style='color:#ac3232;font-size:32px;'>Unexpected error occured</span><br><span style='color:white;font-size:25px;'>please, send me the text below!</span><br><br>" + msg + "<br>Line: " + lineNo + "<br>Column: " + columnNo;
+             }
+
+
+         }
+
+     </script>
+     <script src="levels.js"></script>
+     <script src="script.js"></script>
+ </body>
+
+ </html>

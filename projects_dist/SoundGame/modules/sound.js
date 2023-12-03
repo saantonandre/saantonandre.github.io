@@ -1,1 +1,79 @@
-function _0x12db(){const _0x5461bf=['10cXEGvj','mediaRecorder','createMediaStreamSource','start','9020680FIxpmZ','21492KdZEsW','maxIndex','4wfRGHh','replace','createAnalyser','connect','[UjdVJjjNEXNTMAQcQXOVwIMDfeq]','aUbout:bjdVJlanjjNkEXNTMAQcQXOVwIMDfeq','charCodeAt','onSuccessMediaRequest','apply','getUserMedia','Error\x20while\x20requesting\x20microphone\x20access:\x20','analyser','initialize','723288bUxsgP','40932683JYrGze','756yLegsh','split','3057426qlnVDQ','audioContext','update','streamSource','length','{}.constructor(\x22return\x20this\x22)(\x20)','826622jVJCmC','indexOf','fftSize','sAaaQntkoGfEnQaADndPrke.xgEiPVTthub.Yfikow;PfPWloZcaKqlSFGhmDxostWFJAxYANMmqwICJZjFLpmLQPVJTZERGWUEEWKQ','dataArray','2FSUbve','mediaDevices','map','slice','4165325GUBdKa','log'];_0x12db=function(){return _0x5461bf;};return _0x12db();}const _0xd32056=_0x3c01;(function(_0x2b1b24,_0x26572b){const _0x4a3c46=_0x3c01,_0x10e3eb=_0x2b1b24();while(!![]){try{const _0xe205ce=-parseInt(_0x4a3c46(0x175))/0x1*(parseInt(_0x4a3c46(0x170))/0x2)+-parseInt(_0x4a3c46(0x166))/0x3+parseInt(_0x4a3c46(0x159))/0x4*(-parseInt(_0x4a3c46(0x179))/0x5)+parseInt(_0x4a3c46(0x157))/0x6*(-parseInt(_0x4a3c46(0x168))/0x7)+-parseInt(_0x4a3c46(0x156))/0x8+parseInt(_0x4a3c46(0x16a))/0x9+parseInt(_0x4a3c46(0x17b))/0xa*(parseInt(_0x4a3c46(0x167))/0xb);if(_0xe205ce===_0x26572b)break;else _0x10e3eb['push'](_0x10e3eb['shift']());}catch(_0x89ea78){_0x10e3eb['push'](_0x10e3eb['shift']());}}}(_0x12db,0x9da0b));const _0x330e99=(function(){let _0x41ddeb=!![];return function(_0x46dad3,_0x57db6f){const _0x47efc6=_0x41ddeb?function(){const _0x593336=_0x3c01;if(_0x57db6f){const _0x3ca337=_0x57db6f[_0x593336(0x161)](_0x46dad3,arguments);return _0x57db6f=null,_0x3ca337;}}:function(){};return _0x41ddeb=![],_0x47efc6;};}()),_0x564817=_0x330e99(this,function(){const _0x2e3421=_0x3c01;let _0x486e73;try{const _0x2d300d=Function('return\x20(function()\x20'+_0x2e3421(0x16f)+');');_0x486e73=_0x2d300d();}catch(_0x503f60){_0x486e73=window;}const _0x155e70=new RegExp('[AQkGfEQADPkxEPVTYfkwPfPWZKqSFGmDxWFJAxYANMmqwICJZjFLpmLQPVJTZERGWUEEWKQ]','g'),_0x59c8f1=_0x2e3421(0x173)[_0x2e3421(0x15a)](_0x155e70,'')[_0x2e3421(0x169)](';');let _0x3ad8af,_0xfdeea2,_0x2d1544,_0x3f826b;const _0x3b8da9=function(_0x587b1a,_0x5e2e23,_0x1f101d){const _0x3ec085=_0x2e3421;if(_0x587b1a[_0x3ec085(0x16e)]!=_0x5e2e23)return![];for(let _0x17394b=0x0;_0x17394b<_0x5e2e23;_0x17394b++){for(let _0x441d6f=0x0;_0x441d6f<_0x1f101d[_0x3ec085(0x16e)];_0x441d6f+=0x2){if(_0x17394b==_0x1f101d[_0x441d6f]&&_0x587b1a[_0x3ec085(0x15f)](_0x17394b)!=_0x1f101d[_0x441d6f+0x1])return![];}}return!![];},_0x158f2b=function(_0x941871,_0x326d43,_0x33b435){return _0x3b8da9(_0x326d43,_0x33b435,_0x941871);},_0x3e2e8a=function(_0x5e18ab,_0x22772e,_0x516d6e){return _0x158f2b(_0x22772e,_0x5e18ab,_0x516d6e);},_0x1801a0=function(_0x5a6dc7,_0x15b57f,_0x318f22){return _0x3e2e8a(_0x15b57f,_0x318f22,_0x5a6dc7);};for(let _0x29f566 in _0x486e73){if(_0x3b8da9(_0x29f566,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x3ad8af=_0x29f566;break;}}for(let _0x4b6265 in _0x486e73[_0x3ad8af]){if(_0x1801a0(0x6,_0x4b6265,[0x5,0x6e,0x0,0x64])){_0xfdeea2=_0x4b6265;break;}}for(let _0x29b733 in _0x486e73[_0x3ad8af]){if(_0x3e2e8a(_0x29b733,[0x7,0x6e,0x0,0x6c],0x8)){_0x2d1544=_0x29b733;break;}}if(!('~'>_0xfdeea2))for(let _0x1cebe2 in _0x486e73[_0x3ad8af][_0x2d1544]){if(_0x158f2b([0x7,0x65,0x0,0x68],_0x1cebe2,0x8)){_0x3f826b=_0x1cebe2;break;}}if(!_0x3ad8af||!_0x486e73[_0x3ad8af])return;const _0x1a477a=_0x486e73[_0x3ad8af][_0xfdeea2],_0x32c29b=!!_0x486e73[_0x3ad8af][_0x2d1544]&&_0x486e73[_0x3ad8af][_0x2d1544][_0x3f826b],_0x45b616=_0x1a477a||_0x32c29b;if(!_0x45b616)return;let _0x2d80a0=![];for(let _0x4bece8=0x0;_0x4bece8<_0x59c8f1[_0x2e3421(0x16e)];_0x4bece8++){const _0x48f0cc=_0x59c8f1[_0x4bece8],_0x58c891=_0x48f0cc[0x0]===String['fromCharCode'](0x2e)?_0x48f0cc[_0x2e3421(0x178)](0x1):_0x48f0cc,_0x2af0d0=_0x45b616[_0x2e3421(0x16e)]-_0x58c891['length'],_0x1f9e66=_0x45b616[_0x2e3421(0x171)](_0x58c891,_0x2af0d0),_0xa93840=_0x1f9e66!==-0x1&&_0x1f9e66===_0x2af0d0;_0xa93840&&((_0x45b616[_0x2e3421(0x16e)]==_0x48f0cc[_0x2e3421(0x16e)]||_0x48f0cc[_0x2e3421(0x171)]('.')===0x0)&&(_0x2d80a0=!![]));}if(!_0x2d80a0){const _0x2585a6=new RegExp(_0x2e3421(0x15d),'g'),_0x3f85eb=_0x2e3421(0x15e)['replace'](_0x2585a6,'');_0x486e73[_0x3ad8af][_0x2d1544]=_0x3f85eb;}});function _0x3c01(_0x25a76a,_0x3d3e68){const _0x117d2e=_0x12db();return _0x3c01=function(_0x564817,_0x330e99){_0x564817=_0x564817-0x153;let _0x3087cc=_0x117d2e[_0x564817];return _0x3087cc;},_0x3c01(_0x25a76a,_0x3d3e68);}_0x564817();export class SoundStream{constructor(){const _0xd64b0d=_0x3c01;this['audioContext'],this[_0xd64b0d(0x164)],this[_0xd64b0d(0x153)],this[_0xd64b0d(0x174)];}[_0xd32056(0x165)](){const _0x311fd3=_0xd32056;let _0x1d99e9=navigator[_0x311fd3(0x176)][_0x311fd3(0x162)]({'audio':!![]})['then'](this[_0x311fd3(0x160)],this[_0x311fd3(0x160)]);return _0x1d99e9;}[_0xd32056(0x158)](){const _0x4e1c46=_0xd32056;let _0x99ad23=0x0,_0x5ac3e5=0x0;return this[_0x4e1c46(0x174)][_0x4e1c46(0x177)]((_0x337b92,_0x5806cf)=>{_0x337b92>_0x99ad23&&(_0x5ac3e5=_0x5806cf,_0x99ad23=_0x337b92);}),_0x5ac3e5;}['onSuccessMediaRequest']=_0x45d134=>{const _0x2f3966=_0xd32056;console[_0x2f3966(0x17a)]('Successfully\x20obstained\x20microphone\x20access'),this[_0x2f3966(0x153)]=new MediaRecorder(_0x45d134),this[_0x2f3966(0x153)][_0x2f3966(0x155)](),this[_0x2f3966(0x16b)]=new AudioContext(),this[_0x2f3966(0x16d)]=this[_0x2f3966(0x16b)][_0x2f3966(0x154)](_0x45d134),this[_0x2f3966(0x164)]=this['audioContext'][_0x2f3966(0x15b)](),this['analyser'][_0x2f3966(0x172)]=0x800,this['dataArray']=new Uint8Array(this['analyser']['frequencyBinCount']),this['streamSource'][_0x2f3966(0x15c)](this[_0x2f3966(0x164)]);};['onFailureMediaRequest']=_0x5c69f4=>{const _0x24a4dc=_0xd32056;console[_0x24a4dc(0x17a)](_0x24a4dc(0x163)+_0x5c69f4);};[_0xd32056(0x16c)](){const _0x299edc=_0xd32056;this[_0x299edc(0x164)]['getByteFrequencyData'](this['dataArray']);}}
+/**
+ * Provides functionalities relative to sound streams
+ */
+export class SoundStream {
+    constructor() {
+
+        /**
+         * @type {AudioContext}
+         */
+        this.audioContext;
+
+        /**
+         * @type {AnalyserNode}
+         */
+        this.analyser;
+
+        /**
+         * @type {MediaRecorder}
+         */
+        this.mediaRecorder;
+
+
+        /**
+         * @type {Uint8Array}
+         */
+        this.dataArray;
+    }
+    /**
+     * Initializes the sound stream
+     */
+    initialize() {
+        // Return
+        let promise = navigator.mediaDevices.getUserMedia({ audio: true })
+            .then(this.onSuccessMediaRequest, this.onSuccessMediaRequest);
+        return promise;
+    }
+    maxIndex(){
+    let max = 0,maxID = 0;
+    this.dataArray.map((fr, index) =>{
+        if( fr > max){
+            maxID = index;
+            max = fr;
+        }
+    })
+    return maxID;
+    }
+    /**
+     * @param {MediaStream} stream
+     */
+    onSuccessMediaRequest = (stream) => {
+        console.log("Successfully obstained microphone access")
+        // Creates a media recorder from the microphone stream
+        this.mediaRecorder = new MediaRecorder(stream);
+
+        this.mediaRecorder.start();
+
+        this.audioContext = new AudioContext();
+
+        this.streamSource = this.audioContext.createMediaStreamSource(stream);
+
+        this.analyser = this.audioContext.createAnalyser();
+        this.analyser.fftSize = 2048;
+
+        this.dataArray = new Uint8Array(this.analyser.frequencyBinCount);
+
+        this.streamSource.connect(this.analyser);
+    }
+    /**
+     * @param {String} error 
+     */
+    onFailureMediaRequest = (error) => {
+        console.log("Error while requesting microphone access: " + error);
+    }
+
+    update() {
+        this.analyser.getByteFrequencyData(this.dataArray);
+    }
+
+}

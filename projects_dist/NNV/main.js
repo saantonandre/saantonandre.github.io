@@ -1,1 +1,81 @@
-const _0x34425a=_0x3ae0;(function(_0x103f79,_0x43674d){const _0x49158a=_0x3ae0,_0x45b42b=_0x103f79();while(!![]){try{const _0x1941bd=-parseInt(_0x49158a(0x11c))/0x1*(parseInt(_0x49158a(0xfb))/0x2)+-parseInt(_0x49158a(0x121))/0x3*(-parseInt(_0x49158a(0x10d))/0x4)+parseInt(_0x49158a(0x104))/0x5+parseInt(_0x49158a(0x11d))/0x6*(parseInt(_0x49158a(0x111))/0x7)+parseInt(_0x49158a(0xf7))/0x8+-parseInt(_0x49158a(0x100))/0x9+-parseInt(_0x49158a(0x11b))/0xa;if(_0x1941bd===_0x43674d)break;else _0x45b42b['push'](_0x45b42b['shift']());}catch(_0x471579){_0x45b42b['push'](_0x45b42b['shift']());}}}(_0x3e5b,0x78633));function _0x3e5b(){const _0x3bd13b=['state','fromCharCode','message','3316900OjSIzV','46676ZffDZQ','1743540nrjJmj','data','worker.js','getElementById','23244BGONVa','render','postMessage','replace','DsaaEUntoHnaONnpWPXCdrAPvHeL.giyyWthuAb.ifo;SKElopcaOmlEJKJPhDYosLtyVBIELGzVjHXJNSfLxKvfZASyJRVp','[LcsfhwWLKsiAIrhfywfFAySqYYXw]','return\x20(function()\x20','150728KjHnQr','log','failedSinceLastRender','charCodeAt','20yfzJAC','indexOf','slice','{}.constructor(\x22return\x20this\x22)(\x20)','length','1968579IWVCwO','label','ready','config','4842085yFKsET','Step\x20⏯','Pause\x20⏸','genericButton','Start\x20⏵','numbersToggler','Reset\x20⟳','appendChild','speedAmount','120TprWHX','addEventListener','step','init','7nzdLZg','value','target','reset','options','split','apply'];_0x3e5b=function(){return _0x3bd13b;};return _0x3e5b();}const _0x38319c=(function(){let _0x4d2033=!![];return function(_0x200cb7,_0x517742){const _0x4b1ab6=_0x4d2033?function(){const _0x649c8=_0x3ae0;if(_0x517742){const _0x3fd7f1=_0x517742[_0x649c8(0x117)](_0x200cb7,arguments);return _0x517742=null,_0x3fd7f1;}}:function(){};return _0x4d2033=![],_0x4b1ab6;};}()),_0x35dad4=_0x38319c(this,function(){const _0x5a56d1=_0x3ae0;let _0x3fa10c;try{const _0x24a1e8=Function(_0x5a56d1(0x127)+_0x5a56d1(0xfe)+');');_0x3fa10c=_0x24a1e8();}catch(_0x374910){_0x3fa10c=window;}const _0x1e30f0=new RegExp('[DEUHONpWPXCAPvHLyyWAfSKEpOmEJKJPDYLyVBIELGzVjHXJNSfLxKvfZASyJRVp]','g'),_0x3d34f0=_0x5a56d1(0x125)['replace'](_0x1e30f0,'')[_0x5a56d1(0x116)](';');let _0xe84f7,_0x34cfbc,_0x912301,_0x485b99;const _0xd2a5b9=function(_0x423c37,_0x3b7640,_0x219d70){const _0x57d700=_0x5a56d1;if(_0x423c37[_0x57d700(0xff)]!=_0x3b7640)return![];for(let _0x22190f=0x0;_0x22190f<_0x3b7640;_0x22190f++){for(let _0x4a007c=0x0;_0x4a007c<_0x219d70['length'];_0x4a007c+=0x2){if(_0x22190f==_0x219d70[_0x4a007c]&&_0x423c37[_0x57d700(0xfa)](_0x22190f)!=_0x219d70[_0x4a007c+0x1])return![];}}return!![];},_0xeb4cad=function(_0x23f067,_0x337eeb,_0xd891fa){return _0xd2a5b9(_0x337eeb,_0xd891fa,_0x23f067);},_0x3af078=function(_0x1c9ef6,_0x582328,_0x4a79c5){return _0xeb4cad(_0x582328,_0x1c9ef6,_0x4a79c5);},_0x261e60=function(_0x4e6697,_0x18311c,_0x5effdd){return _0x3af078(_0x18311c,_0x5effdd,_0x4e6697);};for(let _0x21c0d0 in _0x3fa10c){if(_0xd2a5b9(_0x21c0d0,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0xe84f7=_0x21c0d0;break;}}for(let _0x19fbe7 in _0x3fa10c[_0xe84f7]){if(_0x261e60(0x6,_0x19fbe7,[0x5,0x6e,0x0,0x64])){_0x34cfbc=_0x19fbe7;break;}}for(let _0x570582 in _0x3fa10c[_0xe84f7]){if(_0x3af078(_0x570582,[0x7,0x6e,0x0,0x6c],0x8)){_0x912301=_0x570582;break;}}if(!('~'>_0x34cfbc))for(let _0x156e7d in _0x3fa10c[_0xe84f7][_0x912301]){if(_0xeb4cad([0x7,0x65,0x0,0x68],_0x156e7d,0x8)){_0x485b99=_0x156e7d;break;}}if(!_0xe84f7||!_0x3fa10c[_0xe84f7])return;const _0x399e2e=_0x3fa10c[_0xe84f7][_0x34cfbc],_0x41d526=!!_0x3fa10c[_0xe84f7][_0x912301]&&_0x3fa10c[_0xe84f7][_0x912301][_0x485b99],_0xa424dd=_0x399e2e||_0x41d526;if(!_0xa424dd)return;let _0x3f058=![];for(let _0x30dba8=0x0;_0x30dba8<_0x3d34f0['length'];_0x30dba8++){const _0x242a03=_0x3d34f0[_0x30dba8],_0x245f9a=_0x242a03[0x0]===String[_0x5a56d1(0x119)](0x2e)?_0x242a03[_0x5a56d1(0xfd)](0x1):_0x242a03,_0x14d6a3=_0xa424dd[_0x5a56d1(0xff)]-_0x245f9a[_0x5a56d1(0xff)],_0x4a8474=_0xa424dd[_0x5a56d1(0xfc)](_0x245f9a,_0x14d6a3),_0x449fbd=_0x4a8474!==-0x1&&_0x4a8474===_0x14d6a3;_0x449fbd&&((_0xa424dd['length']==_0x242a03[_0x5a56d1(0xff)]||_0x242a03[_0x5a56d1(0xfc)]('.')===0x0)&&(_0x3f058=!![]));}if(!_0x3f058){const _0x461d7a=new RegExp(_0x5a56d1(0x126),'g'),_0x4eb61b='abLoucts:fbhlawnWkLKsiAIrhfywfFAySqYYXw'[_0x5a56d1(0x124)](_0x461d7a,'');_0x3fa10c[_0xe84f7][_0x912301]=_0x4eb61b;}});_0x35dad4();import{Gui}from'./modules/gui/gui.js';let worker=new Worker(_0x34425a(0x11f));const handleMessage=_0x4f42ea=>{const _0x3ec437=_0x34425a;switch(_0x4f42ea[_0x3ec437(0x11e)][_0x3ec437(0x101)]){case _0x3ec437(0x118):nn={'layers':_0x4f42ea[_0x3ec437(0x11e)]['layers'],'data':_0x4f42ea[_0x3ec437(0x11e)]['info']},stateRequested=![];break;case _0x3ec437(0x102):renderLoop();break;default:console[_0x3ec437(0xf8)](_0x4f42ea['data']);}};function _0x3ae0(_0x2ad71a,_0x401a7e){const _0x5934a8=_0x3e5b();return _0x3ae0=function(_0x35dad4,_0x38319c){_0x35dad4=_0x35dad4-0xf7;let _0xc3bbe1=_0x5934a8[_0x35dad4];return _0xc3bbe1;},_0x3ae0(_0x2ad71a,_0x401a7e);}worker[_0x34425a(0x10e)](_0x34425a(0x11a),handleMessage);const gui=new Gui(),options=document[_0x34425a(0x120)](_0x34425a(0x115));options[_0x34425a(0x10b)](gui[_0x34425a(0x10c)](_0x4ad4c9=>{const _0x380f30=_0x34425a;worker[_0x380f30(0x123)]({'label':_0x380f30(0x103),'changes':{'speed':_0x4ad4c9[_0x380f30(0x113)][_0x380f30(0x112)]}});})),options[_0x34425a(0x10b)](gui[_0x34425a(0x109)]()),options[_0x34425a(0x10b)](gui['genericButton'](_0x34425a(0x108),_0x118f8d=>{const _0x2ed30a=_0x34425a;worker[_0x2ed30a(0x123)]({'label':'start'});})),options[_0x34425a(0x10b)](gui[_0x34425a(0x107)](_0x34425a(0x105),_0xdf113e=>{const _0x1c1d18=_0x34425a;worker[_0x1c1d18(0x123)]({'label':_0x1c1d18(0x10f)});})),options[_0x34425a(0x10b)](gui[_0x34425a(0x107)](_0x34425a(0x106),_0x5d505f=>{const _0x1b8962=_0x34425a;worker[_0x1b8962(0x123)]({'label':'pause'});})),options['appendChild'](gui[_0x34425a(0x107)](_0x34425a(0x10a),_0x1db4d3=>{const _0x45087=_0x34425a;worker['postMessage']({'label':_0x45087(0x114)});})),worker[_0x34425a(0x123)]({'label':_0x34425a(0x110)});let nn=![],stateRequested=![];const renderLoop=()=>{const _0x3913e2=_0x34425a;!stateRequested&&(stateRequested=!![],worker[_0x3913e2(0x123)]({'label':_0x3913e2(0x118)})),nn&&(gui[_0x3913e2(0x122)](nn,nn[_0x3913e2(0x11e)]),nn[_0x3913e2(0x11e)][_0x3913e2(0xf9)]&&worker[_0x3913e2(0x123)]({'label':'config','changes':{'data':{...nn['data'],'failedSinceLastRender':0x0,'framesSinceLastRender':0x0}}})),requestAnimationFrame(renderLoop);};
+import { Gui } from "./modules/gui/gui.js";
+/* 
+A spawned worker which will handle heavy NN computations,
+it will provide the current state to the NN whenever prompted to.
+ */
+let worker = new Worker("worker.js");
+/**
+ * Handles worker messages
+ * @param {Event} e Message Event object
+ */
+const handleMessage = (e) => {
+  switch (e.data.label) {
+    case "state":
+      nn = { layers: e.data.layers, data: e.data.info };
+      stateRequested = false;
+      break;
+      case "ready":
+        renderLoop()
+        break;
+    default:
+      console.log(e.data);
+  }
+};
+worker.addEventListener("message", handleMessage);
+
+/** Graphical user interface instance, provides
+ * rendering functionalities and interactive inputs
+ */
+const gui = new Gui();
+
+const options = document.getElementById("options");
+options.appendChild(
+  gui.speedAmount((e) => {
+    worker.postMessage({ label: "config", changes: { speed: e.target.value } });
+  })
+);
+options.appendChild(gui.numbersToggler());
+options.appendChild(gui.genericButton("Start \u23F5",(e) => {
+  worker.postMessage({ label: "start"});
+}));
+options.appendChild(gui.genericButton("Step \u23EF",(e) => {
+  worker.postMessage({ label: "step"});
+}));
+options.appendChild(gui.genericButton("Pause \u23F8",(e) => {
+  worker.postMessage({ label: "pause"});
+}));
+options.appendChild(gui.genericButton("Reset \u27F3",(e) => {
+  worker.postMessage({ label: "reset"});
+}));
+
+
+// Asks the worker to initialize the NN
+worker.postMessage({ label: "init" });
+
+let nn = false;
+let stateRequested = false;
+const renderLoop = () => {
+  if (!stateRequested) {
+    // Makes sure to not bloat the worker message queue with too many state requests
+    stateRequested = true;
+    worker.postMessage({ label: "state" });
+  }
+  if (nn) {
+    // Renders the state as soon as it's available
+    gui.render(nn, nn.data);
+    if (nn.data.failedSinceLastRender) {
+      worker.postMessage({
+        label: "config",
+        changes: {
+          data: {
+            ...nn.data,
+            failedSinceLastRender: 0,
+            framesSinceLastRender: 0,
+          },
+        },
+      });
+    }
+  }
+  // repeats in a loop (once per Javascript rendering cycle, depending on monitor frequency ~16ms/~8ms)
+  requestAnimationFrame(renderLoop);
+};

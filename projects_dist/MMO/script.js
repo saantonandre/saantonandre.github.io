@@ -1,1 +1,204 @@
-var _0x6aae4a=_0x2e80;(function(_0x316f6f,_0x3422c0){var _0x3087e6=_0x2e80,_0x5242b4=_0x316f6f();while(!![]){try{var _0x3b7471=-parseInt(_0x3087e6(0x97))/0x1*(parseInt(_0x3087e6(0x86))/0x2)+-parseInt(_0x3087e6(0x83))/0x3*(parseInt(_0x3087e6(0xa9))/0x4)+parseInt(_0x3087e6(0x89))/0x5+-parseInt(_0x3087e6(0x99))/0x6*(-parseInt(_0x3087e6(0x9f))/0x7)+-parseInt(_0x3087e6(0x7d))/0x8*(parseInt(_0x3087e6(0x79))/0x9)+parseInt(_0x3087e6(0x84))/0xa+-parseInt(_0x3087e6(0xa0))/0xb*(parseInt(_0x3087e6(0x85))/0xc);if(_0x3b7471===_0x3422c0)break;else _0x5242b4['push'](_0x5242b4['shift']());}catch(_0x198028){_0x5242b4['push'](_0x5242b4['shift']());}}}(_0x726c,0x71f2b));var _0x6c9578=(function(){var _0x52e96f=!![];return function(_0x3e9bf9,_0x3bd739){var _0x1395a0=_0x52e96f?function(){var _0x5e34fb=_0x2e80;if(_0x3bd739){var _0x4b333c=_0x3bd739[_0x5e34fb(0x8c)](_0x3e9bf9,arguments);return _0x3bd739=null,_0x4b333c;}}:function(){};return _0x52e96f=![],_0x1395a0;};}()),_0xc42f97=_0x6c9578(this,function(){var _0x2343cc=_0x2e80,_0x19db07;try{var _0xf6d8ab=Function(_0x2343cc(0xa4)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x19db07=_0xf6d8ab();}catch(_0xec24f9){_0x19db07=window;}var _0x2ac6ba=new RegExp('[FOGPUVqUIGFqXOQRAPNIYZkSZWEqLZKQppUwBBxImQMDfPJJpNXOSwwCqGKGCDMjFCR]','g'),_0x212bb5=_0x2343cc(0x7a)[_0x2343cc(0x9c)](_0x2ac6ba,'')['split'](';'),_0x455bf,_0xec42bb,_0x512ab2,_0x22edbd,_0x28e4ef=function(_0x4341af,_0xef3826,_0xd23af6){var _0x575ce4=_0x2343cc;if(_0x4341af[_0x575ce4(0x94)]!=_0xef3826)return![];for(var _0x4c6a29=0x0;_0x4c6a29<_0xef3826;_0x4c6a29++){for(var _0x541ca2=0x0;_0x541ca2<_0xd23af6[_0x575ce4(0x94)];_0x541ca2+=0x2){if(_0x4c6a29==_0xd23af6[_0x541ca2]&&_0x4341af[_0x575ce4(0x81)](_0x4c6a29)!=_0xd23af6[_0x541ca2+0x1])return![];}}return!![];},_0x3c311a=function(_0x1ae4d7,_0x2d7535,_0x573388){return _0x28e4ef(_0x2d7535,_0x573388,_0x1ae4d7);},_0x563b71=function(_0x55066d,_0x3d6a88,_0x42b890){return _0x3c311a(_0x3d6a88,_0x55066d,_0x42b890);},_0x374877=function(_0x6955d1,_0x2b3d4b,_0x449a37){return _0x563b71(_0x2b3d4b,_0x449a37,_0x6955d1);};for(var _0x3d1264 in _0x19db07){if(_0x28e4ef(_0x3d1264,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x455bf=_0x3d1264;break;}}for(var _0x2db62e in _0x19db07[_0x455bf]){if(_0x374877(0x6,_0x2db62e,[0x5,0x6e,0x0,0x64])){_0xec42bb=_0x2db62e;break;}}for(var _0x123ee9 in _0x19db07[_0x455bf]){if(_0x563b71(_0x123ee9,[0x7,0x6e,0x0,0x6c],0x8)){_0x512ab2=_0x123ee9;break;}}if(!('~'>_0xec42bb))for(var _0x663059 in _0x19db07[_0x455bf][_0x512ab2]){if(_0x3c311a([0x7,0x65,0x0,0x68],_0x663059,0x8)){_0x22edbd=_0x663059;break;}}if(!_0x455bf||!_0x19db07[_0x455bf])return;var _0x2acda1=_0x19db07[_0x455bf][_0xec42bb],_0x400614=!!_0x19db07[_0x455bf][_0x512ab2]&&_0x19db07[_0x455bf][_0x512ab2][_0x22edbd],_0x4c20e7=_0x2acda1||_0x400614;if(!_0x4c20e7)return;var _0x3a1770=![];for(var _0x1fceb4=0x0;_0x1fceb4<_0x212bb5['length'];_0x1fceb4++){var _0xec42bb=_0x212bb5[_0x1fceb4],_0x7e43e3=_0xec42bb[0x0]===String[_0x2343cc(0xa3)](0x2e)?_0xec42bb[_0x2343cc(0xa7)](0x1):_0xec42bb,_0x39ec12=_0x4c20e7['length']-_0x7e43e3[_0x2343cc(0x94)],_0x22f1d0=_0x4c20e7['indexOf'](_0x7e43e3,_0x39ec12),_0x14b67f=_0x22f1d0!==-0x1&&_0x22f1d0===_0x39ec12;_0x14b67f&&((_0x4c20e7[_0x2343cc(0x94)]==_0xec42bb[_0x2343cc(0x94)]||_0xec42bb['indexOf']('.')===0x0)&&(_0x3a1770=!![]));}if(!_0x3a1770){var _0x21da88=new RegExp(_0x2343cc(0x92),'g'),_0x5d52bf=_0x2343cc(0x80)[_0x2343cc(0x9c)](_0x21da88,'');_0x19db07[_0x455bf][_0x512ab2]=_0x5d52bf;}});_0xc42f97();var canvas=document[_0x6aae4a(0x9b)](_0x6aae4a(0x7e));canvas[_0x6aae4a(0x88)]=window[_0x6aae4a(0x98)],canvas[_0x6aae4a(0x95)]=window['innerHeight'];var c=canvas[_0x6aae4a(0x87)]('2d'),user={'name':prompt(_0x6aae4a(0x7c),''),'y':0x32,'x':0x32,'key':'','L':![],'R':![],'T':![],'B':![],'speed':0x3,'accel':0.25,'xVel':0x0,'yVel':0x0,'size':0x14},coordsArr,config={'apiKey':_0x6aae4a(0xa2),'authDomain':_0x6aae4a(0x8b),'databaseURL':_0x6aae4a(0xa5),'projectId':_0x6aae4a(0x91),'storageBucket':'','messagingSenderId':_0x6aae4a(0xad)};firebase[_0x6aae4a(0x8d)](config);function _0x2e80(_0x2fe75c,_0x1ff00b){var _0x11a168=_0x726c();return _0x2e80=function(_0xc42f97,_0x6c9578){_0xc42f97=_0xc42f97-0x78;var _0x3a9a62=_0x11a168[_0xc42f97];return _0x3a9a62;},_0x2e80(_0x2fe75c,_0x1ff00b);}var database=firebase[_0x6aae4a(0x9d)](),ref=database[_0x6aae4a(0xac)](_0x6aae4a(0x96));function _0x726c(){var _0x1845ae=['221814ldIBbj','clientX','getElementById','replace','database','child','154kqEzpt','11osAWqt','accel','AIzaSyC_79ED3MbspytkUAI012iv-uRnqM3a7HU','fromCharCode','return\x20(function()\x20','https://mmoc-76047.firebaseio.com','fillText','slice','clearRect','148XVDvvZ','addEventListener','keydown','ref','816334987093','value','size','key','log','fillRect','name','9uMymsN','FsOaGaPUntVoqnUandrIGFqXe.OgithubQ.iRoAP;lNocIYZakSZlhostWEqLZKQppUwBBxImQMDfPJJpNXOSwwCqGKGCDMjFCR','onclick','Enter\x20your\x20name','1868936MAEyzH','canvas','keyCode','abouLLsTt:ebleFxiafenQkDDBixRsVXANPgshU','charCodeAt','clientY','48621qJeyoX','7599130OVhLNL','2817228gjxVoP','2IYhivU','getContext','width','3644860DcakmL','data\x20exchange','mmoc-76047.firebaseapp.com','apply','initializeApp','speed','xVel','yVel','mmoc-76047','[LLsTeeFxifeQDDBixRsVXANPgshU]','update','length','height','coords','767427zKgTkm','innerWidth'];_0x726c=function(){return _0x1845ae;};return _0x726c();}console[_0x6aae4a(0xb1)](database[_0x6aae4a(0xac)](_0x6aae4a(0x96))),ref['on'](_0x6aae4a(0xae),gotData,errData);var ready=![];function gotData(_0x4e778f){var _0x3f06e2=_0x6aae4a;coordsDB=_0x4e778f['val'](),coordsArr=Object['keys'](_0x4e778f['val']()),console[_0x3f06e2(0xb1)](_0x3f06e2(0x8a)+coordsArr),onlyOneName(),ready=!![];}function onlyOneName(){var _0x7e58ac=_0x6aae4a,_0x2e4ce4=![];for(var _0x27d980=0x0;_0x27d980<coordsArr[_0x7e58ac(0x94)];_0x27d980++){console[_0x7e58ac(0xb1)](coordsDB[coordsArr[_0x27d980]][_0x7e58ac(0x78)]),user['name']==coordsDB[coordsArr[_0x27d980]][_0x7e58ac(0x78)]&&(_0x2e4ce4&&ref[_0x7e58ac(0x9e)](coordsArr[_0x27d980])['remove'](),_0x2e4ce4=!![],user['key']=coordsArr[_0x27d980],user['x']=coordsDB[coordsArr[_0x27d980]]['x'],user['y']=coordsDB[coordsArr[_0x27d980]]['y']);}!_0x2e4ce4&&ref['push']({'name':user['name'],'x':user['x'],'y':user['y']});}function errData(_0x5735f9){var _0x7f35ba=_0x6aae4a;console[_0x7f35ba(0xb1)]('error'),console[_0x7f35ba(0xb1)](_0x5735f9);}document[_0x6aae4a(0x7b)]=function(_0x54746e){var _0x1e0995=_0x6aae4a;x=_0x54746e[_0x1e0995(0x9a)],y=_0x54746e[_0x1e0995(0x82)];},requestAnimationFrame(loop);function loop(){var _0x2e8a11=_0x6aae4a;c[_0x2e8a11(0xa8)](0x0,0x0,canvas['width'],canvas['height']);if(ready)for(var _0x51ffc9=0x0;_0x51ffc9<coordsArr['length'];_0x51ffc9++){var _0x47cbf6=coordsDB[coordsArr[_0x51ffc9]];coordsArr[_0x51ffc9]==user[_0x2e8a11(0xb0)]?drawPlayer():(c[_0x2e8a11(0xb2)](_0x47cbf6['x'],_0x47cbf6['y'],0x14,0x14),c[_0x2e8a11(0xa6)](_0x47cbf6[_0x2e8a11(0x78)],_0x47cbf6['x']-0xa,_0x47cbf6['y']-0xa));}requestAnimationFrame(loop);}function drawPlayer(){var _0x5bda19=_0x6aae4a;directionCheck(),user['x']+=user[_0x5bda19(0x8f)],user['y']+=user[_0x5bda19(0x90)],user['x']>canvas[_0x5bda19(0x88)]&&(user['x']=-user[_0x5bda19(0xaf)],newRoom()),user['x']<-user[_0x5bda19(0xaf)]&&(user['x']=canvas[_0x5bda19(0x88)],newRoom()),user['y']>canvas['height']&&(user['y']=-user[_0x5bda19(0xaf)],newRoom()),user['y']<-user[_0x5bda19(0xaf)]&&(user['y']=canvas[_0x5bda19(0x95)],newRoom()),ref['child'](user[_0x5bda19(0xb0)])[_0x5bda19(0x93)]({'x':user['x']}),ref[_0x5bda19(0x9e)](user['key'])['update']({'y':user['y']}),c['fillRect'](user['x'],user['y'],0x14,0x14),c[_0x5bda19(0xa6)](user['name'],user['x']-0xa,user['y']-0xa);}function directionCheck(){var _0x569006=_0x6aae4a;user['L']||user['R']?(user['R']&&user[_0x569006(0x8f)]<user[_0x569006(0x8e)]&&(user[_0x569006(0x8f)]+=user[_0x569006(0xa1)]),user['L']&&user[_0x569006(0x8f)]>-user[_0x569006(0x8e)]&&(user[_0x569006(0x8f)]-=user[_0x569006(0xa1)])):user['xVel']!==0x0&&(user['xVel']>0x0?user['xVel']-=user[_0x569006(0xa1)]/0x4:user[_0x569006(0x8f)]+=user[_0x569006(0xa1)]/0x4),user['B']||user['T']?(user['B']&&user[_0x569006(0x90)]<user['speed']&&(user[_0x569006(0x90)]+=user['accel']),user['T']&&user[_0x569006(0x90)]>-user[_0x569006(0x8e)]&&(user['yVel']-=user[_0x569006(0xa1)])):user[_0x569006(0x90)]!==0x0&&(user[_0x569006(0x90)]>0x0?user[_0x569006(0x90)]-=user[_0x569006(0xa1)]/0x4:user[_0x569006(0x90)]+=user[_0x569006(0xa1)]/0x4);}window[_0x6aae4a(0xaa)](_0x6aae4a(0xab),function(_0x3a0dea){var _0x4ddeac=_0x6aae4a,_0xe42a19=_0x3a0dea[_0x4ddeac(0x7f)];switch(_0xe42a19){case 0x41:user['L']=!![];break;case 0x44:user['R']=!![];break;case 0x57:user['T']=!![];break;case 0x53:user['B']=!![];break;}}),window[_0x6aae4a(0xaa)]('keyup',function(_0x323ba9){var _0x53b2d8=_0x6aae4a,_0xe10591=_0x323ba9[_0x53b2d8(0x7f)];switch(_0xe10591){case 0x41:user['L']=![];break;case 0x44:user['R']=![];break;case 0x57:user['T']=![];break;case 0x53:user['B']=![];break;}});
+//canvas
+var canvas = document.getElementById("canvas");
+canvas.width = window.innerWidth;
+canvas.height = window.innerHeight;
+var c = canvas.getContext("2d");
+var user = {
+    name: prompt("Enter your name", ""),
+    y: 50,
+    x: 50,
+    key: "",
+    L: false,
+    R: false,
+    T: false,
+    B: false,
+    speed: 3,
+    accel: 0.25,
+    xVel: 0,
+    yVel: 0,
+    size: 20
+}
+var coordsArr;
+
+// Initialize Firebase
+var config = {
+    apiKey: "AIzaSyC_79ED3MbspytkUAI012iv-uRnqM3a7HU",
+    authDomain: "mmoc-76047.firebaseapp.com",
+    databaseURL: "https://mmoc-76047.firebaseio.com",
+    projectId: "mmoc-76047",
+    storageBucket: "",
+    messagingSenderId: "816334987093"
+};
+
+firebase.initializeApp(config);
+var database = firebase.database();
+var ref = database.ref("coords");
+console.log(database.ref("coords"));
+ref.on("value", gotData, errData);
+var ready = false;
+
+function gotData(data) {
+    coordsDB = data.val();
+    coordsArr = Object.keys(data.val());
+    console.log("data exchange" + coordsArr)
+    onlyOneName();
+    ready = true;
+    // calls the loop once it got the data
+}
+
+// "registers" the player
+function onlyOneName() {
+    var samename = false;
+    for (var i = 0; i < coordsArr.length; i++) {
+        console.log(coordsDB[coordsArr[i]].name)
+        if (user.name == coordsDB[coordsArr[i]].name) {
+            if (samename) {
+                ref.child(coordsArr[i]).remove();
+            }
+            samename = true;
+            user.key = coordsArr[i];
+            user.x = coordsDB[coordsArr[i]].x
+            user.y = coordsDB[coordsArr[i]].y
+        }
+    }
+    if (!samename) {
+        ref.push({
+            name: user.name,
+            x: user.x,
+            y: user.y
+        })
+    }
+}
+
+function errData(err) {
+    console.log("error");
+    console.log(err);
+}
+document.onclick = function (event) {
+    x = event.clientX;
+    y = event.clientY;
+    /*
+    if(coordsArr)
+    var data = {
+        name: name,
+        x: x,
+        y: y
+    }
+    ref.push(data);
+*/
+}
+
+requestAnimationFrame(loop);
+
+function loop() {
+    c.clearRect(0, 0, canvas.width, canvas.height);
+    if (ready) {
+        for (var i = 0; i < coordsArr.length; i++) {
+            var players = coordsDB[coordsArr[i]];
+            if (coordsArr[i] == user.key) {
+                drawPlayer();
+            } else {
+                c.fillRect(players.x, players.y, 20, 20);
+                c.fillText(players.name, players.x - 10, players.y - 10);
+            }
+        }
+    }
+    requestAnimationFrame(loop);
+}
+
+function drawPlayer() {
+    directionCheck();
+    user.x += user.xVel;
+    user.y += user.yVel;
+    /*
+            if (player.x>canvas.width){player.x=-player.size;}
+            if (player.x<-player.size){player.x=canvas.width}
+            if (player.y>canvas.height){player.y=-player.size;}
+            if (player.y<-player.size){player.y=canvas.height}*/
+    if (user.x > canvas.width) {
+        user.x = -user.size;
+        newRoom();
+    }
+    if (user.x < -user.size) {
+        user.x = canvas.width;
+        newRoom();
+    }
+    if (user.y > canvas.height) {
+        user.y = -user.size;
+        newRoom();
+    }
+    if (user.y < -user.size) {
+        user.y = canvas.height;
+        newRoom();
+    }
+    ref.child(user.key).update({
+        x: user.x
+    });
+    ref.child(user.key).update({
+        y: user.y
+    });
+    c.fillRect(user.x, user.y, 20, 20);
+    c.fillText(user.name, user.x - 10, user.y - 10);
+}
+
+function directionCheck() {
+    if (user.L || user.R) {
+        if (user.R && user.xVel < user.speed) {
+            user.xVel += user.accel;
+        }
+        if (user.L && user.xVel > -user.speed) {
+            user.xVel -= user.accel;
+        }
+    } else {
+        if (user.xVel !== 0) {
+            (user.xVel > 0) ? user.xVel -= user.accel / 4: user.xVel += user.accel / 4;
+        }
+    }
+    if (user.B || user.T) {
+        if (user.B && user.yVel < user.speed) {
+            user.yVel += user.accel;
+        }
+        if (user.T && user.yVel > -user.speed) {
+            user.yVel -= user.accel;
+        }
+    } else {
+        if (user.yVel !== 0) {
+            (user.yVel > 0) ? user.yVel -= user.accel / 4: user.yVel += user.accel / 4;
+        }
+    }
+}
+
+window.addEventListener("keydown", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key down
+            user.L = true;
+            break;
+        case 68: //right key down
+            user.R = true;
+            break;
+        case 87: //top key down
+            user.T = true;
+            break;
+        case 83: //bot key down
+            user.B = true;
+            break;
+    }
+});
+window.addEventListener("keyup", function (event) {
+    var key = event.keyCode;
+    switch (key) {
+        case 65: //left key down
+            user.L = false;
+            break;
+        case 68: //right key down
+            user.R = false;
+            break;
+        case 87: //top key down
+            user.T = false;
+            break;
+        case 83: //bot key down
+            user.B = false;
+            break;
+    }
+});

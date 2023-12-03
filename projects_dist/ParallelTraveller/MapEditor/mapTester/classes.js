@@ -1,1 +1,2848 @@
-const _0x234ac6=_0x6f31;(function(_0x1f0c2d,_0x276ab9){const _0x5d38c9=_0x6f31,_0xa51252=_0x1f0c2d();while(!![]){try{const _0x113ea0=-parseInt(_0x5d38c9(0x261))/0x1*(parseInt(_0x5d38c9(0x1dd))/0x2)+-parseInt(_0x5d38c9(0x1cc))/0x3*(parseInt(_0x5d38c9(0x24b))/0x4)+parseInt(_0x5d38c9(0x1f5))/0x5+-parseInt(_0x5d38c9(0x1d3))/0x6*(-parseInt(_0x5d38c9(0x1c4))/0x7)+parseInt(_0x5d38c9(0x1d8))/0x8*(-parseInt(_0x5d38c9(0x210))/0x9)+-parseInt(_0x5d38c9(0x1d7))/0xa+parseInt(_0x5d38c9(0x1ce))/0xb;if(_0x113ea0===_0x276ab9)break;else _0xa51252['push'](_0xa51252['shift']());}catch(_0x27fd7d){_0xa51252['push'](_0xa51252['shift']());}}}(_0x4c99,0x1935b));const _0x1d5d98=_0x41f4;(function(_0xdcd603,_0x15b3de){const _0x1a3b2b=_0x6f31,_0x5a0dd6=_0x41f4,_0x181cd0=_0xdcd603();while(!![]){try{const _0x95ba37=parseInt(_0x5a0dd6(0x1f0))/0x1+-parseInt(_0x5a0dd6(0x20b))/0x2*(-parseInt(_0x5a0dd6(0x1af))/0x3)+-parseInt(_0x5a0dd6(0x1f7))/0x4+parseInt(_0x5a0dd6(0x1b0))/0x5*(-parseInt(_0x5a0dd6(0x1a9))/0x6)+-parseInt(_0x5a0dd6(0x179))/0x7*(-parseInt(_0x5a0dd6(0x180))/0x8)+-parseInt(_0x5a0dd6(0x1b3))/0x9*(parseInt(_0x5a0dd6(0x1b8))/0xa)+-parseInt(_0x5a0dd6(0x1b6))/0xb*(-parseInt(_0x5a0dd6(0x1ff))/0xc);if(_0x95ba37===_0x15b3de)break;else _0x181cd0[_0x1a3b2b(0x26a)](_0x181cd0[_0x1a3b2b(0x227)]());}catch(_0x415e7f){_0x181cd0['push'](_0x181cd0[_0x1a3b2b(0x227)]());}}}(_0x5383,0x46554));function _0x41f4(_0x51aaae,_0x9aa33c){const _0x1bcb82=_0x5383();return _0x41f4=function(_0x3819bb,_0x168ba8){_0x3819bb=_0x3819bb-0x165;let _0x3663b6=_0x1bcb82[_0x3819bb];return _0x3663b6;},_0x41f4(_0x51aaae,_0x9aa33c);}const _0x3f92df=(function(){const _0x30f5cc=(function(){let _0x43f5b0=!![];return function(_0x2e23f4,_0xe782aa){const _0x3d94c0=_0x43f5b0?function(){const _0x5795c3=_0x6f31;if(_0xe782aa){const _0x420a68=_0xe782aa[_0x5795c3(0x25c)](_0x2e23f4,arguments);return _0xe782aa=null,_0x420a68;}}:function(){};return _0x43f5b0=![],_0x3d94c0;};}()),_0x55b12e=_0x30f5cc(this,function(){const _0x1fd8a2=_0x6f31;let _0x4da526;try{const _0x7ee00f=Function(_0x1fd8a2(0x267)+_0x1fd8a2(0x1f4)+');');_0x4da526=_0x7ee00f();}catch(_0x523d0f){_0x4da526=window;}const _0x29dc0e=new RegExp(_0x1fd8a2(0x20b),'g'),_0x15a561=_0x1fd8a2(0x1fd)[_0x1fd8a2(0x208)](_0x29dc0e,'')['split'](';');let _0x107a1d,_0x28e53a,_0x2e1607,_0x3686c1;const _0x35f2c8=function(_0x27c77f,_0x5baca2,_0x3ec9d5){const _0x1ce6b1=_0x1fd8a2;if(_0x27c77f[_0x1ce6b1(0x1f7)]!=_0x5baca2)return![];for(let _0x1f4beb=0x0;_0x1f4beb<_0x5baca2;_0x1f4beb++){for(let _0x240d77=0x0;_0x240d77<_0x3ec9d5[_0x1ce6b1(0x1f7)];_0x240d77+=0x2){if(_0x1f4beb==_0x3ec9d5[_0x240d77]&&_0x27c77f[_0x1ce6b1(0x203)](_0x1f4beb)!=_0x3ec9d5[_0x240d77+0x1])return![];}}return!![];},_0x503874=function(_0x494b20,_0x5cd5bd,_0x1fb5cf){return _0x35f2c8(_0x5cd5bd,_0x1fb5cf,_0x494b20);},_0x111fcc=function(_0x4fd89b,_0x529274,_0xf7462c){return _0x503874(_0x529274,_0x4fd89b,_0xf7462c);},_0xffb56e=function(_0x26b58b,_0xee4a6d,_0xfbe686){return _0x111fcc(_0xee4a6d,_0xfbe686,_0x26b58b);};for(let _0x5e7a89 in _0x4da526){if(_0x35f2c8(_0x5e7a89,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x107a1d=_0x5e7a89;break;}}for(let _0x1357fd in _0x4da526[_0x107a1d]){if(_0xffb56e(0x6,_0x1357fd,[0x5,0x6e,0x0,0x64])){_0x28e53a=_0x1357fd;break;}}for(let _0x49e9ad in _0x4da526[_0x107a1d]){if(_0x111fcc(_0x49e9ad,[0x7,0x6e,0x0,0x6c],0x8)){_0x2e1607=_0x49e9ad;break;}}if(!('~'>_0x28e53a))for(let _0x3274f4 in _0x4da526[_0x107a1d][_0x2e1607]){if(_0x503874([0x7,0x65,0x0,0x68],_0x3274f4,0x8)){_0x3686c1=_0x3274f4;break;}}if(!_0x107a1d||!_0x4da526[_0x107a1d])return;const _0x42acd7=_0x4da526[_0x107a1d][_0x28e53a],_0x433009=!!_0x4da526[_0x107a1d][_0x2e1607]&&_0x4da526[_0x107a1d][_0x2e1607][_0x3686c1],_0x1ec359=_0x42acd7||_0x433009;if(!_0x1ec359)return;let _0x58d185=![];for(let _0x130b1e=0x0;_0x130b1e<_0x15a561[_0x1fd8a2(0x1f7)];_0x130b1e++){const _0x2aca2e=_0x15a561[_0x130b1e],_0x17a806=_0x2aca2e[0x0]===String['fromCharCode'](0x2e)?_0x2aca2e[_0x1fd8a2(0x26f)](0x1):_0x2aca2e,_0x155092=_0x1ec359[_0x1fd8a2(0x1f7)]-_0x17a806[_0x1fd8a2(0x1f7)],_0x164afd=_0x1ec359[_0x1fd8a2(0x255)](_0x17a806,_0x155092),_0x15b411=_0x164afd!==-0x1&&_0x164afd===_0x155092;_0x15b411&&((_0x1ec359[_0x1fd8a2(0x1f7)]==_0x2aca2e[_0x1fd8a2(0x1f7)]||_0x2aca2e[_0x1fd8a2(0x255)]('.')===0x0)&&(_0x58d185=!![]));}if(!_0x58d185){const _0x5839a3=new RegExp(_0x1fd8a2(0x259),'g'),_0x4ba4e7=_0x1fd8a2(0x1dc)['replace'](_0x5839a3,'');_0x4da526[_0x107a1d][_0x2e1607]=_0x4ba4e7;}});_0x55b12e();let _0x386acb=!![];return function(_0x509df1,_0x591f78){const _0x3510d8=_0x386acb?function(){const _0x4b8432=_0x41f4;if(_0x591f78){const _0x27f1df=_0x591f78[_0x4b8432(0x1d8)](_0x509df1,arguments);return _0x591f78=null,_0x27f1df;}}:function(){};return _0x386acb=![],_0x3510d8;};}()),_0x372a0c=_0x3f92df(this,function(){const _0x1c9f24=_0x6f31,_0x2807c4=_0x41f4,_0x24df90=function(){const _0x479a85=_0x6f31,_0x533a24=_0x41f4;let _0x4874d9;try{_0x4874d9=Function(_0x479a85(0x267)+_0x533a24(0x1aa)+');')();}catch(_0x433d81){_0x4874d9=window;}return _0x4874d9;},_0x24e01a=_0x24df90(),_0x3cfd11=new RegExp(_0x2807c4(0x1e2),'g'),_0x218d5f=_0x2807c4(0x1a6)[_0x2807c4(0x1e4)](_0x3cfd11,'')[_0x2807c4(0x1fb)](';');let _0x3d5d7d,_0x53edd8,_0x882109,_0x329176;const _0x4de713=function(_0x148b76,_0xdb2e57,_0x3f6beb){const _0x5cf62b=_0x2807c4;if(_0x148b76[_0x5cf62b(0x20a)]!=_0xdb2e57)return![];for(let _0x1fcbc9=0x0;_0x1fcbc9<_0xdb2e57;_0x1fcbc9++){for(let _0x20c978=0x0;_0x20c978<_0x3f6beb[_0x5cf62b(0x20a)];_0x20c978+=0x2){if(_0x1fcbc9==_0x3f6beb[_0x20c978]&&_0x148b76[_0x5cf62b(0x173)](_0x1fcbc9)!=_0x3f6beb[_0x20c978+0x1])return![];}}return!![];},_0xce0a79=function(_0x3cd2d5,_0x2f7185,_0x22cf38){return _0x4de713(_0x2f7185,_0x22cf38,_0x3cd2d5);},_0x228293=function(_0x4bd6ed,_0xac57fd,_0xd21396){return _0xce0a79(_0xac57fd,_0x4bd6ed,_0xd21396);},_0x60c45d=function(_0x5eca8f,_0xdeeaf6,_0x2174c4){return _0x228293(_0xdeeaf6,_0x2174c4,_0x5eca8f);};for(let _0x2a2c3c in _0x24e01a){if(_0x4de713(_0x2a2c3c,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x3d5d7d=_0x2a2c3c;break;}}for(let _0xa8fd3f in _0x24e01a[_0x3d5d7d]){if(_0x60c45d(0x6,_0xa8fd3f,[0x5,0x6e,0x0,0x64])){_0x53edd8=_0xa8fd3f;break;}}for(let _0x86d468 in _0x24e01a[_0x3d5d7d]){if(_0x228293(_0x86d468,[0x7,0x6e,0x0,0x6c],0x8)){_0x882109=_0x86d468;break;}}if(!('~'>_0x53edd8))for(let _0x55e30e in _0x24e01a[_0x3d5d7d][_0x882109]){if(_0xce0a79([0x7,0x65,0x0,0x68],_0x55e30e,0x8)){_0x329176=_0x55e30e;break;}}if(!_0x3d5d7d||!_0x24e01a[_0x3d5d7d])return;const _0x287473=_0x24e01a[_0x3d5d7d][_0x53edd8],_0x1dc5e5=!!_0x24e01a[_0x3d5d7d][_0x882109]&&_0x24e01a[_0x3d5d7d][_0x882109][_0x329176],_0x56ac63=_0x287473||_0x1dc5e5;if(!_0x56ac63)return;let _0x1e3860=![];for(let _0x5552f8=0x0;_0x5552f8<_0x218d5f[_0x2807c4(0x20a)];_0x5552f8++){const _0x203d85=_0x218d5f[_0x5552f8],_0x4dfa7d=_0x203d85[0x0]===String[_0x1c9f24(0x248)](0x2e)?_0x203d85[_0x1c9f24(0x26f)](0x1):_0x203d85,_0x562771=_0x56ac63[_0x2807c4(0x20a)]-_0x4dfa7d[_0x2807c4(0x20a)],_0x48a391=_0x56ac63[_0x1c9f24(0x255)](_0x4dfa7d,_0x562771),_0x40c50f=_0x48a391!==-0x1&&_0x48a391===_0x562771;_0x40c50f&&((_0x56ac63['length']==_0x203d85[_0x1c9f24(0x1f7)]||_0x203d85[_0x1c9f24(0x255)]('.')===0x0)&&(_0x1e3860=!![]));}if(!_0x1e3860){const _0x457c43=new RegExp(_0x2807c4(0x190),'g'),_0x1d13b5=_0x2807c4(0x1bf)[_0x2807c4(0x1e4)](_0x457c43,'');_0x24e01a[_0x3d5d7d][_0x882109]=_0x1d13b5;}});_0x372a0c(),document[_0x234ac6(0x21f)]=function(_0x4dcdab){const _0x38c3f4=_0x41f4;let _0x30a937=_0x4dcdab[_0x38c3f4(0x19b)]/GLOBAL[_0x38c3f4(0x183)]/GLOBAL[_0x38c3f4(0x172)]-map['x']|0x0,_0x3a457e=_0x4dcdab[_0x38c3f4(0x1cd)]/GLOBAL[_0x38c3f4(0x183)]/GLOBAL[_0x38c3f4(0x172)]-map['y']|0x0;return![];};class AnimatedTile{constructor(_0x6153eb,_0x2d1f29,_0x1fdb7a,_0x1947d7,_0x22ee15,_0x1a2d9d){const _0x56b7a2=_0x41f4;this['x']=_0x6153eb,this['y']=_0x2d1f29,this['w']=_0x1fdb7a,this['h']=_0x1fdb7a,this[_0x56b7a2(0x18c)]=id('sheet'),this['frame']=0x0,this[_0x56b7a2(0x1a3)]=0x0,this[_0x56b7a2(0x1f5)]=_0x1a2d9d?_0x1a2d9d:0x6,this['slowness']=this[_0x56b7a2(0x1f5)],this[_0x56b7a2(0x1a2)]=_0x1947d7,this[_0x56b7a2(0x1cc)]=_0x22ee15;}[_0x1d5d98(0x1b5)](){const _0x27d9f9=_0x234ac6,_0x5c5bce=_0x1d5d98;this[_0x5c5bce(0x17d)]=this[_0x5c5bce(0x1f5)]/dT,this[_0x5c5bce(0x1a3)]++,this[_0x27d9f9(0x25e)]>=this[_0x27d9f9(0x1f0)]&&(this['frameCounter']=0x0,this[_0x5c5bce(0x1d7)]++),this[_0x27d9f9(0x269)]>=this[_0x5c5bce(0x1a2)][_0x5c5bce(0x20a)]&&(this[_0x5c5bce(0x1d7)]=0x0,this[_0x5c5bce(0x1a3)]=0x0),c[_0x5c5bce(0x18f)](this[_0x5c5bce(0x18c)],this[_0x5c5bce(0x1a2)][this[_0x5c5bce(0x1d7)]]*GLOBAL[_0x5c5bce(0x183)],this[_0x5c5bce(0x1cc)][this[_0x5c5bce(0x1d7)]]*GLOBAL[_0x5c5bce(0x183)],this['w']*GLOBAL[_0x27d9f9(0x25d)],this['h']*GLOBAL['tilesize'],(this['x']+map['x'])*GLOBAL[_0x5c5bce(0x183)]*GLOBAL['ratio']|0x0,(this['y']+map['y'])*GLOBAL[_0x5c5bce(0x183)]*GLOBAL[_0x5c5bce(0x172)]|0x0,this['w']*GLOBAL[_0x5c5bce(0x183)]*GLOBAL[_0x5c5bce(0x172)]|0x0,this['h']*GLOBAL[_0x5c5bce(0x183)]*GLOBAL[_0x27d9f9(0x265)]|0x0);}}class Entity{constructor(_0x3ee59f,_0x9c1ce5){const _0x45be2b=_0x234ac6,_0x54383f=_0x1d5d98;this[_0x54383f(0x1d1)]=_0x3ee59f,this[_0x45be2b(0x20d)]=_0x9c1ce5,this[_0x54383f(0x1a5)](this[_0x54383f(0x1d1)],this[_0x54383f(0x168)]);}[_0x234ac6(0x1e7)](_0x137923,_0x8069d1){const _0x5c7c33=_0x234ac6,_0x349527=_0x1d5d98;this['x']=_0x137923,this['y']=_0x8069d1,this['w']=0x1,this['h']=0x1,this[_0x349527(0x17e)]=!![],this[_0x349527(0x193)]=![],this[_0x349527(0x18c)]=id(_0x349527(0x18c)),this['hp']=0x1,this[_0x349527(0x16f)]=!![],this[_0x349527(0x182)]=_0x5c7c33(0x239),this[_0x349527(0x17a)]=!![],this[_0x349527(0x1d7)]=0x0,this[_0x349527(0x1a3)]=0x0,this[_0x349527(0x1f5)]=0x6,this[_0x349527(0x17d)]=this[_0x5c7c33(0x25f)],this[_0x5c7c33(0x245)]=0x0,this[_0x349527(0x18d)]=0x0,this[_0x5c7c33(0x201)]=0x0,this[_0x349527(0x1f2)]=new HpDisplay(this),this[_0x349527(0x1b2)]={'L':0x0,'R':0x0,'T':0x0,'B':0x0};}[_0x1d5d98(0x1dd)](){}[_0x1d5d98(0x16e)](){}[_0x1d5d98(0x1be)](){}}function _0x5383(){const _0x882805=_0x234ac6,_0x31e7a3=[_0x882805(0x258),_0x882805(0x235),_0x882805(0x23f),'col',_0x882805(0x1d9),'terminalVel',_0x882805(0x25b),_0x882805(0x1f8),'height',_0x882805(0x1cb),_0x882805(0x26c),_0x882805(0x243),_0x882805(0x245),'sheet-alt',_0x882805(0x21b),_0x882805(0x1de),_0x882805(0x22f),_0x882805(0x1d2),_0x882805(0x21c),'maxHp','atan2','gun','lastDir','explosion','backgroundSpeed',_0x882805(0x23d),_0x882805(0x268),_0x882805(0x1db),_0x882805(0x26d),_0x882805(0x216),'clientY',_0x882805(0x1da),_0x882805(0x1f3),_0x882805(0x1d5),_0x882805(0x250),_0x882805(0x26e),'cos',_0x882805(0x251),_0x882805(0x244),_0x882805(0x204),_0x882805(0x269),'apply','jumpSpeed',_0x882805(0x213),_0x882805(0x209),'rotate',_0x882805(0x234),_0x882805(0x238),'player',_0x882805(0x1c7),_0x882805(0x218),_0x882805(0x1e6),_0x882805(0x237),_0x882805(0x208),_0x882805(0x1e9),_0x882805(0x25a),'attach',_0x882805(0x1f1),'renderTiles',_0x882805(0x207),'levelImage',_0x882805(0x20a),_0x882805(0x260),_0x882805(0x1ff),_0x882805(0x22b),'457826oJCPZD','checkEnemiesCollisions',_0x882805(0x225),_0x882805(0x233),_0x882805(0x219),_0x882805(0x25f),_0x882805(0x1ef),'1638888llRHNn',_0x882805(0x242),'dir',_0x882805(0x211),_0x882805(0x21e),_0x882805(0x26a),'basic','event','4469268WfCbXW','background','jumping','targetRotation',_0x882805(0x253),_0x882805(0x1cd),_0x882805(0x20f),_0x882805(0x220),_0x882805(0x215),_0x882805(0x214),_0x882805(0x1cf),_0x882805(0x1f7),_0x882805(0x223),_0x882805(0x22a),'left',_0x882805(0x252),_0x882805(0x20d),_0x882805(0x222),_0x882805(0x1ee),'canJump',_0x882805(0x246),'jaymee',_0x882805(0x1d0),'recoilAttacker','iFrames','reverse',_0x882805(0x265),_0x882805(0x203),_0x882805(0x21a),_0x882805(0x24e),_0x882805(0x232),_0x882805(0x262),_0x882805(0x1fc),_0x882805(0x1ca),_0x882805(0x205),_0x882805(0x228),_0x882805(0x240),'slowness','strikeable',_0x882805(0x1d6),_0x882805(0x24a),'none',_0x882805(0x1df),'tilesize',_0x882805(0x249),_0x882805(0x1f9),'tookPhotos',_0x882805(0x202),_0x882805(0x257),_0x882805(0x201),'attacking','holdingJump','sheet','xVel',_0x882805(0x247),'drawImage',_0x882805(0x1e1),_0x882805(0x236),_0x882805(0x1c6),_0x882805(0x263),_0x882805(0x1e8),_0x882805(0x1e3),_0x882805(0x1c9),_0x882805(0x21d),_0x882805(0x266),'object',_0x882805(0x1fa),_0x882805(0x229),_0x882805(0x1e0),'spriteY','splice',_0x882805(0x22c),_0x882805(0x1d1),_0x882805(0x1e2),_0x882805(0x1eb),_0x882805(0x25e),'controls',_0x882805(0x1e7),'ysIBaIanqUUYtoMwnandre.giCtIhvuyJGESIXb.UmQiTxyoJR;lmCocalhRoHstmyTKyQDpQFUAWvvNqGJPvpmKjOXSjjPyY',_0x882805(0x200),'inRange',_0x882805(0x22e),_0x882805(0x1f4),_0x882805(0x22d),_0x882805(0x1d4),'spriteX',_0x882805(0x1e4)];return _0x5383=function(){return _0x31e7a3;},_0x5383();}class Esther extends Entity{constructor(_0x240648,_0x4ae732,_0x328a5a){const _0x45277c=_0x234ac6,_0x24239f=_0x1d5d98;super(_0x240648,_0x4ae732),esther=this,this[_0x24239f(0x17e)]=![],this[_0x24239f(0x18d)]=0x0,this[_0x24239f(0x189)]=0x0,this[_0x45277c(0x205)]=![],this[_0x24239f(0x182)]=_0x24239f(0x17c),this[_0x24239f(0x18c)]=id(_0x45277c(0x224)),this[_0x24239f(0x166)]=0x0,_0x328a5a&&(this[_0x24239f(0x166)]=0x1),this[_0x24239f(0x18a)]=0x0,this[_0x24239f(0x178)]=0x1e,this[_0x24239f(0x1ec)]=![],this[_0x24239f(0x1a2)]=[[0xf],[0x10]],this[_0x45277c(0x216)]=[[0xf],[0xf]],this[_0x24239f(0x1f5)]=0x4,this[_0x24239f(0x17d)]=this[_0x24239f(0x1f5)],this[_0x24239f(0x170)]=0x0,this['hp']=0x3,this[_0x24239f(0x1c9)]=0.9,this[_0x24239f(0x1a1)]=0.02,this[_0x24239f(0x1d9)]=0.37,this[_0x24239f(0x196)]=![],this[_0x24239f(0x201)]=![],this[_0x24239f(0x1e6)]=0.05,this[_0x45277c(0x238)]=0.05,this[_0x24239f(0x1a4)]={'left':![],'right':![],'up':![],'down':![]};}[_0x1d5d98(0x187)](){}[_0x234ac6(0x1f9)](){}[_0x234ac6(0x1d0)](_0x3fdedd){}[_0x1d5d98(0x1ae)](){}[_0x1d5d98(0x1ed)](){}[_0x234ac6(0x21d)](){const _0x3650d9=_0x234ac6,_0x40890c=_0x1d5d98;player['x']<this['x']?this[_0x40890c(0x166)]=!![]:this[_0x40890c(0x166)]=![],this[_0x40890c(0x1ec)]?this[_0x40890c(0x185)]():this[_0x40890c(0x1ed)](),this[_0x40890c(0x189)]<GLOBAL[_0x40890c(0x1b4)]*dT?this[_0x40890c(0x189)]+=this[_0x40890c(0x1a1)]*dT:this[_0x40890c(0x189)]=GLOBAL[_0x3650d9(0x256)]*dT,this[_0x3650d9(0x254)][_0x3650d9(0x1c8)]&&(this['xVel']>-this[_0x40890c(0x1de)]&&(this[_0x40890c(0x196)]?this[_0x3650d9(0x26b)]-=this[_0x3650d9(0x25a)]:this[_0x40890c(0x18d)]-=this[_0x40890c(0x1e6)]/0x2)),this[_0x40890c(0x1a4)][_0x40890c(0x167)]&&(this[_0x40890c(0x18d)]<this[_0x3650d9(0x238)]&&(this[_0x40890c(0x196)]?this[_0x40890c(0x18d)]+=this[_0x40890c(0x1e6)]:this[_0x40890c(0x18d)]+=this[_0x40890c(0x1e6)]/0x2)),this[_0x40890c(0x189)]<0x0&&this[_0x3650d9(0x24c)]['T']&&(this[_0x40890c(0x189)]=0x0),this[_0x40890c(0x196)]?(Math[_0x40890c(0x206)](this[_0x40890c(0x18d)])>0.01?this[_0x40890c(0x18d)]*=this[_0x40890c(0x1c9)]:this[_0x40890c(0x18d)]=0x0,this[_0x3650d9(0x23a)]=![],this[_0x3650d9(0x201)]>0x0&&(this[_0x40890c(0x189)]=0x0)):Math[_0x40890c(0x206)](this[_0x40890c(0x18d)])>0.01?this[_0x40890c(0x18d)]*=this[_0x3650d9(0x268)]:this[_0x40890c(0x18d)]=0x0,this[_0x40890c(0x1a4)]['up']&&!this[_0x3650d9(0x23a)]&&!this[_0x40890c(0x1b2)]['T']&&(this['jumping']=!![],this[_0x40890c(0x189)]-=this[_0x40890c(0x1d9)]),this['y']+=this[_0x3650d9(0x201)]*dT,(this[_0x40890c(0x1b2)]['R']&&this[_0x3650d9(0x26b)]>0x0||this[_0x40890c(0x1b2)]['L']&&this[_0x3650d9(0x26b)]<0x0)&&(this[_0x3650d9(0x26b)]=0x0),this['x']+=this[_0x40890c(0x18d)]*dT,this[_0x40890c(0x187)](),checkCollisions(this),this[_0x40890c(0x170)]>0x0&&(this[_0x40890c(0x170)]-=0x1*dT),this[_0x40890c(0x1f2)][_0x40890c(0x197)]();}[_0x1d5d98(0x1b5)](){const _0x14f3cd=_0x234ac6,_0x4407a8=_0x1d5d98;this[_0x4407a8(0x17d)]=this['baseSlowness']/dT,this[_0x4407a8(0x1a3)]++,this[_0x4407a8(0x1a3)]>=this[_0x4407a8(0x17d)]&&(this[_0x4407a8(0x1a3)]=0x0,this[_0x4407a8(0x1d7)]++),this[_0x4407a8(0x1d7)]>=this[_0x14f3cd(0x1eb)][this[_0x4407a8(0x1bb)]][_0x4407a8(0x20a)]&&(this[_0x4407a8(0x1d7)]=0x0,this[_0x4407a8(0x1a3)]=0x0),this[_0x4407a8(0x170)]>0x0&&this[_0x4407a8(0x170)]%0x2>=0x1?this[_0x4407a8(0x18c)]=id('sheet-alt'):this[_0x14f3cd(0x224)]=id(_0x4407a8(0x18c)),c['drawImage'](this[_0x4407a8(0x18c)],this[_0x14f3cd(0x1eb)][this[_0x4407a8(0x1bb)]+this[_0x4407a8(0x166)]][this[_0x4407a8(0x1d7)]]*GLOBAL[_0x4407a8(0x183)],this[_0x4407a8(0x1cc)][this[_0x4407a8(0x1bb)]+this[_0x4407a8(0x166)]][this[_0x4407a8(0x1d7)]]*GLOBAL[_0x4407a8(0x183)],this['w']*GLOBAL[_0x4407a8(0x183)],this['h']*GLOBAL[_0x14f3cd(0x25d)],(this['x']+map['x'])*GLOBAL[_0x4407a8(0x183)]*GLOBAL[_0x14f3cd(0x265)],(this['y']+map['y'])*GLOBAL['tilesize']*GLOBAL[_0x4407a8(0x172)],this['w']*GLOBAL[_0x4407a8(0x183)]*GLOBAL[_0x4407a8(0x172)],this['h']*GLOBAL[_0x4407a8(0x183)]*GLOBAL[_0x4407a8(0x172)]);}}class Jaymee extends Entity{constructor(_0x2cec26,_0x5e3e39,_0x470002){const _0x32c0fa=_0x234ac6,_0x332d89=_0x1d5d98;super(_0x2cec26,_0x5e3e39),this[_0x332d89(0x18d)]=0x0,this[_0x332d89(0x189)]=0x0,this['strikeable']=![],this[_0x32c0fa(0x1df)]=_0x332d89(0x16d),this[_0x332d89(0x18c)]=id(_0x332d89(0x18c)),this[_0x332d89(0x166)]=0x0,_0x470002&&(this[_0x332d89(0x166)]=0x1),this['h']=0x2,this[_0x32c0fa(0x205)]=![],this[_0x332d89(0x18a)]=0x0,this[_0x332d89(0x178)]=0x1e,this[_0x332d89(0x1ec)]=![],this[_0x332d89(0x1a2)]=[[0x11],[0x12]],this[_0x332d89(0x1cc)]=[[0xe],[0xe]],this[_0x332d89(0x1f5)]=0x4,this[_0x32c0fa(0x1f0)]=this[_0x332d89(0x1f5)],this['iFrames']=0x0,this['hp']=0x3,this[_0x332d89(0x1c9)]=0.9,this[_0x332d89(0x1a1)]=0.02,this[_0x32c0fa(0x24f)]=0.37,this[_0x332d89(0x196)]=![],this[_0x332d89(0x201)]=![],this[_0x32c0fa(0x25a)]=0.05,this[_0x332d89(0x1de)]=0.05,officer=this,this[_0x332d89(0x203)]=[],this[_0x332d89(0x1a4)]={'left':![],'right':![],'up':![],'down':![]};}[_0x1d5d98(0x187)](){}[_0x1d5d98(0x185)](){}[_0x1d5d98(0x16e)](_0x1c3c82){}[_0x1d5d98(0x1ae)](){}[_0x234ac6(0x260)](){}[_0x1d5d98(0x197)](){const _0x38a578=_0x234ac6,_0x2bddcc=_0x1d5d98;for(let _0x3500c2=0x0;_0x3500c2<this[_0x2bddcc(0x203)][_0x2bddcc(0x20a)];_0x3500c2++){this[_0x2bddcc(0x203)][_0x3500c2]();}player['x']<this['x']?this[_0x2bddcc(0x166)]=!![]:this[_0x2bddcc(0x166)]=![],this[_0x2bddcc(0x1ec)]?this[_0x38a578(0x1f9)]():this[_0x2bddcc(0x1ed)](),this[_0x2bddcc(0x189)]<GLOBAL[_0x2bddcc(0x1b4)]*dT?this[_0x2bddcc(0x189)]+=this[_0x38a578(0x1e2)]*dT:this[_0x38a578(0x201)]=GLOBAL[_0x2bddcc(0x1b4)]*dT,this[_0x38a578(0x254)][_0x2bddcc(0x166)]&&(this[_0x2bddcc(0x18d)]>-this[_0x2bddcc(0x1de)]&&(this[_0x38a578(0x1c9)]?this[_0x38a578(0x26b)]-=this[_0x2bddcc(0x1e6)]:this[_0x38a578(0x26b)]-=this[_0x38a578(0x25a)]/0x2)),this[_0x2bddcc(0x1a4)][_0x2bddcc(0x167)]&&(this[_0x2bddcc(0x18d)]<this[_0x2bddcc(0x1de)]&&(this[_0x2bddcc(0x196)]?this[_0x2bddcc(0x18d)]+=this[_0x2bddcc(0x1e6)]:this[_0x2bddcc(0x18d)]+=this[_0x2bddcc(0x1e6)]/0x2)),this[_0x2bddcc(0x189)]<0x0&&this[_0x2bddcc(0x1b2)]['T']&&(this[_0x2bddcc(0x189)]=0x0),this[_0x2bddcc(0x196)]?(Math[_0x2bddcc(0x206)](this[_0x2bddcc(0x18d)])>0.01?this[_0x2bddcc(0x18d)]*=this[_0x38a578(0x268)]:this[_0x2bddcc(0x18d)]=0x0,this[_0x2bddcc(0x201)]=![],this[_0x2bddcc(0x189)]>0x0&&(this[_0x2bddcc(0x189)]=0x0)):Math[_0x2bddcc(0x206)](this[_0x38a578(0x26b)])>0.01?this[_0x38a578(0x26b)]*=this[_0x2bddcc(0x1c9)]:this[_0x2bddcc(0x18d)]=0x0,this[_0x2bddcc(0x1a4)]['up']&&!this[_0x2bddcc(0x201)]&&!this[_0x38a578(0x24c)]['T']&&(this[_0x38a578(0x23a)]=!![],this[_0x2bddcc(0x189)]-=this[_0x2bddcc(0x1d9)]),this['y']+=this[_0x38a578(0x201)]*dT,(this[_0x2bddcc(0x1b2)]['R']&&this[_0x2bddcc(0x18d)]>0x0||this[_0x2bddcc(0x1b2)]['L']&&this[_0x2bddcc(0x18d)]<0x0)&&(this[_0x2bddcc(0x18d)]=0x0),this['x']+=this[_0x2bddcc(0x18d)]*dT,this[_0x2bddcc(0x187)](),checkCollisions(this),this[_0x2bddcc(0x170)]>0x0&&(this[_0x2bddcc(0x170)]-=0x1*dT),this[_0x2bddcc(0x1f2)][_0x2bddcc(0x197)]();}[_0x1d5d98(0x1b5)](){const _0x2e6932=_0x234ac6,_0x31fded=_0x1d5d98;this[_0x31fded(0x17d)]=this[_0x31fded(0x1f5)]/dT,this[_0x2e6932(0x25e)]++,this[_0x31fded(0x1a3)]>=this[_0x31fded(0x17d)]&&(this[_0x31fded(0x1a3)]=0x0,this[_0x31fded(0x1d7)]++),this['frame']>=this[_0x31fded(0x1a2)][this[_0x31fded(0x1bb)]][_0x31fded(0x20a)]&&(this[_0x31fded(0x1d7)]=0x0,this[_0x31fded(0x1a3)]=0x0),this[_0x31fded(0x170)]>0x0&&this[_0x31fded(0x170)]%0x2>=0x1?this[_0x31fded(0x18c)]=id(_0x31fded(0x1bc)):this[_0x31fded(0x18c)]=id('sheet'),c[_0x2e6932(0x1ed)](this['sheet'],this[_0x31fded(0x1a2)][this[_0x31fded(0x1bb)]+this[_0x31fded(0x166)]][this[_0x31fded(0x1d7)]]*GLOBAL[_0x31fded(0x183)],this[_0x31fded(0x1cc)][this[_0x31fded(0x1bb)]+this[_0x31fded(0x166)]][this[_0x31fded(0x1d7)]]*GLOBAL[_0x31fded(0x183)],this['w']*GLOBAL[_0x31fded(0x183)],this['h']*GLOBAL[_0x31fded(0x183)],(this['x']+map['x'])*GLOBAL[_0x31fded(0x183)]*GLOBAL[_0x2e6932(0x265)],(this['y']+map['y'])*GLOBAL[_0x2e6932(0x25d)]*GLOBAL[_0x31fded(0x172)],this['w']*GLOBAL[_0x31fded(0x183)]*GLOBAL[_0x31fded(0x172)],this['h']*GLOBAL[_0x31fded(0x183)]*GLOBAL[_0x31fded(0x172)]);}}class TrashMan extends Entity{constructor(_0x5829d9,_0x22b3ed){const _0x1b3e4b=_0x1d5d98;super(_0x5829d9,_0x22b3ed),this[_0x1b3e4b(0x1a2)]=[[0xa,0xb],[0xa,0xb],[0xa,0xa,0xa],[0xb,0xb,0xb]],this['actionY']=[[0xe,0xe],[0xe,0xe],[0x10,0x12,0x14],[0x10,0x12,0x14]],this['h']=0x2,this['up']=![],this[_0x1b3e4b(0x17e)]=![],this[_0x1b3e4b(0x1f5)]=0xa,this[_0x1b3e4b(0x17d)]=0xa,this[_0x1b3e4b(0x18e)]={'x':this['x'],'y':this['y']+0x1,'h':0x1,'w':0x1},this['triggerHitbox']={'x':this['x']+0.2,'y':this['y']+0.8,'h':0.5,'w':0.6};}[_0x1d5d98(0x197)](){const _0x425474=_0x234ac6,_0x22ae56=_0x1d5d98;!this['up']&&collided(this[_0x22ae56(0x1e8)],player)?(player[_0x22ae56(0x189)]=-0.6,player[_0x22ae56(0x18d)]*=0x2,this['up']=!![],this['frameCounter']=0x0,this[_0x22ae56(0x1d7)]=0x0,this[_0x22ae56(0x1bb)]=0x2,this[_0x425474(0x25f)]=0x1e):this[_0x22ae56(0x1f5)]=0xa;}[_0x1d5d98(0x1b5)](){const _0x312a3e=_0x234ac6,_0x39e2a3=_0x1d5d98;this[_0x39e2a3(0x17d)]=this[_0x39e2a3(0x1f5)]/dT,this['frameCounter']++,this[_0x39e2a3(0x1a3)]>=this[_0x39e2a3(0x17d)]&&(this[_0x39e2a3(0x1a3)]=0x0,this[_0x39e2a3(0x1d7)]++),this[_0x39e2a3(0x1d7)]>=this[_0x312a3e(0x1eb)][this[_0x39e2a3(0x1bb)]][_0x39e2a3(0x20a)]&&(this[_0x39e2a3(0x1d7)]=0x0,this[_0x39e2a3(0x1a3)]=0x0,this['up']&&(this['up']=![],this['action']=0x0)),c[_0x39e2a3(0x18f)](this[_0x39e2a3(0x18c)],this[_0x39e2a3(0x1a2)][this[_0x39e2a3(0x1bb)]][this[_0x39e2a3(0x1d7)]]*GLOBAL[_0x39e2a3(0x183)],this[_0x312a3e(0x216)][this[_0x39e2a3(0x1bb)]][this[_0x39e2a3(0x1d7)]]*GLOBAL[_0x39e2a3(0x183)],this['w']*GLOBAL[_0x39e2a3(0x183)],this['h']*GLOBAL[_0x39e2a3(0x183)],(this['x']+map['x'])*GLOBAL[_0x39e2a3(0x183)]*GLOBAL[_0x39e2a3(0x172)]|0x0,(this['y']+map['y'])*GLOBAL['tilesize']*GLOBAL[_0x312a3e(0x265)]|0x0,this['w']*GLOBAL[_0x39e2a3(0x183)]*GLOBAL[_0x39e2a3(0x172)]|0x0,this['h']*GLOBAL[_0x39e2a3(0x183)]*GLOBAL[_0x39e2a3(0x172)]|0x0);}}function _0x6f31(_0x376004,_0x3e9103){const _0x51b01f=_0x4c99();return _0x6f31=function(_0x1a2fef,_0x5cc9ca){_0x1a2fef=_0x1a2fef-0x1c4;let _0x5e732d=_0x51b01f[_0x1a2fef];return _0x5e732d;},_0x6f31(_0x376004,_0x3e9103);}class Camera extends Entity{constructor(_0x249db9,_0x51d41e){const _0xae8c35=_0x234ac6,_0x69545a=_0x1d5d98;super(_0x249db9,_0x51d41e),this[_0x69545a(0x18c)]=id(_0x69545a(0x18c)),this[_0x69545a(0x17e)]=![],this[_0xae8c35(0x1eb)]=[[0x0]],this[_0x69545a(0x1cc)]=[[0x12]],this['solid']=![],this[_0x69545a(0x18e)]={'x':_0x249db9+0.1,'y':_0x51d41e+0.25,'w':0.8,'h':0.5};}[_0x1d5d98(0x197)](){const _0x4ea62e=_0x234ac6,_0x5cd2d0=_0x1d5d98;if(!player[_0x5cd2d0(0x1c0)])return;collided(this,player)&&(player[_0x5cd2d0(0x19a)][_0x5cd2d0(0x1a7)]++,player[_0x5cd2d0(0x19a)][_0x4ea62e(0x200)]>0xa&&(eventsVariables[_0x5cd2d0(0x186)]=!![]),flash=0x4,slowMoFrames=0x1e,this[_0x4ea62e(0x263)]=!![]);}[_0x234ac6(0x25b)](){const _0xffafa9=_0x234ac6,_0x38e0ff=_0x1d5d98;if(!player[_0x38e0ff(0x1c0)])return;c[_0xffafa9(0x1ed)](this[_0x38e0ff(0x18c)],this[_0x38e0ff(0x1a2)][this[_0x38e0ff(0x1bb)]][this[_0x38e0ff(0x1d7)]]*GLOBAL[_0xffafa9(0x25d)],this[_0x38e0ff(0x1cc)][this[_0x38e0ff(0x1bb)]][this[_0x38e0ff(0x1d7)]]*GLOBAL[_0x38e0ff(0x183)],this['w']*GLOBAL[_0x38e0ff(0x183)],this['h']*GLOBAL[_0x38e0ff(0x183)],(this['x']+map['x'])*GLOBAL[_0xffafa9(0x25d)]*GLOBAL[_0x38e0ff(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x38e0ff(0x183)]*GLOBAL[_0x38e0ff(0x172)]|0x0,this['w']*GLOBAL[_0x38e0ff(0x183)]*GLOBAL[_0x38e0ff(0x172)]|0x0,this['h']*GLOBAL[_0x38e0ff(0x183)]*GLOBAL[_0xffafa9(0x265)]|0x0);}}class PlayerInterface{constructor(){const _0x2a24ef=_0x234ac6,_0x423939=_0x1d5d98;this[_0x423939(0x169)]=0x0,this[_0x423939(0x1e1)]=0x0,this[_0x423939(0x18c)]=id(_0x423939(0x18c)),this[_0x423939(0x1a2)]=[[0x1],[0x1]],this[_0x423939(0x1cc)]=[[0x2],[0x3]],this['w']=0x1,this['h']=0x1,this[_0x423939(0x1bb)]=0x0,this[_0x423939(0x1d7)]=0x0,this[_0x423939(0x1a3)]=0x0,this[_0x423939(0x17d)]=0x4,this[_0x2a24ef(0x25f)]=0x4;}[_0x1d5d98(0x197)](){}[_0x234ac6(0x25b)](){const _0x349fa8=_0x234ac6,_0x51ae7b=_0x1d5d98;for(let _0x5ea371=0x0;_0x5ea371<player[_0x51ae7b(0x1c2)];_0x5ea371++){player['hp']>_0x5ea371?c[_0x349fa8(0x1ed)](this[_0x51ae7b(0x18c)],this[_0x51ae7b(0x1a2)][0x0][0x0]*GLOBAL[_0x51ae7b(0x183)],this[_0x51ae7b(0x1cc)][0x0][0x0]*GLOBAL[_0x51ae7b(0x183)],this['w']*GLOBAL['tilesize'],this['h']*GLOBAL['tilesize'],(this[_0x51ae7b(0x169)]+this['w']*_0x5ea371)*GLOBAL[_0x51ae7b(0x183)]*GLOBAL[_0x51ae7b(0x172)],this[_0x51ae7b(0x1e1)]*GLOBAL[_0x51ae7b(0x183)]*GLOBAL[_0x51ae7b(0x172)],this['w']*GLOBAL[_0x51ae7b(0x183)]*GLOBAL[_0x51ae7b(0x172)],this['h']*GLOBAL[_0x349fa8(0x25d)]*GLOBAL[_0x51ae7b(0x172)]):c[_0x51ae7b(0x18f)](this[_0x51ae7b(0x18c)],this[_0x349fa8(0x1eb)][0x1][0x0]*GLOBAL[_0x51ae7b(0x183)],this[_0x349fa8(0x216)][0x1][0x0]*GLOBAL[_0x51ae7b(0x183)],this['w']*GLOBAL[_0x51ae7b(0x183)],this['h']*GLOBAL[_0x51ae7b(0x183)],(this[_0x51ae7b(0x169)]+this['w']*_0x5ea371)*GLOBAL[_0x51ae7b(0x183)]*GLOBAL[_0x51ae7b(0x172)],this[_0x51ae7b(0x1e1)]*GLOBAL[_0x51ae7b(0x183)]*GLOBAL[_0x51ae7b(0x172)],this['w']*GLOBAL[_0x349fa8(0x25d)]*GLOBAL[_0x51ae7b(0x172)],this['h']*GLOBAL[_0x51ae7b(0x183)]*GLOBAL[_0x51ae7b(0x172)]);}}}class HpDisplay{constructor(_0xf64f19){const _0x5c77c1=_0x234ac6,_0x21259f=_0x1d5d98;this[_0x21259f(0x204)]=_0xf64f19,this[_0x5c77c1(0x24d)]=![],this[_0x5c77c1(0x224)]=id(_0x21259f(0x18c)),this[_0x21259f(0x1d2)]=[0x0,0x0,0x0],this['x']=0x0,this['y']=0x0,this[_0x5c77c1(0x241)]=[0x0,0x8,0x0,0x8],this[_0x5c77c1(0x214)]=[0x60,0x60,0x68,0x68],this['w']=0x7,this['h']=0x7,this['entity']['hp']>0x9&&(this[_0x21259f(0x204)]['hp']=0x9);}[_0x1d5d98(0x197)](){const _0x407d48=_0x234ac6,_0x2a122c=_0x1d5d98;this[_0x2a122c(0x1d2)]=[0x0,0x0,0x0];let _0x5c4ba8=0x0;for(let _0x3820e8=0x1;_0x3820e8<=this[_0x2a122c(0x204)]['hp'];_0x3820e8++){_0x5c4ba8=_0x3820e8%0x3;switch(_0x5c4ba8){case 0x1:this[_0x2a122c(0x1d2)][0x0]++;break;case 0x2:this[_0x407d48(0x26e)][0x1]++;break;case 0x0:this[_0x2a122c(0x1d2)][0x2]++;break;}}!this[_0x2a122c(0x1d2)][0x2]&&this[_0x2a122c(0x1d2)][_0x2a122c(0x19e)](0x2,0x1),!this[_0x407d48(0x26e)][0x1]&&this[_0x2a122c(0x1d2)][_0x2a122c(0x19e)](0x1,0x1),!this[_0x2a122c(0x1d2)][0x0]&&this['hearts'][_0x2a122c(0x19e)](0x1,0x1);}[_0x1d5d98(0x1b5)](){const _0x55bc0f=_0x234ac6,_0xf88ed8=_0x1d5d98;let _0x43c9bd=(this[_0x55bc0f(0x1cd)]['x']+this[_0xf88ed8(0x204)]['w']/0x2+map['x'])*GLOBAL[_0xf88ed8(0x183)]*GLOBAL[_0xf88ed8(0x172)]+(this['w']/0x2-Math[_0xf88ed8(0x206)](this[_0xf88ed8(0x1d2)][_0xf88ed8(0x20a)]-0x3)*this['w']/0x2)*GLOBAL[_0xf88ed8(0x172)]|0x0;this[_0xf88ed8(0x1d2)][_0xf88ed8(0x171)]();for(let _0x1e8638=0x0;_0x1e8638<this[_0x55bc0f(0x26e)][_0xf88ed8(0x20a)];_0x1e8638++){c[_0x55bc0f(0x1ed)](this[_0xf88ed8(0x18c)],this['heartsX'][this[_0xf88ed8(0x1d2)][_0x1e8638]],this[_0xf88ed8(0x208)][this[_0xf88ed8(0x1d2)][_0x1e8638]],this['w'],this['h'],_0x43c9bd-this['w']*_0x1e8638*GLOBAL[_0xf88ed8(0x172)],(this[_0xf88ed8(0x204)]['y']-0.5+map['y'])*GLOBAL[_0xf88ed8(0x183)]*GLOBAL[_0x55bc0f(0x265)]|0x0,this['w']*GLOBAL[_0xf88ed8(0x172)]|0x0,this['h']*GLOBAL[_0xf88ed8(0x172)]|0x0);}}}class Player extends Entity{constructor(_0x4351b3,_0x4a3963){const _0x370a06=_0x1d5d98;super(_0x4351b3,_0x4a3963),this[_0x370a06(0x1bd)]();}[_0x1d5d98(0x1bd)](_0x1e1982,_0x3fa258){const _0x348a07=_0x234ac6,_0x28e725=_0x1d5d98;this['x']=_0x1e1982?_0x1e1982:0x0,this['y']=_0x3fa258?_0x3fa258:0x0,this[_0x28e725(0x1e6)]=0.05,this[_0x28e725(0x1de)]=0.2,this[_0x28e725(0x1c9)]=0.9,this[_0x28e725(0x1d9)]=0.3,this[_0x28e725(0x1a1)]=0.02,this[_0x348a07(0x1df)]=_0x28e725(0x1df),this[_0x28e725(0x1c2)]=0x3,this[_0x348a07(0x24e)]=![],this['hp']=0x3,this[_0x28e725(0x17f)]=![],this[_0x28e725(0x19a)]={'pics':0x0},this[_0x28e725(0x1ea)]=!![],this[_0x28e725(0x166)]=0x1,this[_0x28e725(0x1c0)]=![],this[_0x28e725(0x1fa)]=![],this[_0x28e725(0x18b)]=0x0,this['interface']=new PlayerInterface(),this[_0x28e725(0x1a0)]={'xVel':0x0,'yVel':0x0},this[_0x28e725(0x18c)]=id(_0x348a07(0x224)),this[_0x28e725(0x1a2)]=[[0x1],[0x1],[0x4,0x4,0x4,0x4],[0x5,0x5,0x5,0x5],[0x6],[0x7],[0x1,0x1],[0x1,0x1],[0x1,0x1],[0x1,0x1],[0x1,0x1,0x1],[0x1,0x1,0x1],[0x0],[0x0],[0x3,0x3,0x3,0x3,0x3,0x3,0x3],[0x3,0x3,0x3,0x3,0x3,0x3,0x3]],this[_0x28e725(0x1cc)]=[[0x0],[0x0],[0x12,0x13,0x14,0x15],[0x12,0x13,0x14,0x15],[0x12],[0x12],[0x4,0x5],[0x4,0x5],[0x6,0x7],[0x6,0x7],[0x8,0x6,0x7],[0x8,0x6,0x7],[0x7],[0x7],[0x12,0x13,0x14,0x15,0x14,0x15,0x14],[0x12,0x13,0x14,0x15,0x14,0x15,0x14]],this[_0x348a07(0x1c9)]=![],this[_0x28e725(0x201)]=![],this[_0x28e725(0x1c5)]=0x0,this[_0x28e725(0x1f5)]=0x4,this[_0x28e725(0x1f6)]=0x8*dT,this[_0x28e725(0x16b)]=this[_0x28e725(0x1f6)],this[_0x28e725(0x1e0)]=![],this[_0x348a07(0x1c5)]={'up':![],'down':![],'left':![],'right':![],'e':![],'lClickDown':![],'rClickDown':![],'test':_0x28e725(0x205),'currentPos':0x0,'lastDir':0x0},this[_0x28e725(0x18e)]={'x':this['x'],'y':this['y'],'w':this['w'],'h':this['h']};}[_0x1d5d98(0x1ae)](){const _0x16813b=_0x234ac6,_0x51513f=_0x1d5d98;if(this[_0x51513f(0x175)])return;this[_0x16813b(0x24e)]=!![],slowMoFrames=0x3c;let _0x4963ff=new Vfx(this['x'],this['y'],0x9);vfxs[_0x51513f(0x1fc)](_0x4963ff),map[_0x51513f(0x17b)]=_0x4963ff;if(this[_0x51513f(0x1c0)]||this[_0x51513f(0x1fa)]&&sword[_0x51513f(0x1ba)]==0x0)vfxs[_0x16813b(0x26a)](new Vfx(this['x'],this['y'],0xf)),vfxs[_0x51513f(0x1fc)](new Vfx(this['x'],this['y'],0x10));else this[_0x51513f(0x1fa)]&&sword[_0x16813b(0x243)]==0x1&&(vfxs[_0x51513f(0x1fc)](new Vfx(this['x'],this['y'],0x7)),vfxs[_0x51513f(0x1fc)](new Vfx(this['x'],this['y'],0x8)));setTimeout(function(){const _0x2ed62c=_0x51513f;stages=new GameBlueprint()[_0x2ed62c(0x1ca)],backToCheckPoint(),resetEvents(),loadCall=0x1,player['resetBasicVariables'](),player[_0x2ed62c(0x1bd)](),map[_0x2ed62c(0x17b)]=player;},0x5dc);}[_0x234ac6(0x1d0)](){const _0xd8ab0d=_0x234ac6,_0x3106ef=_0x1d5d98;if(this[_0x3106ef(0x170)]>0x0)return;this['hp']--;if(this['hp']<0x1){this[_0x3106ef(0x1ae)]();return;}this[_0x3106ef(0x189)]=-this[_0xd8ab0d(0x238)]*0x3,this[_0xd8ab0d(0x26b)]=this[_0x3106ef(0x1de)]*0x2*(this[_0x3106ef(0x166)]*0x2-0x1),this[_0x3106ef(0x170)]=0x3c;}[_0x234ac6(0x22a)](){const _0x4b12fb=_0x234ac6,_0x805cd4=_0x1d5d98;if(this[_0x805cd4(0x1c0)])this[_0x805cd4(0x1e6)]=0.025,this[_0x805cd4(0x1de)]=0.2,this[_0x805cd4(0x1c9)]=0.98,this[_0x4b12fb(0x24f)]=0.3,this[_0x805cd4(0x1a1)]=0.03;else!this[_0x805cd4(0x1c0)]&&(this[_0x805cd4(0x1e6)]=0.02,this[_0x805cd4(0x1de)]=0.1,this[_0x805cd4(0x1c9)]=0x1,this[_0x4b12fb(0x24f)]=0.25,this[_0x805cd4(0x1a1)]=0.02);this[_0x805cd4(0x1fa)]&&sword[_0x4b12fb(0x243)]==0x1&&(this[_0x805cd4(0x1d9)]=0.3);}[_0x234ac6(0x21d)](){const _0x39639a=_0x234ac6,_0x41cf86=_0x1d5d98;currentPoint[_0x39639a(0x1fe)]<0x3?this[_0x41cf86(0x1ea)]=![]:this[_0x41cf86(0x1ea)]=!![];if(isOutOfScreen(this))return;this[_0x41cf86(0x170)]>0x0&&(this[_0x41cf86(0x170)]-=0x1*dT),this[_0x41cf86(0x17f)]&&(this[_0x41cf86(0x1e0)]=!![]),this[_0x39639a(0x1c7)]?this[_0x39639a(0x254)]=this[_0x39639a(0x1c5)]:this[_0x41cf86(0x1a4)]=controls,(this[_0x41cf86(0x165)](),this[_0x41cf86(0x1f6)]=0x8*dT),this[_0x41cf86(0x189)]<GLOBAL[_0x41cf86(0x1b4)]*dT?this[_0x39639a(0x201)]+=this[_0x41cf86(0x1a1)]*dT:this['yVel']=GLOBAL[_0x39639a(0x256)]*dT,this[_0x41cf86(0x1a4)][_0x41cf86(0x166)]&&(this[_0x41cf86(0x166)]=0x1,this[_0x41cf86(0x18d)]>-this[_0x39639a(0x238)]&&(this[_0x41cf86(0x196)]?this[_0x41cf86(0x18d)]-=this[_0x41cf86(0x1e6)]:this[_0x39639a(0x26b)]-=this[_0x41cf86(0x1e6)]/0x2)),this[_0x41cf86(0x1a4)][_0x41cf86(0x167)]&&(this['left']=0x0,this[_0x41cf86(0x18d)]<this[_0x41cf86(0x1de)]&&(this[_0x41cf86(0x196)]?this[_0x41cf86(0x18d)]+=this[_0x39639a(0x25a)]:this[_0x41cf86(0x18d)]+=this[_0x41cf86(0x1e6)]/0x2)),!(this[_0x39639a(0x254)][_0x41cf86(0x167)]||this[_0x41cf86(0x1a4)][_0x41cf86(0x166)])&&(this[_0x41cf86(0x196)]&&!this[_0x41cf86(0x1c0)]&&(this['xVel']=0x0)),this[_0x41cf86(0x189)]<0x0&&this[_0x41cf86(0x1b2)]['T']&&(this[_0x41cf86(0x189)]=0x0),this[_0x41cf86(0x196)]?(this[_0x41cf86(0x16b)]=this[_0x41cf86(0x1f6)],Math[_0x41cf86(0x206)](this['xVel'])>0.001?this[_0x39639a(0x26b)]*=this[_0x41cf86(0x1c9)]:this[_0x41cf86(0x18d)]=0x0,this[_0x41cf86(0x201)]=![],this[_0x41cf86(0x189)]>0x0&&(this[_0x41cf86(0x189)]=0x0)):(this[_0x41cf86(0x16b)]>0x0&&this[_0x41cf86(0x16b)]--,Math[_0x41cf86(0x206)](this[_0x41cf86(0x18d)])>0.001?this[_0x41cf86(0x18d)]*=this[_0x41cf86(0x1c9)]*0.95:this[_0x39639a(0x26b)]=0x0);if(this[_0x41cf86(0x1c0)]){if(this[_0x41cf86(0x1a4)]['up']&&!this[_0x41cf86(0x201)]&&!this[_0x41cf86(0x1b2)]['T']&&this[_0x41cf86(0x16b)]>0x0)this[_0x41cf86(0x18b)]+=0x1*dT;else!this[_0x41cf86(0x1a4)]['up']&&!this[_0x41cf86(0x201)]&&!this[_0x41cf86(0x1b2)]['T']&&this[_0x41cf86(0x16b)]>0x0&&this['holdingJump']>0x0&&(this[_0x41cf86(0x18b)]>0xf?(this[_0x41cf86(0x201)]=!![],this[_0x41cf86(0x189)]=-this[_0x41cf86(0x1d9)]*1.4):(this[_0x39639a(0x23a)]=!![],this[_0x41cf86(0x189)]=-this['jumpSpeed']),this[_0x41cf86(0x18b)]=0x0);}else this[_0x41cf86(0x1a4)]['up']&&!this[_0x41cf86(0x201)]&&!this['col']['T']&&this[_0x41cf86(0x16b)]>0x0&&(this[_0x41cf86(0x201)]=!![],this[_0x41cf86(0x189)]=-this[_0x41cf86(0x1d9)]);this['y']+=(this[_0x41cf86(0x189)]+this[_0x41cf86(0x1a0)][_0x41cf86(0x189)])*dT,(this[_0x41cf86(0x1b2)]['R']&&this[_0x41cf86(0x18d)]>0x0||this[_0x39639a(0x24c)]['L']&&this[_0x41cf86(0x18d)]<0x0)&&(this[_0x41cf86(0x18d)]=0x0),this['x']+=(this[_0x39639a(0x26b)]+this[_0x41cf86(0x1a0)][_0x41cf86(0x18d)])*dT,this[_0x41cf86(0x187)](),this[_0x41cf86(0x18e)]['x']=this['x']+this['w']/0x4,this[_0x41cf86(0x18e)]['y']=this['y']+0.2,this[_0x41cf86(0x18e)]['w']=this['w']/0x2,this[_0x41cf86(0x18e)]['h']=this['h']-0.35,checkCollisions(this);}[_0x1d5d98(0x187)](){const _0x48484d=_0x234ac6,_0x443cbc=_0x1d5d98;this[_0x443cbc(0x1a4)]['left']||this[_0x443cbc(0x1a4)][_0x443cbc(0x167)]?this[_0x443cbc(0x1bb)]=0x2:this[_0x443cbc(0x1bb)]=0x0,!this[_0x48484d(0x1c9)]&&(this[_0x443cbc(0x1bb)]=0x4);if(this[_0x443cbc(0x1c0)]){this[_0x48484d(0x245)]=0x6;if(this[_0x48484d(0x212)])this[_0x443cbc(0x1bb)]=0x8,this['holdingJump']>0xf&&(this[_0x443cbc(0x18b)]<0xf+dT&&(this[_0x443cbc(0x1d7)]=0x0,this[_0x48484d(0x25e)]=0x0),this[_0x443cbc(0x1bb)]=0xa);else this['xVel']==0x0&&!this[_0x443cbc(0x1e0)]&&(this[_0x443cbc(0x1d7)]=0x0,this[_0x443cbc(0x1a3)]=0x0);flash>0x0&&(this[_0x443cbc(0x1bb)]=0xc);}this[_0x443cbc(0x17f)]&&(this[_0x48484d(0x245)]=0xe,this[_0x443cbc(0x1f5)]=0xa,this[_0x443cbc(0x1d7)]==this[_0x443cbc(0x1a2)][this[_0x443cbc(0x1bb)]][_0x48484d(0x1f7)]-0x1&&this[_0x443cbc(0x1a3)]>this[_0x443cbc(0x1f5)]*dT-0x1*dT&&(this[_0x48484d(0x1d6)]=![],this[_0x443cbc(0x1e0)]=![],this[_0x443cbc(0x1f5)]=0x4));}[_0x1d5d98(0x1b5)](){const _0x5625e9=_0x234ac6,_0x27fb51=_0x1d5d98;if(isOutOfScreen(this))return;this[_0x27fb51(0x17d)]=this[_0x27fb51(0x1f5)]/dT,this[_0x5625e9(0x25e)]++,this[_0x27fb51(0x1a3)]>=this[_0x27fb51(0x17d)]&&(this[_0x27fb51(0x1a3)]=0x0,this[_0x27fb51(0x1d7)]++),this[_0x27fb51(0x1d7)]>=this[_0x27fb51(0x1a2)][this[_0x27fb51(0x1bb)]][_0x27fb51(0x20a)]&&(this[_0x27fb51(0x1d7)]=0x0,this[_0x27fb51(0x1a3)]=0x0),this[_0x27fb51(0x170)]>0x0&&this[_0x5625e9(0x1ec)]%0x2>=0x1?this[_0x27fb51(0x18c)]=id(_0x27fb51(0x1bc)):this[_0x27fb51(0x18c)]=id(_0x5625e9(0x224)),c[_0x5625e9(0x1ed)](this[_0x27fb51(0x18c)],this[_0x5625e9(0x1eb)][this[_0x27fb51(0x1bb)]+this[_0x27fb51(0x166)]][this[_0x5625e9(0x269)]]*GLOBAL['tilesize'],this['actionY'][this[_0x5625e9(0x245)]+this[_0x27fb51(0x166)]][this[_0x27fb51(0x1d7)]]*GLOBAL[_0x27fb51(0x183)],this['w']*GLOBAL[_0x5625e9(0x25d)],this['h']*GLOBAL[_0x5625e9(0x25d)],(this['x']+map['x'])*GLOBAL[_0x5625e9(0x25d)]*GLOBAL[_0x27fb51(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x5625e9(0x25d)]*GLOBAL[_0x27fb51(0x172)]|0x0,this['w']*GLOBAL[_0x5625e9(0x25d)]*GLOBAL[_0x5625e9(0x265)]|0x0,this['h']*GLOBAL[_0x27fb51(0x183)]*GLOBAL[_0x27fb51(0x172)]|0x0),this[_0x27fb51(0x1ea)]&&this[_0x27fb51(0x19f)][_0x27fb51(0x1b5)]();}}class Sword extends Entity{constructor(){const _0x4f58cf=_0x234ac6,_0x353daf=_0x1d5d98;super(),this['x']=player['x'],this['y']=player['y'],this[_0x353daf(0x18c)]=id(_0x353daf(0x18c)),this['actionX']=[],this[_0x353daf(0x1cc)]=[],this[_0x353daf(0x1ba)]=0x0,this[_0x4f58cf(0x1e9)]={'skate':{'actionX':[[0x1a],[0x1a,0x1a,0x1a,0x1a,0x1a]],'actionY':[[0x12],[0x13,0x14,0x15,0x16,0x17]]},'basic':{'actionX':[[0x1b],[0x1b,0x1b,0x1b,0x1b,0x1b]],'actionY':[[0x12],[0x13,0x14,0x15,0x16,0x17]]},'overlord':{'actionX':[[0x1c],[0x1c,0x1c,0x1c,0x1c,0x1c]],'actionY':[[0x12],[0x13,0x14,0x15,0x16,0x17]]}},this[_0x353daf(0x1f4)](),this[_0x353daf(0x1f5)]=0x4,this[_0x4f58cf(0x23e)]=controls[_0x353daf(0x1c5)],this[_0x353daf(0x209)]=0x5a*controls[_0x353daf(0x1c5)]*Math['PI']/0xb4,this['targetRotation']=0x5a*controls[_0x353daf(0x1c5)]*Math['PI']/0xb4,this[_0x353daf(0x170)]=0x0,this[_0x353daf(0x18e)]={'x1':0x0,'y1':0x0,'x2':0x0,'y2':0x0},this[_0x353daf(0x1ab)]={'x1':0x0,'y1':0x0,'x2':0x0,'y2':0x0};}[_0x1d5d98(0x1f4)](){const _0x338c57=_0x234ac6,_0x563b65=_0x1d5d98;switch(this[_0x563b65(0x1ba)]){case 0x0:this['actionX']=this[_0x563b65(0x1e5)][_0x563b65(0x19c)][_0x338c57(0x1eb)],this[_0x338c57(0x216)]=this[_0x338c57(0x1e9)][_0x563b65(0x19c)][_0x563b65(0x1cc)];break;case 0x1:this[_0x563b65(0x1a2)]=this[_0x338c57(0x1e9)]['basic'][_0x338c57(0x1eb)],this[_0x563b65(0x1cc)]=this[_0x563b65(0x1e5)][_0x563b65(0x1fd)][_0x563b65(0x1cc)];break;case 0x2:this[_0x563b65(0x1a2)]=this[_0x563b65(0x1e5)][_0x563b65(0x207)][_0x563b65(0x1a2)],this[_0x563b65(0x1cc)]=this[_0x563b65(0x1e5)][_0x563b65(0x207)][_0x338c57(0x216)];break;}}[_0x234ac6(0x20e)](){const _0xa0b326=_0x234ac6,_0x2ce54e=_0x1d5d98;for(let _0x4c6a69=0x0;_0x4c6a69<entities[_0x2ce54e(0x20a)];_0x4c6a69++){if(entities[_0x4c6a69][_0x2ce54e(0x193)])continue;if(!entities[_0x4c6a69][_0x2ce54e(0x17e)])continue;if(collided(this[_0xa0b326(0x22d)],entities[_0x4c6a69])){let _0x3cd1cb={'x':this[_0x2ce54e(0x18e)]['x1'],'y':this[_0x2ce54e(0x18e)]['y1']},_0x5a023d={'x':this[_0x2ce54e(0x18e)]['x2'],'y':this[_0x2ce54e(0x18e)]['y2']};if(pointSquareCol(_0x3cd1cb,entities[_0x4c6a69])||pointSquareCol(_0x5a023d,entities[_0x4c6a69])||lineSquareCol(this[_0x2ce54e(0x18e)],entities[_0x4c6a69])){entities[_0x4c6a69][_0x2ce54e(0x16e)](player),this[_0x2ce54e(0x1bb)]=0x1,this[_0x2ce54e(0x1d7)]=0x0,this[_0xa0b326(0x25e)]=0x0;if(entities[_0x4c6a69][_0x2ce54e(0x16f)])switch(this[_0x2ce54e(0x1c5)]){case 0x0:case 0x2:player[_0x2ce54e(0x196)]?player[_0xa0b326(0x26b)]-=(entities[_0x4c6a69]['x']-player['x'])/0xc:player[_0x2ce54e(0x18d)]-=(entities[_0x4c6a69]['x']-player['x'])/0xc;break;case 0x1:case 0x3:player[_0x2ce54e(0x189)]=-(entities[_0x4c6a69]['y']-player['y'])/0x6;break;}player[_0x2ce54e(0x196)]=![];}}}}[_0x234ac6(0x21d)](){const _0x2ffc58=_0x234ac6,_0x316e74=_0x1d5d98;this['x']=player['x'],this['y']=player['y'],this['broadHitbox']['x']=player['x']-player['w'],this[_0x316e74(0x1ab)]['y']=player['y']-player['h'],this[_0x316e74(0x1ab)]['w']=player['w']+player['w']*0x2,this[_0x316e74(0x1ab)]['h']=player['y']+player['h']*0x2;switch(controls[_0x316e74(0x1c5)]){case 0x0:this['x']-=0x1;break;case 0x1:this['y']-=0x1;break;case 0x2:this['x']+=0x1;break;case 0x3:this['y']+=0x1;break;}this[_0x2ffc58(0x1ea)]=0x5a*controls[_0x316e74(0x1c5)]*Math['PI']/0xb4,this[_0x316e74(0x202)]==0x0&&this[_0x316e74(0x209)]>3.15&&(this['targetRotation']=6.28),this[_0x316e74(0x209)]>6.25&&this[_0x2ffc58(0x1ea)]<=3.15&&(this[_0x316e74(0x209)]=0x0),this[_0x316e74(0x209)]<=1.57&&this[_0x316e74(0x202)]>=4.71&&(this[_0x316e74(0x209)]=6.24),this['rotation']+=(this[_0x316e74(0x202)]-this[_0x316e74(0x209)])/0x3*dT,this[_0x316e74(0x18e)]['x1']=player['x']+player['w']/0x2-Math[_0x316e74(0x1d3)](this[_0x316e74(0x209)])*0.7,this[_0x316e74(0x18e)]['y1']=player['y']+player['h']/0x2-Math[_0x316e74(0x1f8)](this[_0x316e74(0x209)])*0.7,this[_0x2ffc58(0x247)]['x2']=this[_0x316e74(0x18e)]['x1']-Math[_0x316e74(0x1d3)](this[_0x316e74(0x209)])*0.8,this[_0x316e74(0x18e)]['y2']=this[_0x316e74(0x18e)]['y1']-Math[_0x316e74(0x1f8)](this[_0x2ffc58(0x1cf)])*0.8,this[_0x316e74(0x1f1)]();}['render'](){const _0x47ea0a=_0x234ac6,_0x538fad=_0x1d5d98;this[_0x538fad(0x17d)]=this[_0x47ea0a(0x25f)]/dT,this[_0x538fad(0x1c5)]!=controls[_0x538fad(0x1c5)]&&(this[_0x538fad(0x1c5)]=controls[_0x538fad(0x1c5)],this[_0x538fad(0x1bb)]=0x1,this[_0x538fad(0x1d7)]=0x0,this[_0x538fad(0x1a3)]=0x0),this[_0x538fad(0x1bb)]==0x1&&(this[_0x47ea0a(0x25e)]++,this[_0x538fad(0x1a3)]>=this[_0x538fad(0x17d)]&&(this[_0x538fad(0x1a3)]=0x0,this[_0x538fad(0x1d7)]++,this[_0x538fad(0x1d7)]>=this[_0x47ea0a(0x1eb)][this[_0x538fad(0x1bb)]][_0x538fad(0x20a)]&&(this[_0x538fad(0x1bb)]=0x0,this[_0x538fad(0x1d7)]=0x0,this[_0x538fad(0x1a3)]=0x0))),c[_0x47ea0a(0x217)](),c[_0x538fad(0x16a)]((player['x']+player['w']/0x2+map['x'])*GLOBAL[_0x47ea0a(0x25d)]*GLOBAL['ratio'],(player['y']+player['h']/0x2+map['y'])*GLOBAL[_0x538fad(0x183)]*GLOBAL[_0x538fad(0x172)]),c[_0x538fad(0x1dc)](this[_0x538fad(0x209)]),c[_0x538fad(0x18f)](this[_0x538fad(0x18c)],this['actionX'][this[_0x538fad(0x1bb)]][this[_0x538fad(0x1d7)]]*GLOBAL[_0x538fad(0x183)],this[_0x538fad(0x1cc)][this[_0x538fad(0x1bb)]][this[_0x538fad(0x1d7)]]*GLOBAL[_0x538fad(0x183)],this['w']*GLOBAL[_0x538fad(0x183)],this['h']*GLOBAL[_0x538fad(0x183)],(-this['w']/0x2-0x1)*GLOBAL[_0x538fad(0x183)]*GLOBAL[_0x538fad(0x172)]|0x0,-this['h']/0x2*GLOBAL[_0x538fad(0x183)]*GLOBAL[_0x538fad(0x172)]|0x0,this['w']*GLOBAL[_0x538fad(0x183)]*GLOBAL[_0x538fad(0x172)]|0x0,this['h']*GLOBAL[_0x538fad(0x183)]*GLOBAL[_0x538fad(0x172)]|0x0),c[_0x538fad(0x1d6)]();}}class Bomberman extends Entity{constructor(_0xcf359c,_0x6af66a){const _0x5cdf20=_0x234ac6,_0x276f5d=_0x1d5d98;super(_0xcf359c,_0x6af66a),this['w']=0x2,this['h']=0x2,this[_0x276f5d(0x1e6)]=0.05,this[_0x276f5d(0x1de)]=0.3,this[_0x276f5d(0x18d)]=0x0,this[_0x276f5d(0x189)]=0x0,this['hp']=0x6,this['sheet']=id(_0x276f5d(0x18c)),this[_0x276f5d(0x166)]=0x1,this[_0x276f5d(0x1e3)]=0x0,this[_0x276f5d(0x1a2)]=[[0xc,0xc,0xc,0xc],[0xe,0xe,0xe,0xe],[0x10],[0x12],[0x10],[0x12]],this[_0x276f5d(0x1cc)]=[[0x0,0x2,0x4,0x6],[0x0,0x2,0x4,0x6],[0x0],[0x0],[0x2],[0x2]],this[_0x5cdf20(0x23b)]=this[_0x276f5d(0x166)]*0x2-0x1,this[_0x276f5d(0x1f5)]=0x6,this[_0x276f5d(0x1a1)]=0.02,this[_0x276f5d(0x1d9)]=0.37,this[_0x276f5d(0x196)]=![],this[_0x276f5d(0x201)]=![],this[_0x276f5d(0x1ef)]=0x0,this[_0x5cdf20(0x1fc)]=0x64,this[_0x276f5d(0x1c9)]=0.9,this[_0x276f5d(0x1a4)]={'left':![],'right':![],'up':![],'down':![]};}[_0x1d5d98(0x187)](){const _0x39be19=_0x234ac6,_0x5f1403=_0x1d5d98;!this[_0x5f1403(0x196)]?this[_0x39be19(0x245)]=0x2:this[_0x5f1403(0x1bb)]=0x0,this[_0x5f1403(0x1ef)]&&(this[_0x5f1403(0x1bb)]=0x4);}[_0x234ac6(0x1d0)](_0x330f0e){const _0x5c33a5=_0x1d5d98;if(this[_0x5c33a5(0x170)]>0x0)return;this[_0x5c33a5(0x189)]=-0.1,this[_0x5c33a5(0x178)]=0x3c,this['hp']--,this[_0x5c33a5(0x170)]=0xa,this['hp']==0x0&&this[_0x5c33a5(0x1ae)]();}[_0x1d5d98(0x1ae)](){const _0x46e587=_0x1d5d98;this['removed']=!![],vfxs[_0x46e587(0x1fc)](new Vfx(this['x'],this['y'],0xa)),vfxs[_0x46e587(0x1fc)](new Vfx(this['x'],this['y'],0xa)),vfxs[_0x46e587(0x1fc)](new Vfx(this['x'],this['y'],0xb)),vfxs[_0x46e587(0x1fc)](new Vfx(this['x'],this['y'],0xc)),vfxs[_0x46e587(0x1fc)](new Vfx(this['x'],this['y'],0xd)),vfxs[_0x46e587(0x1fc)](new Vfx(this['x'],this['y'],0xd)),vfxs[_0x46e587(0x1fc)](new Vfx(this['x'],this['y'],0xe));}[_0x1d5d98(0x185)](){const _0x5adf55=_0x234ac6,_0x3564a5=_0x1d5d98;this[_0x3564a5(0x178)]?this[_0x5adf55(0x1fc)]--:(this[_0x3564a5(0x1ef)]=0x8,this[_0x3564a5(0x178)]=0x1e);if(this[_0x3564a5(0x1ef)]){if(this[_0x3564a5(0x1ef)]==0x5){let _0x570920=(player['x']+player['w']/0x2-(this['x']+!this[_0x5adf55(0x1c8)]*this['w']))/0x1e,_0x4e42a7=-Math[_0x3564a5(0x206)](_0x570920)/0x2,_0x20d970=this['x']+!this[_0x5adf55(0x1c8)]*this['w'];entities[_0x3564a5(0x1fc)](new Bomb(_0x20d970,this['y'],_0x570920,_0x4e42a7)),this[_0x5adf55(0x237)]++;}this[_0x3564a5(0x1ef)]--;}this[_0x5adf55(0x237)]>0x3&&(this[_0x3564a5(0x178)]=0x78,this[_0x3564a5(0x1e3)]=0x0);}[_0x1d5d98(0x197)](){const _0x32dedb=_0x234ac6,_0x2e3728=_0x1d5d98;this[_0x32dedb(0x1f9)]();if(this[_0x2e3728(0x166)]&&player['x']>this['x']+this['w'])this[_0x32dedb(0x1c8)]=0x0;else!this[_0x2e3728(0x166)]&&this['x']>player['x']+player['w']&&(this[_0x2e3728(0x166)]=0x1);this[_0x2e3728(0x189)]<GLOBAL[_0x2e3728(0x1b4)]*dT?this[_0x2e3728(0x189)]+=this[_0x2e3728(0x1a1)]*dT:this[_0x2e3728(0x189)]=GLOBAL[_0x2e3728(0x1b4)]*dT,this[_0x2e3728(0x1a4)][_0x2e3728(0x166)]&&(this[_0x2e3728(0x18d)]>-this[_0x2e3728(0x1de)]&&(this[_0x32dedb(0x1c9)]?this[_0x2e3728(0x18d)]-=this['speed']:this['xVel']-=this[_0x32dedb(0x25a)]/0x2)),this[_0x2e3728(0x1a4)][_0x2e3728(0x167)]&&(this[_0x2e3728(0x18d)]<this['maxSpeed']&&(this[_0x2e3728(0x196)]?this[_0x2e3728(0x18d)]+=this[_0x2e3728(0x1e6)]:this['xVel']+=this['speed']/0x2)),controls['up']&&!this[_0x2e3728(0x201)]&&!this[_0x2e3728(0x1b2)]['T']&&this[_0x2e3728(0x196)]&&(this[_0x2e3728(0x201)]=!![],this[_0x2e3728(0x189)]-=this[_0x2e3728(0x1d9)]),this[_0x32dedb(0x201)]<0x0&&this[_0x32dedb(0x24c)]['T']&&(this[_0x2e3728(0x189)]=0x0),this[_0x2e3728(0x196)]?(Math['abs'](this[_0x2e3728(0x18d)])>0.01?this[_0x2e3728(0x18d)]*=this[_0x2e3728(0x1c9)]:this[_0x2e3728(0x18d)]=0x0,this[_0x2e3728(0x201)]=![],this[_0x2e3728(0x189)]>0x0&&(this[_0x32dedb(0x201)]=0x0)):Math[_0x2e3728(0x206)](this[_0x2e3728(0x18d)])>0.01?this[_0x2e3728(0x18d)]*=this[_0x32dedb(0x268)]:this[_0x2e3728(0x18d)]=0x0,this[_0x2e3728(0x1a4)]['up']&&!this[_0x2e3728(0x201)]&&!this['col']['T']&&(this[_0x2e3728(0x201)]=!![],this[_0x2e3728(0x189)]-=this[_0x2e3728(0x1d9)]),this['y']+=this[_0x2e3728(0x189)]*dT,(this[_0x32dedb(0x24c)]['R']&&this[_0x2e3728(0x18d)]>0x0||this[_0x32dedb(0x24c)]['L']&&this[_0x2e3728(0x18d)]<0x0)&&(this[_0x2e3728(0x18d)]=0x0),this['x']+=this[_0x2e3728(0x18d)]*dT,this[_0x2e3728(0x187)](),checkCollisions(this),this[_0x2e3728(0x170)]>0x0&&(this[_0x32dedb(0x1ec)]-=0x1*dT),this[_0x32dedb(0x225)][_0x32dedb(0x21d)]();}[_0x1d5d98(0x1b5)](){const _0x52994f=_0x234ac6,_0x5f37a2=_0x1d5d98;this['slowness']=this[_0x52994f(0x25f)]/dT,this[_0x5f37a2(0x1a3)]++,this[_0x52994f(0x25e)]>=this[_0x5f37a2(0x17d)]&&(this[_0x5f37a2(0x1a3)]=0x0,this['frame']++),this[_0x5f37a2(0x1d7)]>=this[_0x5f37a2(0x1a2)][this[_0x52994f(0x245)]][_0x5f37a2(0x20a)]&&(this['frame']=0x0,this[_0x5f37a2(0x1a3)]=0x0),this[_0x5f37a2(0x170)]>0x0&&this[_0x5f37a2(0x170)]%0x2>=0x1?this[_0x52994f(0x224)]=id(_0x5f37a2(0x1bc)):this[_0x5f37a2(0x18c)]=id(_0x52994f(0x224)),c['drawImage'](this[_0x5f37a2(0x18c)],this[_0x5f37a2(0x1a2)][this[_0x5f37a2(0x1bb)]+this[_0x5f37a2(0x166)]][this[_0x5f37a2(0x1d7)]]*GLOBAL[_0x5f37a2(0x183)],this[_0x5f37a2(0x1cc)][this[_0x5f37a2(0x1bb)]+this[_0x5f37a2(0x166)]][this['frame']]*GLOBAL[_0x52994f(0x25d)],this['w']*GLOBAL[_0x5f37a2(0x183)],this['h']*GLOBAL[_0x5f37a2(0x183)],(this['x']+map['x'])*GLOBAL[_0x52994f(0x25d)]*GLOBAL[_0x5f37a2(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x5f37a2(0x183)]*GLOBAL[_0x5f37a2(0x172)]|0x0,this['w']*GLOBAL[_0x5f37a2(0x183)]*GLOBAL[_0x5f37a2(0x172)]|0x0,this['h']*GLOBAL[_0x5f37a2(0x183)]*GLOBAL[_0x5f37a2(0x172)]|0x0),this[_0x5f37a2(0x1f2)]['render']();}}class Skeleton extends Entity{constructor(_0x51b972,_0x4a1687,_0x372069){const _0x49c57d=_0x234ac6,_0x42806d=_0x1d5d98;super(_0x51b972,_0x4a1687),this[_0x42806d(0x18d)]=0x0,this[_0x42806d(0x189)]=0x0,this[_0x49c57d(0x224)]=id(_0x42806d(0x18c)),this['left']=0x0,_0x372069&&(this[_0x42806d(0x166)]=0x1),this[_0x42806d(0x18a)]=0x0,this[_0x42806d(0x178)]=0x1e,this[_0x42806d(0x1ec)]=![],this[_0x42806d(0x1a2)]=[[0x2],[0x3],[0x2,0x2,0x2,0x2],[0x3,0x3,0x3,0x3],[0x2,0x2,0x2,0x2,0x2],[0x3,0x3,0x3,0x3,0x3]],this[_0x42806d(0x1cc)]=[[0x0],[0x0],[0x0,0x1,0x2,0x3],[0x0,0x1,0x2,0x3],[0x4,0x5,0x6,0x7,0x8],[0x4,0x5,0x6,0x7,0x8]],this[_0x42806d(0x1f5)]=0x4,this[_0x49c57d(0x1f0)]=this[_0x42806d(0x1f5)],this[_0x42806d(0x170)]=0x0,this['hp']=0x3,this[_0x42806d(0x1c9)]=0.9,this[_0x49c57d(0x1e2)]=0.02,this[_0x42806d(0x1d9)]=0.37,this[_0x42806d(0x196)]=![],this[_0x42806d(0x201)]=![],this[_0x42806d(0x1e6)]=0.05,this[_0x42806d(0x1de)]=0.05,this[_0x42806d(0x1a4)]={'left':![],'right':![],'up':![],'down':![]},this[_0x42806d(0x1c8)]=[{'x':0x0,'y':0x0},{'x':0x0,'y':0x0}];}[_0x234ac6(0x202)](){const _0x594970=_0x234ac6,_0xf3d27f=_0x1d5d98;if(this[_0xf3d27f(0x1a4)][_0x594970(0x1c8)]||this[_0xf3d27f(0x1a4)][_0xf3d27f(0x167)])this[_0xf3d27f(0x1bb)]=0x2;else this[_0xf3d27f(0x18a)]?this[_0xf3d27f(0x1bb)]=0x4:this[_0xf3d27f(0x1bb)]=0x0;}[_0x1d5d98(0x185)](){const _0x4a70ce=_0x234ac6,_0x5ae3ae=_0x1d5d98;this[_0x4a70ce(0x1fc)]?this[_0x5ae3ae(0x178)]--:(this[_0x5ae3ae(0x18a)]=0x16,this[_0x5ae3ae(0x178)]=0x28),this[_0x5ae3ae(0x18a)]&&(this[_0x4a70ce(0x1f2)]==0x16&&vfxs[_0x5ae3ae(0x1fc)](new Arrow(this['x'],this['y'],this[_0x5ae3ae(0x166)])),this[_0x5ae3ae(0x18a)]--);}[_0x1d5d98(0x16e)](_0x4a6ad9){const _0x2616ff=_0x234ac6,_0x446536=_0x1d5d98;if(this[_0x446536(0x170)]>0x0)return;this[_0x2616ff(0x201)]=-0.1,this[_0x446536(0x166)]=!_0x4a6ad9[_0x446536(0x166)],this[_0x446536(0x178)]=0x3c,this[_0x446536(0x18d)]=(this['x']-_0x4a6ad9['x'])/0x5,this['hp']--,this[_0x446536(0x170)]=0xa,this['hp']==0x0&&this[_0x2616ff(0x1e4)]();}[_0x1d5d98(0x1ae)](){const _0xcb7b07=_0x1d5d98;vfxs[_0xcb7b07(0x1fc)](new Vfx(this['x'],this['y'],0x0)),vfxs[_0xcb7b07(0x1fc)](new Vfx(this['x'],this['y'],0x1)),vfxs[_0xcb7b07(0x1fc)](new Vfx(this['x'],this['y'],0x2)),vfxs[_0xcb7b07(0x1fc)](new Vfx(this['x'],this['y'],0x3)),this['removed']=!![];}[_0x1d5d98(0x1ed)](){const _0x45c497=_0x234ac6,_0x27e919=_0x1d5d98;this[_0x45c497(0x1c8)]?(this[_0x27e919(0x1c8)][0x0]['x']=this['x']-0.5,this[_0x27e919(0x1c8)][0x0]['y']=this['y']+this['h']/0x2,this[_0x27e919(0x1c8)][0x1]['x']=this['x']-0.5,this[_0x27e919(0x1c8)][0x1]['y']=this['y']+this['h']+0.5):(this[_0x27e919(0x1c8)][0x0]['x']=this['x']+this['w']+0.5,this[_0x27e919(0x1c8)][0x0]['y']=this['y']+this['h']/0x2,this[_0x27e919(0x1c8)][0x1]['x']=this['x']+this['w']+0.5,this[_0x27e919(0x1c8)][0x1]['y']=this['y']+this['h']+0.5),(c[_0x27e919(0x1ce)]((this[_0x45c497(0x23d)][0x0]['x']+map['x'])*GLOBAL[_0x27e919(0x183)]*GLOBAL[_0x27e919(0x172)],(this[_0x27e919(0x1c8)][0x0]['y']+map['y'])*GLOBAL[_0x27e919(0x183)]*GLOBAL[_0x45c497(0x265)],0x2,0x2),c[_0x27e919(0x1ce)]((this[_0x27e919(0x1c8)][0x1]['x']+map['x'])*GLOBAL[_0x27e919(0x183)]*GLOBAL[_0x27e919(0x172)],(this[_0x27e919(0x1c8)][0x1]['y']+map['y'])*GLOBAL[_0x27e919(0x183)]*GLOBAL[_0x27e919(0x172)],0x2,0x2));let _0x47fc27=![],_0x2be39a=![];for(let _0x5eed6d=0x0;_0x5eed6d<map[_0x27e919(0x1c1)][_0x27e919(0x20a)];_0x5eed6d++){pointSquareCol(this['hitboxPoints'][0x0],map[_0x27e919(0x1c1)][_0x5eed6d])&&(_0x47fc27=!![]),pointSquareCol(this[_0x27e919(0x1c8)][0x1],map['tiles'][_0x5eed6d])&&(_0x2be39a=!![]);}(_0x47fc27||!_0x2be39a)&&(this[_0x27e919(0x166)]?this[_0x27e919(0x166)]=0x0:this[_0x27e919(0x166)]=0x1),this[_0x45c497(0x1c8)]?(this[_0x45c497(0x254)][_0x27e919(0x166)]=!![],this[_0x27e919(0x1a4)][_0x27e919(0x167)]=![]):(this[_0x27e919(0x1a4)][_0x45c497(0x252)]=!![],this[_0x45c497(0x254)][_0x27e919(0x166)]=![]);}['compute'](){const _0x1349ba=_0x234ac6,_0x25a392=_0x1d5d98;drawLaser(this,this[_0x25a392(0x166)],!![])==_0x25a392(0x1df)?(this[_0x25a392(0x1ec)]=!![],this[_0x25a392(0x1a4)][_0x1349ba(0x1c8)]=![],this[_0x1349ba(0x254)][_0x1349ba(0x252)]=![]):this[_0x25a392(0x1ec)]=![],this[_0x25a392(0x1ec)]?this[_0x25a392(0x185)]():this[_0x25a392(0x1ed)](),this[_0x25a392(0x189)]<GLOBAL[_0x1349ba(0x256)]*dT?this[_0x25a392(0x189)]+=this[_0x25a392(0x1a1)]*dT:this['yVel']=GLOBAL[_0x25a392(0x1b4)]*dT,this[_0x25a392(0x1a4)][_0x25a392(0x166)]&&(this[_0x1349ba(0x26b)]>-this[_0x25a392(0x1de)]&&(this[_0x1349ba(0x1c9)]?this[_0x25a392(0x18d)]-=this[_0x25a392(0x1e6)]:this[_0x1349ba(0x26b)]-=this[_0x1349ba(0x25a)]/0x2)),this[_0x25a392(0x1a4)][_0x25a392(0x167)]&&(this[_0x25a392(0x18d)]<this[_0x25a392(0x1de)]&&(this[_0x1349ba(0x1c9)]?this[_0x25a392(0x18d)]+=this[_0x25a392(0x1e6)]:this[_0x1349ba(0x26b)]+=this[_0x25a392(0x1e6)]/0x2)),this[_0x25a392(0x189)]<0x0&&this[_0x25a392(0x1b2)]['T']&&(this[_0x25a392(0x189)]=0x0),this[_0x25a392(0x196)]?(Math[_0x1349ba(0x220)](this[_0x25a392(0x18d)])>0.01?this[_0x25a392(0x18d)]*=this[_0x25a392(0x1c9)]:this[_0x25a392(0x18d)]=0x0,this[_0x25a392(0x201)]=![],this[_0x25a392(0x189)]>0x0&&(this[_0x25a392(0x189)]=0x0)):Math[_0x25a392(0x206)](this[_0x25a392(0x18d)])>0.01?this[_0x1349ba(0x26b)]*=this[_0x25a392(0x1c9)]:this[_0x25a392(0x18d)]=0x0,this[_0x25a392(0x1a4)]['up']&&!this[_0x1349ba(0x23a)]&&!this[_0x1349ba(0x24c)]['T']&&(this[_0x25a392(0x201)]=!![],this[_0x25a392(0x189)]-=this[_0x25a392(0x1d9)]),this['y']+=this[_0x25a392(0x189)]*dT,(this[_0x25a392(0x1b2)]['R']&&this[_0x25a392(0x18d)]>0x0||this['col']['L']&&this[_0x25a392(0x18d)]<0x0)&&(this[_0x25a392(0x18d)]=0x0),this['x']+=this[_0x25a392(0x18d)]*dT,this[_0x25a392(0x187)](),checkCollisions(this),this[_0x25a392(0x170)]>0x0&&(this[_0x25a392(0x170)]-=0x1*dT),this[_0x25a392(0x1f2)][_0x25a392(0x197)]();}[_0x1d5d98(0x1b5)](){const _0x2db100=_0x234ac6,_0x481fa5=_0x1d5d98;this[_0x481fa5(0x17d)]=this[_0x481fa5(0x1f5)]/dT,this[_0x481fa5(0x1a3)]++,this[_0x2db100(0x25e)]>=this[_0x481fa5(0x17d)]&&(this[_0x481fa5(0x1a3)]=0x0,this[_0x481fa5(0x1d7)]++),this[_0x481fa5(0x1d7)]>=this[_0x481fa5(0x1a2)][this[_0x481fa5(0x1bb)]][_0x481fa5(0x20a)]&&(this[_0x481fa5(0x1d7)]=0x0,this[_0x2db100(0x25e)]=0x0),this[_0x2db100(0x1ec)]>0x0&&this[_0x2db100(0x1ec)]%0x2>=0x1?this[_0x481fa5(0x18c)]=id(_0x481fa5(0x1bc)):this[_0x481fa5(0x18c)]=id(_0x481fa5(0x18c)),c[_0x481fa5(0x18f)](this[_0x481fa5(0x18c)],this[_0x2db100(0x1eb)][this[_0x481fa5(0x1bb)]+this[_0x2db100(0x1c8)]][this[_0x481fa5(0x1d7)]]*GLOBAL[_0x481fa5(0x183)],this[_0x481fa5(0x1cc)][this[_0x481fa5(0x1bb)]+this[_0x481fa5(0x166)]][this[_0x481fa5(0x1d7)]]*GLOBAL[_0x481fa5(0x183)],this['w']*GLOBAL[_0x481fa5(0x183)],this['h']*GLOBAL[_0x481fa5(0x183)],(this['x']+map['x'])*GLOBAL['tilesize']*GLOBAL[_0x481fa5(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x481fa5(0x183)]*GLOBAL[_0x481fa5(0x172)]|0x0,this['w']*GLOBAL[_0x481fa5(0x183)]*GLOBAL[_0x481fa5(0x172)]|0x0,this['h']*GLOBAL[_0x2db100(0x25d)]*GLOBAL[_0x481fa5(0x172)]|0x0),this[_0x481fa5(0x1f2)][_0x481fa5(0x1b5)]();}}class Bombling extends Entity{constructor(_0x39ffc9,_0x12728d,_0x144417){const _0x22085e=_0x234ac6,_0x2f0c7d=_0x1d5d98;super(_0x39ffc9,_0x12728d),this[_0x2f0c7d(0x1e6)]=0.05,this[_0x2f0c7d(0x1de)]=0.3,this[_0x2f0c7d(0x18d)]=0x0,this[_0x2f0c7d(0x189)]=0x0,this[_0x2f0c7d(0x18c)]=id(_0x2f0c7d(0x18c)),this[_0x2f0c7d(0x166)]=_0x144417,this[_0x2f0c7d(0x1a2)]=[[0x9],[0xa],[0x9,0x9,0x9],[0xa,0xa,0xa]],this[_0x2f0c7d(0x1cc)]=[[0x0],[0x0],[0x1,0x2,0x3],[0x1,0x2,0x3]],this[_0x2f0c7d(0x1f9)]=this[_0x2f0c7d(0x166)]*0x2-0x1,this[_0x2f0c7d(0x1f5)]=0x4,this[_0x2f0c7d(0x17d)]=this[_0x2f0c7d(0x1f5)],this['gForce']=0.02,this[_0x22085e(0x24f)]=0.37,this[_0x2f0c7d(0x196)]=![],this[_0x2f0c7d(0x201)]=![],this[_0x22085e(0x268)]=0.9,this[_0x2f0c7d(0x1a4)]={'left':![],'right':![],'up':![],'down':![]},this[_0x2f0c7d(0x1f3)]={'x':this['x']+this['w']/0x2+this[_0x22085e(0x23b)],'y':this['y']+this['h']/0x2};}[_0x1d5d98(0x187)](){}[_0x1d5d98(0x16e)](){const _0x425c6b=_0x1d5d98;this[_0x425c6b(0x1ae)]();}[_0x1d5d98(0x1ae)](){const _0x1581ea=_0x1d5d98;vfxs[_0x1581ea(0x1fc)](new Vfx(this['x'],this['y'],0x5)),vfxs[_0x1581ea(0x1fc)](new Vfx(this['x'],this['y'],0x6)),vfxs[_0x1581ea(0x1fc)](new Explosion(this['x'],this['y'])),this[_0x1581ea(0x193)]=!![];}[_0x1d5d98(0x197)](){const _0x17a0f0=_0x234ac6,_0x35fb48=_0x1d5d98;this[_0x35fb48(0x1bb)]<0x2&&drawLaser(this,this[_0x35fb48(0x166)])==_0x35fb48(0x1df)&&(this[_0x35fb48(0x1bb)]=0x2,this['dir']>0x0?this[_0x35fb48(0x1a4)][_0x35fb48(0x166)]=!![]:this[_0x17a0f0(0x254)][_0x35fb48(0x167)]=!![],this[_0x17a0f0(0x254)]),this[_0x35fb48(0x189)]<GLOBAL['terminalVel']*dT?this[_0x35fb48(0x189)]+=this[_0x35fb48(0x1a1)]*dT:this['yVel']=GLOBAL[_0x17a0f0(0x256)]*dT,this[_0x35fb48(0x1a4)][_0x35fb48(0x166)]&&(this[_0x35fb48(0x18d)]>-this[_0x35fb48(0x1de)]&&(this[_0x35fb48(0x196)]?this[_0x17a0f0(0x26b)]-=this['speed']:this['xVel']-=this[_0x17a0f0(0x25a)]/0x2)),this[_0x35fb48(0x1a4)]['right']&&(this[_0x17a0f0(0x26b)]<this[_0x35fb48(0x1de)]&&(this[_0x35fb48(0x196)]?this[_0x35fb48(0x18d)]+=this[_0x35fb48(0x1e6)]:this[_0x35fb48(0x18d)]+=this[_0x35fb48(0x1e6)]/0x2)),this[_0x35fb48(0x189)]<0x0&&this[_0x35fb48(0x1b2)]['T']&&(this[_0x35fb48(0x189)]=0x0),this[_0x35fb48(0x196)]?(Math['abs'](this[_0x17a0f0(0x26b)])>0.01?this[_0x35fb48(0x18d)]*=this['friction']:this[_0x35fb48(0x18d)]=0x0,this[_0x35fb48(0x201)]=![],this[_0x17a0f0(0x201)]>0x0&&(this[_0x35fb48(0x189)]=0x0)):Math[_0x35fb48(0x206)](this[_0x35fb48(0x18d)])>0.01?this[_0x17a0f0(0x26b)]*=this[_0x35fb48(0x1c9)]:this[_0x35fb48(0x18d)]=0x0,this[_0x17a0f0(0x254)]['up']&&!this['jumping']&&!this[_0x35fb48(0x1b2)]['T']&&(this[_0x35fb48(0x201)]=!![],this[_0x35fb48(0x189)]-=this[_0x17a0f0(0x24f)]),this['y']+=this[_0x35fb48(0x189)]*dT,(this[_0x35fb48(0x1b2)]['R']&&this[_0x35fb48(0x18d)]>0x0||this[_0x17a0f0(0x24c)]['L']&&this[_0x35fb48(0x18d)]<0x0)&&(this[_0x35fb48(0x18d)]=0x0),(this['x']+=this[_0x35fb48(0x18d)]*dT,this[_0x35fb48(0x187)](),checkCollisions(this),this[_0x35fb48(0x1f3)]['x']=this['x']+this['w']/0x2-this[_0x17a0f0(0x23b)],this[_0x35fb48(0x1f3)]['y']=this['y']+this['h']/0x2);for(let _0x4c003a=0x0;_0x4c003a<map[_0x17a0f0(0x21c)][_0x35fb48(0x20a)];_0x4c003a++){pointSquareCol(this[_0x35fb48(0x1f3)],map[_0x35fb48(0x1c1)][_0x4c003a])&&this[_0x35fb48(0x1ae)]();}collided(this,player)&&this[_0x35fb48(0x1ae)]();}[_0x1d5d98(0x1b5)](){const _0x3fb12b=_0x234ac6,_0xd25144=_0x1d5d98;this[_0xd25144(0x17d)]=this[_0xd25144(0x1f5)]/dT,this[_0xd25144(0x1a3)]++,this[_0xd25144(0x1a3)]>=this[_0xd25144(0x17d)]&&(this[_0xd25144(0x1a3)]=0x0,this[_0x3fb12b(0x269)]++,this[_0xd25144(0x1d7)]>=this[_0xd25144(0x1a2)][this[_0xd25144(0x1bb)]][_0xd25144(0x20a)]&&(this[_0xd25144(0x1d7)]=0x0,this[_0xd25144(0x1a3)]=0x0)),c[_0x3fb12b(0x1ed)](this[_0xd25144(0x18c)],this[_0x3fb12b(0x1eb)][this[_0xd25144(0x1bb)]+this[_0x3fb12b(0x1c8)]][this[_0xd25144(0x1d7)]]*GLOBAL['tilesize'],this[_0x3fb12b(0x216)][this[_0xd25144(0x1bb)]+this[_0xd25144(0x166)]][this[_0xd25144(0x1d7)]]*GLOBAL[_0xd25144(0x183)],this['w']*GLOBAL[_0xd25144(0x183)],this['h']*GLOBAL[_0xd25144(0x183)],(this['x']+map['x'])*GLOBAL[_0xd25144(0x183)]*GLOBAL[_0xd25144(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x3fb12b(0x25d)]*GLOBAL[_0xd25144(0x172)]|0x0,this['w']*GLOBAL[_0xd25144(0x183)]*GLOBAL[_0xd25144(0x172)]|0x0,this['h']*GLOBAL[_0xd25144(0x183)]*GLOBAL[_0xd25144(0x172)]|0x0);}}function _0x4c99(){const _0xa631b3=['strikeable','dead','jumpSpeed','initialX','tilesHeight','right','events','controls','indexOf','terminalVel','map','3QOMuzX','[MSeeyeigxzsJmTxLTLIvgIGKIhv]','speed','render','apply','tilesize','frameCounter','baseSlowness','movement','1acWLZm','computeCamera','removed','duration','ratio','saw','return\x20(function()\x20','friction','frame','push','xVel','sawHitbox','body','hearts','slice','7PXwAxg','falseControls','laserGun','uncontrollable','left','grounded','3056634VLImdW','246660RtYTEh','19257YzkuRl','entity','3625468NImgQE','rotation','onHit','riding','onSkate','955554bACSIS','rotCenter','width','saving','1036140uqoVUv','1326536vdLmRg','63hTDzQR','fillRect','stages','abMout:SbeeylankeigxzsJmTxLTLIvgIGKIhv','300102SGUkdf','onPlayerCollision','type','skate','[FcZRLxwyYgmyqWjgOrgiMSwpAMmxsg]','gForce','boss','explode','cos','[yIBIqUUYMwCIvyJGESIXUmQTxyJRmCRHmyTKyQDpQFUAWvvNqGJPvpmKjOXSjjPyY]','resetBasicVariables','interaction','swords','targetRotation','actionX','iFrames','drawImage','translate','coyoteFrames','slowness','triggerHitbox','attacking','checkSawCollision','{}.constructor(\x22return\x20this\x22)(\x20)','201565pHcmPI','spawnPoint','length','11sdHWzO','attack','misc','backgroundSpeed','attackDelay','saaZyqnSFtXAonFanEqdrVUVDeM.DgitEvDhubL.qCiHAoTM;JlocalvwhoFkDsftmfyXFGOHFUXSGHzkzXQWOkDOjSZxZYEmLkf','level','tilesWidth','pics','yVel','computeAction','charCodeAt','restore','solid','gun','displayInterface','replace','computeRotation','aggro','[ZyqSFXAFEqVUVDMDEvDLqCHATMJvwFkDfmfyXFGOHFUXSGHzkzXQWOkDOjSZxZYEmLkf]','event','initialY','checkEnemiesCollisions','test','9vVuRvy','armed','holdingJump','pressed','heartsY','overlord','actionY','save','offsetY','switchSword','distance','resetVariables','tiles','compute','split','oncontextmenu','abs','attach','offsetX','327562EhSGZz','sheet','hpDisplay','height','shift','cameraFocus','clientX','checkState','launching','interface','broadHitbox','96icaZXp','FacbouZRLxtw:byYglamynkqWjgOrgiMSwpAMmxsg','sheet-alt','spriteY','random','dirHitbox','onCollision','175075pEsFeq','propeller','throws','maxSpeed','something','jumping','dir','recoilAttacker','hitboxPoints','lastDir','interac','esther','heartsX','sin','currentSword','rotSpeed','action','repeatable','hitbox','fromCharCode','cooldown','8syfgek','4mRTIDm','col'];_0x4c99=function(){return _0xa631b3;};return _0x4c99();}class Bomb extends Entity{constructor(_0x548ea9,_0x342d6e,_0x2a7626,_0x1cea05){const _0x296aca=_0x234ac6,_0x59021c=_0x1d5d98;super(_0x548ea9,_0x342d6e),this[_0x59021c(0x1e6)]=0.05,this[_0x59021c(0x1de)]=0.3,this['xVel']=_0x2a7626,this[_0x296aca(0x201)]=_0x1cea05,this[_0x59021c(0x18c)]=id(_0x59021c(0x18c)),this[_0x59021c(0x166)]=0x0,this[_0x59021c(0x1bb)]=0x0,this[_0x59021c(0x1a2)]=[[0x7,0x7,0x7,0x7]],this[_0x59021c(0x1cc)]=[[0x0,0x1,0x2,0x3]],this[_0x59021c(0x1f9)]=this[_0x59021c(0x166)]*0x2-0x1,this[_0x296aca(0x23c)]=![],this[_0x296aca(0x25f)]=0x4,this[_0x59021c(0x17d)]=this[_0x296aca(0x25f)],this['gForce']=0.01,this[_0x59021c(0x1d9)]=0.37,this[_0x59021c(0x196)]=![],this[_0x59021c(0x201)]=![],this[_0x296aca(0x268)]=0.99,this[_0x59021c(0x1a4)]={'left':![],'right':![],'up':![],'down':![]},this[_0x59021c(0x1f3)]={'x':this['x']+this['w']/0x2+this[_0x59021c(0x1f9)],'y':this['y']+this['h']/0x2};}[_0x1d5d98(0x187)](){}[_0x1d5d98(0x1ae)](){const _0x32addc=_0x1d5d98;vfxs[_0x32addc(0x1fc)](new Explosion(this['x'],this['y'])),this[_0x32addc(0x193)]=!![];}[_0x234ac6(0x21d)](){const _0x9d998a=_0x234ac6,_0x1a1376=_0x1d5d98;this[_0x9d998a(0x201)]<GLOBAL[_0x1a1376(0x1b4)]/1.5*dT?this['yVel']+=this[_0x1a1376(0x1a1)]*dT:this[_0x1a1376(0x189)]=GLOBAL[_0x1a1376(0x1b4)]/1.5*dT,this[_0x1a1376(0x1a4)][_0x1a1376(0x166)]&&(this[_0x1a1376(0x18d)]>-this[_0x1a1376(0x1de)]&&(this[_0x1a1376(0x196)]?this[_0x1a1376(0x18d)]-=this[_0x1a1376(0x1e6)]:this[_0x1a1376(0x18d)]-=this[_0x9d998a(0x25a)]/0x2)),this['controls'][_0x1a1376(0x167)]&&(this[_0x1a1376(0x18d)]<this[_0x1a1376(0x1de)]&&(this[_0x1a1376(0x196)]?this[_0x1a1376(0x18d)]+=this['speed']:this[_0x9d998a(0x26b)]+=this[_0x1a1376(0x1e6)]/0x2)),this[_0x1a1376(0x189)]<0x0&&this[_0x1a1376(0x1b2)]['T']&&(this[_0x1a1376(0x189)]=0x0),this[_0x1a1376(0x196)]?(Math[_0x1a1376(0x206)](this[_0x1a1376(0x18d)])>0.01?this[_0x1a1376(0x18d)]*=this['friction']:this[_0x1a1376(0x18d)]=0x0,this[_0x1a1376(0x201)]=![],this[_0x1a1376(0x189)]>0x0&&(this[_0x1a1376(0x189)]=0x0)):Math['abs'](this[_0x1a1376(0x18d)])>0.01?this[_0x1a1376(0x18d)]*=this[_0x1a1376(0x1c9)]:this[_0x1a1376(0x18d)]=0x0,this[_0x9d998a(0x254)]['up']&&!this[_0x9d998a(0x23a)]&&!this[_0x1a1376(0x1b2)]['T']&&(this[_0x1a1376(0x201)]=!![],this['yVel']-=this[_0x1a1376(0x1d9)]),this['y']+=this[_0x1a1376(0x189)]*dT,(this[_0x1a1376(0x1b2)]['R']&&this[_0x1a1376(0x18d)]>0x0||this[_0x9d998a(0x24c)]['L']&&this[_0x1a1376(0x18d)]<0x0)&&(this[_0x1a1376(0x18d)]=0x0),(this['x']+=this[_0x1a1376(0x18d)]*dT,this[_0x1a1376(0x187)]()),collided(this,player)&&this[_0x9d998a(0x1e4)]();for(let _0x253b78=0x0;_0x253b78<map[_0x9d998a(0x21c)][_0x1a1376(0x20a)];_0x253b78++){collided(this,map[_0x1a1376(0x1c1)][_0x253b78])&&this[_0x1a1376(0x1ae)]();}}[_0x1d5d98(0x1b5)](){const _0x10bd79=_0x234ac6,_0x182272=_0x1d5d98;this[_0x182272(0x17d)]=this[_0x182272(0x1f5)]/dT,this[_0x182272(0x1a3)]++,this[_0x182272(0x1a3)]>=this[_0x182272(0x17d)]&&(this[_0x182272(0x1a3)]=0x0,this[_0x182272(0x1d7)]++,this[_0x10bd79(0x269)]>=this[_0x182272(0x1a2)][this[_0x182272(0x1bb)]][_0x182272(0x20a)]&&(this[_0x182272(0x1d7)]=0x0,this[_0x182272(0x1a3)]=0x0)),c[_0x182272(0x18f)](this[_0x182272(0x18c)],this[_0x182272(0x1a2)][this[_0x182272(0x1bb)]+this[_0x10bd79(0x1c8)]][this[_0x182272(0x1d7)]]*GLOBAL[_0x182272(0x183)],this[_0x10bd79(0x216)][this[_0x182272(0x1bb)]+this[_0x182272(0x166)]][this[_0x182272(0x1d7)]]*GLOBAL[_0x182272(0x183)],this['w']*GLOBAL[_0x182272(0x183)],this['h']*GLOBAL[_0x182272(0x183)],(this['x']+map['x'])*GLOBAL[_0x182272(0x183)]*GLOBAL[_0x182272(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x182272(0x183)]*GLOBAL[_0x182272(0x172)]|0x0,this['w']*GLOBAL[_0x10bd79(0x25d)]*GLOBAL[_0x10bd79(0x265)]|0x0,this['h']*GLOBAL[_0x182272(0x183)]*GLOBAL[_0x182272(0x172)]|0x0);}}class Arrow extends Entity{constructor(_0x207707,_0x2ec1e7,_0x2c0e8a){const _0x4706e7=_0x234ac6,_0x2233e1=_0x1d5d98;super(_0x207707,_0x2ec1e7),this[_0x2233e1(0x18c)]=id(_0x2233e1(0x18c)),this[_0x2233e1(0x17e)]=![],this[_0x4706e7(0x23b)]=(_0x2c0e8a*0x2-0x1)*-0x1,this[_0x2233e1(0x18d)]=0.2*this[_0x2233e1(0x1f9)],this[_0x2233e1(0x189)]=0x0,this[_0x2233e1(0x166)]=_0x2c0e8a,this[_0x2233e1(0x1f5)]=0x4,this[_0x2233e1(0x17d)]=this[_0x2233e1(0x1f5)],this[_0x2233e1(0x1a2)]=[[0x2],[0x3]],this[_0x2233e1(0x1cc)]=[[0x9],[0x9]],this[_0x4706e7(0x247)]={'x1':0x0,'y1':0x0,'x2':0x0,'y2':0x0};}[_0x1d5d98(0x197)](){const _0x3742be=_0x234ac6,_0x579752=_0x1d5d98;this['x']+=this[_0x579752(0x18d)]*dT,this[_0x579752(0x18e)]['x1']=this['x']+this['w']/0x5,this[_0x579752(0x18e)]['y1']=this['y']+this['h']/0x2,this[_0x3742be(0x247)]['x2']=this['x']+this['w']/0x5*0x4,this[_0x3742be(0x247)]['y2']=this['y']+this['h']/0x2,lineSquareCol(this[_0x579752(0x18e)],player)&&(this['removed']=!![]);}[_0x1d5d98(0x1b5)](){const _0x351958=_0x234ac6,_0x266f74=_0x1d5d98;this[_0x266f74(0x17d)]=this['baseSlowness']/dT,this[_0x266f74(0x1a3)]++,this[_0x351958(0x25e)]>=this[_0x351958(0x1f0)]&&(this[_0x351958(0x25e)]=0x0,this[_0x266f74(0x1d7)]++,this[_0x266f74(0x1d7)]>=this[_0x266f74(0x1a2)][this[_0x351958(0x245)]][_0x266f74(0x20a)]&&(this[_0x266f74(0x1d7)]=0x0,this[_0x266f74(0x1a3)]=0x0)),c[_0x266f74(0x18f)](this[_0x266f74(0x18c)],this[_0x351958(0x1eb)][this[_0x266f74(0x1bb)]+this[_0x266f74(0x166)]][this[_0x266f74(0x1d7)]]*GLOBAL[_0x266f74(0x183)],this[_0x351958(0x216)][this[_0x266f74(0x1bb)]+this['left']][this[_0x266f74(0x1d7)]]*GLOBAL[_0x266f74(0x183)],this['w']*GLOBAL[_0x351958(0x25d)],this['h']*GLOBAL[_0x266f74(0x183)],(this['x']+map['x'])*GLOBAL[_0x351958(0x25d)]*GLOBAL['ratio']|0x0,(this['y']+map['y'])*GLOBAL[_0x351958(0x25d)]*GLOBAL[_0x266f74(0x172)]|0x0,this['w']*GLOBAL[_0x266f74(0x183)]*GLOBAL[_0x266f74(0x172)]|0x0,this['h']*GLOBAL['tilesize']*GLOBAL[_0x266f74(0x172)]|0x0);}}class Vfx{constructor(_0x44a56a,_0x5573c1,_0x11d82c){const _0x13139b=_0x234ac6,_0x29aefc=_0x1d5d98;this['x']=_0x44a56a,this['y']=_0x5573c1,this['w']=0x1,this['h']=0x1,this[_0x29aefc(0x17e)]=![],this[_0x13139b(0x1cf)]=0x0,this[_0x13139b(0x244)]=Math[_0x29aefc(0x176)]()*0xa,this[_0x13139b(0x26b)]=Math[_0x29aefc(0x176)]()*0.3-0.15,this[_0x29aefc(0x189)]=-Math[_0x29aefc(0x176)]()*0.6+0.1,this[_0x29aefc(0x18c)]=id(_0x13139b(0x224)),this[_0x29aefc(0x182)]=_0x11d82c,this[_0x13139b(0x1e2)]=0.02;}[_0x1d5d98(0x197)](){const _0x403ac1=_0x234ac6,_0x5e137e=_0x1d5d98;this[_0x5e137e(0x189)]<GLOBAL[_0x5e137e(0x1b4)]*dT?this[_0x403ac1(0x201)]+=this[_0x5e137e(0x1a1)]*dT:this[_0x5e137e(0x189)]=GLOBAL[_0x403ac1(0x256)]*dT,isOutOfScreen(this)&&(this[_0x5e137e(0x193)]=!![]),this['x']+=this[_0x5e137e(0x18d)]*dT,this['y']+=this[_0x5e137e(0x189)]*dT,this[_0x5e137e(0x209)]+=this[_0x5e137e(0x1d5)]*dT;}[_0x1d5d98(0x1b5)](){const _0xa59c2=_0x234ac6,_0x5951cc=_0x1d5d98;c[_0xa59c2(0x217)](),c[_0xa59c2(0x1ee)]((this['x']+this['w']/0x2+map['x'])*GLOBAL[_0x5951cc(0x183)]*GLOBAL[_0x5951cc(0x172)],(this['y']+this['h']/0x2+map['y'])*GLOBAL[_0x5951cc(0x183)]*GLOBAL[_0x5951cc(0x172)]),c[_0x5951cc(0x1dc)](this[_0x5951cc(0x209)]*Math['PI']/0xb4),c[_0xa59c2(0x1ed)](this[_0x5951cc(0x18c)],0x6*GLOBAL[_0x5951cc(0x183)],this[_0xa59c2(0x1df)]*GLOBAL[_0x5951cc(0x183)],this['w']*GLOBAL[_0x5951cc(0x183)],this['h']*GLOBAL[_0x5951cc(0x183)],-this['w']/0x2*GLOBAL[_0x5951cc(0x183)]*GLOBAL[_0x5951cc(0x172)]|0x0,-this['h']/0x2*GLOBAL[_0x5951cc(0x183)]*GLOBAL[_0x5951cc(0x172)]|0x0,this['w']*GLOBAL[_0x5951cc(0x183)]*GLOBAL[_0x5951cc(0x172)]|0x0,this['h']*GLOBAL[_0x5951cc(0x183)]*GLOBAL[_0xa59c2(0x265)]|0x0),c[_0x5951cc(0x1d6)]();}}class Bubble extends Entity{constructor(_0x23e605,_0x422217){const _0x5b1194=_0x234ac6,_0x50451f=_0x1d5d98;super(_0x23e605,_0x422217),this[_0x5b1194(0x224)]=id(_0x5b1194(0x224)),this['recoilAttacker']=![],this[_0x5b1194(0x1eb)]=[[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0]],this[_0x50451f(0x1cc)]=[[0xa,0xb,0xc,0xd,0xe,0xf,0x10,0x11]],this[_0x50451f(0x18e)]={'x':this['x']+0.1,'y':this['y']+0.1,'w':this['w']-0.2,'h':this['h']-0.2};}[_0x1d5d98(0x16e)](){const _0x3a57f1=_0x1d5d98;this[_0x3a57f1(0x1ae)]();}[_0x1d5d98(0x1ae)](){const _0x3fed77=_0x234ac6,_0x8c4dec=_0x1d5d98;vfxs[_0x8c4dec(0x1fc)](new BubbleExplosion(this['x'],this['y'])),player[_0x8c4dec(0x189)]=-0.4,this[_0x3fed77(0x263)]=!![];}[_0x234ac6(0x21d)](){}[_0x1d5d98(0x1b5)](){const _0xf0982e=_0x234ac6,_0x5abd76=_0x1d5d98;this[_0xf0982e(0x1f0)]=this[_0x5abd76(0x1f5)]/dT,this[_0x5abd76(0x1a3)]++,this[_0x5abd76(0x1a3)]>=this[_0x5abd76(0x17d)]&&(this[_0x5abd76(0x1a3)]=0x0,this[_0x5abd76(0x1d7)]++,this[_0x5abd76(0x1d7)]>=this[_0x5abd76(0x1a2)][this[_0x5abd76(0x1bb)]]['length']&&(this[_0x5abd76(0x1d7)]=0x0,this[_0x5abd76(0x1a3)]=0x0)),c[_0x5abd76(0x18f)](this[_0x5abd76(0x18c)],this[_0x5abd76(0x1a2)][this[_0xf0982e(0x245)]][this[_0x5abd76(0x1d7)]]*GLOBAL[_0x5abd76(0x183)],this[_0x5abd76(0x1cc)][this[_0x5abd76(0x1bb)]][this[_0x5abd76(0x1d7)]]*GLOBAL[_0x5abd76(0x183)],this['w']*GLOBAL[_0x5abd76(0x183)],this['h']*GLOBAL[_0xf0982e(0x25d)],(this['x']+map['x'])*GLOBAL['tilesize']*GLOBAL[_0x5abd76(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x5abd76(0x183)]*GLOBAL[_0x5abd76(0x172)]|0x0,this['w']*GLOBAL[_0xf0982e(0x25d)]*GLOBAL[_0x5abd76(0x172)]|0x0,this['h']*GLOBAL[_0x5abd76(0x183)]*GLOBAL[_0x5abd76(0x172)]|0x0);}}class BubbleExplosion extends Entity{constructor(_0x2eec25,_0x2010d6){const _0x38b85e=_0x234ac6,_0x34b226=_0x1d5d98;super(_0x2eec25,_0x2010d6),this[_0x38b85e(0x224)]=id(_0x34b226(0x18c)),this[_0x38b85e(0x25f)]=0x4,this[_0x34b226(0x17d)]=this[_0x34b226(0x1f5)],this[_0x34b226(0x1a2)]=[[0x1,0x1,0x1,0x1]],this[_0x34b226(0x1cc)]=[[0xa,0xb,0xc,0xd]];}[_0x1d5d98(0x197)](){return![];}[_0x1d5d98(0x1b5)](){const _0x4abae0=_0x234ac6,_0x38f242=_0x1d5d98;this[_0x38f242(0x17d)]=this[_0x38f242(0x1f5)]/dT,this[_0x38f242(0x1a3)]++;if(this[_0x38f242(0x1a3)]>=this[_0x38f242(0x17d)]){this[_0x38f242(0x1a3)]=0x0,this[_0x38f242(0x1d7)]++;if(this[_0x4abae0(0x269)]>=this[_0x38f242(0x1a2)][this['action']][_0x38f242(0x20a)]){this['frame']=0x0,this['frameCounter']=0x0,this[_0x38f242(0x193)]=!![];return;}}c[_0x4abae0(0x1ed)](this[_0x38f242(0x18c)],this[_0x38f242(0x1a2)][this[_0x38f242(0x1bb)]][this[_0x4abae0(0x269)]]*GLOBAL[_0x4abae0(0x25d)],this[_0x38f242(0x1cc)][this[_0x38f242(0x1bb)]][this[_0x38f242(0x1d7)]]*GLOBAL[_0x38f242(0x183)],this['w']*GLOBAL[_0x38f242(0x183)],this['h']*GLOBAL[_0x38f242(0x183)],(this['x']+map['x'])*GLOBAL[_0x38f242(0x183)]*GLOBAL[_0x38f242(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x38f242(0x183)]*GLOBAL[_0x38f242(0x172)]|0x0,this['w']*GLOBAL[_0x38f242(0x183)]*GLOBAL[_0x4abae0(0x265)]|0x0,this['h']*GLOBAL[_0x38f242(0x183)]*GLOBAL['ratio']|0x0);}}class Explosion extends Entity{constructor(_0x2cdc22,_0x1c33d1){const _0x1de2f9=_0x234ac6,_0x4acb95=_0x1d5d98;super(),this['x']=_0x2cdc22-0x1,this['y']=_0x1c33d1-0x2,this['w']=0x3,this['h']=0x3,this[_0x4acb95(0x18c)]=id(_0x4acb95(0x1c6)),this[_0x4acb95(0x1f5)]=0x4,this['slowness']=this[_0x4acb95(0x1f5)],this[_0x1de2f9(0x1eb)]=[[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0]],this[_0x4acb95(0x1cc)]=[[0x3,0x6,0x9,0xc,0xf,0x12,0x15,0x18]],this[_0x4acb95(0x18e)]={'x':this['x']-0.2,'y':this['y']-0.2,'w':this['w']+0.4,'h':this['h']+0.4};}[_0x1d5d98(0x197)](){const _0x282c26=_0x1d5d98;if(this[_0x282c26(0x1d7)]<0x4&&collided(this,player)){}}[_0x1d5d98(0x1b5)](){const _0x1740c9=_0x234ac6,_0x1f0de9=_0x1d5d98;this[_0x1f0de9(0x17d)]=this[_0x1f0de9(0x1f5)]/dT,this[_0x1740c9(0x25e)]++;if(this[_0x1f0de9(0x1a3)]>=this[_0x1f0de9(0x17d)]){this[_0x1740c9(0x25e)]=0x0,this[_0x1f0de9(0x1d7)]++;if(this[_0x1f0de9(0x1d7)]>=this[_0x1f0de9(0x1a2)][this[_0x1f0de9(0x1bb)]][_0x1f0de9(0x20a)]){this[_0x1f0de9(0x1d7)]=0x0,this[_0x1f0de9(0x1a3)]=0x0,this[_0x1f0de9(0x193)]=!![];return;}}c[_0x1f0de9(0x18f)](this[_0x1f0de9(0x18c)],this[_0x1f0de9(0x1a2)][this[_0x1f0de9(0x1bb)]][this[_0x1f0de9(0x1d7)]]*GLOBAL[_0x1f0de9(0x183)],this[_0x1f0de9(0x1cc)][this[_0x1f0de9(0x1bb)]][this[_0x1f0de9(0x1d7)]]*GLOBAL[_0x1f0de9(0x183)],this['w']*GLOBAL['tilesize'],this['h']*GLOBAL[_0x1f0de9(0x183)],(this['x']+map['x'])*GLOBAL[_0x1f0de9(0x183)]*GLOBAL[_0x1f0de9(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x1f0de9(0x183)]*GLOBAL['ratio']|0x0,this['w']*GLOBAL[_0x1f0de9(0x183)]*GLOBAL['ratio']|0x0,this['h']*GLOBAL[_0x1f0de9(0x183)]*GLOBAL[_0x1740c9(0x265)]|0x0);}}class Map{constructor(){const _0x577f2d=_0x234ac6,_0x1568da=_0x1d5d98;this['x']=0x0,this['y']=0x0,this[_0x577f2d(0x1f6)]={'x':0x0,'y':0x0},this[_0x1568da(0x1ee)]=canvas[_0x1568da(0x1d0)]/GLOBAL[_0x1568da(0x183)]/GLOBAL[_0x1568da(0x172)],this[_0x1568da(0x1d4)]=canvas[_0x1568da(0x1b7)]/GLOBAL[_0x1568da(0x183)]/GLOBAL[_0x577f2d(0x265)],this[_0x1568da(0x1eb)]=0x0,this[_0x1568da(0x200)]=0x0,this[_0x1568da(0x1c1)]=[{'x':-0x28,'y':0xa,'w':0x46,'h':0x1}],this[_0x1568da(0x188)]={},this[_0x1568da(0x1c7)]=0x2,this[_0x1568da(0x17b)]=_0x1568da(0x181);}[_0x1d5d98(0x1e9)](){const _0x2c3e42=_0x234ac6,_0x2478ba=_0x1d5d98;this[_0x2478ba(0x200)]&&(c[_0x2478ba(0x18f)](this[_0x2478ba(0x200)],0x0,0x0,this[_0x2478ba(0x1ee)]*GLOBAL['tilesize'],this[_0x2c3e42(0x251)]*GLOBAL[_0x2478ba(0x183)],this['x']/this[_0x2c3e42(0x1fb)]%this[_0x2478ba(0x1ee)]*GLOBAL[_0x2478ba(0x183)]*GLOBAL['ratio'],0x0,this[_0x2478ba(0x1ee)]*GLOBAL[_0x2478ba(0x183)]*GLOBAL[_0x2478ba(0x172)],this[_0x2c3e42(0x251)]*GLOBAL[_0x2478ba(0x183)]*GLOBAL[_0x2478ba(0x172)]),c[_0x2478ba(0x18f)](this[_0x2478ba(0x200)],0x0,0x0,this[_0x2c3e42(0x1ff)]*GLOBAL[_0x2478ba(0x183)],this[_0x2478ba(0x1d4)]*GLOBAL[_0x2478ba(0x183)],(this['x']/this[_0x2478ba(0x1c7)]%this[_0x2478ba(0x1ee)]+this[_0x2c3e42(0x1ff)])*GLOBAL[_0x2478ba(0x183)]*GLOBAL[_0x2478ba(0x172)],0x0,this[_0x2c3e42(0x1ff)]*GLOBAL[_0x2478ba(0x183)]*GLOBAL[_0x2478ba(0x172)],this[_0x2478ba(0x1d4)]*GLOBAL['tilesize']*GLOBAL[_0x2478ba(0x172)])),this[_0x2478ba(0x1eb)]&&c[_0x2478ba(0x18f)](this[_0x2478ba(0x1eb)],-map['x']*GLOBAL[_0x2478ba(0x183)],-map['y']*GLOBAL[_0x2c3e42(0x25d)],this[_0x2c3e42(0x1ff)]*GLOBAL[_0x2478ba(0x183)],this['tilesHeight']*GLOBAL[_0x2478ba(0x183)],0x0,0x0,this[_0x2478ba(0x1ee)]*GLOBAL[_0x2478ba(0x183)]*GLOBAL[_0x2c3e42(0x265)],this[_0x2478ba(0x1d4)]*GLOBAL['tilesize']*GLOBAL[_0x2478ba(0x172)]);if(testMode)for(let _0x1c861e=0x0;_0x1c861e<this[_0x2478ba(0x1c1)][_0x2478ba(0x20a)];_0x1c861e++){renderEntity(this[_0x2478ba(0x1c1)][_0x1c861e]);}}[_0x1d5d98(0x177)](){const _0xa6c080=_0x234ac6,_0x4bc74d=_0x1d5d98;isNaN(map['x'])&&(map['x']=0x0),isNaN(map['y'])&&(map['y']=0x0),this['tilesWidth']=canvas[_0x4bc74d(0x1d0)]/GLOBAL[_0x4bc74d(0x183)]/GLOBAL[_0x4bc74d(0x172)],this[_0x4bc74d(0x1d4)]=canvas[_0xa6c080(0x226)]/GLOBAL[_0x4bc74d(0x183)]/GLOBAL[_0x4bc74d(0x172)],typeof this['cameraFocus']===_0x4bc74d(0x199)&&this[_0x4bc74d(0x17b)]!==null?this['x']+=(-this[_0x4bc74d(0x17b)]['x']+this[_0xa6c080(0x1ff)]/0x2-this['x'])/(0x6/dT):(this['x']=0x0,this['y']=0x0),this[_0x4bc74d(0x1eb)]&&((-this['x']+this[_0x4bc74d(0x1ee)])*GLOBAL[_0x4bc74d(0x183)]>this[_0x4bc74d(0x1eb)][_0x4bc74d(0x1d0)]&&(this['x']=-(this[_0x4bc74d(0x1eb)][_0x4bc74d(0x1d0)]/GLOBAL[_0xa6c080(0x25d)]-this[_0x4bc74d(0x1ee)])),-this['x']<0x0&&(this['x']=0x0),(-this['y']+this[_0x4bc74d(0x1d4)])*GLOBAL[_0x4bc74d(0x183)]>this[_0x4bc74d(0x1eb)][_0xa6c080(0x226)]&&(this['y']=-(this[_0x4bc74d(0x1eb)][_0x4bc74d(0x1b7)]/GLOBAL[_0x4bc74d(0x183)]-this[_0xa6c080(0x251)])),-this['y']<0x0&&(this['y']=0x0));}}class Boss_1 extends Entity{constructor(_0x447758,_0x2e80fd){const _0x96c170=_0x234ac6,_0x4da98a=_0x1d5d98;super(),this['x']=_0x447758,this['y']=_0x2e80fd,this['w']=0x13,this['h']=0x12,this[_0x4da98a(0x18d)]=0.1,this[_0x4da98a(0x189)]=Math[_0x4da98a(0x1d3)](this['x']),this[_0x96c170(0x224)]=id(_0x4da98a(0x18c)),this[_0x4da98a(0x1a2)]=[0x0,0x0,0x0],this[_0x96c170(0x216)]=[0x0,0x0,0x0],this[_0x4da98a(0x1f5)]=0x4,this[_0x96c170(0x1f0)]=0x6,this[_0x4da98a(0x182)]=_0x4da98a(0x195),this['body']={'spriteX':0x1a0,'spriteY':0x1b0,'w':0x130,'h':0x120},this[_0x4da98a(0x1e7)]={'spriteX':0x2e0,'spriteY':0x1b0,'w':0x36,'h':0x36,'x1':0x9a,'y1':0x7f,'x2':0x76,'y2':0xb8,'x3':0xbe,'y3':0xd0},this[_0x4da98a(0x1c4)]={'spriteX':0x2e0,'spriteY':0x240,'w':0x45,'h':0x20,'x1':0x81,'y1':0xc3,'rotation':0x0,'rotCenter':{'x':0xf,'y':0x10}},this[_0x4da98a(0x192)]={'spriteX':0x2e0,'spriteY':0x270,'w':0x5f,'h':0x21,'x1':0xa5,'y1':0x8a,'rotation':0x14,'rotCenter':{'x':0xf,'y':0x10}},this[_0x4da98a(0x198)]={'spriteX':[0x2d8,0x2d8,0x2d8],'spriteY':[0x2a0,0x2d0,0x300],'w':0x78,'h':0x30,'x1':0xd3,'y1':0xd3,'rotation':0x0,'rotCenter':{'x':0x4,'y':0x17}},this[_0x4da98a(0x1b9)]={'x':0x0,'y':0x0,'w':0x2,'h':0x2},this['propeller']={'spriteX':[0x360,0x360,0x360],'spriteY':[0x220,0x250,0x280],'w':0x65,'h':0x2c,'x1':-0xc,'y1':0x6e,'x2':-0x18,'y2':0x9e,'x3':-0xa,'y3':0xcd,'rotation':0x0},this[_0x96c170(0x205)]=![];}[_0x1d5d98(0x1db)](_0xc45bb0){const _0xa8c10e=_0x1d5d98;let _0x4111b9=this['x']+(_0xc45bb0['x1']+_0xc45bb0[_0xa8c10e(0x1ac)]['x'])/GLOBAL[_0xa8c10e(0x183)],_0x800e8d=this['y']+(_0xc45bb0['y1']+_0xc45bb0[_0xa8c10e(0x1ac)]['y'])/GLOBAL[_0xa8c10e(0x183)],_0x299b55=_0x4111b9-(player['x']+player['w']/0x2),_0xd7388=_0x800e8d-(player['y']+player['h']/0x2);_0xc45bb0['rotation']=Math[_0xa8c10e(0x1c3)](_0xd7388,_0x299b55)+Math['PI'];}[_0x1d5d98(0x1cf)](){const _0x47e5bf=_0x234ac6,_0x369375=_0x1d5d98;let _0x142e48=-0x5f/GLOBAL[_0x369375(0x183)];this[_0x369375(0x1b9)]['x']=this['x']+this[_0x369375(0x198)]['x1']/GLOBAL['tilesize']+this[_0x369375(0x198)][_0x369375(0x1ac)]['x']/GLOBAL[_0x369375(0x183)]-Math[_0x47e5bf(0x1e5)](this[_0x369375(0x198)][_0x47e5bf(0x1cf)])*_0x142e48,this[_0x369375(0x1b9)]['x']-=this['sawHitbox']['w']/0x2,this[_0x47e5bf(0x26c)]['y']=this['y']+this[_0x47e5bf(0x266)]['y1']/GLOBAL[_0x369375(0x183)]+this[_0x47e5bf(0x266)][_0x369375(0x1ac)]['y']/GLOBAL[_0x369375(0x183)]-Math[_0x47e5bf(0x242)](this[_0x369375(0x198)][_0x369375(0x209)])*_0x142e48,this['sawHitbox']['y']-=this[_0x369375(0x1b9)]['h']/0x2,collided(player,this['sawHitbox'])&&player[_0x369375(0x1ae)]();}[_0x1d5d98(0x197)](){const _0x1eceeb=_0x234ac6,_0x376147=_0x1d5d98;!loadCall&&!player[_0x376147(0x175)]&&(this[_0x376147(0x1db)](this[_0x376147(0x1c4)]),this[_0x376147(0x1db)](this[_0x376147(0x192)]),this[_0x376147(0x1db)](this[_0x1eceeb(0x266)])),this['x']+this['w']<player['x']-0x8?this['x']+=this['xVel']*dT*1.7:this['x']+=this[_0x376147(0x18d)]*dT,this[_0x376147(0x189)]=Math[_0x1eceeb(0x1e5)](this['x']/0x3)/0x1e,this['y']+=this[_0x376147(0x189)]*dT,!isOutOfScreen(this)&&(screenShake[_0x1eceeb(0x264)]=0x6),this[_0x376147(0x1cf)]();}[_0x1d5d98(0x1b5)](){const _0x969fce=_0x234ac6,_0x572856=_0x1d5d98;this[_0x572856(0x17d)]=this[_0x969fce(0x25f)]/dT,this[_0x572856(0x1a3)]++,this[_0x969fce(0x25e)]>=this[_0x572856(0x17d)]&&(this[_0x572856(0x1a3)]=0x0,this[_0x572856(0x1d7)]++,this[_0x572856(0x1d7)]>=this[_0x969fce(0x1eb)][_0x572856(0x20a)]&&(this[_0x969fce(0x269)]=0x0,this[_0x572856(0x1a3)]=0x0)),c['drawImage'](this[_0x572856(0x18c)],this[_0x572856(0x1cb)][_0x572856(0x1ad)],this[_0x969fce(0x26d)][_0x572856(0x19d)],this[_0x572856(0x1cb)]['w'],this[_0x969fce(0x26d)]['h'],(this['x']+map['x'])*GLOBAL[_0x572856(0x183)]*GLOBAL[_0x572856(0x172)]|0x0,(this['y']+map['y'])*GLOBAL[_0x969fce(0x25d)]*GLOBAL[_0x572856(0x172)]|0x0,this['w']*GLOBAL[_0x969fce(0x25d)]*GLOBAL[_0x572856(0x172)]|0x0,this['h']*GLOBAL[_0x572856(0x183)]*GLOBAL['ratio']|0x0),c[_0x572856(0x18f)](this[_0x572856(0x18c)],this[_0x572856(0x1e7)][_0x572856(0x1ad)],this[_0x572856(0x1e7)][_0x572856(0x19d)],this[_0x572856(0x1e7)]['w'],this[_0x969fce(0x221)]['h'],((this['x']+map['x'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x1e7)]['x1'])*GLOBAL[_0x572856(0x172)]|0x0,((this['y']+map['y'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x1e7)]['y1'])*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x1e7)]['w']*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x1e7)]['h']*GLOBAL[_0x969fce(0x265)]|0x0),c[_0x969fce(0x1ed)](this[_0x572856(0x18c)],this[_0x969fce(0x221)][_0x572856(0x1ad)],this[_0x572856(0x1e7)][_0x572856(0x19d)],this[_0x572856(0x1e7)]['w'],this[_0x969fce(0x221)]['h'],((this['x']+map['x'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x1e7)]['x2'])*GLOBAL[_0x572856(0x172)]|0x0,((this['y']+map['y'])*GLOBAL[_0x969fce(0x25d)]+this[_0x572856(0x1e7)]['y2'])*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x1e7)]['w']*GLOBAL[_0x572856(0x172)]|0x0,this['attach']['h']*GLOBAL[_0x572856(0x172)]|0x0),c[_0x969fce(0x1ed)](this[_0x969fce(0x224)],this[_0x572856(0x1e7)][_0x572856(0x1ad)],this[_0x572856(0x1e7)][_0x572856(0x19d)],this[_0x572856(0x1e7)]['w'],this[_0x572856(0x1e7)]['h'],((this['x']+map['x'])*GLOBAL[_0x969fce(0x25d)]+this[_0x572856(0x1e7)]['x3'])*GLOBAL[_0x572856(0x172)]|0x0,((this['y']+map['y'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x1e7)]['y3'])*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x1e7)]['w']*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x1e7)]['h']*GLOBAL[_0x572856(0x172)]|0x0),c[_0x969fce(0x1ed)](this[_0x572856(0x18c)],this[_0x572856(0x191)][_0x572856(0x1ad)][this[_0x572856(0x1d7)]],this[_0x969fce(0x236)]['spriteY'][this[_0x572856(0x1d7)]],this['propeller']['w'],this[_0x572856(0x191)]['h'],((this['x']+map['x'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x191)]['x1'])*GLOBAL[_0x572856(0x172)]|0x0,((this['y']+map['y'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x191)]['y1'])*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x191)]['w']*GLOBAL[_0x969fce(0x265)]|0x0,this[_0x969fce(0x236)]['h']*GLOBAL[_0x572856(0x172)]|0x0),c[_0x572856(0x18f)](this[_0x572856(0x18c)],this['propeller'][_0x572856(0x1ad)][this[_0x572856(0x1d7)]],this[_0x572856(0x191)][_0x969fce(0x231)][this[_0x572856(0x1d7)]],this[_0x969fce(0x236)]['w'],this[_0x572856(0x191)]['h'],((this['x']+map['x'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x191)]['x2'])*GLOBAL[_0x969fce(0x265)]|0x0,((this['y']+map['y'])*GLOBAL[_0x572856(0x183)]+this[_0x969fce(0x236)]['y2'])*GLOBAL[_0x969fce(0x265)]|0x0,this[_0x572856(0x191)]['w']*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x191)]['h']*GLOBAL[_0x969fce(0x265)]|0x0),c[_0x572856(0x18f)](this[_0x572856(0x18c)],this[_0x572856(0x191)][_0x572856(0x1ad)][this[_0x572856(0x1d7)]],this['propeller'][_0x572856(0x19d)][this[_0x572856(0x1d7)]],this[_0x572856(0x191)]['w'],this[_0x572856(0x191)]['h'],((this['x']+map['x'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x191)]['x3'])*GLOBAL[_0x572856(0x172)]|0x0,((this['y']+map['y'])*GLOBAL[_0x969fce(0x25d)]+this[_0x969fce(0x236)]['y3'])*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x191)]['w']*GLOBAL[_0x572856(0x172)]|0x0,this[_0x969fce(0x236)]['h']*GLOBAL[_0x969fce(0x265)]|0x0),c['save'](),c[_0x969fce(0x1ee)](((this['x']+map['x'])*GLOBAL[_0x572856(0x183)]+this[_0x969fce(0x1c6)]['x1']+this[_0x969fce(0x1c6)][_0x572856(0x1ac)]['x'])*GLOBAL[_0x572856(0x172)]|0x0,((this['y']+map['y'])*GLOBAL[_0x572856(0x183)]+this[_0x969fce(0x1c6)]['y1']+this[_0x572856(0x192)][_0x572856(0x1ac)]['y'])*GLOBAL[_0x572856(0x172)]|0x0),c[_0x572856(0x1dc)](this[_0x572856(0x192)][_0x572856(0x209)]),c[_0x969fce(0x1ed)](this[_0x572856(0x18c)],this['laserGun'][_0x572856(0x1ad)],this[_0x969fce(0x1c6)][_0x572856(0x19d)],this[_0x572856(0x192)]['w'],this[_0x572856(0x192)]['h'],-this[_0x572856(0x192)][_0x572856(0x1ac)]['x']*GLOBAL[_0x572856(0x172)],-this[_0x969fce(0x1c6)][_0x572856(0x1ac)]['y']*GLOBAL['ratio'],this[_0x969fce(0x1c6)]['w']*GLOBAL[_0x572856(0x172)]|0x0,this[_0x572856(0x192)]['h']*GLOBAL[_0x572856(0x172)]|0x0),c[_0x572856(0x1d6)](),c[_0x969fce(0x217)](),c[_0x572856(0x16a)](((this['x']+map['x'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x1c4)]['x1']+this[_0x572856(0x1c4)][_0x572856(0x1ac)]['x'])*GLOBAL[_0x572856(0x172)]|0x0,((this['y']+map['y'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x1c4)]['y1']+this[_0x969fce(0x206)][_0x572856(0x1ac)]['y'])*GLOBAL[_0x572856(0x172)]|0x0),c['rotate'](this[_0x969fce(0x206)][_0x572856(0x209)]),c[_0x572856(0x18f)](this[_0x572856(0x18c)],this[_0x572856(0x1c4)][_0x572856(0x1ad)],this[_0x572856(0x1c4)][_0x572856(0x19d)],this[_0x572856(0x1c4)]['w'],this[_0x572856(0x1c4)]['h'],-this[_0x572856(0x1c4)][_0x572856(0x1ac)]['x']*GLOBAL['ratio'],-this[_0x572856(0x1c4)][_0x969fce(0x1d4)]['y']*GLOBAL[_0x572856(0x172)],this[_0x572856(0x1c4)]['w']*GLOBAL[_0x969fce(0x265)]|0x0,this[_0x572856(0x1c4)]['h']*GLOBAL[_0x572856(0x172)]|0x0),c[_0x572856(0x1d6)](),c[_0x969fce(0x217)](),c[_0x572856(0x16a)](((this['x']+map['x'])*GLOBAL[_0x969fce(0x25d)]+this[_0x969fce(0x266)]['x1']+this[_0x572856(0x198)][_0x572856(0x1ac)]['x'])*GLOBAL[_0x969fce(0x265)]|0x0,((this['y']+map['y'])*GLOBAL[_0x572856(0x183)]+this[_0x572856(0x198)]['y1']+this[_0x572856(0x198)][_0x572856(0x1ac)]['y'])*GLOBAL[_0x969fce(0x265)]|0x0),c[_0x572856(0x1dc)](this[_0x572856(0x198)][_0x969fce(0x1cf)]),c[_0x572856(0x18f)](this['sheet'],this['saw'][_0x572856(0x1ad)][this[_0x572856(0x1d7)]],this[_0x572856(0x198)][_0x969fce(0x231)][this['frame']],this[_0x572856(0x198)]['w'],this[_0x572856(0x198)]['h'],-this[_0x572856(0x198)]['rotCenter']['x']*GLOBAL[_0x969fce(0x265)],-this[_0x969fce(0x266)][_0x969fce(0x1d4)]['y']*GLOBAL[_0x572856(0x172)],this[_0x572856(0x198)]['w']*GLOBAL[_0x969fce(0x265)]|0x0,this[_0x969fce(0x266)]['h']*GLOBAL[_0x572856(0x172)]|0x0),c[_0x572856(0x1d6)]();}}class Interaction extends Entity{constructor(_0xda6b30,_0x3b5e82,_0xfafbc2,_0x13bad6){const _0x134343=_0x234ac6,_0x501ebe=_0x1d5d98;super(_0xda6b30,_0x3b5e82),this[_0x501ebe(0x17e)]=![],this[_0x501ebe(0x17a)]=![],this[_0x134343(0x224)]=id('sheet'),this[_0x134343(0x1eb)]=[[0x1,0x1]],this[_0x501ebe(0x1cc)]=[[0x11,0x12]],this[_0x501ebe(0x1f5)]=0xf,this[_0x501ebe(0x17d)]=0xf,this['action']=0x0,this[_0x501ebe(0x1da)]=0x1,this[_0x501ebe(0x193)]=![],this[_0x501ebe(0x182)]=_0x501ebe(0x194),this[_0x501ebe(0x16c)]=_0x13bad6?!![]:![],this[_0x501ebe(0x18e)]={'x':0x0,'y':0x0,'w':0x3,'h':0x3},this[_0x501ebe(0x1a8)]=![],this[_0x501ebe(0x1fe)]=_0xfafbc2;}[_0x234ac6(0x21d)](){const _0x614990=_0x234ac6,_0x488d25=_0x1d5d98;controls['e']?this[_0x488d25(0x1da)]++:this[_0x488d25(0x1da)]=0x0;if(player[_0x488d25(0x1e0)])return;this[_0x614990(0x247)]['x']=this['x']+this['w']/0x2-this[_0x488d25(0x18e)]['w']/0x2,this[_0x614990(0x247)]['y']=this['y']+this['h']/0x2-this[_0x488d25(0x18e)]['h']/0x2,collided(this,player)?this[_0x488d25(0x1a8)]=!![]:this[_0x488d25(0x1a8)]=![],this[_0x488d25(0x1a8)]&&this[_0x488d25(0x1da)]==0x1&&(this[_0x488d25(0x1fe)](this),!this[_0x488d25(0x16c)]&&(this[_0x614990(0x263)]=!![]));}[_0x1d5d98(0x1b5)](){const _0x306fc2=_0x234ac6,_0x16fca4=_0x1d5d98;if(player[_0x16fca4(0x1e0)])return;this[_0x16fca4(0x1a8)]&&(this[_0x16fca4(0x17d)]=this[_0x16fca4(0x1f5)]/dT,this[_0x306fc2(0x25e)]++,this[_0x306fc2(0x25e)]>=this[_0x16fca4(0x17d)]&&(this[_0x306fc2(0x25e)]=0x0,this[_0x16fca4(0x1d7)]++,this[_0x306fc2(0x269)]>=this[_0x16fca4(0x1a2)][this[_0x16fca4(0x1bb)]][_0x16fca4(0x20a)]&&(this[_0x16fca4(0x1d7)]=0x0,this[_0x16fca4(0x1a3)]=0x0)),c['drawImage'](this[_0x16fca4(0x18c)],this[_0x306fc2(0x1eb)][this[_0x16fca4(0x1bb)]][this[_0x16fca4(0x1d7)]]*GLOBAL[_0x16fca4(0x183)],this[_0x16fca4(0x1cc)][this[_0x16fca4(0x1bb)]][this[_0x16fca4(0x1d7)]]*GLOBAL[_0x16fca4(0x183)],this['w']*GLOBAL[_0x16fca4(0x183)],this['h']*GLOBAL[_0x16fca4(0x183)],(this['x']+map['x'])*GLOBAL[_0x16fca4(0x183)]*GLOBAL[_0x16fca4(0x172)]|0x0,(this['y']+map['y'])*GLOBAL['tilesize']*GLOBAL[_0x306fc2(0x265)]|0x0,this['w']*GLOBAL[_0x16fca4(0x183)]*GLOBAL[_0x16fca4(0x172)]|0x0,this['h']*GLOBAL[_0x16fca4(0x183)]*GLOBAL[_0x16fca4(0x172)]|0x0));}}class EventBox extends Entity{constructor(_0x3d233a,_0x59c2da,_0x8d9320,_0x179811,_0x5a0a92,_0x3bb172){const _0x16c29f=_0x234ac6,_0x14e3ad=_0x1d5d98;super(_0x3d233a,_0x59c2da),this['strikeable']=![],this[_0x16c29f(0x205)]=![],this['x']=_0x3d233a,this['y']=_0x59c2da,this['w']=_0x8d9320,this['h']=_0x179811,_0x3bb172?this['repeatable']=!![]:this[_0x16c29f(0x246)]=![],this[_0x14e3ad(0x193)]=![],this[_0x16c29f(0x20c)]=_0x5a0a92;}[_0x1d5d98(0x197)](){const _0x4d20ca=_0x234ac6,_0x4e54b8=_0x1d5d98;collided(this,player)&&(this[_0x4e54b8(0x1fe)](),!this['repeatable']&&(this[_0x4d20ca(0x263)]=!![]));}[_0x234ac6(0x25b)](){}}class Bat extends Entity{constructor(_0x528718,_0x4bcf3b){const _0x15fc03=_0x234ac6,_0x4e1e77=_0x1d5d98;super(),this['x']=_0x528718,this['y']=_0x4bcf3b,this['w']=0x1,this['h']=0x1,this[_0x15fc03(0x1eb)]=[[0x8,0x8,0x8,0x8]],this[_0x4e1e77(0x1cc)]=[[0x0,0x1,0x2,0x3]],this[_0x4e1e77(0x18c)]=id(_0x4e1e77(0x18c)),this[_0x15fc03(0x245)]=0x0,this[_0x4e1e77(0x193)]=![],this[_0x4e1e77(0x17a)]=![],this[_0x4e1e77(0x1d1)]=_0x528718,this[_0x4e1e77(0x168)]=_0x4bcf3b,this[_0x4e1e77(0x166)]=!![],this[_0x4e1e77(0x174)]=0x6,this[_0x4e1e77(0x1e6)]=0.03,this[_0x4e1e77(0x170)]=0x0,this['hp']=0x2;}[_0x1d5d98(0x16e)](_0x4d017a){const _0xed8a85=_0x1d5d98;if(this[_0xed8a85(0x170)]>0x0)return;this[_0xed8a85(0x166)]=!this[_0xed8a85(0x166)],this[_0xed8a85(0x18d)]=(this['x']-_0x4d017a['x'])/0x5,this['hp']--,this[_0xed8a85(0x170)]=0x14,this['hp']==0x0&&this[_0xed8a85(0x1ae)]();}[_0x1d5d98(0x1ae)](){const _0x22de29=_0x1d5d98;vfxs[_0x22de29(0x1fc)](new Vfx(this['x'],this['y'],0x4)),this[_0x22de29(0x193)]=!![];}[_0x1d5d98(0x197)](){const _0x4fa82b=_0x234ac6,_0xe1a4bf=_0x1d5d98;this[_0xe1a4bf(0x170)]-=0x1*dT,collided(this,player)&&player['onHit'](),this['left']&&(this['x']>this[_0xe1a4bf(0x1d1)]?this['xVel']=-this[_0xe1a4bf(0x1e6)]:(this['x']=this[_0x4fa82b(0x250)],this[_0xe1a4bf(0x166)]=![])),!this[_0xe1a4bf(0x166)]&&(this['x']<this[_0xe1a4bf(0x1d1)]+this[_0xe1a4bf(0x174)]?this[_0xe1a4bf(0x18d)]=this[_0xe1a4bf(0x1e6)]:(this['x']=this[_0xe1a4bf(0x1d1)]+this[_0xe1a4bf(0x174)],this['left']=!![])),this['x']+=this[_0xe1a4bf(0x18d)]*dT,this[_0xe1a4bf(0x1d3)]=Math[_0xe1a4bf(0x1d3)]((this['x']-this[_0xe1a4bf(0x1d1)])*0x3),this['y']=this[_0xe1a4bf(0x168)]+this[_0xe1a4bf(0x1d3)],this[_0xe1a4bf(0x1f2)][_0xe1a4bf(0x197)]();}[_0x1d5d98(0x1b5)](){const _0x39e01a=_0x234ac6,_0x215161=_0x1d5d98;this[_0x215161(0x17d)]=this[_0x215161(0x1f5)]/dT,this[_0x215161(0x1a3)]++,this[_0x215161(0x1a3)]>=this[_0x215161(0x17d)]&&(this[_0x215161(0x1a3)]=0x0,this[_0x215161(0x1d7)]++),this[_0x39e01a(0x269)]>=this[_0x215161(0x1a2)][this[_0x215161(0x1bb)]][_0x215161(0x20a)]&&(this[_0x39e01a(0x269)]=0x0,this[_0x39e01a(0x25e)]=0x0),this[_0x215161(0x170)]>0x0&&this[_0x215161(0x170)]%0x2>=0x1?this[_0x215161(0x18c)]=id(_0x39e01a(0x230)):this[_0x215161(0x18c)]=id(_0x215161(0x18c)),c[_0x39e01a(0x1ed)](this[_0x215161(0x18c)],this[_0x215161(0x1a2)][this[_0x215161(0x1bb)]][this[_0x215161(0x1d7)]]*GLOBAL[_0x215161(0x183)],this[_0x215161(0x1cc)][this[_0x215161(0x1bb)]][this[_0x215161(0x1d7)]]*GLOBAL[_0x215161(0x183)],this['w']*GLOBAL[_0x215161(0x183)],this['h']*GLOBAL[_0x39e01a(0x25d)],(this['x']+map['x'])*GLOBAL[_0x215161(0x183)]*GLOBAL[_0x39e01a(0x265)]|0x0,(this['y']+map['y'])*GLOBAL[_0x215161(0x183)]*GLOBAL[_0x215161(0x172)]|0x0,this['w']*GLOBAL[_0x39e01a(0x25d)]*GLOBAL[_0x39e01a(0x265)]|0x0,this['h']*GLOBAL[_0x215161(0x183)]*GLOBAL[_0x215161(0x172)]|0x0),this[_0x215161(0x1f2)][_0x215161(0x1b5)]();}}class VendingMachine extends Entity{constructor(_0x4426ac,_0x1a32bc){const _0x51b938=_0x1d5d98;super(_0x4426ac,_0x1a32bc),this[_0x51b938(0x17a)]=![],this[_0x51b938(0x17e)]=![],this['h']=0x2,this['w']=0x2,this[_0x51b938(0x1bb)]=0x0,this[_0x51b938(0x1a2)]=[0x5,0x5],this[_0x51b938(0x1cc)]=[0x1f,0x1d],this[_0x51b938(0x184)]=0x0,this[_0x51b938(0x1fe)]=function(){const _0x157a05=_0x6f31,_0x31d315=_0x51b938;player[_0x31d315(0x17f)]=!![],player[_0x31d315(0x18d)]=0x0,player[_0x157a05(0x201)]=0x0,player[_0x31d315(0x1a3)]=0x0,player[_0x31d315(0x1d7)]=0x0;},this[_0x51b938(0x1b1)]=new Interaction(this['x']+0.5,this['y']-0.5,this[_0x51b938(0x1fe)],!![]);}[_0x234ac6(0x21d)](){const _0x3cb416=_0x234ac6,_0x285db4=_0x1d5d98;this[_0x285db4(0x184)]<=0x0&&collided(this,player)?this[_0x3cb416(0x245)]=0x1:this[_0x285db4(0x1bb)]=0x0,this[_0x285db4(0x184)]>0x0&&(this[_0x285db4(0x184)]-=0x1*dT);}[_0x1d5d98(0x1b5)](){const _0x233229=_0x234ac6,_0x1cd999=_0x1d5d98;c[_0x1cd999(0x18f)](this[_0x1cd999(0x18c)],this[_0x1cd999(0x1a2)][this[_0x1cd999(0x1bb)]]*GLOBAL[_0x1cd999(0x183)],this[_0x1cd999(0x1cc)][this[_0x1cd999(0x1bb)]]*GLOBAL[_0x1cd999(0x183)],this['w']*GLOBAL[_0x1cd999(0x183)],this['h']*GLOBAL[_0x1cd999(0x183)],(this['x']+map['x'])*GLOBAL[_0x233229(0x25d)]*GLOBAL[_0x1cd999(0x172)],(this['y']+map['y'])*GLOBAL[_0x1cd999(0x183)]*GLOBAL[_0x1cd999(0x172)],this['w']*GLOBAL[_0x1cd999(0x183)]*GLOBAL[_0x233229(0x265)]|0x0,this['h']*GLOBAL[_0x1cd999(0x183)]*GLOBAL[_0x1cd999(0x172)]|0x0);}}
+/*
+CONTENTS:
+
+class Interaction
+
+class EventBox
+
+class Bat
+
+class Entity
+
+class Map
+
+class Player
+
+class PlayerInterface
+
+class Sword
+
+class Skeleton
+
+class TrashMan
+
+class Bombling
+
+class Bomberman
+
+class Bomb  
+
+class BubbleExplosion
+
+class Bubble
+
+class Explosion
+
+class Vfx
+
+class Arrow
+
+class HpDisplay
+
+class Camera
+
+class Boss_1
+
+class VendingMachine
+
+TODO:
+    implement hp visuals
+
+*/
+document.oncontextmenu = function (e) {
+    let x = (e.clientX / GLOBAL.tilesize / GLOBAL.ratio - map.x) | 0;
+    let y = (e.clientY / GLOBAL.tilesize / GLOBAL.ratio - map.y) | 0;
+    //vfxs.push(new Camera(x, y))
+    //entities.push(new TrashMan(x, y))
+    return false;
+}
+
+class AnimatedTile {
+    constructor(x, y, size, actionX, actionY, slowness) {
+        this.x = x;
+        this.y = y;
+        this.w = size;
+        this.h = size;
+        this.sheet = id("sheet");
+        // Rendering Variables 
+        this.frame = 0;
+        this.frameCounter = 0;
+        this.baseSlowness = slowness ? slowness : 6;
+        this.slowness = this.baseSlowness;
+        this.actionX = actionX;
+        this.actionY = actionY;
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX.length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.frame] * GLOBAL.tilesize,
+            this.actionY[this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+    }
+}
+class Entity {
+    constructor(x, y) {
+        this.initialX = x;
+        this.initialY = y;
+        this.resetBasicVariables(this.initialX, this.initialY);
+    }
+    resetBasicVariables(xx, yy) {
+        this.x = xx;
+        this.y = yy;
+        this.w = 1;
+        this.h = 1;
+        this.strikeable = true;
+        this.removed = false;
+        this.sheet = id("sheet");
+        this.hp = 1;
+        this.recoilAttacker = true;
+        this.type = "something";
+        this.solid = true;
+
+
+        // Rendering Variables 
+        this.frame = 0;
+        this.frameCounter = 0;
+        this.baseSlowness = 6;
+        this.slowness = this.baseSlowness;
+
+        this.action = 0;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.hpDisplay = new HpDisplay(this);
+
+        //collisions found
+        this.col = {
+            L: 0,
+            R: 0,
+            T: 0,
+            B: 0
+        }
+    }
+    onCollision() {}
+    onHit() {}
+    onPlayerCollision() {}
+}
+
+class Esther extends Entity {
+    constructor(x, y, left) {
+        super(x, y);
+        esther = this;
+        this.strikeable = false;
+        this.xVel = 0;
+        this.yVel = 0;
+
+        this.solid = false;
+
+        this.type = "esther"
+
+        this.sheet = id("sheet");
+        this.left = 0;
+        if (left) {
+            this.left = 1;
+        }
+
+        this.attacking = 0;
+        this.attackDelay = 30;
+        this.aggro = false;
+        /*Actions:
+        0 = idle 
+        */
+
+        this.actionX = [[15], [16]];
+        this.actionY = [[15], [15]];
+
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        this.iFrames = 0;
+
+        // Hit Points
+        this.hp = 3;
+
+        // Gravitational Pull
+        // The higher the friction the more it slides.( Yes it is the countrary )
+        this.friction = 0.90;
+        this.gForce = 0.02;
+        this.jumpSpeed = 0.37;
+        this.grounded = false;
+        this.jumping = false;
+        // This is the accelleration per frame
+        this.speed = 0.05;
+        this.maxSpeed = 0.05;
+
+        // Simulates the controls of the Ai.
+        this.controls = {
+            left: false,
+            right: false,
+            up: false,
+            down: false
+        };
+
+    }
+    computeAction() {}
+    attack() {}
+    onHit(source) {}
+    explode() {}
+    movement() {}
+    compute() {
+        player.x < this.x ? this.left = true : this.left = false;
+        if (this.aggro) {
+            this.attack();
+        } else {
+            this.movement();
+        }
+        if (this.yVel < GLOBAL.terminalVel * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel * dT;
+        }
+        if (this.controls.left) {
+            if (this.xVel > -this.maxSpeed) {
+                this.grounded ? this.xVel -= this.speed : this.xVel -= this.speed / 2;
+            }
+        }
+        if (this.controls.right) {
+            if (this.xVel < this.maxSpeed) {
+                this.grounded ? this.xVel += this.speed : this.xVel += this.speed / 2;
+            }
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.grounded) {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+        }
+        if (this.controls.up && !this.jumping && !this.col.T) {
+            this.jumping = true;
+            this.yVel -= this.jumpSpeed;
+        }
+        this.y += this.yVel * dT;
+
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += this.xVel * dT;
+        this.computeAction();
+        checkCollisions(this);
+        if (this.iFrames > 0) {
+            this.iFrames -= 1 * dT;
+        }
+        this.hpDisplay.compute();
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        if (this.iFrames > 0 && this.iFrames % 2 >= 1) {
+            this.sheet = id("sheet-alt");
+        } else {
+            this.sheet = id("sheet");
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio
+        )
+        //drawLaser(this,this.left);
+    }
+}
+class Jaymee extends Entity {
+    constructor(x, y, left) {
+        super(x, y);
+
+        this.xVel = 0;
+        this.yVel = 0;
+
+        this.strikeable = false;
+
+        this.type = "jaymee"
+
+        this.sheet = id("sheet");
+        this.left = 0;
+        if (left) {
+            this.left = 1;
+        }
+        this.h = 2;
+        this.solid = false;
+        this.attacking = 0;
+        this.attackDelay = 30;
+        this.aggro = false;
+        /*Actions:
+        0 = idle 
+        */
+
+        this.actionX = [[17], [18]];
+        this.actionY = [[14], [14]];
+
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        this.iFrames = 0;
+
+        // Hit Points
+        this.hp = 3;
+
+        // Gravitational Pull
+        // The higher the friction the more it slides.( Yes it is the countrary )
+        this.friction = 0.90;
+        this.gForce = 0.02;
+        this.jumpSpeed = 0.37;
+        this.grounded = false;
+        this.jumping = false;
+        // This is the accelleration per frame
+        this.speed = 0.05;
+        this.maxSpeed = 0.05;
+        officer = this;
+        this.events = [];
+
+        // Simulates the controls of the Ai.
+        this.controls = {
+            left: false,
+            right: false,
+            up: false,
+            down: false
+        };
+
+    }
+    computeAction() {}
+    attack() {}
+    onHit(source) {}
+    explode() {}
+    movement() {}
+    compute() {
+        for (let i = 0; i < this.events.length; i++) {
+            this.events[i]();
+        }
+        player.x < this.x ? this.left = true : this.left = false;
+        if (this.aggro) {
+            this.attack();
+        } else {
+            this.movement();
+        }
+        if (this.yVel < GLOBAL.terminalVel * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel * dT;
+        }
+        if (this.controls.left) {
+            if (this.xVel > -this.maxSpeed) {
+                this.grounded ? this.xVel -= this.speed : this.xVel -= this.speed / 2;
+            }
+        }
+        if (this.controls.right) {
+            if (this.xVel < this.maxSpeed) {
+                this.grounded ? this.xVel += this.speed : this.xVel += this.speed / 2;
+            }
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.grounded) {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+        }
+        if (this.controls.up && !this.jumping && !this.col.T) {
+            this.jumping = true;
+            this.yVel -= this.jumpSpeed;
+        }
+        this.y += this.yVel * dT;
+
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += this.xVel * dT;
+        this.computeAction();
+        checkCollisions(this);
+        if (this.iFrames > 0) {
+            this.iFrames -= 1 * dT;
+        }
+        this.hpDisplay.compute();
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        if (this.iFrames > 0 && this.iFrames % 2 >= 1) {
+            this.sheet = id("sheet-alt");
+        } else {
+            this.sheet = id("sheet");
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            ((this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio),
+            ((this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio),
+            (this.w * GLOBAL.tilesize * GLOBAL.ratio),
+            (this.h * GLOBAL.tilesize * GLOBAL.ratio)
+        )
+        //drawLaser(this,this.left);
+    }
+}
+class TrashMan extends Entity {
+    constructor(x, y) {
+        super(x, y);
+        this.actionX = [[10, 11], [10, 11], [10, 10, 10], [11, 11, 11], ];
+        this.actionY = [[14, 14], [14, 14], [16, 18, 20], [16, 18, 20], ];
+        this.h = 2;
+        this.up = false;
+        this.strikeable = false;
+        this.baseSlowness = 10;
+        this.slowness = 10;
+        this.hitbox = {
+            x: this.x,
+            y: this.y + 1,
+            h: 1,
+            w: 1
+        }
+        this.triggerHitbox = {
+            x: this.x + 0.2,
+            y: this.y + 0.8,
+            h: 0.5,
+            w: 0.6
+        }
+
+    }
+    compute() {
+        if (!this.up && collided(this.triggerHitbox, player)) {
+            player.yVel = -0.6;
+            player.xVel *= 2;
+            this.up = true;
+            this.frameCounter = 0;
+            this.frame = 0;
+            this.action = 2;
+            this.baseSlowness = 30;
+        } else {
+            this.baseSlowness = 10;
+        }
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+            if (this.up) {
+                this.up = false;
+                this.action = 0;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+    }
+}
+
+class Camera extends Entity {
+    constructor(x, y) {
+        super(x, y);
+        this.sheet = id("sheet");
+        this.strikeable = false;
+        this.actionX = [[0]];
+        this.actionY = [[18]];
+        this.solid = false;
+        this.hitbox = {
+            x: x + 0.1,
+            y: y + 0.25,
+            w: 0.8,
+            h: 0.5
+        }
+    }
+    compute() {
+        if (!player.onSkate) {
+            return;
+        }
+        if (collided(this, player)) {
+            player.misc.pics++;
+            if (player.misc.pics > 10) {
+                eventsVariables.tookPhotos = true;
+            }
+            flash = 4;
+            slowMoFrames = 30;
+            this.removed = true;
+        }
+    }
+    render() {
+        if (!player.onSkate) {
+            return;
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+    }
+}
+
+class PlayerInterface {
+    constructor() {
+        this.offsetX = 0;
+        this.offsetY = 0;
+        this.sheet = id("sheet");
+        this.actionX = [[1], [1]];
+        this.actionY = [[2], [3]];
+        this.w = 1;
+        this.h = 1;
+        this.action = 0;
+        this.frame = 0;
+        this.frameCounter = 0;
+        this.slowness = 4;
+        this.baseSlowness = 4;
+    }
+    compute() {}
+    render() {
+        for (let i = 0; i < player.maxHp; i++) {
+            if (player.hp > i) {
+                c.drawImage(
+                    this.sheet,
+                    this.actionX[0][0] * GLOBAL.tilesize,
+                    this.actionY[0][0] * GLOBAL.tilesize,
+                    this.w * GLOBAL.tilesize,
+                    this.h * GLOBAL.tilesize,
+                    (this.offsetX + this.w * i) * GLOBAL.tilesize * GLOBAL.ratio,
+                    (this.offsetY) * GLOBAL.tilesize * GLOBAL.ratio,
+                    this.w * GLOBAL.tilesize * GLOBAL.ratio,
+                    this.h * GLOBAL.tilesize * GLOBAL.ratio
+                )
+            } else {
+                c.drawImage(
+                    this.sheet,
+                    this.actionX[1][0] * GLOBAL.tilesize,
+                    this.actionY[1][0] * GLOBAL.tilesize,
+                    this.w * GLOBAL.tilesize,
+                    this.h * GLOBAL.tilesize,
+                    (this.offsetX + this.w * i) * GLOBAL.tilesize * GLOBAL.ratio,
+                    (this.offsetY) * GLOBAL.tilesize * GLOBAL.ratio,
+                    this.w * GLOBAL.tilesize * GLOBAL.ratio,
+                    this.h * GLOBAL.tilesize * GLOBAL.ratio
+                )
+            }
+        }
+    }
+}
+
+class HpDisplay {
+    constructor(entity) {
+        this.entity = entity;
+        this.strikeable = false;
+        this.sheet = id("sheet");
+        this.hearts = [0, 0, 0];
+        this.x = 0;
+        this.y = 0;
+        this.heartsX = [0, 8, 0, 8];
+        this.heartsY = [96, 96, 104, 104];
+        this.w = 7;
+        this.h = 7;
+        if (this.entity.hp > 9) {
+            this.entity.hp = 9;
+        }
+    }
+    compute() {
+        this.hearts = [0, 0, 0];
+        let temp = 0;
+        for (let i = 1; i <= this.entity.hp; i++) {
+            temp = i % 3;
+            switch (temp) {
+                case 1:
+                    this.hearts[0]++;
+                    break;
+                case 2:
+                    this.hearts[1]++;
+                    break;
+                case 0:
+                    this.hearts[2]++;
+                    break;
+            }
+        }
+        if (!this.hearts[2]) {
+            this.hearts.splice(2, 1);
+        }
+        if (!this.hearts[1]) {
+            this.hearts.splice(1, 1);
+        }
+        if (!this.hearts[0]) {
+            this.hearts.splice(1, 1);
+        }
+    }
+    render() {
+        let centerX = (this.entity.x + this.entity.w / 2 + map.x) * GLOBAL.tilesize * GLOBAL.ratio + ((this.w / 2 - Math.abs(this.hearts.length - 3) * this.w / 2) * GLOBAL.ratio) | 0;
+        this.hearts.reverse();
+        for (let i = 0; i < this.hearts.length; i++) {
+            c.drawImage(
+                this.sheet,
+                this.heartsX[this.hearts[i]],
+                this.heartsY[this.hearts[i]],
+                this.w,
+                this.h,
+                centerX - (this.w * i * GLOBAL.ratio),
+                (this.entity.y - 0.5 + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+                this.w * GLOBAL.ratio | 0,
+                this.h * GLOBAL.ratio | 0
+            )
+        }
+    }
+}
+
+class Player extends Entity {
+    constructor(x, y) {
+        super(x, y);
+        this.resetVariables();
+    }
+    resetVariables(x,y) {
+        this.x=x?x:0;
+        this.y=y?y:0;
+        this.speed = 0.05;
+        this.maxSpeed = 0.2;
+        this.friction = 0.9;
+        this.jumpSpeed = 0.3;
+        this.gForce = 0.02;
+        this.type = "player";
+        this.maxHp = 3;
+        this.dead = false;
+        this.hp = 3;
+        this.saving = false;
+        this.misc = {
+            pics: 0,
+        }
+        this.displayInterface=true;
+        this.left = 1;
+        //Skate variables
+        this.onSkate = false;
+        this.armed = false;
+        this.holdingJump = 0;
+        this.interface = new PlayerInterface();
+        this.riding = {
+            xVel: 0,
+            yVel: 0
+        };
+
+        this.sheet = id("sheet");
+
+        /*Actions:
+        0 = normal
+        1 = normal(left)
+        2 = walking
+        3 = walking (left)
+        4 = jumping 
+        5 = jumping (left)
+        6 = onSkate normal
+        7 = onSkate normal (left)
+        8 = onSkate holding jump 
+        9 = onSkate holding jump (left)
+        10 = onSkate holding treshold 
+        11 = onSkate holding treshold (left)
+        12 = onSkate trick 
+        13 = onSkate trick (left)
+        14 = eating 
+        15 = eating (left)
+        */
+
+
+        this.actionX = [[1], [1], [4, 4, 4, 4], [5, 5, 5, 5], [6], [7], [1, 1], [1, 1], [1, 1], [1, 1], [1, 1, 1], [1, 1, 1], [0], [0], [3, 3, 3, 3, 3, 3, 3], [3, 3, 3, 3, 3, 3, 3]];
+        this.actionY = [[0], [0], [18, 19, 20, 21], [18, 19, 20, 21], [18], [18], [4, 5], [4, 5], [6, 7], [6, 7], [8, 6, 7], [8, 6, 7], [7], [7], [18, 19, 20, 21, 20, 21, 20], [18, 19, 20, 21, 20, 21, 20]];
+
+        this.grounded = false;
+        this.jumping = false;
+        this.lastDir = 0;
+        this.baseSlowness = 4;
+
+        // Frames where you are allowed to jump when not grounded
+        this.coyoteFrames = 8 * dT;
+        this.canJump = this.coyoteFrames;
+        this.uncontrollable = false;
+
+        this.falseControls = {
+            up: false,
+            down: false,
+            left: false,
+            right: false,
+            e: false,
+            lClickDown: false,
+            rClickDown: false,
+            test: "test",
+            currentPos: 0,
+            lastDir: 0
+        }
+        this.hitbox = {
+            x: this.x,
+            y: this.y,
+            w: this.w,
+            h: this.h
+        }
+    }
+    explode() {
+        //slowMoFrames=40;
+        //map.cameraFocus = "none";
+        if(this.dead){
+            return;
+        }
+        this.dead = true;
+        slowMoFrames=60;
+        let x = new Vfx(this.x, this.y, 9)
+        vfxs.push(x);
+        map.cameraFocus=x;
+        if (this.onSkate || (this.armed && sword.currentSword == 0)) {
+            vfxs.push(new Vfx(this.x, this.y, 15));
+            vfxs.push(new Vfx(this.x, this.y, 16));
+        } else if (this.armed && sword.currentSword == 1) {
+            vfxs.push(new Vfx(this.x, this.y, 7));
+            vfxs.push(new Vfx(this.x, this.y, 8));
+        }
+        // what happens on death
+        setTimeout(function () {
+            stages = new GameBlueprint().stages;
+            backToCheckPoint();
+            resetEvents();
+            loadCall = 1;
+            player.resetBasicVariables();
+            player.resetVariables();
+            map.cameraFocus=player;
+        },1500)
+
+    }
+    onHit() {
+        if (this.iFrames > 0) {
+            return;
+        }
+        this.hp--;
+        if (this.hp < 1) {
+            this.explode();
+            return;
+        }
+        this.yVel = -this.maxSpeed * 3;
+        this.xVel = this.maxSpeed * 2 * (this.left * 2 - 1);
+        this.iFrames = 60;
+    }
+    checkState() {
+        if (this.onSkate) {
+            this.speed = 0.025;
+            this.maxSpeed = 0.2;
+            this.friction = 0.98;
+            this.jumpSpeed = 0.3;
+            this.gForce = 0.03;
+        } else if (!this.onSkate) {
+            this.speed = 0.02;
+            this.maxSpeed = 0.1;
+            this.friction = 1;
+            this.jumpSpeed = 0.25;
+            this.gForce = 0.02;
+        }
+        if (this.armed && sword.currentSword == 1) {
+            this.jumpSpeed = 0.3;
+        }
+
+    }
+    compute() {
+        if(currentPoint.level<3){
+            this.displayInterface=false;
+        }else{
+            this.displayInterface=true;
+        }
+        if (isOutOfScreen(this)) {
+            return;
+        }
+        if (this.iFrames > 0) {
+            this.iFrames -= 1 * dT;
+        }
+        if (this.saving) {
+            this.uncontrollable = true;
+        }
+        if (this.uncontrollable) {
+            this.controls = this.falseControls;
+        } else {
+            this.controls = controls;
+        }
+        this.checkState();
+        this.coyoteFrames = 8 * dT;
+        if (this.yVel < GLOBAL.terminalVel * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel * dT;
+        }
+        if (this.controls.left) {
+            this.left = 1;
+            if (this.xVel > -this.maxSpeed) {
+                this.grounded ? this.xVel -= this.speed : this.xVel -= this.speed / 2;
+            }
+        }
+        if (this.controls.right) {
+            this.left = 0;
+            if (this.xVel < this.maxSpeed) {
+                this.grounded ? this.xVel += this.speed : this.xVel += this.speed / 2;
+            }
+        }
+
+        // Applies additional friction if player haves no imputs
+        if (!(this.controls.right || this.controls.left)) {
+            if (this.grounded && !this.onSkate) {
+                this.xVel = 0;
+            }
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.grounded) {
+            this.canJump = this.coyoteFrames;
+            if (Math.abs(this.xVel) > 0.001) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (this.canJump > 0) {
+                this.canJump--;
+            }
+            if (Math.abs(this.xVel) > 0.001) {
+                this.xVel *= (this.friction * 0.95);
+            } else {
+                this.xVel = 0;
+            }
+        }
+
+        // What to do if the UP button is pressed
+        if (this.onSkate) {
+            if (this.controls.up && !this.jumping && !this.col.T && this.canJump > 0) {
+                this.holdingJump += 1 * dT;
+            } else if (!this.controls.up && !this.jumping && !this.col.T && this.canJump > 0 && this.holdingJump > 0) {
+                if (this.holdingJump > 15) {
+                    this.jumping = true;
+                    this.yVel = -this.jumpSpeed * 1.4;
+                } else {
+                    this.jumping = true;
+                    this.yVel = -this.jumpSpeed;
+                }
+                this.holdingJump = 0;
+            }
+        } else {
+            if (this.controls.up && !this.jumping && !this.col.T && this.canJump > 0) {
+                this.jumping = true;
+                this.yVel = -this.jumpSpeed;
+            }
+        }
+        this.y += (this.yVel + this.riding.yVel) * dT;
+
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += (this.xVel + this.riding.xVel) * dT;
+        this.computeAction();
+        this.hitbox.x = this.x + this.w / 4;
+        this.hitbox.y = this.y + 0.2;
+        this.hitbox.w = this.w / 2;
+        this.hitbox.h = this.h - 0.35;
+
+        checkCollisions(this);
+    }
+    /*Actions:
+    0 = normal
+    1 = normal(left)
+    2 = walking
+    3 = walking (left)
+    4 = jumping 
+    5 = jumping (left)
+    6 = onSkate normal
+    7 = onSkate normal (left)
+    8 = onSkate holding jump 
+    9 = onSkate holding jump (left)
+    10 = onSkate holding treshold 
+    11 = onSkate holding treshold (left)
+    12 = onSkate trick 
+    13 = onSkate trick (left)
+    */
+
+
+    computeAction() {
+        if (this.controls.left || this.controls.right) {
+            this.action = 2;
+        } else {
+            this.action = 0;
+        }
+        if (!this.grounded) {
+            this.action = 4;
+        }
+        if (this.onSkate) {
+            this.action = 6;
+            if (this.holdingJump) {
+                this.action = 8;
+                if (this.holdingJump > 15) {
+                    if (this.holdingJump < 15 + dT) {
+                        this.frame = 0;
+                        this.frameCounter = 0;
+                    }
+                    this.action = 10;
+                }
+            } else if (this.xVel == 0 && !this.uncontrollable) {
+                this.frame = 0;
+                this.frameCounter = 0;
+            }
+            if (flash > 0) {
+                this.action = 12;
+            }
+        }
+
+        if (this.saving) {
+            this.action = 14;
+            this.baseSlowness = 10;
+            if (this.frame == this.actionX[this.action].length - 1 && this.frameCounter > this.baseSlowness * dT - 1 * dT) {
+                this.saving = false;
+                this.uncontrollable = false;
+                this.baseSlowness = 4;
+            }
+        }
+    }
+    render() {
+        if (isOutOfScreen(this)) {
+            return;
+        }
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        if (this.iFrames > 0 && this.iFrames % 2 >= 1) {
+            this.sheet = id("sheet-alt");
+        } else {
+            this.sheet = id("sheet");
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        if(this.displayInterface){
+            this.interface.render();
+        }
+    }
+}
+
+class Sword extends Entity {
+    constructor() {
+        super();
+        this.x = player.x;
+        this.y = player.y;
+        this.sheet = id("sheet");
+        this.actionX = [];
+        this.actionY = [];
+        this.currentSword = 0;
+        this.swords = {
+            skate: {
+                actionX: [[26], [26, 26, 26, 26, 26]],
+                actionY: [[18], [19, 20, 21, 22, 23]]
+            },
+            basic: {
+                actionX: [[27], [27, 27, 27, 27, 27]],
+                actionY: [[18], [19, 20, 21, 22, 23]]
+            },
+            overlord: {
+                actionX: [[28], [28, 28, 28, 28, 28]],
+                actionY: [[18], [19, 20, 21, 22, 23]]
+            }
+        }
+        this.switchSword();
+        this.baseSlowness = 4;
+        this.lastDir = controls.lastDir;
+        this.rotation = 90 * controls.lastDir * Math.PI / 180;
+        this.targetRotation = 90 * controls.lastDir * Math.PI / 180;
+        this.iFrames = 0;
+        this.hitbox = {
+            x1: 0,
+            y1: 0,
+            x2: 0,
+            y2: 0,
+        };
+        this.broadHitbox = {
+            x1: 0,
+            y1: 0,
+            x2: 0,
+            y2: 0,
+        };
+    }
+    switchSword() {
+        switch (this.currentSword) {
+            case 0:
+                this.actionX = this.swords.skate.actionX;
+                this.actionY = this.swords.skate.actionY;
+                break;
+            case 1:
+                this.actionX = this.swords.basic.actionX;
+                this.actionY = this.swords.basic.actionY;
+                break;
+            case 2:
+                this.actionX = this.swords.overlord.actionX;
+                this.actionY = this.swords.overlord.actionY;
+                break;
+        }
+    }
+    checkEnemiesCollisions() {
+        for (let i = 0; i < entities.length; i++) {
+            if (entities[i].removed) {
+                continue;
+            }
+            if (!entities[i].strikeable) {
+                continue;
+            }
+            if (collided(this.broadHitbox, entities[i])) {
+                let p1 = {
+                    x: this.hitbox.x1,
+                    y: this.hitbox.y1
+                };
+                let p2 = {
+                    x: this.hitbox.x2,
+                    y: this.hitbox.y2
+                };
+                if (pointSquareCol(p1, entities[i]) || pointSquareCol(p2, entities[i]) || lineSquareCol(this.hitbox, entities[i])) {
+                    entities[i].onHit(player);
+                    this.action = 1;
+                    this.frame = 0;
+                    this.frameCounter = 0;
+                    if (entities[i].recoilAttacker) {
+                        switch (this.lastDir) {
+                            case 0:
+                            case 2:
+                                if (player.grounded) {
+                                    player.xVel -= (entities[i].x - player.x) / 12;
+                                } else {
+                                    player.xVel -= (entities[i].x - player.x) / 12;
+                                }
+                                break;
+                            case 1:
+                            case 3:
+                                player.yVel = -(entities[i].y - player.y) / 6;
+                                break;
+                        }
+                    }
+                    player.grounded = false;
+                }
+            }
+        }
+    }
+    compute() {
+        this.x = player.x;
+        this.y = player.y;
+        this.broadHitbox.x = player.x - player.w;
+        this.broadHitbox.y = player.y - player.h;
+        this.broadHitbox.w = player.w + player.w * 2;
+        this.broadHitbox.h = player.y + player.h * 2;
+
+        switch (controls.lastDir) {
+            case 0:
+                this.x -= 1;
+                break;
+            case 1:
+                this.y -= 1;
+                break;
+            case 2:
+                this.x += 1;
+                break;
+            case 3:
+                this.y += 1;
+                break;
+        }
+
+
+        // Slowly rotates the sword
+        this.targetRotation = 90 * controls.lastDir * Math.PI / 180;
+        if (this.targetRotation == 0 && this.rotation > 3.15) {
+            this.targetRotation = 6.28
+        }
+        if (this.rotation > 6.25 && this.targetRotation <= 3.15) {
+            this.rotation = 0;
+        }
+        if (this.rotation <= 1.57 && this.targetRotation >= 4.71) {
+            this.rotation = 6.24;
+        }
+        this.rotation += (this.targetRotation - this.rotation) / 3 * dT;
+
+        // Updates the hitbox (based on rotation)
+
+        this.hitbox.x1 = (player.x + player.w / 2 - Math.cos(this.rotation) * 0.7);
+        this.hitbox.y1 = (player.y + player.h / 2 - Math.sin(this.rotation) * 0.7);
+        this.hitbox.x2 = this.hitbox.x1 - Math.cos(this.rotation) * 0.8;
+        this.hitbox.y2 = this.hitbox.y1 - Math.sin(this.rotation) * 0.8;
+
+
+        this.checkEnemiesCollisions();
+
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        if (this.lastDir != controls.lastDir) {
+            this.lastDir = controls.lastDir;
+            this.action = 1;
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        if (this.action == 1) {
+            this.frameCounter++;
+            if (this.frameCounter >= this.slowness) {
+                this.frameCounter = 0;
+                this.frame++;
+                if (this.frame >= this.actionX[this.action].length) {
+                    this.action = 0;
+                    this.frame = 0;
+                    this.frameCounter = 0;
+                }
+            }
+        }
+        c.save();
+        c.translate(
+            (player.x + player.w / 2 + map.x) * GLOBAL.tilesize * GLOBAL.ratio,
+            (player.y + player.h / 2 + map.y) * GLOBAL.tilesize * GLOBAL.ratio
+        );
+        c.rotate(this.rotation);
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (-this.w / 2 - 1) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (-this.h / 2) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        c.restore();
+
+        /* Draws the sword hitbox
+        c.strokeStyle = "#ff0000";
+        c.beginPath();
+        c.moveTo(this.hitbox.x1 * GLOBAL.tilesize * GLOBAL.ratio, this.hitbox.y1 * GLOBAL.tilesize * GLOBAL.ratio);
+        c.lineTo(this.hitbox.x2 * GLOBAL.tilesize * GLOBAL.ratio, this.hitbox.y2 * GLOBAL.tilesize * GLOBAL.ratio);
+        c.stroke();
+        c.stroke();
+        c.strokeStyle = "black";
+        */
+    }
+}
+class Bomberman extends Entity {
+    constructor(x, y) {
+        super(x, y);
+        this.w = 2;
+        this.h = 2;
+        this.speed = 0.05;
+        this.maxSpeed = 0.3;
+        this.xVel = 0;
+        this.yVel = 0;
+        this.hp = 6;
+        this.sheet = id("sheet");
+        this.left = 1;
+        this.throws = 0;
+        /*
+            Actions:
+            0-IDLE
+            1-IDLE(L)
+            
+            2-JUMP
+            3-JUMP(L)
+            
+            4-THROW
+            5-THROW(L)
+        
+        */
+        this.actionX = [[12, 12, 12, 12], [14, 14, 14, 14], [16], [18], [16], [18]];
+        this.actionY = [[0, 2, 4, 6], [0, 2, 4, 6], [0], [0], [2], [2]];
+        this.dir = this.left * 2 - 1;
+
+        this.baseSlowness = 6;
+
+        this.gForce = 0.02;
+        this.jumpSpeed = 0.37;
+        this.grounded = false;
+        this.jumping = false;
+        this.launching = 0;
+        this.attackDelay = 100;
+        this.friction = 0.90;
+
+        this.controls = {
+            left: false,
+            right: false,
+            up: false,
+            down: false
+        };
+    }
+    computeAction() {
+        if (!this.grounded) {
+            this.action = 2;
+        } else {
+            this.action = 0;
+        }
+        if (this.launching) {
+            this.action = 4;
+        }
+    }
+    onHit(source) {
+        if (this.iFrames > 0) {
+            return;
+        }
+        this.yVel = -0.1;
+        this.attackDelay = 60;
+        //this.xVel = (this.x - source.x) / 20;
+        this.hp--;
+        this.iFrames = 10;
+        if (this.hp == 0) {
+            this.explode();
+        }
+    }
+    explode() {
+        this.removed = true;
+        vfxs.push(new Vfx(this.x, this.y, 10));
+        vfxs.push(new Vfx(this.x, this.y, 10));
+        vfxs.push(new Vfx(this.x, this.y, 11));
+        vfxs.push(new Vfx(this.x, this.y, 12));
+        vfxs.push(new Vfx(this.x, this.y, 13));
+        vfxs.push(new Vfx(this.x, this.y, 13));
+        vfxs.push(new Vfx(this.x, this.y, 14));
+        //slowMoFrames = 60;
+    }
+    attack() {
+        if (this.attackDelay) {
+            this.attackDelay--;
+        } else {
+            this.launching = 8;
+            this.attackDelay = 30;
+        }
+        if (this.launching) {
+            if (this.launching == 5) {
+                let xVel = (player.x + player.w / 2 - (this.x + (!this.left) * this.w)) / 30;
+                let yVel = -Math.abs(xVel) / 2;
+                let x = this.x + (!this.left) * this.w;
+                entities.push(new Bomb(x, this.y, xVel, yVel));
+                this.throws++;
+            }
+            this.launching--;
+        }
+        if (this.throws > 3) {
+            this.attackDelay = 120;
+            this.throws = 0;
+        }
+    }
+    compute() {
+        this.attack();
+        if (this.left && player.x > this.x + this.w) {
+            this.left = 0;
+        } else if (!this.left && this.x > player.x + player.w) {
+            this.left = 1;
+        }
+        if (this.yVel < GLOBAL.terminalVel * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel * dT;
+        }
+        if (this.controls.left) {
+            if (this.xVel > -this.maxSpeed) {
+                this.grounded ? this.xVel -= this.speed : this.xVel -= this.speed / 2;
+            }
+        }
+        if (this.controls.right) {
+            if (this.xVel < this.maxSpeed) {
+                this.grounded ? this.xVel += this.speed : this.xVel += this.speed / 2;
+            }
+        }
+        if (controls.up && !this.jumping && !this.col.T && this.grounded) {
+            this.jumping = true;
+            this.yVel -= this.jumpSpeed;
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.grounded) {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+        }
+        if (this.controls.up && !this.jumping && !this.col.T) {
+            this.jumping = true;
+            this.yVel -= this.jumpSpeed;
+        }
+        this.y += this.yVel * dT;
+
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += this.xVel * dT;
+        this.computeAction();
+        checkCollisions(this);
+        if (this.iFrames > 0) {
+            this.iFrames -= 1 * dT;
+        }
+        this.hpDisplay.compute();
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        if (this.iFrames > 0 && this.iFrames % 2 >= 1) {
+            this.sheet = id("sheet-alt");
+        } else {
+            this.sheet = id("sheet");
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        this.hpDisplay.render();
+        //drawLaser(this,this.left);
+    }
+}
+class Skeleton extends Entity {
+    constructor(x, y, left) {
+        super(x, y);
+
+        this.xVel = 0;
+        this.yVel = 0;
+
+
+        this.sheet = id("sheet");
+        this.left = 0;
+        if (left) {
+            this.left = 1;
+        }
+
+        this.attacking = 0;
+        this.attackDelay = 30;
+        this.aggro = false;
+        /*Actions:
+        0 = idle 
+        1 = idle (left)
+        2 = walk 
+        3 = walk (left)
+        4 = attack 
+        5 = attack (left)
+        */
+
+        this.actionX = [[2], [3], [2, 2, 2, 2], [3, 3, 3, 3], [2, 2, 2, 2, 2], [3, 3, 3, 3, 3]];
+        this.actionY = [[0], [0], [0, 1, 2, 3], [0, 1, 2, 3], [4, 5, 6, 7, 8], [4, 5, 6, 7, 8]];
+
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        this.iFrames = 0;
+
+        // Hit Points
+        this.hp = 3;
+
+        // Gravitational Pull
+        // The higher the friction the more it slides.( Yes it is the countrary )
+        this.friction = 0.90;
+        this.gForce = 0.02;
+        this.jumpSpeed = 0.37;
+        this.grounded = false;
+        this.jumping = false;
+        // This is the accelleration per frame
+        this.speed = 0.05;
+        this.maxSpeed = 0.05;
+
+
+        // Simulates the controls of the Ai.
+        this.controls = {
+            left: false,
+            right: false,
+            up: false,
+            down: false
+        };
+
+        this.hitboxPoints = [
+            {
+                x: 0,
+                y: 0
+            }, {
+                x: 0,
+                y: 0
+            }
+        ]
+    }
+    computeAction() {
+        if (this.controls.left || this.controls.right) {
+            this.action = 2;
+        } else if (this.attacking) {
+            this.action = 4;
+        } else {
+            this.action = 0;
+        }
+    }
+    attack() {
+        if (this.attackDelay) {
+            this.attackDelay--;
+        } else {
+            this.attacking = 22;
+            this.attackDelay = 40;
+        }
+        if (this.attacking) {
+            if (this.attacking == 22) {
+                vfxs.push(new Arrow(this.x, this.y, this.left));
+            }
+            this.attacking--;
+        }
+    }
+    onHit(source) {
+        if (this.iFrames > 0) {
+            return;
+        }
+        this.yVel = -0.1;
+        this.left = !source.left;
+        this.attackDelay = 60;
+        this.xVel = (this.x - source.x) / 5;
+        this.hp--;
+        this.iFrames = 10;
+        if (this.hp == 0) {
+            this.explode();
+        }
+    }
+    explode() {
+        vfxs.push(new Vfx(this.x, this.y, 0));
+        vfxs.push(new Vfx(this.x, this.y, 1));
+        vfxs.push(new Vfx(this.x, this.y, 2));
+        vfxs.push(new Vfx(this.x, this.y, 3));
+        //slowMoFrames=30;
+        this.removed = true;
+    }
+    movement() {
+        if (this.left) {
+            this.hitboxPoints[0].x = this.x - 0.5;
+            this.hitboxPoints[0].y = this.y + this.h / 2;
+
+            this.hitboxPoints[1].x = this.x - 0.5;
+            this.hitboxPoints[1].y = this.y + this.h + 0.5;
+        } else {
+            this.hitboxPoints[0].x = this.x + this.w + 0.5;
+            this.hitboxPoints[0].y = this.y + this.h / 2;
+            this.hitboxPoints[1].x = this.x + this.w + 0.5;
+            this.hitboxPoints[1].y = this.y + this.h + 0.5;
+        }
+        c.fillRect((this.hitboxPoints[0].x + map.x) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.hitboxPoints[0].y + map.y) * GLOBAL.tilesize * GLOBAL.ratio,
+            2,
+            2)
+        c.fillRect((this.hitboxPoints[1].x + map.x) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.hitboxPoints[1].y + map.y) * GLOBAL.tilesize * GLOBAL.ratio,
+            2,
+            2)
+        let midCol = false;
+        let bottomCol = false;
+        for (let i = 0; i < map.tiles.length; i++) {
+            if (pointSquareCol(this.hitboxPoints[0], map.tiles[i])) {
+                midCol = true;
+            }
+            if (pointSquareCol(this.hitboxPoints[1], map.tiles[i])) {
+                bottomCol = true;
+            }
+        }
+        if (midCol || !bottomCol) {
+            if (this.left) {
+                this.left = 0;
+            } else {
+                this.left = 1;
+            }
+        }
+
+        if (this.left) {
+            this.controls.left = true;
+            this.controls.right = false;
+        } else {
+            this.controls.right = true;
+            this.controls.left = false;
+        }
+    }
+    compute() {
+        if (drawLaser(this, this.left, true) == "player") {
+            this.aggro = true;
+            this.controls.left = false;
+            this.controls.right = false;
+        } else {
+            this.aggro = false;
+        }
+        if (this.aggro) {
+            this.attack();
+        } else {
+            this.movement();
+        }
+        if (this.yVel < GLOBAL.terminalVel * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel * dT;
+        }
+        if (this.controls.left) {
+            if (this.xVel > -this.maxSpeed) {
+                this.grounded ? this.xVel -= this.speed : this.xVel -= this.speed / 2;
+            }
+        }
+        if (this.controls.right) {
+            if (this.xVel < this.maxSpeed) {
+                this.grounded ? this.xVel += this.speed : this.xVel += this.speed / 2;
+            }
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.grounded) {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+        }
+        if (this.controls.up && !this.jumping && !this.col.T) {
+            this.jumping = true;
+            this.yVel -= this.jumpSpeed;
+        }
+        this.y += this.yVel * dT;
+
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += this.xVel * dT;
+        this.computeAction();
+        checkCollisions(this);
+        if (this.iFrames > 0) {
+            this.iFrames -= 1 * dT;
+        }
+        this.hpDisplay.compute();
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        if (this.iFrames > 0 && this.iFrames % 2 >= 1) {
+            this.sheet = id("sheet-alt");
+        } else {
+            this.sheet = id("sheet");
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        //drawLaser(this,this.left);
+        this.hpDisplay.render();
+    }
+}
+
+class Bombling extends Entity {
+    constructor(x, y, left) {
+        super(x, y)
+        this.speed = 0.05;
+        this.maxSpeed = 0.3;
+        this.xVel = 0;
+        this.yVel = 0;
+
+        this.sheet = id("sheet");
+        this.left = left;
+        this.actionX = [[9], [10], [9, 9, 9], [10, 10, 10]];
+        this.actionY = [[0], [0], [1, 2, 3], [1, 2, 3]];
+        this.dir = this.left * 2 - 1;
+
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        this.gForce = 0.02;
+        this.jumpSpeed = 0.37;
+        this.grounded = false;
+        this.jumping = false;
+        this.friction = 0.90;
+        this.controls = {
+            left: false,
+            right: false,
+            up: false,
+            down: false
+        };
+
+        this.dirHitbox = {
+            x: this.x + this.w / 2 + this.dir,
+            y: this.y + this.h / 2,
+        }
+    }
+    computeAction() {}
+    onHit() {
+        this.explode();
+    }
+    explode() {
+        vfxs.push(new Vfx(this.x, this.y, 5));
+        vfxs.push(new Vfx(this.x, this.y, 6));
+        vfxs.push(new Explosion(this.x, this.y));
+        this.removed = true;
+    }
+    compute() {
+        if (this.action < 2 && drawLaser(this, this.left) == "player") {
+            this.action = 2;
+            if (this.dir > 0) {
+                //left
+                this.controls.left = true;
+            } else {
+                //right
+                this.controls.right = true;
+            }
+            this.controls
+        }
+        if (this.yVel < GLOBAL.terminalVel * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel * dT;
+        }
+        if (this.controls.left) {
+            if (this.xVel > -this.maxSpeed) {
+                this.grounded ? this.xVel -= this.speed : this.xVel -= this.speed / 2;
+            }
+        }
+        if (this.controls.right) {
+            if (this.xVel < this.maxSpeed) {
+                this.grounded ? this.xVel += this.speed : this.xVel += this.speed / 2;
+            }
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.grounded) {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+        }
+        if (this.controls.up && !this.jumping && !this.col.T) {
+            this.jumping = true;
+            this.yVel -= this.jumpSpeed;
+        }
+        this.y += this.yVel * dT;
+
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += this.xVel * dT;
+        this.computeAction();
+        checkCollisions(this);
+        this.dirHitbox.x = this.x + this.w / 2 - this.dir;
+        this.dirHitbox.y = this.y + this.h / 2;
+        for (let i = 0; i < map.tiles.length; i++) {
+            if (pointSquareCol(this.dirHitbox, map.tiles[i])) {
+                this.explode();
+            }
+        }
+        if (collided(this, player)) {
+            this.explode();
+        }
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+            if (this.frame >= this.actionX[this.action].length) {
+                this.frame = 0;
+                this.frameCounter = 0;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        //drawLaser(this,this.left);
+    }
+}
+
+class Bomb extends Entity {
+    constructor(x, y, xVel, yVel) {
+        super(x, y)
+        this.speed = 0.05;
+        this.maxSpeed = 0.3;
+        this.xVel = xVel;
+        this.yVel = yVel;
+
+        this.sheet = id("sheet");
+        this.left = 0;
+        this.action = 0;
+        this.actionX = [[7, 7, 7, 7]];
+        this.actionY = [[0, 1, 2, 3]];
+        this.dir = this.left * 2 - 1;
+        this.recoilAttacker = false;
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        this.gForce = 0.01;
+        this.jumpSpeed = 0.37;
+        this.grounded = false;
+        this.jumping = false;
+        this.friction = 0.99;
+
+        this.controls = {
+            left: false,
+            right: false,
+            up: false,
+            down: false
+        };
+        this.dirHitbox = {
+            x: this.x + this.w / 2 + this.dir,
+            y: this.y + this.h / 2,
+        }
+    }
+    computeAction() {}
+    explode() {
+        vfxs.push(new Explosion(this.x, this.y));
+        this.removed = true;
+    }
+    compute() {
+        if (this.yVel < GLOBAL.terminalVel / 1.5 * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel / 1.5 * dT;
+        }
+        if (this.controls.left) {
+            if (this.xVel > -this.maxSpeed) {
+                this.grounded ? this.xVel -= this.speed : this.xVel -= this.speed / 2;
+            }
+        }
+        if (this.controls.right) {
+            if (this.xVel < this.maxSpeed) {
+                this.grounded ? this.xVel += this.speed : this.xVel += this.speed / 2;
+            }
+        }
+        if (this.yVel < 0 && this.col.T) {
+            this.yVel = 0;
+        }
+        if (this.grounded) {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+            this.jumping = false;
+            if (this.yVel > 0) {
+                this.yVel = 0;
+            }
+        } else {
+            if (Math.abs(this.xVel) > 0.01) {
+                this.xVel *= this.friction;
+            } else {
+                this.xVel = 0;
+            }
+        }
+        if (this.controls.up && !this.jumping && !this.col.T) {
+            this.jumping = true;
+            this.yVel -= this.jumpSpeed;
+        }
+        this.y += this.yVel * dT;
+
+        if (this.col.R && this.xVel > 0 ||
+            this.col.L && this.xVel < 0) {
+            this.xVel = 0;
+        }
+        this.x += this.xVel * dT;
+        this.computeAction();
+        if (collided(this, player)) {
+            this.explode();
+        }
+        for (let i = 0; i < map.tiles.length; i++) {
+            if (collided(this, map.tiles[i])) {
+                this.explode();
+            }
+        }
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+            if (this.frame >= this.actionX[this.action].length) {
+                this.frame = 0;
+                this.frameCounter = 0;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        //drawLaser(this,this.left);
+    }
+}
+class Arrow extends Entity {
+    constructor(x, y, left) {
+        super(x, y)
+        this.sheet = id("sheet");
+        this.strikeable = false;
+        this.dir = (left * 2 - 1) * -1;
+        this.xVel = 0.2 * this.dir;
+        this.yVel = 0;
+        this.left = left;
+
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        this.actionX = [[2], [3]];
+        this.actionY = [[9], [9]];
+
+
+        this.hitbox = {
+            x1: 0,
+            y1: 0,
+            x2: 0,
+            y2: 0,
+        }
+    }
+    compute() {
+        this.x += this.xVel * dT;
+        this.hitbox.x1 = this.x + this.w / 5;
+        this.hitbox.y1 = this.y + this.h / 2;
+        this.hitbox.x2 = this.x + this.w / 5 * 4;
+        this.hitbox.y2 = this.y + this.h / 2;
+        if (lineSquareCol(this.hitbox, player)) {
+            this.removed = true;
+        }
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+            if (this.frame >= this.actionX[this.action].length) {
+                this.frame = 0;
+                this.frameCounter = 0;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action + this.left][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+    }
+}
+// The flying stuff
+class Vfx {
+    constructor(x, y, type) {
+        this.x = x;
+        this.y = y;
+        this.w = 1;
+        this.h = 1;
+        this.strikeable = false;
+        this.rotation = 0;
+        this.rotSpeed = Math.random() * 10;
+        this.xVel = Math.random() * 0.3 - 0.15;
+        this.yVel = -Math.random() * 0.6+0.1;
+        this.sheet = id("sheet");
+        this.type = type;
+        this.gForce = 0.02;
+    }
+    compute() {
+        if (this.yVel < GLOBAL.terminalVel * dT) {
+            this.yVel += this.gForce * dT;
+        } else {
+            this.yVel = GLOBAL.terminalVel * dT;
+        }
+        if (isOutOfScreen(this)) {
+            this.removed = true;
+        }
+        this.x += this.xVel * dT;
+        this.y += this.yVel * dT;
+        this.rotation += this.rotSpeed * dT;
+    }
+    render() {
+        c.save();
+        c.translate(
+            (this.x + this.w / 2 + map.x) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.y + this.h / 2 + map.y) * GLOBAL.tilesize * GLOBAL.ratio
+        );
+        // 
+        c.rotate(this.rotation * Math.PI / 180);
+        c.drawImage(
+            this.sheet,
+            6 * GLOBAL.tilesize,
+            this.type * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (-this.w / 2) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (-this.h / 2) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        c.restore();
+    }
+}
+
+class Bubble extends Entity {
+    constructor(x, y) {
+        super(x, y)
+        this.sheet = id("sheet");
+        this.recoilAttacker = false;
+
+        this.actionX = [[0, 0, 0, 0, 0, 0, 0, 0]];
+        this.actionY = [[10, 11, 12, 13, 14, 15, 16, 17]];
+        this.hitbox = {
+            x: this.x + 0.1,
+            y: this.y + 0.1,
+            w: this.w - 0.2,
+            h: this.h - 0.2
+        }
+    }
+    onHit() {
+        this.explode();
+    }
+    explode() {
+        vfxs.push(new BubbleExplosion(this.x, this.y));
+        player.yVel = -0.4;
+        this.removed = true;
+    }
+    compute() {}
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+            if (this.frame >= this.actionX[this.action].length) {
+                this.frame = 0;
+                this.frameCounter = 0;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+    }
+}
+class BubbleExplosion extends Entity {
+    constructor(x, y) {
+        super(x, y)
+        this.sheet = id("sheet");
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        this.actionX = [[1, 1, 1, 1]];
+        this.actionY = [[10, 11, 12, 13]];
+    }
+    compute() {
+        return false;
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+            if (this.frame >= this.actionX[this.action].length) {
+                this.frame = 0;
+                this.frameCounter = 0;
+                this.removed = true;
+                return;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+    }
+}
+class Explosion extends Entity {
+    constructor(x, y) {
+        super();
+        this.x = x - 1;
+        this.y = y - 2;
+        this.w = 3;
+        this.h = 3;
+        this.sheet = id("explosion");
+
+        this.baseSlowness = 4;
+        this.slowness = this.baseSlowness;
+
+        //this.actionX = [[0,0,0,0,0,0,0,0,0]];
+        //this.actionY = [[0,3,6,9,12,15,18,21,24]];
+        this.actionX = [[0, 0, 0, 0, 0, 0, 0, 0]];
+        this.actionY = [[3, 6, 9, 12, 15, 18, 21, 24]];
+        this.hitbox = {
+            x: this.x - 0.2,
+            y: this.y - 0.2,
+            w: this.w + 0.4,
+            h: this.h + 0.4,
+        }
+    }
+    compute() {
+        if (this.frame < 4 && collided(this, player)) {
+            //what happens if player is hit
+        }
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+            if (this.frame >= this.actionX[this.action].length) {
+                this.frame = 0;
+                this.frameCounter = 0;
+                this.removed = true;
+                return;
+            }
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        //drawLaser(this,this.left);
+    }
+}
+
+class Map {
+    constructor() {
+        this.x = 0;
+        this.y = 0;
+        this.spawnPoint = {
+            x: 0,
+            y: 0
+        };
+        this.tilesWidth = canvas.width / GLOBAL.tilesize / GLOBAL.ratio;
+        this.tilesHeight = canvas.height / GLOBAL.tilesize / GLOBAL.ratio;
+        this.levelImage = 0;
+        this.background = 0;
+        //inherited from map tester
+        this.tiles = [{
+            x: -40,
+            y: 10,
+            w: 70,
+            h: 1
+        }];
+        this.map = {};
+        this.backgroundSpeed = 2;
+        this.cameraFocus = "none";
+
+
+    }
+    renderTiles() {
+        if (this.background) {
+            c.drawImage(
+                this.background,
+                0,
+                0,
+                this.tilesWidth * GLOBAL.tilesize,
+                this.tilesHeight * GLOBAL.tilesize,
+                ((this.x / this.backgroundSpeed) % this.tilesWidth * GLOBAL.tilesize * GLOBAL.ratio),
+                0,
+                this.tilesWidth * GLOBAL.tilesize * GLOBAL.ratio,
+                this.tilesHeight * GLOBAL.tilesize * GLOBAL.ratio
+            )
+            c.drawImage(
+                this.background,
+                0,
+                0,
+                this.tilesWidth * GLOBAL.tilesize,
+                this.tilesHeight * GLOBAL.tilesize,
+                ((this.x / this.backgroundSpeed) % this.tilesWidth + this.tilesWidth) * GLOBAL.tilesize * GLOBAL.ratio,
+                0,
+                this.tilesWidth * GLOBAL.tilesize * GLOBAL.ratio,
+                this.tilesHeight * GLOBAL.tilesize * GLOBAL.ratio
+            )
+        }
+        //render the level image
+        if (this.levelImage) {
+            c.drawImage(
+                this.levelImage,
+                (-map.x * GLOBAL.tilesize),
+                (-map.y * GLOBAL.tilesize),
+                (this.tilesWidth * GLOBAL.tilesize),
+                (this.tilesHeight * GLOBAL.tilesize),
+                0,
+                0,
+                (this.tilesWidth * GLOBAL.tilesize * GLOBAL.ratio),
+                (this.tilesHeight * GLOBAL.tilesize * GLOBAL.ratio)
+            )
+        }
+        if (testMode) {
+            for (let i = 0; i < this.tiles.length; i++) {
+                renderEntity(this.tiles[i]);
+            }
+        }
+    }
+    computeCamera() {
+        if (isNaN(map.x)) {
+            map.x = 0;
+        }
+        if (isNaN(map.y)) {
+            map.y = 0;
+        }
+        this.tilesWidth = canvas.width / GLOBAL.tilesize / GLOBAL.ratio;
+        this.tilesHeight = canvas.height / GLOBAL.tilesize / GLOBAL.ratio;
+        if (typeof this.cameraFocus === 'object' && this.cameraFocus !== null) {
+            this.x += ((-this.cameraFocus.x + this.tilesWidth / 2) - this.x) / (6 / dT);
+
+        } else {
+            this.x = 0;
+            this.y = 0;
+        }
+
+        if (this.levelImage) {
+            if ((-this.x + this.tilesWidth) * GLOBAL.tilesize > this.levelImage.width) {
+                this.x = -(this.levelImage.width / GLOBAL.tilesize - this.tilesWidth);
+            }
+            if (-this.x < 0) {
+                this.x = 0;
+            }
+            if ((-this.y + this.tilesHeight) * GLOBAL.tilesize > this.levelImage.height) {
+                this.y = -(this.levelImage.height / GLOBAL.tilesize - this.tilesHeight);
+            }
+            if (-this.y < 0) {
+                this.y = 0;
+            }
+        }
+    }
+}
+//player.onSkate=true
+
+class Boss_1 extends Entity {
+    constructor(x, y) {
+        super();
+        this.x = x;
+        this.y = y;
+        this.w = 19;
+        this.h = 18;
+        this.xVel = 0.1;
+        this.yVel = Math.cos(this.x);
+        this.sheet = id("sheet");
+        this.actionX = [0, 0, 0];
+        this.actionY = [0, 0, 0];
+        this.baseSlowness = 4;
+        this.slowness = 6;
+        this.type = "boss";
+
+        this.body = {
+            spriteX: 416,
+            spriteY: 432,
+            w: 304,
+            h: 288,
+        };
+        this.attach = {
+            spriteX: 736,
+            spriteY: 432,
+            w: 54,
+            h: 54,
+            x1: 154,
+            y1: 127,
+            x2: 118,
+            y2: 184,
+            x3: 190,
+            y3: 208,
+        };
+        this.gun = {
+            spriteX: 736,
+            spriteY: 576,
+            w: 69,
+            h: 32,
+            x1: 129,
+            y1: 195,
+            rotation: 0,
+            rotCenter: {
+                x: 15,
+                y: 16
+            }
+        };
+        this.laserGun = {
+            spriteX: 736,
+            spriteY: 624,
+            w: 95,
+            h: 33,
+            x1: 165,
+            y1: 138,
+            rotation: 20,
+            rotCenter: {
+                x: 15,
+                y: 16
+            }
+        };
+        this.saw = {
+            spriteX: [728, 728, 728],
+            spriteY: [672, 720, 768],
+            w: 120,
+            h: 48,
+            x1: 211,
+            y1: 211,
+            rotation: 0,
+            rotCenter: {
+                x: 4,
+                y: 23
+            }
+        };
+        this.sawHitbox = {
+            x: 0,
+            y: 0,
+            w: 2,
+            h: 2
+        }
+        this.propeller = {
+            spriteX: [864, 864, 864],
+            spriteY: [544, 592, 640],
+            w: 101,
+            h: 44,
+            x1: -12,
+            y1: 110,
+            x2: -24,
+            y2: 158,
+            x3: -10,
+            y3: 205,
+            rotation: 0
+        };
+        this.solid = false;
+
+    }
+    computeRotation(item) {
+        let x = this.x + (item.x1 + item.rotCenter.x) / GLOBAL.tilesize;
+        let y = this.y + (item.y1 + item.rotCenter.y) / GLOBAL.tilesize;
+        let deltaX = x - (player.x + player.w / 2);
+        let deltaY = y - (player.y + player.h / 2);
+        item.rotation = Math.atan2(deltaY, deltaX) + Math.PI;
+    }
+    checkSawCollision() {
+        let length = -95 / GLOBAL.tilesize;
+        this.sawHitbox.x = this.x + (this.saw.x1 / GLOBAL.tilesize) + (this.saw.rotCenter.x / GLOBAL.tilesize) - Math.cos(this.saw.rotation) * length;
+        this.sawHitbox.x -= this.sawHitbox.w / 2;
+        this.sawHitbox.y = this.y + (this.saw.y1 / GLOBAL.tilesize) + (this.saw.rotCenter.y / GLOBAL.tilesize) - Math.sin(this.saw.rotation) * length;
+        this.sawHitbox.y -= this.sawHitbox.h / 2;
+
+        if (collided(player, this.sawHitbox)) {
+            player.explode()
+        }
+    }
+    compute() {
+        if(!loadCall && !player.dead){
+        this.computeRotation(this.gun)
+        this.computeRotation(this.laserGun)
+        this.computeRotation(this.saw)
+        }
+        if (this.x + this.w < player.x - 8) {
+            this.x += this.xVel * dT * 1.7;
+        } else {
+            this.x += this.xVel * dT;
+        }
+        this.yVel = Math.cos(this.x / 3) / 30
+        this.y += this.yVel * dT;
+        if (!isOutOfScreen(this)) {
+            screenShake.duration = 6;
+        }
+        this.checkSawCollision();
+    }
+    render() {
+        /*
+        What to render:
+        Boss (base)
+        Gun
+        Laser Gun
+        Saw
+        */
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+            if (this.frame >= this.actionX.length) {
+                this.frame = 0;
+                this.frameCounter = 0;
+            }
+        }
+        // Render body
+        c.drawImage(
+            this.sheet,
+            this.body.spriteX,
+            this.body.spriteY,
+            this.body.w,
+            this.body.h,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        // Render attaches
+        c.drawImage(
+            this.sheet,
+            this.attach.spriteX,
+            this.attach.spriteY,
+            this.attach.w,
+            this.attach.h,
+            ((this.x + map.x) * GLOBAL.tilesize + this.attach.x1) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.attach.y1) * GLOBAL.ratio | 0,
+            (this.attach.w) * GLOBAL.ratio | 0,
+            (this.attach.h) * GLOBAL.ratio | 0
+        )
+        c.drawImage(
+            this.sheet,
+            this.attach.spriteX,
+            this.attach.spriteY,
+            this.attach.w,
+            this.attach.h,
+            ((this.x + map.x) * GLOBAL.tilesize + this.attach.x2) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.attach.y2) * GLOBAL.ratio | 0,
+            (this.attach.w) * GLOBAL.ratio | 0,
+            (this.attach.h) * GLOBAL.ratio | 0
+        )
+        c.drawImage(
+            this.sheet,
+            this.attach.spriteX,
+            this.attach.spriteY,
+            this.attach.w,
+            this.attach.h,
+            ((this.x + map.x) * GLOBAL.tilesize + this.attach.x3) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.attach.y3) * GLOBAL.ratio | 0,
+            (this.attach.w) * GLOBAL.ratio | 0,
+            (this.attach.h) * GLOBAL.ratio | 0
+        )
+        // Render propellers
+        c.drawImage(
+            this.sheet,
+            this.propeller.spriteX[this.frame],
+            this.propeller.spriteY[this.frame],
+            this.propeller.w,
+            this.propeller.h,
+            ((this.x + map.x) * GLOBAL.tilesize + this.propeller.x1) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.propeller.y1) * GLOBAL.ratio | 0,
+            (this.propeller.w) * GLOBAL.ratio | 0,
+            (this.propeller.h) * GLOBAL.ratio | 0
+        )
+        c.drawImage(
+            this.sheet,
+            this.propeller.spriteX[this.frame],
+            this.propeller.spriteY[this.frame],
+            this.propeller.w,
+            this.propeller.h,
+            ((this.x + map.x) * GLOBAL.tilesize + this.propeller.x2) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.propeller.y2) * GLOBAL.ratio | 0,
+            (this.propeller.w) * GLOBAL.ratio | 0,
+            (this.propeller.h) * GLOBAL.ratio | 0
+        )
+        c.drawImage(
+            this.sheet,
+            this.propeller.spriteX[this.frame],
+            this.propeller.spriteY[this.frame],
+            this.propeller.w,
+            this.propeller.h,
+            ((this.x + map.x) * GLOBAL.tilesize + this.propeller.x3) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.propeller.y3) * GLOBAL.ratio | 0,
+            (this.propeller.w) * GLOBAL.ratio | 0,
+            (this.propeller.h) * GLOBAL.ratio | 0
+        )
+        // Render laserGun
+        c.save();
+        c.translate(
+            ((this.x + map.x) * GLOBAL.tilesize + this.laserGun.x1 + this.laserGun.rotCenter.x) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.laserGun.y1 + this.laserGun.rotCenter.y) * GLOBAL.ratio | 0
+        );
+        c.rotate(this.laserGun.rotation);
+        c.drawImage(
+            this.sheet,
+            this.laserGun.spriteX,
+            this.laserGun.spriteY,
+            this.laserGun.w,
+            this.laserGun.h,
+            -this.laserGun.rotCenter.x * GLOBAL.ratio,
+            -this.laserGun.rotCenter.y * GLOBAL.ratio,
+            (this.laserGun.w) * GLOBAL.ratio | 0,
+            (this.laserGun.h) * GLOBAL.ratio | 0
+        )
+        c.restore()
+
+
+
+
+        // Render gun
+        c.save();
+        c.translate(
+            ((this.x + map.x) * GLOBAL.tilesize + this.gun.x1 + this.gun.rotCenter.x) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.gun.y1 + this.gun.rotCenter.y) * GLOBAL.ratio | 0
+        );
+        c.rotate(this.gun.rotation);
+        c.drawImage(
+            this.sheet,
+            this.gun.spriteX,
+            this.gun.spriteY,
+            this.gun.w,
+            this.gun.h,
+            -this.gun.rotCenter.x * GLOBAL.ratio,
+            -this.gun.rotCenter.y * GLOBAL.ratio,
+            (this.gun.w) * GLOBAL.ratio | 0,
+            (this.gun.h) * GLOBAL.ratio | 0
+        )
+        c.restore()
+
+
+        // Render saw
+        c.save();
+        c.translate(
+            ((this.x + map.x) * GLOBAL.tilesize + this.saw.x1 + this.saw.rotCenter.x) * GLOBAL.ratio | 0,
+            ((this.y + map.y) * GLOBAL.tilesize + this.saw.y1 + this.saw.rotCenter.y) * GLOBAL.ratio | 0
+        );
+        c.rotate(this.saw.rotation);
+        c.drawImage(
+            this.sheet,
+            this.saw.spriteX[this.frame],
+            this.saw.spriteY[this.frame],
+            this.saw.w,
+            this.saw.h,
+            -this.saw.rotCenter.x * GLOBAL.ratio,
+            -this.saw.rotCenter.y * GLOBAL.ratio,
+            (this.saw.w) * GLOBAL.ratio | 0,
+            (this.saw.h) * GLOBAL.ratio | 0
+        )
+        c.restore()
+
+        /*
+        c.fillStyle = "red";
+        c.fillRect(
+            this.sawHitbox.x * GLOBAL.ratio * GLOBAL.tilesize,
+            this.sawHitbox.y * GLOBAL.ratio * GLOBAL.tilesize,
+            this.sawHitbox.w * GLOBAL.ratio * GLOBAL.tilesize,
+            this.sawHitbox.h * GLOBAL.ratio * GLOBAL.tilesize,
+        )
+        */
+    }
+}
+
+class Interaction extends Entity {
+    constructor(x, y, event, repeatable) {
+        super(x, y);
+        this.strikeable = false;
+        this.solid = false;
+        this.sheet = id("sheet");
+        this.actionX = [[1, 1]];
+        this.actionY = [[17, 18]];
+        this.baseSlowness = 15;
+        this.slowness = 15;
+        this.action = 0;
+        this.pressed = 1;
+        this.removed = false;
+
+        this.type = "interaction"
+        this.repeatable = repeatable ? true : false;
+        this.hitbox = {
+            x: 0,
+            y: 0,
+            w: 3,
+            h: 3
+
+        }
+        this.inRange = false;
+        this.event = event;
+    }
+    compute() {
+        controls.e ? this.pressed++ : this.pressed = 0;
+        if (player.uncontrollable) {
+            return;
+        }
+        this.hitbox.x = this.x + this.w / 2 - this.hitbox.w / 2;
+        this.hitbox.y = this.y + this.h / 2 - this.hitbox.h / 2;
+        if (collided(this, player)) {
+            this.inRange = true
+        } else {
+            this.inRange = false
+        }
+        if (this.inRange && this.pressed == 1) {
+            this.event(this);
+            if (!this.repeatable) {
+                this.removed = true;
+            }
+        }
+
+    }
+    render() {
+        if (player.uncontrollable) {
+            return;
+        }
+        if (this.inRange) {
+            this.slowness = this.baseSlowness / dT;
+            this.frameCounter++;
+            if (this.frameCounter >= this.slowness) {
+                this.frameCounter = 0;
+                this.frame++;
+                if (this.frame >= this.actionX[this.action].length) {
+                    this.frame = 0;
+                    this.frameCounter = 0;
+                }
+            }
+            c.drawImage(
+                this.sheet,
+                this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+                this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+                this.w * GLOBAL.tilesize,
+                this.h * GLOBAL.tilesize,
+                (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+                (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+                this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+                this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+            )
+        }
+
+    }
+}
+class EventBox extends Entity {
+    constructor(x, y, w, h, event, repeatable) {
+        super(x, y);
+        this.strikeable = false;
+        this.solid = false;
+        this.x = x;
+        this.y = y;
+        this.w = w;
+        this.h = h;
+        repeatable ? this.repeatable = true : this.repeatable = false;
+        this.removed = false;
+        this.event = event;
+    }
+    compute() {
+        if (collided(this, player)) {
+            this.event();
+            if (!this.repeatable) {
+                this.removed = true;
+            }
+        }
+    }
+    render() {
+        /*
+        c.fillRect(
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.w) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.h) * GLOBAL.tilesize * GLOBAL.ratio,
+        )
+        */
+    }
+}
+//entities.push(new Bat(19,12))
+class Bat extends Entity {
+    constructor(x, y) {
+        super();
+        this.x = x;
+        this.y = y;
+        this.w = 1;
+        this.h = 1;
+        this.actionX = [[8, 8, 8, 8]];
+        this.actionY = [[0, 1, 2, 3]];
+        this.sheet = id("sheet")
+        this.action = 0;
+        this.removed = false;
+        this.solid = false;
+        this.initialX = x;
+        this.initialY = y;
+        this.left = true;
+        this.distance = 6;
+        this.speed = 0.03;
+        this.iFrames = 0;
+        this.hp = 2;
+    }
+    onHit(source) {
+        if (this.iFrames > 0) {
+            return;
+        }
+        this.left = !this.left;
+        this.xVel = (this.x - source.x) / 5;
+        this.hp--;
+        this.iFrames = 20;
+        if (this.hp == 0) {
+            this.explode();
+        }
+    }
+    explode() {
+        vfxs.push(new Vfx(this.x, this.y, 4));
+        //slowMoFrames=30;
+        this.removed = true;
+    }
+    compute() {
+        this.iFrames -= 1 * dT;
+        if (collided(this, player)) {
+            player.onHit();
+        }
+        if (this.left) {
+            if (this.x > this.initialX) {
+                this.xVel = -this.speed
+            } else {
+                this.x = this.initialX;
+                this.left = false;
+            }
+        }
+        if (!this.left) {
+            if (this.x < this.initialX + this.distance) {
+                this.xVel = this.speed
+            } else {
+                this.x = this.initialX + this.distance;
+                this.left = true;
+            }
+        }
+
+        this.x += this.xVel * dT;
+        this.cos = Math.cos((this.x - this.initialX) * 3);
+        this.y = (this.initialY + this.cos);
+        this.hpDisplay.compute();
+    }
+    render() {
+        this.slowness = this.baseSlowness / dT;
+        this.frameCounter++;
+        if (this.frameCounter >= this.slowness) {
+            this.frameCounter = 0;
+            this.frame++;
+        }
+        if (this.frame >= this.actionX[this.action].length) {
+            this.frame = 0;
+            this.frameCounter = 0;
+        }
+        if (this.iFrames > 0 && this.iFrames % 2 >= 1) {
+            this.sheet = id("sheet-alt");
+        } else {
+            this.sheet = id("sheet");
+        }
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action][this.frame] * GLOBAL.tilesize,
+            this.actionY[this.action][this.frame] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+        //drawLaser(this,this.left);
+        this.hpDisplay.render();
+    }
+}
+class VendingMachine extends Entity {
+    constructor(x, y) {
+        super(x, y);
+        this.solid = false;
+        this.strikeable = false;
+        this.h = 2;
+        this.w = 2;
+        this.action = 0;
+        this.actionX = [5, 5];
+        this.actionY = [31, 29];
+        this.cooldown = 0;
+        this.event = function () {
+            player.saving = true;
+            player.xVel = 0;
+            player.yVel = 0;
+            player.frameCounter = 0;
+            player.frame = 0;
+        }
+        this.interac = new Interaction(this.x + 0.5, this.y - 0.5, this.event, true);
+
+    }
+    compute() {
+        if (this.cooldown <= 0 && collided(this, player)) {
+            this.action = 1;
+        } else {
+            this.action = 0;
+        }
+        if (this.cooldown > 0) {
+            this.cooldown -= 1 * dT;
+        }
+    }
+    render() {
+        c.drawImage(
+            this.sheet,
+            this.actionX[this.action] * GLOBAL.tilesize,
+            this.actionY[this.action] * GLOBAL.tilesize,
+            this.w * GLOBAL.tilesize,
+            this.h * GLOBAL.tilesize,
+            (this.x + map.x) * GLOBAL.tilesize * GLOBAL.ratio,
+            (this.y + map.y) * GLOBAL.tilesize * GLOBAL.ratio,
+            this.w * GLOBAL.tilesize * GLOBAL.ratio | 0,
+            this.h * GLOBAL.tilesize * GLOBAL.ratio | 0
+        )
+    }
+}

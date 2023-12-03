@@ -1,1 +1,333 @@
-const _0x4af826=_0x1078;(function(_0x52ece9,_0x25d9f7){const _0x3d3c8e=_0x1078,_0x34c0db=_0x52ece9();while(!![]){try{const _0x58795e=-parseInt(_0x3d3c8e(0xed))/0x1+parseInt(_0x3d3c8e(0xd0))/0x2*(-parseInt(_0x3d3c8e(0x100))/0x3)+-parseInt(_0x3d3c8e(0x104))/0x4*(parseInt(_0x3d3c8e(0x108))/0x5)+parseInt(_0x3d3c8e(0x12a))/0x6*(-parseInt(_0x3d3c8e(0xe7))/0x7)+-parseInt(_0x3d3c8e(0x11d))/0x8+parseInt(_0x3d3c8e(0x11b))/0x9*(-parseInt(_0x3d3c8e(0xe9))/0xa)+parseInt(_0x3d3c8e(0x13e))/0xb;if(_0x58795e===_0x25d9f7)break;else _0x34c0db['push'](_0x34c0db['shift']());}catch(_0x244eed){_0x34c0db['push'](_0x34c0db['shift']());}}}(_0x5c40,0x285c5));const _0x219219=(function(){let _0x61bdbc=!![];return function(_0x213adb,_0x56e0aa){const _0x3b86d7=_0x61bdbc?function(){const _0x58bea0=_0x1078;if(_0x56e0aa){const _0x444961=_0x56e0aa[_0x58bea0(0x125)](_0x213adb,arguments);return _0x56e0aa=null,_0x444961;}}:function(){};return _0x61bdbc=![],_0x3b86d7;};}()),_0x529292=_0x219219(this,function(){const _0x9e3bf8=_0x1078;let _0x23598d;try{const _0x2805fa=Function(_0x9e3bf8(0x13c)+_0x9e3bf8(0x140)+');');_0x23598d=_0x2805fa();}catch(_0x9a724e){_0x23598d=window;}const _0x432c0f=new RegExp(_0x9e3bf8(0x134),'g'),_0x4c8ac8=_0x9e3bf8(0x110)['replace'](_0x432c0f,'')[_0x9e3bf8(0xdc)](';');let _0x2eb2e4,_0xbdd24e,_0x42aa4f,_0x376d82;const _0x4faff1=function(_0x2be932,_0x219a3b,_0x4a5c56){const _0x868c54=_0x9e3bf8;if(_0x2be932[_0x868c54(0x117)]!=_0x219a3b)return![];for(let _0x1bdbb3=0x0;_0x1bdbb3<_0x219a3b;_0x1bdbb3++){for(let _0x316662=0x0;_0x316662<_0x4a5c56[_0x868c54(0x117)];_0x316662+=0x2){if(_0x1bdbb3==_0x4a5c56[_0x316662]&&_0x2be932[_0x868c54(0xf5)](_0x1bdbb3)!=_0x4a5c56[_0x316662+0x1])return![];}}return!![];},_0x9f3c75=function(_0x3e3e9d,_0x48863d,_0xb21c3d){return _0x4faff1(_0x48863d,_0xb21c3d,_0x3e3e9d);},_0xf683f=function(_0x431334,_0x44b626,_0x4fb330){return _0x9f3c75(_0x44b626,_0x431334,_0x4fb330);},_0x4365cd=function(_0x1661be,_0x106242,_0x5aae13){return _0xf683f(_0x106242,_0x5aae13,_0x1661be);};for(let _0x30c534 in _0x23598d){if(_0x4faff1(_0x30c534,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x2eb2e4=_0x30c534;break;}}for(let _0x2369f3 in _0x23598d[_0x2eb2e4]){if(_0x4365cd(0x6,_0x2369f3,[0x5,0x6e,0x0,0x64])){_0xbdd24e=_0x2369f3;break;}}for(let _0x545a62 in _0x23598d[_0x2eb2e4]){if(_0xf683f(_0x545a62,[0x7,0x6e,0x0,0x6c],0x8)){_0x42aa4f=_0x545a62;break;}}if(!('~'>_0xbdd24e))for(let _0x3c853d in _0x23598d[_0x2eb2e4][_0x42aa4f]){if(_0x9f3c75([0x7,0x65,0x0,0x68],_0x3c853d,0x8)){_0x376d82=_0x3c853d;break;}}if(!_0x2eb2e4||!_0x23598d[_0x2eb2e4])return;const _0x4da108=_0x23598d[_0x2eb2e4][_0xbdd24e],_0x7020be=!!_0x23598d[_0x2eb2e4][_0x42aa4f]&&_0x23598d[_0x2eb2e4][_0x42aa4f][_0x376d82],_0x18de27=_0x4da108||_0x7020be;if(!_0x18de27)return;let _0x55d317=![];for(let _0x4c8d8e=0x0;_0x4c8d8e<_0x4c8ac8[_0x9e3bf8(0x117)];_0x4c8d8e++){const _0x35a7b0=_0x4c8ac8[_0x4c8d8e],_0x37772a=_0x35a7b0[0x0]===String[_0x9e3bf8(0xe2)](0x2e)?_0x35a7b0[_0x9e3bf8(0x10d)](0x1):_0x35a7b0,_0x577ab2=_0x18de27[_0x9e3bf8(0x117)]-_0x37772a[_0x9e3bf8(0x117)],_0x29f6fe=_0x18de27[_0x9e3bf8(0x118)](_0x37772a,_0x577ab2),_0x37c2a8=_0x29f6fe!==-0x1&&_0x29f6fe===_0x577ab2;_0x37c2a8&&((_0x18de27[_0x9e3bf8(0x117)]==_0x35a7b0['length']||_0x35a7b0['indexOf']('.')===0x0)&&(_0x55d317=!![]));}if(!_0x55d317){const _0x2de451=new RegExp('[sQqUmzXgIBHPrAmGAXeAmSjVXxXTQwX]','g'),_0x1027e0=_0x9e3bf8(0xd4)['replace'](_0x2de451,'');_0x23598d[_0x2eb2e4][_0x42aa4f]=_0x1027e0;}});_0x529292();import{Text}from'./text/text.js';function _0x1078(_0x381d62,_0x56cef5){const _0x73370f=_0x5c40();return _0x1078=function(_0x529292,_0x219219){_0x529292=_0x529292-0xce;let _0x5df44c=_0x73370f[_0x529292];return _0x5df44c;},_0x1078(_0x381d62,_0x56cef5);}function _0x5c40(){const _0xb0caa1=['oninput','meta','80px','beginPath','apply','handleWheel','toFixed','baseH','innerHeight','5658mptGIp','center','stroke','Total\x20accuracy:\x20','outputs','render','closePath','compute','fill','deltaY','[CxUfZOXMvILqAXHNBypCqQJzjHOCmHypNmZpxHHjZTUqVHxRUwXGmmFZpIjUzmkMEvLFkMX]','strokeStyle','wheel','style','numbersToggler','mouse','onchange','#D3B99F','return\x20(function()\x20','colors','9104766ObghaR','renderInfo','{}.constructor(\x22return\x20this\x22)(\x20)','checkbox','Display\x20values','default','82598RPIkKz','forwardLinks','Epochs\x20per\x20render:\x20','mouseup','sQqaUboutm:zXgbIlaBHPrnAmGkAXeAmSjVXxXTQwX','genericButton','initialize','min','reduce','fillStyle','offsetX','offsetY','split','initialized','cursor','input','#fff','clear','fromCharCode','weight','content','mousemove','renderData','532DlrCxV','abs','230Aylhdl','biases','number','infoText','32548OtguDK','createElement','fillRect','inputLayer','mousedown','textAlign','weights','button','charCodeAt','forEach','accuracy','nodeSize','layers','ratio','checked','onclick','camera','backward','nodes','3XHhmVO','type','appendChild','renderTexts','28gNTMrm','bias','addEventListener','neurons','29135VdDeGa','lineWidth','displayNumbers','#C17767','iterations','slice','#6D98BA','handleMove','saaCxnUfZOtXonMvILandrqAXHNeBy.pgCqiQtJhuzjHb.io;lOComHcyalhostpNmZpxHHjZTUqVHxRUwXGmmFZpIjUzmkMEvLFkMX','forward','left','innerWidth','accuracyLatter','right','label','length','indexOf','moveTo','innerHTML','123831UEUxPX','value','1277024jkbZDi','baseW','mouseDown','#A0D4A9'];_0x5c40=function(){return _0xb0caa1;};return _0x5c40();}import{c as _0x36ac2c,canvas}from'./canvas/canvas.js';import{Meta}from'./meta/meta.js';import{Camera}from'./camera/camera.js';export class Gui{constructor(){const _0xdc71f=_0x1078;this['colors']={'outputs':_0xdc71f(0x120),'weights':'#9AADBF','weightsText':_0xdc71f(0x10e),'biases':_0xdc71f(0x10b),'neurons':_0xdc71f(0x13b),'neuronsText':_0xdc71f(0xe0),'infoText':_0xdc71f(0xe0)},this[_0xdc71f(0x122)]=new Meta(),canvas[_0xdc71f(0x106)](_0xdc71f(0x136),this[_0xdc71f(0x126)]),this[_0xdc71f(0x11f)]=![],canvas[_0xdc71f(0x106)](_0xdc71f(0xf1),_0xd2f1fd=>{const _0x378a6f=_0xdc71f;this[_0x378a6f(0x139)]['x']=_0xd2f1fd[_0x378a6f(0xda)],this[_0x378a6f(0x139)]['y']=_0xd2f1fd[_0x378a6f(0xdb)],canvas[_0x378a6f(0x137)]['cursor']='grab',this[_0x378a6f(0x11f)]=!![];}),canvas[_0xdc71f(0x106)](_0xdc71f(0xd3),()=>{const _0x31a255=_0xdc71f;canvas[_0x31a255(0x137)][_0x31a255(0xde)]=_0x31a255(0xcf),this[_0x31a255(0x11f)]=![];}),canvas['addEventListener'](_0xdc71f(0xe5),this[_0xdc71f(0x10f)]),this[_0xdc71f(0xfd)]=new Camera(),this[_0xdc71f(0x11e)]=0x320,this[_0xdc71f(0x128)]=0x258,this['offsetX']=(window[_0xdc71f(0x113)]-this[_0xdc71f(0x11e)])/0x2,this[_0xdc71f(0xdb)]=(window[_0xdc71f(0x129)]-this[_0xdc71f(0x128)])/0x2,this[_0xdc71f(0xfd)]['x']=this[_0xdc71f(0xda)],this['camera']['y']=this[_0xdc71f(0xdb)],this[_0xdc71f(0xf8)]=0x19,this['mouse']={'x':![],'y':![]},this[_0xdc71f(0x10a)]=!![],this['initialized']=![];}['numbersToggler']=()=>{const _0x4267b7=_0x1078;let _0x3d5f53=document[_0x4267b7(0xee)](_0x4267b7(0xdf));_0x3d5f53[_0x4267b7(0x101)]='checkbox',_0x3d5f53[_0x4267b7(0xfb)]=!![],_0x3d5f53[_0x4267b7(0x13a)]=()=>{const _0x516ac1=_0x4267b7;this[_0x516ac1(0x10a)]=_0x3d5f53['checked'];};let _0x2fedfe=document['createElement'](_0x4267b7(0x116));return _0x2fedfe['innerHTML']=_0x4267b7(0xce),_0x2fedfe['appendChild'](_0x3d5f53),_0x2fedfe;};['speedAmount']=(_0x543254,_0xc73f53=0xa)=>{const _0x28051b=_0x1078;let _0x50df93=document['createElement'](_0x28051b(0xdf)),_0x379b76=document[_0x28051b(0xee)]('label');return _0x379b76[_0x28051b(0x11a)]=_0x28051b(0xd2),_0x50df93[_0x28051b(0x101)]=_0x28051b(0xeb),_0x50df93[_0x28051b(0xd7)]=0x1,_0x50df93[_0x28051b(0x137)]['width']=_0x28051b(0x123),_0x50df93[_0x28051b(0x137)][_0x28051b(0xf2)]=_0x28051b(0x12b),_0x50df93[_0x28051b(0x11c)]=_0xc73f53,_0x50df93[_0x28051b(0x121)]=_0x543254,_0x379b76[_0x28051b(0x102)](_0x50df93),_0x379b76;};[_0x4af826(0x138)]=()=>{const _0x1e716e=_0x4af826;let _0x2aa0a7=document[_0x1e716e(0xee)]('input');_0x2aa0a7[_0x1e716e(0x101)]=_0x1e716e(0x141),_0x2aa0a7[_0x1e716e(0xfb)]=!![],_0x2aa0a7[_0x1e716e(0x13a)]=()=>{const _0x392e1b=_0x1e716e;this[_0x392e1b(0x10a)]=_0x2aa0a7[_0x392e1b(0xfb)];};let _0x58f139=document[_0x1e716e(0xee)]('label');return _0x58f139[_0x1e716e(0x11a)]='Display\x20values',_0x58f139[_0x1e716e(0x102)](_0x2aa0a7),_0x58f139;};[_0x4af826(0xd5)]=(_0x1e0a13,_0x1f4085)=>{const _0x1b0337=_0x4af826;let _0xe8835a=document[_0x1b0337(0xee)](_0x1b0337(0xf4));return _0xe8835a[_0x1b0337(0x11a)]=_0x1e0a13,_0xe8835a[_0x1b0337(0xfc)]=_0x1f4085,_0xe8835a;};['handleMove']=_0x3887e2=>{const _0x5a60d8=_0x4af826;if(!this['mouseDown'])return;this[_0x5a60d8(0xfd)]['x']+=(_0x3887e2[_0x5a60d8(0xda)]-this['mouse']['x'])/this['meta'][_0x5a60d8(0xfa)],this[_0x5a60d8(0xfd)]['y']+=(_0x3887e2[_0x5a60d8(0xdb)]-this[_0x5a60d8(0x139)]['y'])/this[_0x5a60d8(0x122)][_0x5a60d8(0xfa)],this['mouse']['x']=_0x3887e2[_0x5a60d8(0xda)],this[_0x5a60d8(0x139)]['y']=_0x3887e2[_0x5a60d8(0xdb)];};['handleWheel']=_0x5b4d70=>{const _0x116c51=_0x4af826;let _0x35075d=_0x5b4d70[_0x116c51(0x133)]*-0.002;this[_0x116c51(0x122)]['ratio']+_0x35075d>0x0&&this[_0x116c51(0x122)]['ratio']+_0x35075d<0xa&&(this[_0x116c51(0x122)]['ratio']+=_0x35075d,this[_0x116c51(0xfd)]['x']+=(window['innerWidth']/this[_0x116c51(0x122)][_0x116c51(0xfa)]-window[_0x116c51(0x113)]/(this[_0x116c51(0x122)][_0x116c51(0xfa)]-_0x35075d))/0x2,this[_0x116c51(0xfd)]['y']+=(window[_0x116c51(0x129)]/this[_0x116c51(0x122)][_0x116c51(0xfa)]-window[_0x116c51(0x129)]/(this[_0x116c51(0x122)][_0x116c51(0xfa)]-_0x35075d))/0x2);};['initialize'](_0x1497b5,_0x47a443){const _0x2b7440=_0x4af826;this['baseW']=0x320/0x3*_0x1497b5,this[_0x2b7440(0x128)]=0x258/0x4*_0x47a443[_0x2b7440(0xd8)]((_0xb74639,_0x24b3fa)=>{const _0x95d12b=_0x2b7440;return _0x24b3fa[_0x95d12b(0xff)][_0x95d12b(0x117)]>_0xb74639?_0x24b3fa[_0x95d12b(0xff)][_0x95d12b(0x117)]:_0xb74639;},0x0),this[_0x2b7440(0xda)]=(window[_0x2b7440(0x113)]-this[_0x2b7440(0x11e)])/0x2,this[_0x2b7440(0xdb)]=(window[_0x2b7440(0x129)]-this['baseH'])/0x2,this['camera']['x']=this['offsetX'],this[_0x2b7440(0xfd)]['y']=this[_0x2b7440(0xdb)];}[_0x4af826(0x12f)]=(_0x57b6f5,_0x1f0dbb=null)=>{const _0x523f9e=_0x4af826;this['meta'][_0x523f9e(0x131)](),_0x36ac2c[_0x523f9e(0xe1)]();let _0xba742=_0x57b6f5[_0x523f9e(0xf9)],_0x239d05=_0x57b6f5[_0x523f9e(0xf9)][_0x523f9e(0x117)];!this[_0x523f9e(0xdd)]&&(this[_0x523f9e(0xdd)]=!![],this[_0x523f9e(0xd6)](_0x239d05,_0xba742));let _0x50334f=0x0;_0xba742[_0x523f9e(0xf6)](_0xe403b4=>{const _0x409616=_0x523f9e;_0xe403b4['nodes'][_0x409616(0x117)]>_0x50334f?_0x50334f=_0xe403b4[_0x409616(0xff)][_0x409616(0x117)]:![];}),_0xba742['forEach']((_0x33d133,_0x41a11d)=>{const _0xc3c91a=_0x523f9e;_0x33d133[_0xc3c91a(0xff)][_0xc3c91a(0xf6)]((_0x172ae2,_0x4759a7)=>{const _0x2148ab=_0xc3c91a;_0x172ae2['x']=this[_0x2148ab(0x11e)]/_0x239d05*(_0x41a11d+0.5),_0x172ae2['y']=this[_0x2148ab(0x128)]/0x2+(_0x4759a7-(_0x33d133['nodes'][_0x2148ab(0x117)]-0x1)/0x2)*(this['baseH']/_0x50334f);});}),this['renderLinks'](_0xba742,_0x1f0dbb),this['renderPerceptrons'](_0xba742),this[_0x523f9e(0x10a)]&&this[_0x523f9e(0x103)](_0x57b6f5,_0xba742),this['renderInfo'](),_0x1f0dbb&&this['renderData'](_0x1f0dbb);};['renderPerceptrons']=_0x3e551c=>{const _0x3b2553=_0x4af826;_0x3e551c[_0x3b2553(0xf6)](_0x49a78c=>{const _0x252091=_0x3b2553;_0x49a78c[_0x252091(0xff)][_0x252091(0xf6)](_0x117f0d=>{const _0x2c7e81=_0x252091;_0x36ac2c[_0x2c7e81(0xd9)]=this[_0x2c7e81(0x13d)][_0x2c7e81(0x107)],_0x36ac2c[_0x2c7e81(0x135)]=this[_0x2c7e81(0x13d)][_0x2c7e81(0xea)],_0x36ac2c['lineWidth']=_0x117f0d['bias']*0x5*this['meta'][_0x2c7e81(0xfa)],_0x36ac2c[_0x2c7e81(0x124)](),_0x36ac2c['arc']((_0x117f0d['x']+this[_0x2c7e81(0xfd)]['x'])*this[_0x2c7e81(0x122)][_0x2c7e81(0xfa)],(_0x117f0d['y']+this[_0x2c7e81(0xfd)]['y'])*this[_0x2c7e81(0x122)]['ratio'],this[_0x2c7e81(0xf8)]*this[_0x2c7e81(0x122)][_0x2c7e81(0xfa)],0x0,Math['PI']*0x2),_0x36ac2c['closePath'](),_0x36ac2c[_0x2c7e81(0x132)](),_0x36ac2c[_0x2c7e81(0x12c)]();});});};['renderLinks']=(_0x5ab375,_0xe88de8)=>{_0x5ab375['forEach'](_0x43f123=>{const _0x3cf8dd=_0x1078;_0x43f123['nodes'][_0x3cf8dd(0xf6)](_0x44986c=>{const _0xce39c4=_0x3cf8dd;_0x44986c[_0xce39c4(0xd1)][_0xce39c4(0xf6)](_0x1e2e93=>{const _0x5dc4df=_0xce39c4;_0x36ac2c[_0x5dc4df(0x135)]=this[_0x5dc4df(0x13d)]['weights'],_0x36ac2c[_0x5dc4df(0x109)]=Math[_0x5dc4df(0xe8)](_0x1e2e93[_0x5dc4df(0xe3)])*this[_0x5dc4df(0x122)]['ratio'],_0x36ac2c[_0x5dc4df(0x124)](),_0x36ac2c[_0x5dc4df(0x119)]((_0x44986c['x']+this['camera']['x'])*this['meta']['ratio'],(_0x44986c['y']+this[_0x5dc4df(0xfd)]['y'])*this[_0x5dc4df(0x122)][_0x5dc4df(0xfa)]),_0x36ac2c['lineTo']((_0x1e2e93[_0x5dc4df(0x111)]['x']+this['camera']['x'])*this[_0x5dc4df(0x122)][_0x5dc4df(0xfa)],(_0x1e2e93[_0x5dc4df(0x111)]['y']+this['camera']['y'])*this[_0x5dc4df(0x122)][_0x5dc4df(0xfa)]),_0x36ac2c[_0x5dc4df(0x130)](),_0x36ac2c['stroke']();});});});};[_0x4af826(0x103)]=(_0x471dee,_0x3dc215)=>{const _0x40d459=_0x4af826;_0x3dc215[_0x40d459(0xf6)](_0xd15c5b=>{const _0x3f68c6=_0x40d459;_0xd15c5b[_0x3f68c6(0xff)][_0x3f68c6(0xf6)](_0x423c3e=>{const _0x47865d=_0x3f68c6;let _0x13478d=new Text({'x':(_0x423c3e['x']+this[_0x47865d(0xfd)]['x'])*this['meta'][_0x47865d(0xfa)],'y':(_0x423c3e['y']+this[_0x47865d(0xfd)]['y'])*this['meta']['ratio'],'color':this[_0x47865d(0x13d)][_0x47865d(0x12e)]});_0x13478d['content']=''+parseFloat(_0x423c3e['computedOutput'][_0x47865d(0x127)](0x4)),_0x13478d[_0x47865d(0x12f)](_0x36ac2c);if(_0xd15c5b!==_0x471dee[_0x47865d(0xf0)]){let _0xab85a3=new Text({'x':(_0x423c3e['x']+this['camera']['x'])*this[_0x47865d(0x122)]['ratio'],'y':(_0x423c3e['y']-this[_0x47865d(0xf8)]*1.2+this[_0x47865d(0xfd)]['y'])*this[_0x47865d(0x122)][_0x47865d(0xfa)],'color':this[_0x47865d(0x13d)][_0x47865d(0xea)]});_0xab85a3['content']=''+parseFloat(_0x423c3e[_0x47865d(0x105)][_0x47865d(0x127)](0x4)),_0xab85a3['render'](_0x36ac2c);}_0x423c3e['forwardLinks']['forEach'](_0x3ffd61=>{const _0x1c9afd=_0x47865d;let _0x448455=new Text({'x':(_0x3ffd61['backward']['x']+(_0x3ffd61['forward']['x']-_0x3ffd61[_0x1c9afd(0xfe)]['x'])/1.5+this[_0x1c9afd(0xfd)]['x'])*this[_0x1c9afd(0x122)][_0x1c9afd(0xfa)],'y':(_0x3ffd61[_0x1c9afd(0xfe)]['y']+(_0x3ffd61[_0x1c9afd(0x111)]['y']-_0x3ffd61['backward']['y'])/1.5+this['camera']['y'])*this[_0x1c9afd(0x122)][_0x1c9afd(0xfa)],'color':this[_0x1c9afd(0x13d)]['weights']});_0x448455[_0x1c9afd(0xe4)]=''+parseFloat(_0x3ffd61[_0x1c9afd(0xe3)][_0x1c9afd(0x127)](0x4)),_0x448455[_0x1c9afd(0x12f)](_0x36ac2c);});});});};[_0x4af826(0x13f)]=()=>{const _0xefd777=_0x4af826;['outputs',_0xefd777(0xf3),'biases']['forEach']((_0x2c0d6a,_0xa5911)=>{const _0xc53c3=_0xefd777;_0x36ac2c[_0xc53c3(0xd9)]=this[_0xc53c3(0x13d)][_0x2c0d6a],_0x36ac2c[_0xc53c3(0xef)](0xa,_0xa5911*0x1e+0x50,0x14,0x14);let _0x3d7e67=new Text({'x':0x23,'y':_0xa5911*0x1e+0xa+0x50,'color':this['colors'][_0x2c0d6a],'align':_0xc53c3(0x112)});_0x3d7e67['content']=_0x2c0d6a,_0x3d7e67[_0xc53c3(0x12f)](_0x36ac2c);});};[_0x4af826(0xe6)]=_0x297c7b=>{const _0x3d5fa2=_0x4af826;let _0x4f594d=new Text({'x':window[_0x3d5fa2(0x113)]-0x14,'y':0xa+0x50,'color':this['colors'][_0x3d5fa2(0xec)],'align':_0x3d5fa2(0x115)});_0x4f594d['content']='Epoch:\x20'+_0x297c7b[_0x3d5fa2(0x10c)],_0x4f594d[_0x3d5fa2(0x12f)](_0x36ac2c);let _0x1f8e97=new Text({'x':window[_0x3d5fa2(0x113)]-0x14,'y':0x1e+0x50,'color':this[_0x3d5fa2(0x13d)][_0x3d5fa2(0xec)],'align':_0x3d5fa2(0x115)});_0x1f8e97[_0x3d5fa2(0xe4)]='Accuracy(300):\x20'+_0x297c7b[_0x3d5fa2(0x114)]+'%',_0x1f8e97[_0x3d5fa2(0x12f)](_0x36ac2c);let _0x2e453c=new Text({'x':window['innerWidth']-0x14,'y':0x32+0x50,'color':this[_0x3d5fa2(0x13d)][_0x3d5fa2(0xec)],'align':_0x3d5fa2(0x115)});_0x2e453c['content']=_0x3d5fa2(0x12d)+_0x297c7b[_0x3d5fa2(0xf7)]+'%',_0x2e453c['render'](_0x36ac2c);};}
+import { Text } from "./text/text.js";
+import { c as context, canvas } from "./canvas/canvas.js";
+import { Meta } from "./meta/meta.js";
+import { Camera } from "./camera/camera.js";
+
+export class Gui {
+  constructor() {
+    this.colors = {
+      outputs: "#A0D4A9",
+      weights: "#9AADBF",
+      weightsText: "#6D98BA",
+      biases: "#C17767",
+      neurons: "#D3B99F",
+      neuronsText: "#fff",
+      infoText: "#fff",
+    };
+    this.meta = new Meta();
+    canvas.addEventListener("wheel", this.handleWheel);
+    this.mouseDown = false;
+    canvas.addEventListener("mousedown", (e) => {
+      this.mouse.x = e.offsetX;
+      this.mouse.y = e.offsetY;
+      canvas.style.cursor = "grab";
+      this.mouseDown = true;
+    });
+    canvas.addEventListener("mouseup", () => {
+      canvas.style.cursor = "default";
+      this.mouseDown = false;
+    });
+    canvas.addEventListener("mousemove", this.handleMove);
+    this.camera = new Camera();
+    this.baseW = 800;
+    this.baseH = 600;
+    this.offsetX = (window.innerWidth - this.baseW) / 2;
+    this.offsetY = (window.innerHeight - this.baseH) / 2;
+    this.camera.x = this.offsetX;
+    this.camera.y = this.offsetY;
+    this.nodeSize = 25;
+
+    this.mouse = { x: false, y: false };
+    this.displayNumbers = true;
+    this.initialized = false;
+  }
+  /** Creates and returns an HTML checkbox input */
+  numbersToggler = () => {
+    let checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.checked = true;
+    checkbox.onchange = () => {
+      this.displayNumbers = checkbox.checked;
+    };
+    let label = document.createElement("label");
+    label.innerHTML = "Display values";
+    label.appendChild(checkbox);
+    return label;
+  };
+  /** Creates and returns an HTML range input
+   * @param {Function} eventHandler
+   * @param {Number} initialValue Initial value of the range input
+   */
+  speedAmount = (eventHandler, initialValue = 10) => {
+    let input = document.createElement("input");
+    let label = document.createElement("label");
+    label.innerHTML = "Epochs per render: ";
+    input.type = "number";
+    input.min = 1;
+    input.style.width = "80px";
+    input.style.textAlign = "center";
+    input.value = initialValue;
+    input.oninput = eventHandler;
+    label.appendChild(input);
+    return label;
+  };
+  numbersToggler = () => {
+    let checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.checked = true;
+    checkbox.onchange = () => {
+      this.displayNumbers = checkbox.checked;
+    };
+    let label = document.createElement("label");
+    label.innerHTML = "Display values";
+    label.appendChild(checkbox);
+    return label;
+  };
+  genericButton = (label, action) => {
+    let button = document.createElement("button");
+    button.innerHTML = label;
+    button.onclick = action;
+    return button;
+  };
+  /**
+   * @param {MouseEvent} e
+   */
+  handleMove = (e) => {
+    if (!this.mouseDown) {
+      return;
+    }
+    this.camera.x += (e.offsetX - this.mouse.x) / this.meta.ratio;
+    this.camera.y += (e.offsetY - this.mouse.y) / this.meta.ratio;
+    this.mouse.x = e.offsetX;
+    this.mouse.y = e.offsetY;
+  };
+  /**
+   * @param {Event} e
+   */
+  handleWheel = (e) => {
+    let scrollValue = e.deltaY * -0.002;
+    if (
+      this.meta.ratio + scrollValue > 0 &&
+      this.meta.ratio + scrollValue < 10
+    ) {
+      // handles mouse wheel movements
+      this.meta.ratio += scrollValue;
+      this.camera.x +=
+        (window.innerWidth / this.meta.ratio -
+          window.innerWidth / (this.meta.ratio - scrollValue)) /
+        2;
+      this.camera.y +=
+        (window.innerHeight / this.meta.ratio -
+          window.innerHeight / (this.meta.ratio - scrollValue)) /
+        2;
+    }
+  };
+  initialize(nLayers, layers) {
+    this.baseW = (800 / 3) * nLayers;
+    this.baseH =
+      (600 / 4) *
+      layers.reduce((max, layer) => {
+        if (layer.nodes.length > max) {
+          return layer.nodes.length;
+        } else {
+          return max;
+        }
+      }, 0);
+    this.offsetX = (window.innerWidth - this.baseW) / 2;
+    this.offsetY = (window.innerHeight - this.baseH) / 2;
+    this.camera.x = this.offsetX;
+    this.camera.y = this.offsetY;
+  }
+  /**
+   *
+   * @param {*} nn
+   * @param {object | null} data Info texts
+   */
+  render = (nn, data = null) => {
+    this.meta.compute();
+    context.clear();
+    let layers = nn.layers;
+    let nLayers = nn.layers.length;
+    if (!this.initialized) {
+      this.initialized = true;
+      this.initialize(nLayers, layers);
+    }
+    let nNodes = 0;
+
+    // Define maximum amount of perceptrons;
+    layers.forEach((layer) => {
+      layer.nodes.length > nNodes ? (nNodes = layer.nodes.length) : false;
+    });
+    // Assign coordinates to each perceptron;
+    layers.forEach((layer, i) => {
+      layer.nodes.forEach((node, j) => {
+        node.x = (this.baseW / nLayers) * (i + 0.5);
+        node.y =
+          this.baseH / 2 +
+          (j - (layer.nodes.length - 1) / 2) * (this.baseH / nNodes);
+        // node.y = j * (this.baseH / nNodes) * (layer.nodes.length / nNodes) + 80;
+      });
+    });
+
+    // Render links as lines
+    this.renderLinks(layers, data);
+
+    // Render perceptrons as filled circles
+    this.renderPerceptrons(layers);
+
+    if (this.displayNumbers) {
+      // Render values
+      this.renderTexts(nn, layers);
+    }
+    this.renderInfo();
+    // Render data
+    if (data) {
+      this.renderData(data);
+    }
+  };
+  renderPerceptrons = (layers) => {
+    layers.forEach((layer) => {
+      layer.nodes.forEach((node) => {
+        context.fillStyle = this.colors.neurons;
+        context.strokeStyle = this.colors.biases;
+        context.lineWidth = node.bias * 5 * this.meta.ratio;
+        context.beginPath();
+        context.arc(
+          (node.x + this.camera.x) * this.meta.ratio,
+          (node.y + this.camera.y) * this.meta.ratio,
+          this.nodeSize * this.meta.ratio,
+          0,
+          Math.PI * 2
+        );
+        context.closePath();
+        context.fill();
+        context.stroke();
+      });
+    });
+  };
+  renderLinks = (layers, data) => {
+    layers.forEach((layer) => {
+      layer.nodes.forEach((node) => {
+        node.forwardLinks.forEach((link) => {
+          context.strokeStyle = this.colors.weights;
+          context.lineWidth = Math.abs(link.weight) * this.meta.ratio;
+          context.beginPath();
+          context.moveTo(
+            (node.x + this.camera.x) * this.meta.ratio,
+            (node.y + this.camera.y) * this.meta.ratio
+          );
+          context.lineTo(
+            (link.forward.x + this.camera.x) * this.meta.ratio,
+            (link.forward.y + this.camera.y) * this.meta.ratio
+          );
+          context.closePath();
+          context.stroke();
+
+          /* // Error rendering
+          if (data && (data.failedSinceLastRender||data.lastGuessWrong)) {
+            context.globalAlpha =
+              data.failedSinceLastRender? data.failedSinceLastRender/ data.framesSinceLastRender:1;
+            context.strokeStyle = "#ff0000";
+            context.beginPath();
+            context.moveTo(
+              (node.x + this.camera.x) * this.meta.ratio,
+              (node.y + this.camera.y) * this.meta.ratio
+            );
+            context.lineTo(
+              (link.forward.x + this.camera.x) * this.meta.ratio,
+              (link.forward.y + this.camera.y) * this.meta.ratio
+            );
+            context.closePath();
+            context.stroke();
+            context.globalAlpha = 1;
+          }
+          */
+        });
+      });
+    });
+  };
+  renderTexts = (nn, layers) => {
+    layers.forEach((layer) => {
+      layer.nodes.forEach((node) => {
+        let text = new Text({
+          x: (node.x + this.camera.x) * this.meta.ratio,
+          y: (node.y + this.camera.y) * this.meta.ratio,
+          color: this.colors.outputs,
+        });
+        text.content = "" + parseFloat(node.computedOutput.toFixed(4));
+        text.render(context);
+        if (layer !== nn.inputLayer) {
+          let text2 = new Text({
+            x: (node.x + this.camera.x) * this.meta.ratio,
+            y: (node.y - this.nodeSize * 1.2 + this.camera.y) * this.meta.ratio,
+            color: this.colors.biases,
+          });
+          text2.content = "" + parseFloat(node.bias.toFixed(4));
+          text2.render(context);
+        }
+        node.forwardLinks.forEach((link) => {
+          let text = new Text({
+            x:
+              (link.backward.x +
+                (link.forward.x - link.backward.x) / 1.5 +
+                this.camera.x) *
+              this.meta.ratio,
+            y:
+              (link.backward.y +
+                (link.forward.y - link.backward.y) / 1.5 +
+                this.camera.y) *
+              this.meta.ratio,
+            color: this.colors.weights,
+          });
+          text.content = "" + parseFloat(link.weight.toFixed(4));
+          text.render(context);
+        });
+      });
+    });
+  };
+  /**
+   * Displays the color legend
+   */
+  renderInfo = () => {
+    ["outputs", "weights", "biases"].forEach((label, i) => {
+      context.fillStyle = this.colors[label];
+      context.fillRect(10, i * 30 + 80, 20, 20);
+      let oText = new Text({
+        x: 35,
+        y: i * 30 + 10 + 80,
+        color: this.colors[label],
+        align: "left",
+      });
+      oText.content = label;
+      oText.render(context);
+    });
+  };
+  renderData = (data) => {
+    let iText = new Text({
+      x: window.innerWidth - 20,
+      y: 10 + 80,
+      color: this.colors.infoText,
+      align: "right",
+    });
+    iText.content = `Epoch: ${data.iterations}`;
+    iText.render(context);
+
+    let lText = new Text({
+      x: window.innerWidth - 20,
+      y: 30 + 80,
+      color: this.colors.infoText,
+      align: "right",
+    });
+    lText.content = `Accuracy(300): ${data.accuracyLatter}%`;
+
+    lText.render(context);
+    let aText = new Text({
+      x: window.innerWidth - 20,
+      y: 50 + 80,
+      color: this.colors.infoText,
+      align: "right",
+    });
+    aText.content = `Total accuracy: ${data.accuracy}%`;
+    aText.render(context);
+  };
+}

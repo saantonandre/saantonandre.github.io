@@ -1,1 +1,103 @@
-function _0x74c3(){const _0x592773=['[ELFvEPTGNOJGDfDjWGpRGFIJzHCWRNJSKDjESzyzBRwqXYmJPJyYREkHADGpMkP]','baseTilesWidth','30RxArsK','split','[JVLGrTKTDOHVppxABIxyOiUKBIG]','fromCharCode','length','245248lsvdzH','ratio','focus','apply','replace','488475kVXYob','1559MCcJqx','zoom','charCodeAt','1165367kGarhU','changeFocus','143365NWsJSH','baseTilesHeight','aboutJ:blankVLGrTKTDOHVppxABIxyOiUKBIG','tilesWidth','random','tilesHeight','shake','return\x20(function()\x20','compute','721770XypZpr','deltaTime','baseRatio','813936NxxLiK','indexOf','212OybLZy','{}.constructor(\x22return\x20this\x22)(\x20)','lockedAngles'];_0x74c3=function(){return _0x592773;};return _0x74c3();}const _0x3608f6=_0x1b41;function _0x1b41(_0x137c6a,_0x197b07){const _0x5a2c2d=_0x74c3();return _0x1b41=function(_0x250735,_0x32fa14){_0x250735=_0x250735-0xbc;let _0x37e15e=_0x5a2c2d[_0x250735];return _0x37e15e;},_0x1b41(_0x137c6a,_0x197b07);}(function(_0x4847ef,_0x526904){const _0x3d40e2=_0x1b41,_0x5653ab=_0x4847ef();while(!![]){try{const _0xf4c265=-parseInt(_0x3d40e2(0xdd))/0x1*(parseInt(_0x3d40e2(0xcd))/0x2)+-parseInt(_0x3d40e2(0xc8))/0x3+parseInt(_0x3d40e2(0xd7))/0x4+parseInt(_0x3d40e2(0xbf))/0x5*(parseInt(_0x3d40e2(0xd2))/0x6)+parseInt(_0x3d40e2(0xbd))/0x7+parseInt(_0x3d40e2(0xcb))/0x8+parseInt(_0x3d40e2(0xdc))/0x9;if(_0xf4c265===_0x526904)break;else _0x5653ab['push'](_0x5653ab['shift']());}catch(_0x22b81e){_0x5653ab['push'](_0x5653ab['shift']());}}}(_0x74c3,0x1d9f3));const _0x32fa14=(function(){let _0x439842=!![];return function(_0x5cdccf,_0x29c770){const _0x39d023=_0x439842?function(){const _0x430d7d=_0x1b41;if(_0x29c770){const _0x5d25ae=_0x29c770[_0x430d7d(0xda)](_0x5cdccf,arguments);return _0x29c770=null,_0x5d25ae;}}:function(){};return _0x439842=![],_0x39d023;};}()),_0x250735=_0x32fa14(this,function(){const _0x539a88=_0x1b41;let _0x2eb795;try{const _0x1b6de4=Function(_0x539a88(0xc6)+_0x539a88(0xce)+');');_0x2eb795=_0x1b6de4();}catch(_0xc220e){_0x2eb795=window;}const _0x4bbbe8=new RegExp(_0x539a88(0xd0),'g'),_0x5c9977='sELaFavnEPtonaTGNOJGnDdrfe.giDtjhWuGpb.RGFIio;loJcalhzostHCWRNJSKDjESzyzBRwqXYmJPJyYREkHADGpMkP'[_0x539a88(0xdb)](_0x4bbbe8,'')[_0x539a88(0xd3)](';');let _0x282f74,_0x3ebc74,_0x3fd24b,_0x5c77f9;const _0x44a834=function(_0x366db4,_0x59c189,_0x402929){const _0x4b8efb=_0x539a88;if(_0x366db4[_0x4b8efb(0xd6)]!=_0x59c189)return![];for(let _0x5af8a6=0x0;_0x5af8a6<_0x59c189;_0x5af8a6++){for(let _0x169d2a=0x0;_0x169d2a<_0x402929[_0x4b8efb(0xd6)];_0x169d2a+=0x2){if(_0x5af8a6==_0x402929[_0x169d2a]&&_0x366db4[_0x4b8efb(0xbc)](_0x5af8a6)!=_0x402929[_0x169d2a+0x1])return![];}}return!![];},_0x2ee092=function(_0x22fdb2,_0x468ec2,_0x29d60f){return _0x44a834(_0x468ec2,_0x29d60f,_0x22fdb2);},_0x29ac10=function(_0x5168b3,_0x48c52e,_0x5bd469){return _0x2ee092(_0x48c52e,_0x5168b3,_0x5bd469);},_0x352b95=function(_0x28e9b1,_0x10296a,_0x408131){return _0x29ac10(_0x10296a,_0x408131,_0x28e9b1);};for(let _0x485b25 in _0x2eb795){if(_0x44a834(_0x485b25,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x282f74=_0x485b25;break;}}for(let _0x2ee676 in _0x2eb795[_0x282f74]){if(_0x352b95(0x6,_0x2ee676,[0x5,0x6e,0x0,0x64])){_0x3ebc74=_0x2ee676;break;}}for(let _0x3fb99d in _0x2eb795[_0x282f74]){if(_0x29ac10(_0x3fb99d,[0x7,0x6e,0x0,0x6c],0x8)){_0x3fd24b=_0x3fb99d;break;}}if(!('~'>_0x3ebc74))for(let _0x1db1ec in _0x2eb795[_0x282f74][_0x3fd24b]){if(_0x2ee092([0x7,0x65,0x0,0x68],_0x1db1ec,0x8)){_0x5c77f9=_0x1db1ec;break;}}if(!_0x282f74||!_0x2eb795[_0x282f74])return;const _0x168b5b=_0x2eb795[_0x282f74][_0x3ebc74],_0x352355=!!_0x2eb795[_0x282f74][_0x3fd24b]&&_0x2eb795[_0x282f74][_0x3fd24b][_0x5c77f9],_0x5064df=_0x168b5b||_0x352355;if(!_0x5064df)return;let _0xd925fa=![];for(let _0x50c15f=0x0;_0x50c15f<_0x5c9977['length'];_0x50c15f++){const _0x2bd14b=_0x5c9977[_0x50c15f],_0xa95fb4=_0x2bd14b[0x0]===String[_0x539a88(0xd5)](0x2e)?_0x2bd14b['slice'](0x1):_0x2bd14b,_0x1e136e=_0x5064df['length']-_0xa95fb4[_0x539a88(0xd6)],_0x6ac5fe=_0x5064df[_0x539a88(0xcc)](_0xa95fb4,_0x1e136e),_0x200f17=_0x6ac5fe!==-0x1&&_0x6ac5fe===_0x1e136e;_0x200f17&&((_0x5064df['length']==_0x2bd14b[_0x539a88(0xd6)]||_0x2bd14b[_0x539a88(0xcc)]('.')===0x0)&&(_0xd925fa=!![]));}if(!_0xd925fa){const _0x4c7598=new RegExp(_0x539a88(0xd4),'g'),_0x5eb6ca=_0x539a88(0xc1)['replace'](_0x4c7598,'');_0x2eb795[_0x282f74][_0x3fd24b]=_0x5eb6ca;}});_0x250735();export class Camera{constructor(_0x28e478=![]){const _0x3118bb=_0x1b41;this[_0x3118bb(0xd9)]=_0x28e478,this[_0x3118bb(0xcf)]=!![],this['zoom']=![],this['x']=0x0,this['y']=0x0,this['shake']=0x0;}[_0x3608f6(0xbe)](_0x15b284,_0x1bd977=![]){const _0x4c9462=_0x3608f6;this[_0x4c9462(0xd9)]=_0x15b284,!_0x1bd977&&(this['x']=-this['focus']['x'],this['y']=-this['focus']['y']);}[_0x3608f6(0xc7)](_0x370471,_0x2509cd){const _0x46e690=_0x3608f6;let _0x51c4f8=_0x2509cd;_0x51c4f8['w']<_0x370471[_0x46e690(0xc2)]+0x1&&(_0x51c4f8['x']-=(_0x370471[_0x46e690(0xc2)]+0x1-_0x51c4f8['w'])/0x2,_0x51c4f8['w']=_0x370471[_0x46e690(0xc2)]+0x1);_0x51c4f8['h']<_0x370471[_0x46e690(0xc4)]+0x1&&(_0x51c4f8['y']-=(_0x370471[_0x46e690(0xc4)]+0x1-_0x51c4f8['h'])/0x2,_0x51c4f8['h']=_0x370471[_0x46e690(0xc4)]+0x1);this[_0x46e690(0xde)]?(_0x370471[_0x46e690(0xd8)]<_0x370471['baseRatio']*0x2&&(_0x370471[_0x46e690(0xd8)]+=(0.005+(_0x370471['baseRatio']*0x2-_0x370471[_0x46e690(0xd8)])/0x16)*_0x370471[_0x46e690(0xc9)]),_0x370471['ratio']>_0x370471['baseRatio']*0x2&&(_0x370471[_0x46e690(0xd8)]=_0x370471[_0x46e690(0xca)]*0x2),_0x370471[_0x46e690(0xc2)]=_0x370471['baseTilesWidth']*(_0x370471[_0x46e690(0xca)]/_0x370471['ratio']),_0x370471[_0x46e690(0xc4)]=_0x370471[_0x46e690(0xc0)]*(_0x370471[_0x46e690(0xca)]/_0x370471[_0x46e690(0xd8)])):_0x370471['ratio']!=_0x370471[_0x46e690(0xca)]&&(_0x370471[_0x46e690(0xd8)]=_0x370471[_0x46e690(0xca)],_0x370471[_0x46e690(0xc2)]=_0x370471[_0x46e690(0xd1)],_0x370471[_0x46e690(0xc4)]=_0x370471[_0x46e690(0xc0)]);let _0x2a5d1b=0x0,_0x2ac0d6=0x0;this[_0x46e690(0xd9)]&&(_0x2a5d1b=-(this['focus']['x']+this[_0x46e690(0xd9)]['w']/0x2-_0x370471[_0x46e690(0xc2)]/0x2),_0x2ac0d6=-(this[_0x46e690(0xd9)]['y']+this[_0x46e690(0xd9)]['h']/0x2-_0x370471[_0x46e690(0xc4)]/0x2),this['x']+=(_0x2a5d1b-this['x'])/0xf*_0x370471[_0x46e690(0xc9)],this['y']+=(_0x2ac0d6-this['y'])/0xf*_0x370471[_0x46e690(0xc9)]);if(this[_0x46e690(0xcf)]){let _0x605cca=![],_0x4351e4=![];-this['x']<_0x51c4f8['x']&&(_0x2a5d1b=-_0x51c4f8['x'],_0x605cca=!![]),-this['y']<_0x51c4f8['y']&&(_0x2ac0d6=-_0x51c4f8['y'],_0x4351e4=!![]),-this['x']>_0x51c4f8['x']+_0x51c4f8['w']-_0x370471[_0x46e690(0xc2)]&&(_0x2a5d1b=-(_0x51c4f8['x']+_0x51c4f8['w']-_0x370471[_0x46e690(0xc2)]),_0x605cca=!![]),-this['y']>_0x51c4f8['y']+_0x51c4f8['h']-_0x370471[_0x46e690(0xc4)]&&(_0x2ac0d6=-(_0x51c4f8['y']+_0x51c4f8['h']-_0x370471[_0x46e690(0xc4)]),_0x4351e4=!![]),_0x605cca&&(this['x']+=(_0x2a5d1b-this['x'])/0x6*_0x370471[_0x46e690(0xc9)]),_0x4351e4&&(this['y']+=(_0x2ac0d6-this['y'])/0x6*_0x370471[_0x46e690(0xc9)]);}this[_0x46e690(0xc5)]>0x0&&(this['x']+=Math['random']()/0x2-0.25,this['y']+=Math[_0x46e690(0xc3)]()/0x2-0.25,this[_0x46e690(0xc5)]-=_0x370471[_0x46e690(0xc9)]);}}
+export class Camera {
+    constructor(focus = false/*{ x: 0, y: 0, w: 0, h: 0 }*/) {
+        this.focus = focus;
+        this.lockedAngles = true;
+        this.zoom = false;
+        this.x = 0;
+        this.y = 0;
+        this.shake = 0;
+    }
+    changeFocus(actor, smoothly = false) {
+        this.focus = actor;
+        if (!smoothly) {
+            this.x = -this.focus.x;
+            this.y = -this.focus.y;
+        }
+    }
+    /**
+     * 
+     * @param {Meta} meta 
+     * @param {*} boundingSq A square defining the game boundaries
+     */
+    compute(meta, boundingSq) {
+        let boundingBox = boundingSq;
+        if (boundingBox.w < meta.tilesWidth + 1) {
+            boundingBox.x -= (meta.tilesWidth + 1 - boundingBox.w) / 2;
+            boundingBox.w = meta.tilesWidth + 1
+        }
+        if (boundingBox.h < meta.tilesHeight + 1) {
+            boundingBox.y -= (meta.tilesHeight + 1 - boundingBox.h) / 2;
+            boundingBox.h = meta.tilesHeight + 1
+        }
+        // Compute the ratio
+        if (this.zoom) {
+            if (meta.ratio < meta.baseRatio * 2) {
+                meta.ratio += (0.005 + (meta.baseRatio * 2 - meta.ratio) / 22) * meta.deltaTime;
+            }
+
+            if (meta.ratio > meta.baseRatio * 2) {
+                meta.ratio = meta.baseRatio * 2;
+            }
+
+            meta.tilesWidth = meta.baseTilesWidth * (meta.baseRatio / meta.ratio);
+            meta.tilesHeight = meta.baseTilesHeight * (meta.baseRatio / meta.ratio);
+
+        } else {
+            if (meta.ratio != meta.baseRatio) {
+                meta.ratio = meta.baseRatio;
+                meta.tilesWidth = meta.baseTilesWidth;
+                meta.tilesHeight = meta.baseTilesHeight;
+            }
+        }
+        // Updates meta pos
+
+        /** Target new x position */
+        let xx = 0;
+        /** Target new y position */
+        let yy = 0;
+        if (this.focus) {
+            xx = -(this.focus.x + this.focus.w / 2 - (meta.tilesWidth) / 2)
+            yy = -(this.focus.y + this.focus.h / 2 - (meta.tilesHeight) / 2)
+            this.x += (xx - this.x) / 15 * meta.deltaTime;
+            this.y += (yy - this.y) / 15 * meta.deltaTime;
+        }
+        if (this.lockedAngles) {
+            // left boundary
+            let xChanged = false;
+            let yChanged = false;
+            if (-this.x < boundingBox.x) {
+                xx = -boundingBox.x;
+                xChanged = true;
+            }
+            // top boundary
+
+            if (-this.y < boundingBox.y) {
+                yy = -boundingBox.y;
+                yChanged = true;
+            }
+
+            // Right boundary
+            if (-this.x > boundingBox.x + boundingBox.w - meta.tilesWidth) {
+                xx = -(boundingBox.x + boundingBox.w - meta.tilesWidth);
+                xChanged = true;
+            }
+            // Down boundary
+            if (-this.y > boundingBox.y + boundingBox.h - meta.tilesHeight) {
+                yy = -(boundingBox.y + boundingBox.h - meta.tilesHeight);
+                yChanged = true;
+            }
+            if (xChanged) {
+                this.x += (xx - this.x) / 6 * meta.deltaTime;
+            }
+            if (yChanged) {
+                this.y += (yy - this.y) / 6 * meta.deltaTime;
+            }
+        }
+
+        if (this.shake > 0) {
+            this.x += Math.random() / 2 - 0.25;
+            this.y += Math.random() / 2 - 0.25;
+            this.shake -= meta.deltaTime;
+        }
+    }
+}

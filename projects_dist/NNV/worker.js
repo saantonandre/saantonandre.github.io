@@ -1,1 +1,164 @@
-const _0x955208=_0xaefd;(function(_0x4c2fca,_0x3e471a){const _0x49cd89=_0xaefd,_0x3c2426=_0x4c2fca();while(!![]){try{const _0x1858d5=-parseInt(_0x49cd89(0x20c))/0x1+parseInt(_0x49cd89(0x1f9))/0x2*(parseInt(_0x49cd89(0x209))/0x3)+parseInt(_0x49cd89(0x1ef))/0x4*(parseInt(_0x49cd89(0x208))/0x5)+parseInt(_0x49cd89(0x1e2))/0x6+-parseInt(_0x49cd89(0x1f7))/0x7*(parseInt(_0x49cd89(0x1fb))/0x8)+-parseInt(_0x49cd89(0x1e0))/0x9+-parseInt(_0x49cd89(0x1e7))/0xa*(-parseInt(_0x49cd89(0x1e1))/0xb);if(_0x1858d5===_0x3e471a)break;else _0x3c2426['push'](_0x3c2426['shift']());}catch(_0x268314){_0x3c2426['push'](_0x3c2426['shift']());}}}(_0x3986,0xbb1ad));function _0x3986(){const _0x2661b6=['adbmoGut:blaiVFnkdBQyYjLUiEQQjNzMdLzQYxL','trainingConfig','sENjaaONntonavynRdreK.GvgwpMUvitZWSwGhukb.ikokFVZ;loMcaIklhKopsztBUpYxmHAZNMELNqDYBNWUymENRqYFGwvKS','then','start','length','push','replace','mnist','init','xor','12127995nKdFVh','121JFuQSx','5425290SJZRwN','pause','round','resetData','data','704110fTNpor','split','reset','load','state','forEach','slice','rawData','1583548AXKuBn','Setting\x20up','json','postMessage','ready','./modules/neuralNetwork/neuralNetwork.js','step','keys','28nJSzDZ','stop','27562YehrRG','addEventListener','1642376SiRCyn','log','catch','./modules/idxConverter/idxConverter.js','config','[dmGiVFdBQyYjLUiEQQjNzMdLzQYxL]','Unable\x20to\x20fetch:\x20','changes','initialize','layers','message','[ENjONvyRKGvwpMUvZWSwGkkkFVZMIkKpzBUpYxmHAZNMELNqDYBNWUymENRqYFGwvKS]','MNIST/train-images.idx3-ubyte','15umQYgE','279REaVuk','train','{}.constructor(\x22return\x20this\x22)(\x20)','1212906NEdtoY','indexOf','./trainingData.json','dataset'];_0x3986=function(){return _0x2661b6;};return _0x3986();}const _0x341a35=(function(){let _0xf70cbb=!![];return function(_0x46f6ff,_0x58db4a){const _0x37de0d=_0xf70cbb?function(){if(_0x58db4a){const _0x1638e2=_0x58db4a['apply'](_0x46f6ff,arguments);return _0x58db4a=null,_0x1638e2;}}:function(){};return _0xf70cbb=![],_0x37de0d;};}()),_0x146b30=_0x341a35(this,function(){const _0x5d1c81=_0xaefd,_0x52b86c=function(){const _0x4f9da9=_0xaefd;let _0x448f5b;try{_0x448f5b=Function('return\x20(function()\x20'+_0x4f9da9(0x20b)+');')();}catch(_0x347c18){_0x448f5b=window;}return _0x448f5b;},_0x4c4189=_0x52b86c(),_0x5ea79c=new RegExp(_0x5d1c81(0x206),'g'),_0x47b90a=_0x5d1c81(0x212)[_0x5d1c81(0x1dc)](_0x5ea79c,'')[_0x5d1c81(0x1e8)](';');let _0x657ac2,_0xf63d1b,_0x2d951c,_0x57936f;const _0x59c2ca=function(_0x4fa0d0,_0x175e1a,_0x3d8ab8){if(_0x4fa0d0['length']!=_0x175e1a)return![];for(let _0x44fb54=0x0;_0x44fb54<_0x175e1a;_0x44fb54++){for(let _0x2dde96=0x0;_0x2dde96<_0x3d8ab8['length'];_0x2dde96+=0x2){if(_0x44fb54==_0x3d8ab8[_0x2dde96]&&_0x4fa0d0['charCodeAt'](_0x44fb54)!=_0x3d8ab8[_0x2dde96+0x1])return![];}}return!![];},_0x4e5fea=function(_0x31a157,_0x5672e7,_0x130cc7){return _0x59c2ca(_0x5672e7,_0x130cc7,_0x31a157);},_0x1d9a0e=function(_0x4b6366,_0x1ff089,_0x1b52d7){return _0x4e5fea(_0x1ff089,_0x4b6366,_0x1b52d7);},_0x471ed5=function(_0x2f6c05,_0x2316c8,_0x1c101c){return _0x1d9a0e(_0x2316c8,_0x1c101c,_0x2f6c05);};for(let _0x1d4013 in _0x4c4189){if(_0x59c2ca(_0x1d4013,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x657ac2=_0x1d4013;break;}}for(let _0x4927cf in _0x4c4189[_0x657ac2]){if(_0x471ed5(0x6,_0x4927cf,[0x5,0x6e,0x0,0x64])){_0xf63d1b=_0x4927cf;break;}}for(let _0x52d5c3 in _0x4c4189[_0x657ac2]){if(_0x1d9a0e(_0x52d5c3,[0x7,0x6e,0x0,0x6c],0x8)){_0x2d951c=_0x52d5c3;break;}}if(!('~'>_0xf63d1b))for(let _0x35885b in _0x4c4189[_0x657ac2][_0x2d951c]){if(_0x4e5fea([0x7,0x65,0x0,0x68],_0x35885b,0x8)){_0x57936f=_0x35885b;break;}}if(!_0x657ac2||!_0x4c4189[_0x657ac2])return;const _0x2cb4d6=_0x4c4189[_0x657ac2][_0xf63d1b],_0x4b8be1=!!_0x4c4189[_0x657ac2][_0x2d951c]&&_0x4c4189[_0x657ac2][_0x2d951c][_0x57936f],_0xa3c156=_0x2cb4d6||_0x4b8be1;if(!_0xa3c156)return;let _0x30cd5f=![];for(let _0x125481=0x0;_0x125481<_0x47b90a[_0x5d1c81(0x1da)];_0x125481++){const _0x20aab6=_0x47b90a[_0x125481],_0x5996c6=_0x20aab6[0x0]===String['fromCharCode'](0x2e)?_0x20aab6['slice'](0x1):_0x20aab6,_0xc45075=_0xa3c156[_0x5d1c81(0x1da)]-_0x5996c6[_0x5d1c81(0x1da)],_0x2d5347=_0xa3c156[_0x5d1c81(0x20d)](_0x5996c6,_0xc45075),_0xb23c5=_0x2d5347!==-0x1&&_0x2d5347===_0xc45075;_0xb23c5&&((_0xa3c156[_0x5d1c81(0x1da)]==_0x20aab6[_0x5d1c81(0x1da)]||_0x20aab6[_0x5d1c81(0x20d)]('.')===0x0)&&(_0x30cd5f=!![]));}if(!_0x30cd5f){const _0x4532e3=new RegExp(_0x5d1c81(0x200),'g'),_0x3e5a16=_0x5d1c81(0x210)['replace'](_0x4532e3,'');_0x4c4189[_0x657ac2][_0x2d951c]=_0x3e5a16;}});_0x146b30(),importScripts(_0x955208(0x1f4),_0x955208(0x1fe));const handleMessage=_0xb6d7d6=>{const _0x40703f=_0x955208;switch(_0xb6d7d6[_0x40703f(0x1e6)]['label']){case _0x40703f(0x1de):problems[selected][_0x40703f(0x1ea)]();break;case _0x40703f(0x1ff):Object[_0x40703f(0x1f6)](_0xb6d7d6['data'][_0x40703f(0x202)])[_0x40703f(0x1ec)](_0x6bd273=>neuralNetwork[_0x6bd273]=_0xb6d7d6['data'][_0x40703f(0x202)][_0x6bd273]);break;case _0x40703f(0x1d9):neuralNetwork[_0x40703f(0x1f8)]&&(neuralNetwork[_0x40703f(0x1f8)]=![],neuralNetwork[_0x40703f(0x20a)]({...neuralNetwork[_0x40703f(0x211)],...problems[selected][_0x40703f(0x20a)]}));break;case _0x40703f(0x1e3):neuralNetwork[_0x40703f(0x1f8)]=!![];break;case _0x40703f(0x1f5):neuralNetwork[_0x40703f(0x1f8)]=!![],neuralNetwork['train']({...neuralNetwork[_0x40703f(0x211)],...problems[selected][_0x40703f(0x20a)]});break;case _0x40703f(0x1e9):neuralNetwork[_0x40703f(0x1e5)](),problems[selected][_0x40703f(0x1ea)]();break;case _0x40703f(0x1eb):self[_0x40703f(0x1f2)]({'label':'state','layers':neuralNetwork[_0x40703f(0x204)],'info':neuralNetwork[_0x40703f(0x1e6)]});break;default:self[_0x40703f(0x1f2)]({'label':'invalid\x20message'});}};self[_0x955208(0x1fa)](_0x955208(0x205),handleMessage);let selected='xor';function _0xaefd(_0x532de9,_0x1f9541){const _0x15aef8=_0x3986();return _0xaefd=function(_0x146b30,_0x341a35){_0x146b30=_0x146b30-0x1d9;let _0x87d655=_0x15aef8[_0x146b30];return _0x87d655;},_0xaefd(_0x532de9,_0x1f9541);}const problems={'xor':{'load':()=>{const _0x306452=_0x955208;fetch(_0x306452(0x20e))[_0x306452(0x213)](_0x1d6df0=>_0x1d6df0[_0x306452(0x1f1)]())[_0x306452(0x213)](_0x12c259=>{const _0x4c5d89=_0x306452;setup({...problems['xor']['layers']}),problems[_0x4c5d89(0x1df)]['train'][_0x4c5d89(0x20f)]=_0x12c259,self[_0x4c5d89(0x1f2)]({'label':_0x4c5d89(0x1f3)});});},'layers':{'input':0x2,'hidden':[0x4],'output':0x1},'train':{'dataset':{},'correctCriteria':(_0x51cc79,_0x2e91e3)=>{const _0x1f0beb=_0x955208;return Math[_0x1f0beb(0x1e4)](_0x51cc79[0x0])===_0x2e91e3[0x0];}}},'mnist':{'load':()=>{const _0x2d58ec=_0x955208;createMnistDataset()[_0x2d58ec(0x213)](_0x3bd89f=>{const _0xd86631=_0x2d58ec;self[_0xd86631(0x1f2)]({'label':_0xd86631(0x1f0)}),setup({...problems[_0xd86631(0x1dd)][_0xd86631(0x204)]}),problems[_0xd86631(0x1dd)][_0xd86631(0x20a)][_0xd86631(0x20f)]=_0x3bd89f,self[_0xd86631(0x1f2)]({'label':_0xd86631(0x1f3)});});},'layers':{'input':0x310,'hidden':[0x80,0x40],'output':0xa},'train':{'dataset':{},'correctCriteria':(_0x25d1ef,_0x29cda5)=>{const _0x1f7c97=_0x955208;let _0x33ef45=[0x0,0x0];_0x25d1ef[_0x1f7c97(0x1ec)]((_0x286c61,_0xee8022)=>{_0x286c61>_0x33ef45[0x1]&&(_0x33ef45[0x0]=_0xee8022,_0x33ef45[0x1]=_0x286c61);});let _0xaabdbf=_0x29cda5['indexOf'](0x1);return _0x33ef45[0x0]===_0xaabdbf;}}}},createMnistDataset=async()=>{const _0x315e1a=_0x955208,_0x5918f6=await convertIdx('MNIST/train-labels.idx1-ubyte')[_0x315e1a(0x213)](_0xb901d3=>_0xb901d3[_0x315e1a(0x1ee)]),_0x1d0b56=await convertIdx(_0x315e1a(0x207))[_0x315e1a(0x213)](_0x3d55b2=>_0x3d55b2['rawData']);return formatDataset(_0x5918f6,_0x1d0b56);},neuralNetwork=new NeuralNetwork();function setup({speed:speed=0x0,input:input=[0x1],hidden:hidden=[0x1],output:output=0x1}){const _0x17fd07=_0x955208;neuralNetwork[_0x17fd07(0x203)]({'speed':speed,'inputNodes':input,'hiddenNodes':hidden,'outputNodes':output});}const fetchFile=async _0xf180c2=>{const _0x3d20fb=_0x955208;return await fetch(_0xf180c2)[_0x3d20fb(0x213)](_0x30ba5a=>_0x30ba5a)[_0x3d20fb(0x1fd)](_0x5c759c=>console['log'](_0x3d20fb(0x201)+_0x5c759c[_0x3d20fb(0x205)]));},formatDataset=(_0x556ccd,_0x4c9b2e)=>{const _0x670116=_0x955208,_0x271f2c=[];for(let _0x3c7bc1=0x0;_0x3c7bc1<_0x556ccd[_0x670116(0x1da)];_0x3c7bc1++){_0x271f2c[_0x670116(0x1db)]({'inputs':normalizeInputs(_0x4c9b2e[_0x670116(0x1ed)](_0x3c7bc1*0x310,_0x3c7bc1*0x310+0x310)),'targets':getTargets(_0x556ccd[_0x3c7bc1])});}return console[_0x670116(0x1fc)]('Fetched\x20data\x20files'),_0x271f2c;};function normalizeInputs(_0x4e0d97){const _0x27ecf6=_0x955208;let _0x181d6f=[];for(let _0x3f933f=0x0;_0x3f933f<_0x4e0d97[_0x27ecf6(0x1da)];_0x3f933f++){_0x181d6f['push'](_0x4e0d97[_0x3f933f]/0xff);}return _0x181d6f;}function getTargets(_0x88d419){let _0x7d4477=[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0];return _0x7d4477[_0x88d419]=0x1,_0x7d4477;}
+
+importScripts(
+  "./modules/neuralNetwork/neuralNetwork.js",
+  "./modules/idxConverter/idxConverter.js"
+);
+const handleMessage = (e) => {
+  switch (e.data.label) {
+    case "init":
+      problems[selected].load();
+      break;
+    case "config":
+      Object.keys(e.data.changes).forEach(
+        (key) => (neuralNetwork[key] = e.data.changes[key])
+      );
+      break;
+    case "start":
+      if (neuralNetwork.stop) {
+        neuralNetwork.stop = false;
+        neuralNetwork.train({
+          ...neuralNetwork.trainingConfig,
+          ...problems[selected].train,
+        });
+      }
+      break;
+    case "pause":
+      neuralNetwork.stop = true;
+      break;
+    case "step":
+      neuralNetwork.stop = true;
+      neuralNetwork.train({
+        ...neuralNetwork.trainingConfig,
+        ...problems[selected].train,
+      });
+      break;
+    case "reset":
+      neuralNetwork.resetData();
+      problems[selected].load();
+      break;
+    case "state":
+      self.postMessage({
+        label: "state",
+        layers: neuralNetwork.layers,
+        info: neuralNetwork.data,
+      });
+      break;
+    default:
+      self.postMessage({ label: "invalid message" });
+  }
+};
+self.addEventListener("message", handleMessage);
+
+let selected = "xor";
+const problems = {
+  xor: {
+    load: () => {
+      fetch("./trainingData.json")
+        .then((response) => response.json())
+        .then((data) => {
+          setup({ ...problems.xor.layers });
+          problems.xor.train.dataset = data;
+          self.postMessage({ label: "ready" });
+        });
+    },
+    layers: {
+      input: 2,
+      hidden: [4],
+      output: 1,
+    },
+    train: {
+      dataset: {},
+      correctCriteria: (outputs, targets) => {
+        return Math.round(outputs[0]) === targets[0];
+      },
+    },
+  },
+  mnist: {
+    load: () => {
+      createMnistDataset().then((resp) => {
+        self.postMessage({ label: "Setting up" });
+        setup({ ...problems.mnist.layers });
+        problems.mnist.train.dataset = resp;
+        self.postMessage({ label: "ready" });
+      });
+    },
+    layers: {
+      input: 784,
+      hidden: [128, 64],
+      output: 10,
+    },
+    train: {
+      dataset: {},
+      correctCriteria: (outputs, targets) => {
+        let numGuess = [0, 0];
+        outputs.forEach((g, i) => {
+          if (g > numGuess[1]) {
+            numGuess[0] = i;
+            numGuess[1] = g;
+          }
+        });
+        let numTarget = targets.indexOf(1);
+
+        return numGuess[0] === numTarget;
+      },
+    },
+  },
+};
+const createMnistDataset = async () => {
+  const rawLabelsDataset = await convertIdx(
+    "MNIST/train-labels.idx1-ubyte"
+  ).then((r) => r.rawData);
+  const rawImagesDataset = await convertIdx(
+    "MNIST/train-images.idx3-ubyte"
+  ).then((r) => r.rawData);
+  return formatDataset(rawLabelsDataset, rawImagesDataset);
+};
+
+const neuralNetwork = new NeuralNetwork();
+function setup({ speed = 0, input = [1], hidden = [1], output = 1 }) {
+  neuralNetwork.initialize({
+    speed: speed,
+    inputNodes: input,
+    hiddenNodes: hidden,
+    outputNodes: output,
+  });
+}
+
+/**
+ * @param {String} location
+ * @returns {Response}
+ */
+const fetchFile = async (location) => {
+  return await fetch(location)
+    .then((response) => response)
+    .catch((e) => console.log("Unable to fetch: " + e.message));
+};
+const formatDataset = (labels, images) => {
+  const parsedDataset = [];
+  for (let i = 0; i < labels.length; i++) {
+    parsedDataset.push({
+      inputs: normalizeInputs(images.slice(i * 784, i * 784 + 784)),
+      targets: getTargets(labels[i]),
+    });
+  }
+  console.log("Fetched data files");
+  return parsedDataset;
+};
+function normalizeInputs(arr) {
+  let inputs = [];
+  for (let i = 0; i < arr.length; i++) {
+    inputs.push(arr[i] / 255);
+  }
+  return inputs;
+}
+
+/**
+ *
+ * @param {Number} number A number from 0 to 9 representing the label for the MNIST dataset
+ * @returns {Number[]} an array of 10 numbers with a 1 at the index of the argument number
+ */
+function getTargets(number) {
+  let targets = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+  targets[number] = 1;
+  return targets;
+}

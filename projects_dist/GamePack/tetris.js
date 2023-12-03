@@ -1,1 +1,373 @@
-function _0x1351(_0x5ed648,_0x43dfbd){const _0x404918=_0x1ab8();return _0x1351=function(_0x2c1bd3,_0x23b6cf){_0x2c1bd3=_0x2c1bd3-0x1ed;let _0x15cbc8=_0x404918[_0x2c1bd3];return _0x15cbc8;},_0x1351(_0x5ed648,_0x43dfbd);}const _0x5cd420=_0x1351;(function(_0x563175,_0x2fd84d){const _0x5aad66=_0x1351,_0x255168=_0x563175();while(!![]){try{const _0x370267=parseInt(_0x5aad66(0x21c))/0x1+parseInt(_0x5aad66(0x20b))/0x2+-parseInt(_0x5aad66(0x20e))/0x3+-parseInt(_0x5aad66(0x20f))/0x4+-parseInt(_0x5aad66(0x20d))/0x5*(parseInt(_0x5aad66(0x1fb))/0x6)+-parseInt(_0x5aad66(0x21f))/0x7+parseInt(_0x5aad66(0x211))/0x8*(parseInt(_0x5aad66(0x205))/0x9);if(_0x370267===_0x2fd84d)break;else _0x255168['push'](_0x255168['shift']());}catch(_0x12fd34){_0x255168['push'](_0x255168['shift']());}}}(_0x1ab8,0xbc01f));function _0x1ab8(){const _0x542877=['initialY','purple','shapes','blue','colors','return\x20(function()\x20','indexOf','[qUNJvTIBreCmBivcxUeXJExVYCRBJGP]','yellow','397737mxLtpM','length','addEventListener','shape','stroke','cols','777338cddTFE','push','7561165XLOIuX','3838410UYVTcJ','2665960qolSVj','pushAtPos','648BLWJoU','ticks','fillStyle','cells','replace','checkCols','black','canRotate','tetromino','moveLeft','beginPath','1001894ydNRVi','cellsValue','formation','5193468jgZGuA','initBoard','counter','hardDrop','compute','red','green','apply','rot','checkLines','strokeStyle','cellSize','initialX','rect','clearAtPos','fromCharCode','charCodeAt','fillRect','rotate','moveRight','split','closePath','nextShape','updateFormation','[DXCxLZPFJxvPDfwMAMMwqONjVwQpxpDRpONOmfGxMZXCCvzGfEJCYJUVByJKLXATJLHWzOw]','orange','speed','6eNZmnk'];_0x1ab8=function(){return _0x542877;};return _0x1ab8();}const _0x23b6cf=(function(){let _0x1d5a74=!![];return function(_0x3ea96a,_0x2dd04f){const _0x17c842=_0x1d5a74?function(){const _0x27d484=_0x1351;if(_0x2dd04f){const _0x2f1a83=_0x2dd04f[_0x27d484(0x226)](_0x3ea96a,arguments);return _0x2dd04f=null,_0x2f1a83;}}:function(){};return _0x1d5a74=![],_0x17c842;};}()),_0x2c1bd3=_0x23b6cf(this,function(){const _0x4d2e22=_0x1351,_0x1b4d05=function(){const _0x522a2f=_0x1351;let _0x44b9aa;try{_0x44b9aa=Function(_0x522a2f(0x201)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x4004f7){_0x44b9aa=window;}return _0x44b9aa;},_0x40fb39=_0x1b4d05(),_0x37acd5=new RegExp(_0x4d2e22(0x1f8),'g'),_0x5a8f05='DXCxsLaZanPtoFJxnanvdrPDe.fgwMAiMMtwqhONjuVbw.iQpxo;lopcDaRlhopstONOmfGxMZXCCvzGfEJCYJUVByJKLXATJLHWzOw'[_0x4d2e22(0x215)](_0x37acd5,'')[_0x4d2e22(0x1f4)](';');let _0x3ea523,_0x3662cb,_0x1e6b37,_0xccd230;const _0x34732e=function(_0x1821d0,_0x976313,_0x4eb589){const _0x3dec15=_0x4d2e22;if(_0x1821d0['length']!=_0x976313)return![];for(let _0x23a9ab=0x0;_0x23a9ab<_0x976313;_0x23a9ab++){for(let _0x3798ad=0x0;_0x3798ad<_0x4eb589[_0x3dec15(0x206)];_0x3798ad+=0x2){if(_0x23a9ab==_0x4eb589[_0x3798ad]&&_0x1821d0[_0x3dec15(0x1f0)](_0x23a9ab)!=_0x4eb589[_0x3798ad+0x1])return![];}}return!![];},_0x2c022f=function(_0x10f2c5,_0x5a881c,_0x2f974e){return _0x34732e(_0x5a881c,_0x2f974e,_0x10f2c5);},_0x39d1cb=function(_0x42cc64,_0x1e3445,_0x3ddb7c){return _0x2c022f(_0x1e3445,_0x42cc64,_0x3ddb7c);},_0x33ec76=function(_0x261a3f,_0x742b64,_0x59326c){return _0x39d1cb(_0x742b64,_0x59326c,_0x261a3f);};for(let _0x2d3b46 in _0x40fb39){if(_0x34732e(_0x2d3b46,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x3ea523=_0x2d3b46;break;}}for(let _0x11e539 in _0x40fb39[_0x3ea523]){if(_0x33ec76(0x6,_0x11e539,[0x5,0x6e,0x0,0x64])){_0x3662cb=_0x11e539;break;}}for(let _0x6098c5 in _0x40fb39[_0x3ea523]){if(_0x39d1cb(_0x6098c5,[0x7,0x6e,0x0,0x6c],0x8)){_0x1e6b37=_0x6098c5;break;}}if(!('~'>_0x3662cb))for(let _0x4b3873 in _0x40fb39[_0x3ea523][_0x1e6b37]){if(_0x2c022f([0x7,0x65,0x0,0x68],_0x4b3873,0x8)){_0xccd230=_0x4b3873;break;}}if(!_0x3ea523||!_0x40fb39[_0x3ea523])return;const _0xf808b2=_0x40fb39[_0x3ea523][_0x3662cb],_0x39591c=!!_0x40fb39[_0x3ea523][_0x1e6b37]&&_0x40fb39[_0x3ea523][_0x1e6b37][_0xccd230],_0x55264b=_0xf808b2||_0x39591c;if(!_0x55264b)return;let _0x5ba408=![];for(let _0x25bc00=0x0;_0x25bc00<_0x5a8f05[_0x4d2e22(0x206)];_0x25bc00++){const _0x264da2=_0x5a8f05[_0x25bc00],_0x1b6351=_0x264da2[0x0]===String[_0x4d2e22(0x1ef)](0x2e)?_0x264da2['slice'](0x1):_0x264da2,_0x3faea8=_0x55264b['length']-_0x1b6351[_0x4d2e22(0x206)],_0x7df33e=_0x55264b[_0x4d2e22(0x202)](_0x1b6351,_0x3faea8),_0x50e93c=_0x7df33e!==-0x1&&_0x7df33e===_0x3faea8;_0x50e93c&&((_0x55264b['length']==_0x264da2[_0x4d2e22(0x206)]||_0x264da2[_0x4d2e22(0x202)]('.')===0x0)&&(_0x5ba408=!![]));}if(!_0x5ba408){const _0x34b242=new RegExp(_0x4d2e22(0x203),'g'),_0x4a9040='qaUNJbout:blanvTkIBreCmBivcxUeXJExVYCRBJGP'['replace'](_0x34b242,'');_0x40fb39[_0x3ea523][_0x1e6b37]=_0x4a9040;}});_0x2c1bd3();class Tetromino{constructor(){const _0x5119bd=_0x1351;this['initialX']=0x5,this['initialY']=0x0,this['x']=this[_0x5119bd(0x22b)],this['y']=this['initialY'],this[_0x5119bd(0x208)],this[_0x5119bd(0x21e)]=[],this[_0x5119bd(0x227)]=0x0,this[_0x5119bd(0x1fe)]=['I','O','Z','ZR','L','LR','T'];let _0x5b6e5f=[[[0x1,0x1],[0x1,0x1]]],_0x163d87=[[[0x2],[0x2],[0x2],[0x2]],[[0x2,0x2,0x2,0x2]]],_0x4c76f2=[[[0x3],[0x3],[0x3,0x3]],[[0x3,0x3,0x3],[0x3]],[[0x3,0x3],[0x0,0x3],[0x0,0x3]],[[0x0,0x0,0x3],[0x3,0x3,0x3]]],_0x4c256e=[[[0x0,0x4],[0x0,0x4],[0x4,0x4]],[[0x4],[0x4,0x4,0x4]],[[0x4,0x4],[0x4],[0x4]],[[0x4,0x4,0x4],[0x0,0x0,0x4]]],_0x954ba=[[[0x5,0x5],[0x0,0x5,0x5]],[[0x0,0x5],[0x5,0x5],[0x5]]],_0x4cf5ca=[[[0x0,0x6,0x6],[0x6,0x6]],[[0x6],[0x6,0x6],[0x0,0x6]]],_0xef17f0=[[[0x7,0x7,0x7],[0x0,0x7]],[[0x0,0x7],[0x7,0x7],[0x0,0x7]],[[0x0,0x7],[0x7,0x7,0x7]],[[0x7],[0x7,0x7],[0x7]]];this[_0x5119bd(0x1fe)]=[],this[_0x5119bd(0x1fe)]['push'](_0xef17f0),this['shapes'][_0x5119bd(0x20c)](_0x163d87),this[_0x5119bd(0x1fe)][_0x5119bd(0x20c)](_0x5b6e5f),this[_0x5119bd(0x1fe)][_0x5119bd(0x20c)](_0x954ba),this[_0x5119bd(0x1fe)]['push'](_0x4cf5ca),this[_0x5119bd(0x1fe)][_0x5119bd(0x20c)](_0x4c76f2),this[_0x5119bd(0x1fe)]['push'](_0x4c256e),this['nextShape']();}[_0x5cd420(0x1f6)](){const _0x372a62=_0x5cd420;this[_0x372a62(0x208)]=this[_0x372a62(0x1fe)][Math['random']()*0x7|0x0],this[_0x372a62(0x227)]=0x0,this['updateFormation']();}[_0x5cd420(0x1f7)](){const _0x4c5a74=_0x5cd420;this['formation']=this[_0x4c5a74(0x208)][this[_0x4c5a74(0x227)]]['slice']();}}class Tetris{constructor(){const _0x4d2eb7=_0x5cd420;this[_0x4d2eb7(0x22a)]=0x19,this[_0x4d2eb7(0x21d)]=0x2,this[_0x4d2eb7(0x1fa)]=0x1,this[_0x4d2eb7(0x214)]=[],this['tetromino']=new Tetromino(),this[_0x4d2eb7(0x200)]=[_0x4d2eb7(0x204),'cyan',_0x4d2eb7(0x1f9),_0x4d2eb7(0x1ff),_0x4d2eb7(0x224),_0x4d2eb7(0x225),_0x4d2eb7(0x1fd)],this['w']=0xc,this['h']=0x16,this['score']=0x0,this[_0x4d2eb7(0x212)]=0x1e,this[_0x4d2eb7(0x221)]=0x0,this['cols']={'L':0x0,'R':0x0,'T':0x0,'B':0x0},document[_0x4d2eb7(0x207)]('keyup',function(_0x424c2c){const _0x34b03c=_0x4d2eb7;let _0x21a86b=_0x424c2c['which'];switch(_0x21a86b){case 0x25:tetris[_0x34b03c(0x21a)]();break;case 0x26:tetris[_0x34b03c(0x1f2)]();break;case 0x27:tetris[_0x34b03c(0x1f3)]();break;case 0x28:tetris['hardDrop']();break;}}),this[_0x4d2eb7(0x220)](),this[_0x4d2eb7(0x210)](this[_0x4d2eb7(0x219)]['x'],this[_0x4d2eb7(0x219)]['y']);}['initBoard'](){const _0x38a903=_0x5cd420;this[_0x38a903(0x214)]=[];for(let _0x48944f=0x0;_0x48944f<this['w'];_0x48944f++){this[_0x38a903(0x214)]['push']([]);for(let _0x56750b=0x0;_0x56750b<this['h'];_0x56750b++){this['cells'][_0x48944f]['push'](0x0);}}}[_0x5cd420(0x210)](_0x401e27,_0x45c488){const _0x31d6e2=_0x5cd420;for(let _0x1e6d60=0x0;_0x1e6d60<this[_0x31d6e2(0x219)][_0x31d6e2(0x21e)]['length'];_0x1e6d60++){for(let _0x265437=0x0;_0x265437<this['tetromino']['formation'][_0x1e6d60][_0x31d6e2(0x206)];_0x265437++){if(this[_0x31d6e2(0x219)][_0x31d6e2(0x21e)][_0x1e6d60][_0x265437]==0x0)continue;this[_0x31d6e2(0x214)][_0x401e27+_0x265437][_0x45c488+_0x1e6d60]=this[_0x31d6e2(0x219)][_0x31d6e2(0x21e)][_0x1e6d60][_0x265437];}}}[_0x5cd420(0x1ee)](_0xbb2348,_0x5826f9){const _0x2c1b34=_0x5cd420;for(let _0x1821de=0x0;_0x1821de<this[_0x2c1b34(0x219)][_0x2c1b34(0x21e)][_0x2c1b34(0x206)];_0x1821de++){for(let _0x245e40=0x0;_0x245e40<this[_0x2c1b34(0x219)][_0x2c1b34(0x21e)][_0x1821de][_0x2c1b34(0x206)];_0x245e40++){this[_0x2c1b34(0x219)][_0x2c1b34(0x21e)][_0x1821de][_0x245e40]&&(this[_0x2c1b34(0x214)][_0xbb2348+_0x245e40][_0x5826f9+_0x1821de]=0x0);}}}[_0x5cd420(0x222)](){const _0x1cc944=_0x5cd420;while(!this[_0x1cc944(0x20a)]['B']){this[_0x1cc944(0x223)]();}}[_0x5cd420(0x216)](){const _0x3a4e9e=_0x5cd420;this[_0x3a4e9e(0x1ee)](this[_0x3a4e9e(0x219)]['x'],this[_0x3a4e9e(0x219)]['y']);let _0x5dd069=this[_0x3a4e9e(0x219)][_0x3a4e9e(0x21e)],_0x56fa89=this[_0x3a4e9e(0x219)]['x'],_0x33dc73=this[_0x3a4e9e(0x219)]['y'];this[_0x3a4e9e(0x20a)]['L']=0x0,this[_0x3a4e9e(0x20a)]['R']=0x0,this[_0x3a4e9e(0x20a)]['T']=0x0,this[_0x3a4e9e(0x20a)]['B']=0x0;for(let _0x1103b3=0x0;_0x1103b3<_0x5dd069['length'];_0x1103b3++){for(let _0x2a3054=0x0;_0x2a3054<_0x5dd069[_0x1103b3][_0x3a4e9e(0x206)];_0x2a3054++){if(_0x5dd069[_0x1103b3][_0x2a3054]==0x0)continue;if(_0x2a3054+_0x56fa89-0x1<0x0)this[_0x3a4e9e(0x20a)]['L']=0x1;else this[_0x3a4e9e(0x214)][_0x2a3054+_0x56fa89-0x1][_0x1103b3+_0x33dc73]&&(this[_0x3a4e9e(0x20a)]['L']=0x1);if(_0x2a3054+_0x56fa89+0x1>=this['w'])this[_0x3a4e9e(0x20a)]['R']=0x1;else this[_0x3a4e9e(0x214)][_0x2a3054+_0x56fa89+0x1][_0x1103b3+_0x33dc73]&&(this[_0x3a4e9e(0x20a)]['R']=0x1);if(_0x1103b3+_0x33dc73-0x1<0x0)this['cols']['T']=0x1;else this[_0x3a4e9e(0x214)][_0x2a3054+_0x56fa89][_0x1103b3+_0x33dc73-0x1]&&(this['cols']['T']=0x1);if(_0x1103b3+_0x33dc73+0x1>=this['h'])this[_0x3a4e9e(0x20a)]['B']=0x1;else this[_0x3a4e9e(0x214)][_0x2a3054+_0x56fa89][_0x1103b3+_0x33dc73+0x1]&&(this[_0x3a4e9e(0x20a)]['B']=0x1);}}this[_0x3a4e9e(0x210)](this[_0x3a4e9e(0x219)]['x'],this[_0x3a4e9e(0x219)]['y']);}['canRotate'](){const _0x771de6=_0x5cd420;this[_0x771de6(0x1ee)](this[_0x771de6(0x219)]['x'],this[_0x771de6(0x219)]['y']);let _0x2fdef2=this[_0x771de6(0x219)]['rot']+0x1;_0x2fdef2>=this['tetromino'][_0x771de6(0x208)][_0x771de6(0x206)]&&(_0x2fdef2=0x0);let _0x9482b0=this['tetromino']['shape'][_0x2fdef2],_0x2fd4a8=this[_0x771de6(0x219)]['x'],_0x5e0506=this['tetromino']['y'];for(let _0xda0a95=0x0;_0xda0a95<_0x9482b0[_0x771de6(0x206)];_0xda0a95++){for(let _0x3be52e=0x0;_0x3be52e<_0x9482b0[_0xda0a95][_0x771de6(0x206)];_0x3be52e++){if(_0x9482b0[_0xda0a95][_0x3be52e]==0x0)continue;if(_0xda0a95+_0x5e0506<0x0||_0xda0a95+_0x5e0506>=this['h']||_0x3be52e+_0x2fd4a8<0x0||_0x3be52e+_0x2fd4a8>=this['w'])return this[_0x771de6(0x210)](this[_0x771de6(0x219)]['x'],this[_0x771de6(0x219)]['y']),![];else{if(this[_0x771de6(0x214)][_0x3be52e+_0x2fd4a8][_0xda0a95+_0x5e0506])return this[_0x771de6(0x210)](this[_0x771de6(0x219)]['x'],this[_0x771de6(0x219)]['y']),![];}}}return this['pushAtPos'](this[_0x771de6(0x219)]['x'],this[_0x771de6(0x219)]['y']),!![];}[_0x5cd420(0x21a)](){const _0x564e99=_0x5cd420;if(this[_0x564e99(0x20a)]['L'])return;this['clearAtPos'](this[_0x564e99(0x219)]['x'],this['tetromino']['y']),this[_0x564e99(0x219)]['x']--,this[_0x564e99(0x210)](this[_0x564e99(0x219)]['x'],this['tetromino']['y']),this[_0x564e99(0x216)]();}[_0x5cd420(0x1f3)](){const _0x318e4b=_0x5cd420;if(this[_0x318e4b(0x20a)]['R'])return;this['clearAtPos'](this[_0x318e4b(0x219)]['x'],this['tetromino']['y']),this[_0x318e4b(0x219)]['x']++,this['pushAtPos'](this[_0x318e4b(0x219)]['x'],this[_0x318e4b(0x219)]['y']),this['checkCols']();}[_0x5cd420(0x1f2)](){const _0x237fe6=_0x5cd420;if(!this[_0x237fe6(0x218)]())return;this[_0x237fe6(0x1ee)](this[_0x237fe6(0x219)]['x'],this[_0x237fe6(0x219)]['y']),this['tetromino'][_0x237fe6(0x227)]++,this['tetromino'][_0x237fe6(0x227)]>this[_0x237fe6(0x219)][_0x237fe6(0x208)][_0x237fe6(0x206)]-0x1&&(this['tetromino'][_0x237fe6(0x227)]=0x0),this['tetromino'][_0x237fe6(0x1f7)](),this[_0x237fe6(0x210)](this[_0x237fe6(0x219)]['x'],this[_0x237fe6(0x219)]['y']),this['checkCols']();}[_0x5cd420(0x228)](){const _0x41edd9=_0x5cd420;for(let _0xc6093c=0x0;_0xc6093c<this['h'];_0xc6093c++){let _0x30cdda=!![];for(let _0x140478=0x0;_0x140478<this['w'];_0x140478++){this[_0x41edd9(0x214)][_0x140478][_0xc6093c]==0x0&&(_0x30cdda=![]);}if(_0x30cdda){for(let _0x4aca8d=0x0;_0x4aca8d<this['w'];_0x4aca8d++){this[_0x41edd9(0x214)][_0x4aca8d]['splice'](_0xc6093c,0x1),this[_0x41edd9(0x214)][_0x4aca8d]['splice'](0x0,0x0,0x0);}this[_0x41edd9(0x228)]();return;}}}[_0x5cd420(0x223)](){const _0x712811=_0x5cd420;this[_0x712811(0x20a)]['B']?(this[_0x712811(0x219)]['x']=this[_0x712811(0x219)][_0x712811(0x22b)],this[_0x712811(0x219)]['y']=this[_0x712811(0x219)][_0x712811(0x1fc)],this[_0x712811(0x219)]['nextShape'](),this[_0x712811(0x210)](this[_0x712811(0x219)]['x'],this[_0x712811(0x219)]['y']),this[_0x712811(0x216)](),this[_0x712811(0x228)]()):(this[_0x712811(0x1ee)](this[_0x712811(0x219)]['x'],this[_0x712811(0x219)]['y']),this['tetromino']['y']++,this[_0x712811(0x210)](this[_0x712811(0x219)]['x'],this['tetromino']['y']),this[_0x712811(0x216)](),this[_0x712811(0x228)]());}['render'](){const _0x2a4775=_0x5cd420;this['counter']++;this[_0x2a4775(0x221)]>=this['ticks']&&(this[_0x2a4775(0x221)]=0x0,this[_0x2a4775(0x223)]());c[_0x2a4775(0x213)]=_0x2a4775(0x217),c[_0x2a4775(0x1f1)](0x0,0x0,this['w']*this[_0x2a4775(0x22a)],this['h']*this['cellSize']);for(let _0x2f02bf=0x0;_0x2f02bf<this['w'];_0x2f02bf++){for(let _0x1950b1=0x0;_0x1950b1<this['h'];_0x1950b1++){this[_0x2a4775(0x214)][_0x2f02bf][_0x1950b1]!=0x0&&(c[_0x2a4775(0x213)]=this[_0x2a4775(0x200)][this[_0x2a4775(0x214)][_0x2f02bf][_0x1950b1]-0x1],c[_0x2a4775(0x1f1)](_0x2f02bf*this[_0x2a4775(0x22a)],_0x1950b1*this['cellSize'],this[_0x2a4775(0x22a)],this['cellSize'])),c[_0x2a4775(0x229)]='black',c[_0x2a4775(0x21b)](),c[_0x2a4775(0x1ed)](_0x2f02bf*this[_0x2a4775(0x22a)],_0x1950b1*this[_0x2a4775(0x22a)],this[_0x2a4775(0x22a)],this[_0x2a4775(0x22a)]),c[_0x2a4775(0x1f5)](),c[_0x2a4775(0x209)]();}}}}
+// TETROMINOS
+class Tetromino {
+  constructor() {
+    this.initialX = 5;
+    this.initialY = 0;
+    this.x = this.initialX;
+    this.y = this.initialY;
+    this.shape;
+    this.formation = [];
+    this.rot = 0;
+    this.shapes = ["I", "O", "Z", "ZR", "L", "LR", "T"];
+
+    let shapeO = [
+      [
+        [1, 1],
+        [1, 1],
+      ],
+    ];
+
+    let shapeI = [[[2], [2], [2], [2]], [[2, 2, 2, 2]]];
+
+    let shapeL = [
+      [[3], [3], [3, 3]],
+      [[3, 3, 3], [3]],
+      [
+        [3, 3],
+        [0, 3],
+        [0, 3],
+      ],
+      [
+        [0, 0, 3],
+        [3, 3, 3],
+      ],
+    ];
+
+    let shapeLR = [
+      [
+        [0, 4],
+        [0, 4],
+        [4, 4],
+      ],
+      [[4], [4, 4, 4]],
+      [[4, 4], [4], [4]],
+      [
+        [4, 4, 4],
+        [0, 0, 4],
+      ],
+    ];
+
+    let shapeZ = [
+      [
+        [5, 5],
+        [0, 5, 5],
+      ],
+      [[0, 5], [5, 5], [5]],
+    ];
+
+    let shapeZR = [
+      [
+        [0, 6, 6],
+        [6, 6],
+      ],
+      [[6], [6, 6], [0, 6]],
+    ];
+
+    let shapeT = [
+      [
+        [7, 7, 7],
+        [0, 7],
+      ],
+      [
+        [0, 7],
+        [7, 7],
+        [0, 7],
+      ],
+      [
+        [0, 7],
+        [7, 7, 7],
+      ],
+      [[7], [7, 7], [7]],
+    ];
+
+    this.shapes = [];
+    this.shapes.push(shapeT);
+    this.shapes.push(shapeI);
+    this.shapes.push(shapeO);
+    this.shapes.push(shapeZ);
+    this.shapes.push(shapeZR);
+    this.shapes.push(shapeL);
+    this.shapes.push(shapeLR);
+    this.nextShape();
+  }
+  nextShape() {
+    this.shape = this.shapes[(Math.random() * 7) | 0];
+    this.rot = 0;
+    this.updateFormation();
+  }
+  updateFormation() {
+    this.formation = this.shape[this.rot].slice();
+  }
+}
+
+class Tetris {
+  constructor() {
+    this.cellSize = 25;
+    this.cellsValue = 2;
+    this.speed = 1;
+    this.cells = [];
+    this.tetromino = new Tetromino();
+    /* Colors
+      O = yellow
+      I = cyan
+      L = orange
+      Lr= blue
+      Z = red
+      Zr = green
+      T = purple
+    */
+    this.colors = [
+      "yellow",
+      "cyan",
+      "orange",
+      "blue",
+      "red",
+      "green",
+      "purple",
+    ];
+    this.w = 12;
+    this.h = 22;
+    this.score = 0;
+    this.ticks = 30;
+    this.counter = 0;
+    this.cols = {
+      L: 0,
+      R: 0,
+      T: 0,
+      B: 0,
+    };
+    document.addEventListener("keyup", function (evt) {
+      let key = evt.which;
+      switch (key) {
+        case 37: // Move left
+          tetris.moveLeft();
+          break;
+        case 38: //
+          tetris.rotate();
+          break;
+        case 39: // Move right
+          tetris.moveRight();
+          break;
+        case 40: //down
+          tetris.hardDrop();
+          break;
+      }
+    });
+    this.initBoard();
+    this.pushAtPos(this.tetromino.x, this.tetromino.y);
+  }
+  initBoard() {
+    this.cells = [];
+    for (let i = 0; i < this.w; i++) {
+      this.cells.push([]);
+      for (let j = 0; j < this.h; j++) {
+        this.cells[i].push(0);
+      }
+    }
+  }
+  pushAtPos(x, y) {
+    for (let i = 0; i < this.tetromino.formation.length; i++) {
+      for (let j = 0; j < this.tetromino.formation[i].length; j++) {
+        if (this.tetromino.formation[i][j] == 0) {
+          continue;
+        }
+        this.cells[x + j][y + i] = this.tetromino.formation[i][j];
+      }
+    }
+  }
+  clearAtPos(x, y) {
+    for (let i = 0; i < this.tetromino.formation.length; i++) {
+      for (let j = 0; j < this.tetromino.formation[i].length; j++) {
+        if (this.tetromino.formation[i][j]) {
+          this.cells[x + j][y + i] = 0;
+        }
+      }
+    }
+  }
+  hardDrop() {
+    while (!this.cols.B) {
+      this.compute();
+    }
+  }
+  checkCols() {
+    // Clears to avoid self-collisions
+    this.clearAtPos(this.tetromino.x, this.tetromino.y);
+
+    let t = this.tetromino.formation;
+    let x = this.tetromino.x;
+    let y = this.tetromino.y;
+    this.cols.L = 0;
+    this.cols.R = 0;
+    this.cols.T = 0;
+    this.cols.B = 0;
+
+    for (let i = 0; i < t.length; i++) {
+      for (let j = 0; j < t[i].length; j++) {
+        if (t[i][j] == 0) {
+          continue;
+        }
+        if (j + x - 1 < 0) {
+          this.cols.L = 1;
+        } else if (this.cells[j + x - 1][i + y]) {
+          // Left col
+          this.cols.L = 1;
+        }
+
+        if (j + x + 1 >= this.w) {
+          this.cols.R = 1;
+        } else if (this.cells[j + x + 1][i + y]) {
+          // Right col
+          this.cols.R = 1;
+        }
+
+        if (i + y - 1 < 0) {
+          this.cols.T = 1;
+        } else if (this.cells[j + x][i + y - 1]) {
+          // Up col
+          this.cols.T = 1;
+        }
+
+        if (i + y + 1 >= this.h) {
+          this.cols.B = 1;
+        } else if (this.cells[j + x][i + y + 1]) {
+          // Down col
+          this.cols.B = 1;
+        }
+      }
+    }
+    // Places again the piece
+    this.pushAtPos(this.tetromino.x, this.tetromino.y);
+  }
+  canRotate() {
+    // Clears to avoid self-collisions
+    this.clearAtPos(this.tetromino.x, this.tetromino.y);
+    let rot = this.tetromino.rot + 1;
+    if (rot >= this.tetromino.shape.length) {
+      rot = 0;
+    }
+    let t = this.tetromino.shape[rot];
+    let x = this.tetromino.x;
+    let y = this.tetromino.y;
+    for (let i = 0; i < t.length; i++) {
+      for (let j = 0; j < t[i].length; j++) {
+        if (t[i][j] == 0) {
+          continue;
+        }
+        if (i + y < 0 || i + y >= this.h || j + x < 0 || j + x >= this.w) {
+          // Places again the piece
+          this.pushAtPos(this.tetromino.x, this.tetromino.y);
+          return false;
+        } else if (this.cells[j + x][i + y]) {
+          // Places again the piece
+          this.pushAtPos(this.tetromino.x, this.tetromino.y);
+          return false;
+        }
+      }
+    }
+    // Places again the piece
+    this.pushAtPos(this.tetromino.x, this.tetromino.y);
+    return true;
+  }
+  moveLeft() {
+    if (this.cols.L) {
+      return;
+    }
+    this.clearAtPos(this.tetromino.x, this.tetromino.y);
+    this.tetromino.x--;
+    this.pushAtPos(this.tetromino.x, this.tetromino.y);
+    this.checkCols();
+  }
+  moveRight() {
+    if (this.cols.R) {
+      return;
+    }
+    this.clearAtPos(this.tetromino.x, this.tetromino.y);
+    this.tetromino.x++;
+    this.pushAtPos(this.tetromino.x, this.tetromino.y);
+    this.checkCols();
+  }
+  rotate() {
+    if (!this.canRotate()) {
+      return;
+    }
+    this.clearAtPos(this.tetromino.x, this.tetromino.y);
+    this.tetromino.rot++;
+    if (this.tetromino.rot > this.tetromino.shape.length - 1) {
+      this.tetromino.rot = 0;
+    }
+    this.tetromino.updateFormation();
+    this.pushAtPos(this.tetromino.x, this.tetromino.y);
+    this.checkCols();
+  }
+  checkLines() {
+    for (let i = 0; i < this.h; i++) {
+      let lined = true;
+      for (let j = 0; j < this.w; j++) {
+        if (this.cells[j][i] == 0) {
+          lined = false;
+        }
+      }
+      if (lined) {
+        for (let j = 0; j < this.w; j++) {
+          this.cells[j].splice(i, 1);
+          this.cells[j].splice(0, 0, 0);
+        }
+        this.checkLines();
+        return;
+      }
+    }
+  }
+  compute() {
+    if (this.cols.B) {
+      this.tetromino.x = this.tetromino.initialX;
+      this.tetromino.y = this.tetromino.initialY;
+      this.tetromino.nextShape();
+      this.pushAtPos(this.tetromino.x, this.tetromino.y);
+      this.checkCols();
+      this.checkLines();
+    } else {
+      this.clearAtPos(this.tetromino.x, this.tetromino.y);
+      this.tetromino.y++;
+      this.pushAtPos(this.tetromino.x, this.tetromino.y);
+      this.checkCols();
+      this.checkLines();
+    }
+  }
+  render() {
+    this.counter++;
+    if (this.counter >= this.ticks) {
+      this.counter = 0;
+      this.compute();
+    }
+    c.fillStyle = "black";
+    c.fillRect(
+      0,
+      0,
+      this.w*this.cellSize,
+      this.h*this.cellSize
+    )
+    for (let i = 0; i < this.w; i++) {
+      for (let j = 0; j < this.h; j++) {
+        if (this.cells[i][j] != 0) {
+          c.fillStyle = this.colors[this.cells[i][j] - 1];
+          c.fillRect(
+            i * this.cellSize,
+            j * this.cellSize,
+            this.cellSize,
+            this.cellSize
+          );
+        }
+        c.strokeStyle = "black";
+        c.beginPath();
+        c.rect(
+          i * this.cellSize,
+          j * this.cellSize,
+          this.cellSize,
+          this.cellSize
+        );
+        c.closePath();
+        c.stroke();
+      }
+    }
+  }
+}

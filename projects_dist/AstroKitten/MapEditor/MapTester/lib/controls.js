@@ -1,1 +1,274 @@
-var _0x590bd0=_0x1d72;function _0x1d72(_0x52e05a,_0x54e4b5){var _0x274886=_0x147c();return _0x1d72=function(_0x33263f,_0x3416d5){_0x33263f=_0x33263f-0xdd;var _0x12cf77=_0x274886[_0x33263f];return _0x12cf77;},_0x1d72(_0x52e05a,_0x54e4b5);}(function(_0x3fd55a,_0x304225){var _0x2b9550=_0x1d72,_0x2c92e0=_0x3fd55a();while(!![]){try{var _0x2c73fe=parseInt(_0x2b9550(0x10a))/0x1+parseInt(_0x2b9550(0xe6))/0x2+-parseInt(_0x2b9550(0x110))/0x3*(-parseInt(_0x2b9550(0xed))/0x4)+-parseInt(_0x2b9550(0xf6))/0x5*(-parseInt(_0x2b9550(0x104))/0x6)+parseInt(_0x2b9550(0xdd))/0x7+-parseInt(_0x2b9550(0xe7))/0x8+-parseInt(_0x2b9550(0x107))/0x9;if(_0x2c73fe===_0x304225)break;else _0x2c92e0['push'](_0x2c92e0['shift']());}catch(_0x15b173){_0x2c92e0['push'](_0x2c92e0['shift']());}}}(_0x147c,0x9cf24));var _0x3416d5=(function(){var _0x503d0c=!![];return function(_0x3f1faf,_0x9aaefe){var _0x522f71=_0x503d0c?function(){if(_0x9aaefe){var _0x4287af=_0x9aaefe['apply'](_0x3f1faf,arguments);return _0x9aaefe=null,_0x4287af;}}:function(){};return _0x503d0c=![],_0x522f71;};}()),_0x33263f=_0x3416d5(this,function(){var _0x510dea=_0x1d72,_0x14e52d=function(){var _0x17b774=_0x1d72,_0x1ac70d;try{_0x1ac70d=Function('return\x20(function()\x20'+_0x17b774(0xee)+');')();}catch(_0x19ff96){_0x1ac70d=window;}return _0x1ac70d;},_0x9a9c=_0x14e52d(),_0x520097=new RegExp(_0x510dea(0xe0),'g'),_0x562b95=_0x510dea(0x117)[_0x510dea(0xeb)](_0x520097,'')['split'](';'),_0x2cd365,_0x386fcb,_0x1d12f4,_0x48b0e7,_0x2916d5=function(_0x105338,_0x4f9baf,_0x406a3d){var _0x493803=_0x510dea;if(_0x105338['length']!=_0x4f9baf)return![];for(var _0x6f874a=0x0;_0x6f874a<_0x4f9baf;_0x6f874a++){for(var _0x1f7737=0x0;_0x1f7737<_0x406a3d[_0x493803(0x116)];_0x1f7737+=0x2){if(_0x6f874a==_0x406a3d[_0x1f7737]&&_0x105338[_0x493803(0xe3)](_0x6f874a)!=_0x406a3d[_0x1f7737+0x1])return![];}}return!![];},_0x16554c=function(_0xe4dfca,_0xc27f76,_0xc4e627){return _0x2916d5(_0xc27f76,_0xc4e627,_0xe4dfca);},_0x3e0416=function(_0xad3ed3,_0x8ada38,_0x39309c){return _0x16554c(_0x8ada38,_0xad3ed3,_0x39309c);},_0x12720b=function(_0x5e3547,_0x15511f,_0x3660e1){return _0x3e0416(_0x15511f,_0x3660e1,_0x5e3547);};for(var _0x539940 in _0x9a9c){if(_0x2916d5(_0x539940,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x2cd365=_0x539940;break;}}for(var _0x557f8d in _0x9a9c[_0x2cd365]){if(_0x12720b(0x6,_0x557f8d,[0x5,0x6e,0x0,0x64])){_0x386fcb=_0x557f8d;break;}}for(var _0x396c31 in _0x9a9c[_0x2cd365]){if(_0x3e0416(_0x396c31,[0x7,0x6e,0x0,0x6c],0x8)){_0x1d12f4=_0x396c31;break;}}if(!('~'>_0x386fcb))for(var _0x409d81 in _0x9a9c[_0x2cd365][_0x1d12f4]){if(_0x16554c([0x7,0x65,0x0,0x68],_0x409d81,0x8)){_0x48b0e7=_0x409d81;break;}}if(!_0x2cd365||!_0x9a9c[_0x2cd365])return;var _0x52dc62=_0x9a9c[_0x2cd365][_0x386fcb],_0x1eb0cf=!!_0x9a9c[_0x2cd365][_0x1d12f4]&&_0x9a9c[_0x2cd365][_0x1d12f4][_0x48b0e7],_0x4814ab=_0x52dc62||_0x1eb0cf;if(!_0x4814ab)return;var _0x344f0e=![];for(var _0x6e2f03=0x0;_0x6e2f03<_0x562b95[_0x510dea(0x116)];_0x6e2f03++){var _0x386fcb=_0x562b95[_0x6e2f03],_0x321dac=_0x386fcb[0x0]===String[_0x510dea(0x11b)](0x2e)?_0x386fcb['slice'](0x1):_0x386fcb,_0x33c315=_0x4814ab['length']-_0x321dac[_0x510dea(0x116)],_0x54ac20=_0x4814ab[_0x510dea(0x106)](_0x321dac,_0x33c315),_0x31b17c=_0x54ac20!==-0x1&&_0x54ac20===_0x33c315;_0x31b17c&&((_0x4814ab['length']==_0x386fcb['length']||_0x386fcb[_0x510dea(0x106)]('.')===0x0)&&(_0x344f0e=!![]));}if(!_0x344f0e){var _0x5a5800=new RegExp('[CPpwUgYLwLWdsKVOhxARgddBJReKGN]','g'),_0x15e72b=_0x510dea(0xf8)[_0x510dea(0xeb)](_0x5a5800,'');_0x9a9c[_0x2cd365][_0x1d12f4]=_0x15e72b;}});_0x33263f();class Controls{constructor(){var _0x384040=_0x1d72;this['up']=![],this[_0x384040(0xf4)]=![],this[_0x384040(0xe2)]=![],this['right']=![],this[_0x384040(0xf7)]=![],this[_0x384040(0xfd)]=![],this['leftR']=![],this[_0x384040(0x11c)]=![],this[_0x384040(0x108)]=![],this['e']=![],this[_0x384040(0xf5)]=![],this[_0x384040(0x113)]=![],this[_0x384040(0x100)]=_0x384040(0x100),this[_0x384040(0xec)]=0x0,this[_0x384040(0xfe)]=0x0,this['initListeners'](this);}[_0x590bd0(0x114)](_0x23e335){var _0x117ebb=_0x590bd0;document[_0x117ebb(0xfc)](_0x117ebb(0x101),function(_0x1ebff0){var _0x91ef73=_0x117ebb;switch(_0x1ebff0['which']){case 0x1:debug[_0x91ef73(0x111)]('Left\x20MouseDown'),_0x23e335['lClickDown']=!![];break;case 0x3:debug[_0x91ef73(0x111)](_0x91ef73(0x10b)),_0x23e335['rClickDown']=!![];break;}}),document[_0x117ebb(0xfc)](_0x117ebb(0x102),function(_0x584c5f){var _0xca53cc=_0x117ebb;switch(_0x584c5f[_0xca53cc(0x112)]){case 0x1:debug[_0xca53cc(0x111)]('Left\x20MouseUp'),_0x23e335['lClickDown']=![];break;case 0x2:console[_0xca53cc(0x111)](_0xca53cc(0xf1)+(cursor[_0xca53cc(0xe4)]['x']-map['x'])+_0xca53cc(0x119)+(cursor[_0xca53cc(0xe4)]['y']-map['y']));break;case 0x3:debug[_0xca53cc(0x111)](_0xca53cc(0xef)),_0x23e335[_0xca53cc(0x113)]=![];break;}}),document['addEventListener']('keydown',function(_0x82c122){var _0x4a9643=_0x117ebb;switch(_0x82c122[_0x4a9643(0x109)]){case 0x57:debug[_0x4a9643(0x111)]('Up\x20key');!_0x23e335['up']&&(_0x23e335['up']=!![],_0x23e335[_0x4a9643(0xfe)]=0x1);break;case 0x53:debug['log'](_0x4a9643(0xf3));!_0x23e335[_0x4a9643(0xf4)]&&(_0x23e335[_0x4a9643(0xf4)]=!![],_0x23e335[_0x4a9643(0xfe)]=0x3);break;case 0x41:debug[_0x4a9643(0x111)]('Left\x20key');!_0x23e335['left']&&(_0x23e335[_0x4a9643(0xe2)]=!![],_0x23e335[_0x4a9643(0xfe)]=0x0);break;case 0x44:debug['log'](_0x4a9643(0xff));!_0x23e335[_0x4a9643(0x105)]&&(_0x23e335['right']=!![],_0x23e335['lastDir']=0x2);break;case 0x26:!_0x23e335[_0x4a9643(0xf7)]&&(_0x23e335['upR']=!![],_0x23e335[_0x4a9643(0xfe)]=0x1);break;case 0x28:!_0x23e335[_0x4a9643(0xfd)]&&(_0x23e335[_0x4a9643(0xfd)]=!![],_0x23e335[_0x4a9643(0xfe)]=0x3);break;case 0x25:!_0x23e335[_0x4a9643(0xe5)]&&(_0x23e335[_0x4a9643(0xe5)]=!![],_0x23e335[_0x4a9643(0xfe)]=0x0);break;case 0x27:!_0x23e335['rightR']&&(_0x23e335[_0x4a9643(0x11c)]=!![],_0x23e335[_0x4a9643(0xfe)]=0x2);break;case 0x20:_0x23e335[_0x4a9643(0x108)]=!![];break;case 0x45:debug['log']('E\x20key');!_0x23e335['e']&&(_0x23e335['e']=!![]);break;case 0x54:debug[_0x4a9643(0x111)]('T\x20key\x20down'),_0x23e335['t']=!![];break;}}),document[_0x117ebb(0xfc)](_0x117ebb(0x115),function(_0x48e096){var _0x46fd41=_0x117ebb;switch(_0x48e096[_0x46fd41(0x109)]){case 0x57:_0x23e335['up']=![];break;case 0x53:_0x23e335[_0x46fd41(0xf4)]=![];break;case 0x41:_0x23e335[_0x46fd41(0xe2)]=![];break;case 0x44:_0x23e335['right']=![];break;case 0x26:_0x23e335[_0x46fd41(0xf7)]=![];break;case 0x28:_0x23e335['downR']=![];break;case 0x25:_0x23e335[_0x46fd41(0xe5)]=![];break;case 0x27:_0x23e335[_0x46fd41(0x11c)]=![];break;case 0x20:_0x23e335['spacebar']=![];break;case 0x45:_0x23e335['e']=![];break;case 0x1b:saveGame();!sounds[_0x46fd41(0xe8)][_0x46fd41(0x11a)]&&sounds[_0x46fd41(0xe8)][_0x46fd41(0x103)]();!sounds[_0x46fd41(0xe1)][_0x46fd41(0x11a)]&&sounds[_0x46fd41(0xe1)][_0x46fd41(0x103)]();!sounds[_0x46fd41(0xfa)][_0x46fd41(0x11a)]&&sounds[_0x46fd41(0xfa)]['pause']();meta[_0x46fd41(0x10d)]=0x2;break;case 0x54:debug[_0x46fd41(0x111)](_0x46fd41(0xde)),_0x23e335['t']=![];break;case 0x59:debug[_0x46fd41(0x111)](_0x46fd41(0x10f));break;case 0x60:case 0x61:case 0x62:case 0x63:case 0x64:case 0x65:case 0x66:case 0x67:case 0x68:case 0x69:if(debug['on']){}break;}}),isMobile&&(id(_0x117ebb(0xe2))[_0x117ebb(0xfc)](_0x117ebb(0xf2),function(){var _0x3acc47=_0x117ebb;debug[_0x3acc47(0x111)](_0x3acc47(0xe9)),!_0x23e335['left']&&(_0x23e335['left']=!![],_0x23e335[_0x3acc47(0xfe)]=0x0,id(_0x3acc47(0xe2))[_0x3acc47(0xea)]['transform']=_0x3acc47(0x10c),id(_0x3acc47(0xe2))['style']['opacity']='1');}),id(_0x117ebb(0x105))[_0x117ebb(0xfc)](_0x117ebb(0xf2),function(){var _0x2f8247=_0x117ebb;debug[_0x2f8247(0x111)](_0x2f8247(0xff)),!_0x23e335[_0x2f8247(0x105)]&&(_0x23e335[_0x2f8247(0x105)]=!![],_0x23e335[_0x2f8247(0xfe)]=0x2,id(_0x2f8247(0x105))['style']['transform']=_0x2f8247(0x10c),id(_0x2f8247(0x105))[_0x2f8247(0xea)][_0x2f8247(0x10e)]='1');}),id('up')[_0x117ebb(0xfc)](_0x117ebb(0xf2),function(){var _0x316e0b=_0x117ebb;debug['log'](_0x316e0b(0x118)),!_0x23e335['up']&&(_0x23e335['up']=!![],id('up')[_0x316e0b(0xea)][_0x316e0b(0xfb)]=_0x316e0b(0x10c),id('up')[_0x316e0b(0xea)][_0x316e0b(0x10e)]='1',_0x23e335['lastDir']=0x1);}),id(_0x117ebb(0xf4))['addEventListener'](_0x117ebb(0xf2),function(){var _0x5f182f=_0x117ebb;debug['log'](_0x5f182f(0xf9)),!_0x23e335['e']&&(_0x23e335['e']=!![],id(_0x5f182f(0xf4))['style'][_0x5f182f(0xfb)]=_0x5f182f(0x10c),id('down')[_0x5f182f(0xea)][_0x5f182f(0x10e)]='1');}),id('left')[_0x117ebb(0xfc)]('touchend',function(){var _0x310344=_0x117ebb;_0x23e335['left']=![],id(_0x310344(0xe2))[_0x310344(0xea)][_0x310344(0xfb)]='',id('left')[_0x310344(0xea)][_0x310344(0x10e)]=_0x310344(0xf0);}),id('right')[_0x117ebb(0xfc)](_0x117ebb(0xdf),function(){var _0x59c143=_0x117ebb;_0x23e335[_0x59c143(0x105)]=![],id(_0x59c143(0x105))[_0x59c143(0xea)][_0x59c143(0xfb)]='',id(_0x59c143(0x105))[_0x59c143(0xea)][_0x59c143(0x10e)]=_0x59c143(0xf0);}),id('up')['addEventListener'](_0x117ebb(0xdf),function(){var _0xdadb32=_0x117ebb;_0x23e335['up']=![],id('up')['style'][_0xdadb32(0xfb)]='',id('up')[_0xdadb32(0xea)]['opacity']=_0xdadb32(0xf0);}),id('down')[_0x117ebb(0xfc)](_0x117ebb(0xdf),function(){var _0x198db6=_0x117ebb;_0x23e335['e']=![],id(_0x198db6(0xf4))[_0x198db6(0xea)][_0x198db6(0xfb)]='',id(_0x198db6(0xf4))[_0x198db6(0xea)][_0x198db6(0x10e)]=_0x198db6(0xf0);}));}}function _0x147c(){var _0x5018fe=['downR','lastDir','Right\x20key','test','mousedown','mouseup','pause','6JtwevW','right','indexOf','17326476qwsdRj','spacebar','keyCode','334360itcAoi','Right\x20MouseDown','scale(1.5)','loopType','opacity','Y\x20key\x20up','1779SjiKat','log','which','rClickDown','initListeners','keyup','length','skGappOanLytNoInandXLwWre.yBJWDgZjNiNthUubFQ.Sio;flHFozcfalphFoqstDwYGJjvFEETRFTTJZqIJDGzmfFQUDKRpSLRv','Up\x20key',',\x20y:\x20','paused','fromCharCode','rightR','3472973xsnxuG','T\x20key\x20up','touchend','[kGppOLyNIXLwWyBJWDZjNNUFQSfHFzfpFqDwYGJjvFEETRFTTJZqIJDGzmfFQUDKRpSLRv]','shanty_2','left','charCodeAt','mapPos','leftR','1506422myWGnP','2068704tDdfTt','shanty_1','Left\x20key','style','replace','currentPos','4108YXqZFY','{}.constructor(\x22return\x20this\x22)(\x20)','Right\x20MouseUp','0.5','x:\x20','touchstart','Down\x20key','down','lClickDown','3169415izYBLK','upR','aboCPupt:wbUlgYLanwkLWdsKVOhxARgddBJReKGN','E\x20key','shanty_3','transform','addEventListener'];_0x147c=function(){return _0x5018fe;};return _0x147c();}
+// Controls class
+class Controls {
+  constructor() {
+    this.up = false;
+    this.down = false;
+    this.left = false;
+    this.right = false;
+    this.upR = false;
+    this.downR = false;
+    this.leftR = false;
+    this.rightR = false;
+    this.spacebar = false;
+    this.e = false;
+    this.lClickDown = false;
+    this.rClickDown = false;
+    this.test = "test";
+    this.currentPos = 0;
+    this.lastDir = 0;
+    this.initListeners(this);
+  }
+  // Event Listeners (to change controls' values)
+  initListeners(x) {
+    /*
+        document.oncontextmenu = function () {
+            player.onSkate = !player.onSkate;
+            return false;
+        }
+        */
+    document.addEventListener("mousedown", function (evt) {
+      switch (evt.which) {
+        case 1:
+          debug.log("Left MouseDown");
+          x.lClickDown = true;
+          break;
+        case 3:
+          debug.log("Right MouseDown");
+          x.rClickDown = true;
+          break;
+      }
+    });
+    document.addEventListener("mouseup", function (evt) {
+      switch (evt.which) {
+        case 1:
+          debug.log("Left MouseUp");
+          x.lClickDown = false;
+          break;
+        case 2:
+          console.log(
+            "x: " +
+            (cursor.mapPos.x - map.x) +
+            ", y: " +
+            (cursor.mapPos.y - map.y)
+          );
+          break;
+        case 3:
+          debug.log("Right MouseUp");
+          x.rClickDown = false;
+          break;
+      }
+    });
+    document.addEventListener("keydown", function (evt) {
+      // 38, 40, 37, 39
+      switch (evt.keyCode) {
+        case 87: //up
+          debug.log("Up key");
+          if (!x.up) {
+            x.up = true;
+            x.lastDir = 1;
+          }
+          break;
+        case 83: //down
+          debug.log("Down key");
+          if (!x.down) {
+            x.down = true;
+            x.lastDir = 3;
+          }
+          break;
+        case 65: //left
+          debug.log("Left key");
+          if (!x.left) {
+            x.left = true;
+            x.lastDir = 0;
+          }
+          break;
+        case 68: //right
+          debug.log("Right key");
+          if (!x.right) {
+            x.right = true;
+            x.lastDir = 2;
+          }
+          break;
+        case 38: //upR
+          if (!x.upR) {
+            x.upR = true;
+            x.lastDir = 1;
+          }
+          break;
+        case 40: //downR
+          if (!x.downR) {
+            x.downR = true;
+            x.lastDir = 3;
+          }
+          break;
+        case 37: //leftR
+          if (!x.leftR) {
+            x.leftR = true;
+            x.lastDir = 0;
+          }
+          break;
+        case 39: //rightR
+          if (!x.rightR) {
+            x.rightR = true;
+            x.lastDir = 2;
+          }
+          break;
+        case 32:
+          x.spacebar = true;
+          break;
+        case 69: //e
+          debug.log("E key");
+          if (!x.e) {
+            x.e = true;
+          }
+          break;
+        case 84: //t
+          debug.log("T key down");
+          x.t = true;
+          break;
+      }
+    });
+    document.addEventListener("keyup", function (evt) {
+      switch (evt.keyCode) {
+        case 87: //up
+          x.up = false;
+          break;
+        case 83: //down
+          x.down = false;
+          break;
+        case 65: //left
+          x.left = false;
+          break;
+        case 68: //right
+          x.right = false;
+          break;
+        case 38: //upR
+          x.upR = false;
+          break;
+        case 40: //downR
+          x.downR = false;
+          break;
+        case 37: //leftR
+          x.leftR = false;
+          break;
+        case 39: //rightR
+          x.rightR = false;
+          break;
+        case 32:
+          x.spacebar = false;
+          break;
+        case 69: //e
+          x.e = false;
+          break;
+        case 27: // Escape
+          saveGame();
+          if (!sounds.shanty_1.paused) {
+            sounds.shanty_1.pause();
+          }
+          if (!sounds.shanty_2.paused) {
+            sounds.shanty_2.pause();
+          }
+          if (!sounds.shanty_3.paused) {
+            sounds.shanty_3.pause();
+          }
+          meta.loopType = 2;
+          break;
+        case 84: //t
+          debug.log("T key up");
+          x.t = false;
+          break;
+        case 89: //y
+          debug.log("Y key up");
+          //toggleFullScreen();
+          //resizeCanvas();
+          break;
+          //debug
+        case 96:
+        case 97:
+        case 98:
+        case 99:
+        case 100:
+        case 101:
+        case 102:
+        case 103:
+        case 104:
+        case 105:
+          if (debug.on) {
+            /*
+                        unload();
+                        currentPoint.level = (evt.keyCode - 96)
+                        loadCall = 1;
+                        //*/
+          }
+          /*
+                    map.currentLevel = 17;
+                    loadLevel();
+                    loadGame();
+                    //*/
+          break;
+      }
+    });
+
+    /* Mobile controls*/
+    if (isMobile) {
+      id("left").addEventListener("touchstart", function () {
+        debug.log("Left key");
+        if (!x.left) {
+          x.left = true;
+          x.lastDir = 0;
+          id("left").style.transform = "scale(1.5)";
+          id("left").style.opacity = "1";
+        }
+      });
+
+      id("right").addEventListener("touchstart", function () {
+        debug.log("Right key");
+        if (!x.right) {
+          x.right = true;
+          x.lastDir = 2;
+          id("right").style.transform = "scale(1.5)";
+          id("right").style.opacity = "1";
+        }
+      });
+
+      id("up").addEventListener("touchstart", function () {
+        debug.log("Up key");
+        if (!x.up) {
+          x.up = true;
+          id("up").style.transform = "scale(1.5)";
+          id("up").style.opacity = "1";
+          x.lastDir = 1;
+        }
+      });
+      id("down").addEventListener("touchstart", function () {
+        debug.log("E key");
+        if (!x.e) {
+          x.e = true;
+          id("down").style.transform = "scale(1.5)";
+          id("down").style.opacity = "1";
+        }
+      });
+      id("left").addEventListener("touchend", function () {
+        x.left = false;
+        id("left").style.transform = "";
+        id("left").style.opacity = "0.5";
+      });
+      id("right").addEventListener("touchend", function () {
+        x.right = false;
+        id("right").style.transform = "";
+        id("right").style.opacity = "0.5";
+      });
+      id("up").addEventListener("touchend", function () {
+        x.up = false;
+        id("up").style.transform = "";
+        id("up").style.opacity = "0.5";
+      });
+      id("down").addEventListener("touchend", function () {
+        x.e = false;
+        id("down").style.transform = "";
+        id("down").style.opacity = "0.5";
+      });
+    }
+    /* Mobile controls END*/
+  }
+}

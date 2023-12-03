@@ -1,1 +1,128 @@
-(function(_0x2dc987,_0x5db0f2){var _0x565513=_0xac30,_0x2d7352=_0x2dc987();while(!![]){try{var _0x48550f=-parseInt(_0x565513(0x18b))/0x1+parseInt(_0x565513(0x187))/0x2+parseInt(_0x565513(0x19b))/0x3*(parseInt(_0x565513(0x196))/0x4)+parseInt(_0x565513(0x189))/0x5*(parseInt(_0x565513(0x195))/0x6)+parseInt(_0x565513(0x192))/0x7+parseInt(_0x565513(0x199))/0x8+-parseInt(_0x565513(0x194))/0x9*(parseInt(_0x565513(0x18c))/0xa);if(_0x48550f===_0x5db0f2)break;else _0x2d7352['push'](_0x2d7352['shift']());}catch(_0x15b4c3){_0x2d7352['push'](_0x2d7352['shift']());}}}(_0x19a4,0xee945));var _0x3520a9=(function(){var _0x2f2fe1=!![];return function(_0x2fb214,_0x5569c0){var _0x26e2e8=_0x2f2fe1?function(){if(_0x5569c0){var _0x21b5bb=_0x5569c0['apply'](_0x2fb214,arguments);return _0x5569c0=null,_0x21b5bb;}}:function(){};return _0x2f2fe1=![],_0x26e2e8;};}()),_0x109769=_0x3520a9(this,function(){var _0x1a2f04=_0xac30,_0x554130;try{var _0x591dc7=Function(_0x1a2f04(0x1a2)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x554130=_0x591dc7();}catch(_0x54d1e3){_0x554130=window;}var _0x47647b=new RegExp(_0x1a2f04(0x181),'g'),_0x1a3886=_0x1a2f04(0x1a0)[_0x1a2f04(0x197)](_0x47647b,'')[_0x1a2f04(0x191)](';'),_0x47ee32,_0x300960,_0xb28b10,_0x42e23f,_0x48785e=function(_0x511e6e,_0x1a3947,_0x5b8677){var _0x384f4d=_0x1a2f04;if(_0x511e6e[_0x384f4d(0x182)]!=_0x1a3947)return![];for(var _0x1f9c9c=0x0;_0x1f9c9c<_0x1a3947;_0x1f9c9c++){for(var _0x24a69c=0x0;_0x24a69c<_0x5b8677[_0x384f4d(0x182)];_0x24a69c+=0x2){if(_0x1f9c9c==_0x5b8677[_0x24a69c]&&_0x511e6e['charCodeAt'](_0x1f9c9c)!=_0x5b8677[_0x24a69c+0x1])return![];}}return!![];},_0x198a78=function(_0x117577,_0x45da71,_0x43d06b){return _0x48785e(_0x45da71,_0x43d06b,_0x117577);},_0x1206e5=function(_0x785740,_0x54abc9,_0xf538e1){return _0x198a78(_0x54abc9,_0x785740,_0xf538e1);},_0x488192=function(_0x3612e4,_0x52b14a,_0x46a6a9){return _0x1206e5(_0x52b14a,_0x46a6a9,_0x3612e4);};for(var _0x375e5d in _0x554130){if(_0x48785e(_0x375e5d,0x8,[0x7,0x74,0x5,0x65,0x3,0x75,0x0,0x64])){_0x47ee32=_0x375e5d;break;}}for(var _0x209750 in _0x554130[_0x47ee32]){if(_0x488192(0x6,_0x209750,[0x5,0x6e,0x0,0x64])){_0x300960=_0x209750;break;}}for(var _0x155295 in _0x554130[_0x47ee32]){if(_0x1206e5(_0x155295,[0x7,0x6e,0x0,0x6c],0x8)){_0xb28b10=_0x155295;break;}}if(!('~'>_0x300960))for(var _0x1875bf in _0x554130[_0x47ee32][_0xb28b10]){if(_0x198a78([0x7,0x65,0x0,0x68],_0x1875bf,0x8)){_0x42e23f=_0x1875bf;break;}}if(!_0x47ee32||!_0x554130[_0x47ee32])return;var _0x4ac058=_0x554130[_0x47ee32][_0x300960],_0x5b0822=!!_0x554130[_0x47ee32][_0xb28b10]&&_0x554130[_0x47ee32][_0xb28b10][_0x42e23f],_0x192238=_0x4ac058||_0x5b0822;if(!_0x192238)return;var _0x682fa8=![];for(var _0x45820c=0x0;_0x45820c<_0x1a3886[_0x1a2f04(0x182)];_0x45820c++){var _0x300960=_0x1a3886[_0x45820c],_0x34a859=_0x300960[0x0]===String[_0x1a2f04(0x19d)](0x2e)?_0x300960['slice'](0x1):_0x300960,_0x5c1b4d=_0x192238[_0x1a2f04(0x182)]-_0x34a859[_0x1a2f04(0x182)],_0xb9f2ac=_0x192238[_0x1a2f04(0x193)](_0x34a859,_0x5c1b4d),_0x2723a1=_0xb9f2ac!==-0x1&&_0xb9f2ac===_0x5c1b4d;_0x2723a1&&((_0x192238['length']==_0x300960['length']||_0x300960[_0x1a2f04(0x193)]('.')===0x0)&&(_0x682fa8=!![]));}if(!_0x682fa8){var _0x34eb2e=new RegExp(_0x1a2f04(0x18a),'g'),_0x2106d5=_0x1a2f04(0x18d)[_0x1a2f04(0x197)](_0x34eb2e,'');_0x554130[_0x47ee32][_0xb28b10]=_0x2106d5;}});_0x109769();function _0xac30(_0x421d3f,_0x3eb4f1){var _0x3d0007=_0x19a4();return _0xac30=function(_0x109769,_0x3520a9){_0x109769=_0x109769-0x181;var _0x446fe7=_0x3d0007[_0x109769];return _0x446fe7;},_0xac30(_0x421d3f,_0x3eb4f1);}function findShortestPath(_0x280c0c,_0x35ce89){var _0x546e74=_0xac30,_0x4ba4bf=_0x280c0c[0x0],_0x1493fd=_0x280c0c[0x1],_0xbec45e={'distanceFromTop':_0x4ba4bf,'distanceFromLeft':_0x1493fd,'path':[],'status':_0x546e74(0x18e)},_0x395eae=[_0xbec45e];while(_0x395eae[_0x546e74(0x182)]>0x0){var _0x1cb390=_0x395eae[_0x546e74(0x184)]();let _0x574218=exploreInDirection(_0x1cb390,'l',_0x35ce89);if(_0x574218[_0x546e74(0x183)]===_0x546e74(0x1a1))return _0x574218[_0x546e74(0x188)];else _0x574218[_0x546e74(0x183)]===_0x546e74(0x19f)&&_0x395eae[_0x546e74(0x186)](_0x574218);_0x574218=exploreInDirection(_0x1cb390,'b',_0x35ce89);if(_0x574218[_0x546e74(0x183)]===_0x546e74(0x1a1))return _0x574218[_0x546e74(0x188)];else _0x574218['status']===_0x546e74(0x19f)&&_0x395eae[_0x546e74(0x186)](_0x574218);_0x574218=exploreInDirection(_0x1cb390,'r',_0x35ce89);if(_0x574218[_0x546e74(0x183)]===_0x546e74(0x1a1))return _0x574218[_0x546e74(0x188)];else _0x574218[_0x546e74(0x183)]===_0x546e74(0x19f)&&_0x395eae['push'](_0x574218);_0x574218=exploreInDirection(_0x1cb390,'t',_0x35ce89);if(_0x574218[_0x546e74(0x183)]===_0x546e74(0x1a1))return _0x574218[_0x546e74(0x188)];else _0x574218['status']==='Valid'&&_0x395eae['push'](_0x574218);}return![];}function locationStatus(_0x424b59,_0x5c454a){var _0xc389be=_0xac30,_0x24b23c=_0x5c454a[_0xc389be(0x182)],_0x289b4c=_0x424b59[_0xc389be(0x19a)],_0x36654f=_0x424b59[_0xc389be(0x18f)];if(_0x424b59[_0xc389be(0x18f)]<0x0||_0x424b59[_0xc389be(0x18f)]>=_0x24b23c||_0x424b59[_0xc389be(0x19a)]<0x0||_0x424b59[_0xc389be(0x19a)]>=_0x24b23c)return'Invalid';else{if(_0x5c454a[_0x289b4c][_0x36654f]===_0xc389be(0x1a1))return _0xc389be(0x1a1);else return _0x5c454a[_0x289b4c][_0x36654f]!==_0xc389be(0x185)?(0x1,_0xc389be(0x19e)):_0xc389be(0x19f);}}function exploreInDirection(_0x18de19,_0x592db8,_0x32e490){var _0x2fe519=_0xac30,_0x23407e=_0x18de19[_0x2fe519(0x188)][_0x2fe519(0x190)]();_0x23407e['push'](_0x592db8);var _0x162765=_0x18de19[_0x2fe519(0x19a)],_0xed9f24=_0x18de19[_0x2fe519(0x18f)];if(_0x592db8==='l')_0x162765-=0x1;else{if(_0x592db8==='b')_0xed9f24+=0x1;else{if(_0x592db8==='r')_0x162765+=0x1;else _0x592db8==='t'&&(_0xed9f24-=0x1);}}var _0x3144a5={'distanceFromTop':_0x162765,'distanceFromLeft':_0xed9f24,'path':_0x23407e,'status':_0x2fe519(0x19c)};return _0x3144a5[_0x2fe519(0x183)]=locationStatus(_0x3144a5,_0x32e490),_0x3144a5['status']===_0x2fe519(0x19f)&&(_0x32e490[_0x3144a5['distanceFromTop']][_0x3144a5[_0x2fe519(0x18f)]]=_0x2fe519(0x198)),_0x3144a5;}function _0x19a4(){var _0x38cae7=['12fNnBrM','126188UCLiIg','replace','Visited','10159392cjprgd','distanceFromTop','51syzehu','Unknown','fromCharCode','Blocked','Valid','sLaMantofVnanpydZCrype.KgithDuRUxbS.IEimo;MlPocFKIqqWaHFlzhvostTIHzpMGkYvzVyJAVyEwpNCJVyGqJMOzvRLZKNBzkxpCImD','Goal','return\x20(function()\x20','[LMfVpyZCypKDRUxSIEmMPFKIqqWHFzvTIHzpMGkYvzVyJAVyEwpNCJVyGqJMOzvRLZKNBzkxpCImD]','length','status','shift','Empty','push','426686eaQXlr','path','4760900yYCPZs','[yRvJmhfKqWeASyTXgefBFyjNzL]','1613663ccfDlO','2590zOrMiv','ayRbovJmhufKqtWe:bAlSyaTXgefnBkFyjNzL','Start','distanceFromLeft','slice','split','5359445NfnLhp','indexOf','72927UBftHd'];_0x19a4=function(){return _0x38cae7;};return _0x19a4();}
+// Start location will be in the following format:
+// [distanceFromTop, distanceFromLeft]
+function findShortestPath(startCoordinates, grid) {
+    var distanceFromTop = startCoordinates[0];
+    var distanceFromLeft = startCoordinates[1];
+
+    // Each "location" will store its coordinates
+    // and the shortest path required to arrive there
+    var location = {
+        distanceFromTop: distanceFromTop,
+        distanceFromLeft: distanceFromLeft,
+        path: [],
+        status: 'Start'
+    };
+
+    // Initialize the queue with the start location already inside
+    var queue = [location];
+
+    // Loop through the grid searching for the goal
+    while (queue.length > 0) {
+        // Take the first location off the queue
+        var currentLocation = queue.shift();
+
+        // Explore l
+        let newLocation = exploreInDirection(currentLocation, 'l', grid);
+        if (newLocation.status === 'Goal') {
+            return newLocation.path;
+        } else if (newLocation.status === 'Valid') {
+            queue.push(newLocation);
+        }
+
+        // Explore d
+        newLocation = exploreInDirection(currentLocation, 'b', grid);
+        if (newLocation.status === 'Goal') {
+            return newLocation.path;
+        } else if (newLocation.status === 'Valid') {
+            queue.push(newLocation);
+        }
+
+        // Explore r
+        newLocation = exploreInDirection(currentLocation, 'r', grid);
+        if (newLocation.status === 'Goal') {
+            return newLocation.path;
+        } else if (newLocation.status === 'Valid') {
+            queue.push(newLocation);
+        }
+
+        // Explore u
+        newLocation = exploreInDirection(currentLocation, 't', grid);
+        if (newLocation.status === 'Goal') {
+            return newLocation.path;
+        } else if (newLocation.status === 'Valid') {
+            queue.push(newLocation);
+        }
+    }
+
+    // No valid path found
+    return false;
+
+}
+
+// This function will check a location's status
+// (a location is "valid" if it is on the grid, is not an "obstacle",
+// and has not yet been visited by our algorithm)
+// Returns "Valid", "Invalid", "Blocked", or "Goal"
+function locationStatus(location, grid) {
+    var gridSize = grid.length;
+    var dft = location.distanceFromTop;
+    var dfl = location.distanceFromLeft;
+
+    if (location.distanceFromLeft < 0 ||
+        location.distanceFromLeft >= gridSize ||
+        location.distanceFromTop < 0 ||
+        location.distanceFromTop >= gridSize) {
+
+        // location is not on the grid--return false
+        return 'Invalid';
+    } else if (grid[dft][dfl] === 'Goal') {
+        return 'Goal';
+    } else if (grid[dft][dfl] !== 'Empty') {1
+        // location is either an obstacle or has been visited
+        return 'Blocked';
+    } else {
+        return 'Valid';
+    }
+}
+
+
+// Explores the grid from the given location in the given
+// direction
+
+//r = right
+//d = down
+//l = left
+//u = up
+function exploreInDirection(currentLocation, direction, grid) {
+    var newPath = currentLocation.path.slice();
+    newPath.push(direction);
+
+    var dft = currentLocation.distanceFromTop;
+    var dfl = currentLocation.distanceFromLeft;
+
+    if (direction === 'l') {
+        dft -= 1;
+    } else if (direction === 'b') {
+        dfl += 1;
+    } else if (direction === 'r') {
+        dft += 1;
+    } else if (direction === 't') {
+        dfl -= 1;
+    }
+
+    var newLocation = {
+        distanceFromTop: dft,
+        distanceFromLeft: dfl,
+        path: newPath,
+        status: 'Unknown'
+    };
+    newLocation.status = locationStatus(newLocation, grid);
+
+    // If this new location is valid, mark it as 'Visited'
+    if (newLocation.status === 'Valid') {
+        grid[newLocation.distanceFromTop][newLocation.distanceFromLeft] = 'Visited';
+    }
+
+    return newLocation;
+}
+
