@@ -1,4 +1,4 @@
-import{r as u,h as $e,R as et,j as C,t as G,i as bt,I as wt,c as kt}from"./index-p7500yfN.js";import{m as yt}from"./markdownConverter-Oni5BzV_.js";import{M as vt}from"./HeaderPage-sYCLkwNC.js";const Fn=[{url:"/projects_dist/web",metadata:{name:"Personal website",short_name:"Personal website",description:`The main purpose of this website is to have a place where to host my web projects. 
+import{r as u,h as $e,R as et,j as C,t as G,i as bt,I as wt,c as kt}from"./index-J-_t6QiY.js";import{m as yt}from"./markdownConverter-4q_xslyv.js";import{M as vt}from"./HeaderPage-KY6LKBhv.js";const Fn=[{url:"/projects_dist/web",metadata:{name:"Personal website",short_name:"Personal website",description:`The main purpose of this website is to have a place where to host my web projects. 
 
 Among them, most are bare JS, some of the new ones are written in Typescript, and some others just aren't worth being displayed or are not purposed for the web.
 

@@ -1,1 +1,0 @@
-import{j as a,t as o}from"./index-p7500yfN.js";const p=({className:e,onClick:t,innerRef:s,...u})=>a.jsx("input",{className:o("w-full border-neutral3 border rounded-lg px-2 py-1 outline-0 focus-within:bg-neutral3 bg-neutral2 text-contrast2 focus-within:text-contrast",e),onClick:r=>{r.stopPropagation(),t==null||t(r)},required:!0,ref:s,...u});export{p as B};
