@@ -1,0 +1,1 @@
+import{j as t}from"./index-Lev13wXv.js";import{u as e,H as o}from"./HeaderPage-LG_xGPIp.js";const s=()=>(e("About"),t.jsx(o,{header:t.jsxs(t.Fragment,{children:[t.jsx("div",{className:"text-xl font-bold text-contrast2",children:"About me"}),t.jsx("div",{children:"// TODO"})]}),children:"Something about me"})),n=s;export{s as About,n as default};
