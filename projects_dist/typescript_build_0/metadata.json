@@ -1,1 +1,15 @@
-{"name":"Rendering experiment v1","short_name":"Rendering experiment v1","description":"First experiment on a kind of unconventional rendering.\n\nThis kind of rendering consists in layering the character, and each layer will move and rotate relatively to the upper layer, with a bigger delay deeper down the layers.\n\nThe advantage in this kind of rendering (other than looking cool) is a reduced amount of assets needed for animations, but what I found to be a big turn off was that I couldn't think of a simple way to render moving legs. ","instructions":"","creation_date":"2022-10-02","thumbnail":"./thumbnail.png","start_url":"./index.html","width":"780","height":"580","links":[],"resources":["./images/spritesheet.png"],"desktop":true,"mobile":false}
+{
+  "name": "Fumobeats",
+  "short_name": "Fumobeats",
+  "description": "This project has no description.",
+  "instructions": "No instructions.",
+  "thumbnail": "./thumbnail.png",
+  "start_url": "./index.html",
+  "width": "864",
+  "height": "672",
+  "links": [],
+  "resources": [],
+  "creation_date": "2024-05-01",
+  "desktop": true,
+  "mobile": false
+}
