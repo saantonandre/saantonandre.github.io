@@ -1,0 +1,1 @@
+import{j as t}from"./index-OdPB2-9V.js";import{u as e,H as o}from"./HeaderPage-ffy362SF.js";const s=()=>(e("About"),t.jsx(o,{header:t.jsxs(t.Fragment,{children:[t.jsx("div",{className:"text-xl font-bold text-contrast2",children:"About me"}),t.jsx("div",{children:"// TODO"})]}),children:"Something about me"})),n=s;export{s as About,n as default};
