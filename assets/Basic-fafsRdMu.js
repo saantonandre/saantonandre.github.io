@@ -1,1 +1,0 @@
-import{j as a,t as o}from"./index-MU4C-JV6.js";const p=({className:e,onClick:t,innerRef:s,...u})=>a.jsx("input",{className:o("w-full border-neutral2 border rounded-lg px-2 py-1 outline-0 focus-within:bg-neutral2 bg-neutral text-contrast2 focus-within:text-contrast",e),onClick:r=>{r.stopPropagation(),t==null||t(r)},required:!0,ref:s,...u});export{p as B};
