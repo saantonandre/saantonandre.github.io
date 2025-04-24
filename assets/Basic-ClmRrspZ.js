@@ -1,0 +1,1 @@
+import{j as a,t as o}from"./index-CQbe2RcN.js";const p=({className:e,onClick:t,innerRef:s,...u})=>a.jsx("input",{className:o("border-neutral2 focus-within:bg-neutral2 bg-neutral text-contrast2 focus-within:text-contrast w-full rounded-lg border px-2 py-1 outline-0",e),onClick:r=>{r.stopPropagation(),t==null||t(r)},required:!0,ref:s,...u});export{p as B};
