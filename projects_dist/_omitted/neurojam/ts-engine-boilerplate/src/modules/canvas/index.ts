@@ -1,1 +1,0 @@
-export {default,GameCanvas} from "./GameCanvas"

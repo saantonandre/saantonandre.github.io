@@ -1,7 +1,0 @@
-create arm
-attach arm to player
-compute arm only when in punch mode
-
-
-mouse.pressed && !punch = load punch
-punch.load && !mouse.pressed = punch

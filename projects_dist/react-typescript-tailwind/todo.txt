@@ -1,4 +1,0 @@
-Replace components that use static colors with theme colored new components
-apply theme in the tailwind.config.js
-look at explainer and metable components/config
-replace index.tailwind.css with an updated one

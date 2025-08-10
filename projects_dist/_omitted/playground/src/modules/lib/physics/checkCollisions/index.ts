@@ -1,1 +1,0 @@
-export {checkCollisions} from "./checkCollisions"
