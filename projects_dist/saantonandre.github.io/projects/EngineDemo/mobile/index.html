@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Engine demo </title>
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Eczar|Modern+Antiqua" rel="stylesheet">
+</head>
+
+<body>
+    <div id="main-menu">
+        <div id="menu-list">
+            <div id="start">New game</div><br>
+            <div id="menu-options">Options</div><br>
+            <div id="interpretation">Interpretation</div><br>
+            <div id="credits">Credits</div>
+        </div>
+    </div>
+    <div id="game-screen" style="display:none">
+        <canvas id="canvas"></canvas>
+
+        <div id="dialogue-ui" style="display:none">
+            <div id="output"></div><br>
+            <div id="closeDialogue">X</div><br>
+            <div id="options">
+            </div>
+        </div>
+    </div>
+    <!-- Resources -->
+    <div style="display:none">
+        <img id="CHARA_IDLE" src="https://saantonandre.github.io/EngineDemo/resources/sprites/chara/CHARA_IDLE.png">
+        <img id="CHARA_WALK_L" src="https://saantonandre.github.io/EngineDemo/resources/sprites/chara/CHARA_WALK_L.png">
+        <img id="CHARA_WALK_R" src="https://saantonandre.github.io/EngineDemo/resources/sprites/chara/CHARA_WALK_R.png">
+        <img id="CHARA_WALK_T" src="https://saantonandre.github.io/EngineDemo/resources/sprites/chara/CHARA_WALK_T.png">
+        <img id="CHARA_WALK_B" src="https://saantonandre.github.io/EngineDemo/resources/sprites/chara/CHARA_WALK_B.png">
+    </div>
+    <!-- Mobile Controls -->
+        <div id="arrowCont">
+            <img class="arrows" id="left" src="https://saantonandre.github.io/leftArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+            <img class="arrows" id="right" src="https://saantonandre.github.io/rightArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+            <img class="arrows" id="up" src="https://saantonandre.github.io/upArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+            <img class="arrows" id="down" src="https://saantonandre.github.io/downArrow.png" alt="arrow" draggable="false" oncontextmenu="return false;">
+        </div>
+        
+        
+        
+    <div id="storytext"></div>
+    <!-- Characters -->
+    <script src="scripts/dialogues/guy.js"></script>
+    <script src="scripts/dialogues/elder.js"></script>
+    <!-- Scripts -->
+    <script src="scripts/map.js"></script>
+    <script src="scripts/map-engine.js"></script>
+    <script src="scripts/actions.js"></script>
+    <script src="scripts/text-engine.js"></script>
+    <script src="scripts/dialogue-engine.js"></script>
+    <!--
+    <script src="scripts/actions.js"></script>
+-->
+</body>
+
+</html>

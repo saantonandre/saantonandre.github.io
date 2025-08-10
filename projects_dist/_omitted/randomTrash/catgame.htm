@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>ma game xd</title>
+        <style type="text/css">
+            #gamearea{
+    width:90vw;
+    height: 90vw;
+    border:solid black 3vw;
+    position:relative;
+}
+#l {left:40vw;top:85vh;}
+#r {left:60vw;top:85vh;}
+#u {left:50vw;top:80vh;}
+#d {left:50vw;top:90vh;}
+#rot {left:20vw;top:85vh;}
+#rot2 {left:10vw;top:85vh;}
+#player{position:absolute;z-index:2;}
+.button {
+    display:inline;
+    position: absolute;
+    width:8vw;
+    height:8vw;
+}
+#c {font-size:2vw;}
+.anim2 {
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-name:animation2;
+    animation-timing-function: linear;
+    
+}
+@keyframes animation2 {
+      50% {height:12vw; width:20vw;}
+    100% {width:18vw;height:10vw;}
+}
+.anim {
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-name:animation;
+    animation-timing-function: linear;
+    
+}
+@keyframes animation {
+    100% {transform:rotate(359deg);}
+}
+        </style>
+    </head>
+    <body>
+        <div id="gamearea">
+            <img src="http://freepngimages.com/wp-content/uploads/2015/06/kitten-playing.png"id="player" style="
+    height:10vw;
+    width:18vw;
+    left:50vw;
+    top:50vw;">
+        </div><div id="c">Cat can jump over fences. And cat also loves playing with buttons.</div>
+         <button class="button" onclick="lkey()" id="l">L</button>
+        <button class="button" onclick="rkey()" id="r">R</button>
+        <button class="button" onclick="ukey()" id="u">U</button>
+        <button class="button" onclick="dkey()" id="d">D</button>
+        <button class="button" onclick="ankey()" id="rot">rot</button>
+        <button class="button" onclick="ankey2()" id="rot2">inf</button>
+        <script type="text/javascript">
+            var x = 2;
+            var y = 2;
+            function ankey(){x++;
+if (x%2 == 1) {
+    var player = document.getElementById("player");
+    player.classList.remove("anim2");
+    player.classList.add("anim");
+}
+else {
+    var player = document.getElementById("player");
+    player.classList.remove("anim");
+    player.classList.remove("anim2");
+}}
+            function ankey2(){y++;
+if (y%2 == 1) {
+    var player = document.getElementById("player");
+    player.classList.remove("anim");
+    player.classList.add("anim2");
+}
+else {
+    var player = document.getElementById("player");
+    player.classList.remove("anim2");
+    player.classList.remove("anim");
+}}
+            
+function rkey() {
+var player = document.getElementById("player");
+var leftpos = parseInt(player.style.left, 10);
+player.style.left = (leftpos + 5) + "vw";
+} 
+function lkey() {
+var player = document.getElementById("player");
+var leftpos = parseInt(player.style.left, 10);
+player.style.left = (leftpos - 5) + "vw";
+} 
+function ukey() {
+var player = document.getElementById("player");
+var toppos = parseInt(player.style.top, 10);
+player.style.top = (toppos - 5) + "vw";
+} 
+function dkey() {
+var player = document.getElementById("player");
+var toppos = parseInt(player.style.top, 10);
+player.style.top = (toppos + 5) + "vw";
+} 
+        </script>
+        <!-- -saantonandre- 2018-02-18-->
+    </body>
+</html>

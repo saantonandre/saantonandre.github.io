@@ -1,0 +1,16 @@
+body{
+    margin:0;
+    padding:0;
+}
+#fps{
+    position: absolute;
+    left:0;
+    top:0;
+}
+#canvas{
+    left:10;
+    top:10;
+    cursor:none;
+    position: absolute;
+    user-select: none;
+}

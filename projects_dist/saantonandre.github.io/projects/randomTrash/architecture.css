@@ -1,0 +1,31 @@
+body {
+    position:absolute;
+    border:0px;
+    padding:0;
+    margin: 0;
+    height:100%;
+    width:100%;
+}
+
+#rand {
+position:absolute;
+background-color:red;
+}
+
+#container {
+    position:absolute ;
+    height:100%; 
+    width:100%;
+}
+
+#botbar{
+background-color: antiquewhite;
+position: sticky;
+text-align: center;
+bottom: 10px;
+min-height: 30px;
+}
+
+button {
+    background-color: lightblue;
+}

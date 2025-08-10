@@ -1,0 +1,1 @@
+export {default, initializeGame} from "./game"

@@ -1,0 +1,172 @@
+<!-- 
+  Made by saantonandre in vanilla JS/HTML5 
+  Last edit: 25/08/2021
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>saantonandre</title>
+  <!-- ICON -->
+  <link rel="shortcut icon" href="index/favicon.ico" />
+
+  <!-- Meta Tags -->
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="author" content="Andrea Santona">
+  <meta name="keywords" content="saantonandre, Andrea Santona, JavaScript games, portfolio, HTML5, pixel-art">
+  <meta name="description" content="Andrea Santona's Website.">
+  <!-- CSS Files Links -->
+  <link rel="stylesheet" href="index/style.css" />
+</head>
+
+<body>
+  <canvas id="canvas"></canvas>
+  <!-- preloaded content -->
+  <div id="content-preload">
+    <!-- folders icons-->
+    <img src="index/fold1.png">
+    <img src="index/fold1_active.png">
+    <img src="index/fold2.png">
+    <img src="index/fold2_active.png">
+    <img src="index/fold3.png">
+    <img src="index/fold3_active.png">
+    <!-- logo -->
+    <img alt="logo" src="index/logo/logo1.png">
+    <img alt="logo" src="index/logo/logo2.png">
+    <img alt="logo" src="index/logo/logo3.png">
+  </div>
+
+  <header>
+    <div id="top-bar">
+      <div id="title">
+        <img alt="logo" id="logo" src="index/logo/logo1.png">.github.io
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div id="folder">
+      <img id="fold3" class="folder-icons" alt="games-icon" src="index/fold3.png">
+      <img id="fold1" class="folder-icons" alt="social-icon" src="index/fold1_active.png">
+      <img id="fold2" class="folder-icons" alt="about-icon" src="index/fold2.png">
+      <div id="folder-content">
+        <div id="games" class="content">
+          <span class="centered content-title">
+            <img alt="games icons" class="title-icons" src="index/games-icons.png">
+          </span>
+          <hr id="game-separator">
+        </div>
+        <div id="social" class="content">
+          <span class="centered content-title">
+            <img alt="social icons" class="title-icons" src="index/social-icons.png">
+          </span>
+          <hr>
+          <h1 class="small-title">
+            TWITTER
+          </h1>
+          <p>
+            I mostly use twitter to update my followers about games and projects I'm involved in. Sometimes I just post
+            my pixel-art.
+          </p>
+          <!-- Twitter Timeline -->
+          <div style="display:inline-block;">
+            <blockquote id="twitter" class="twitter-tweet" data-theme="dark">
+              <p lang="pt" dir="ltr">Capybara Intern pt. 3<a rel="noopener"
+                  href="https://twitter.com/hashtag/pixelart?src=hash&amp;ref_src=twsrc%5Etfw">#pixelart</a> <a
+                  rel="noopener" href="https://t.co/ebdkKt6wLm">pic.twitter.com/ebdkKt6wLm</a></p>&mdash; Andrea
+              (@saantonandre) <a rel="noopener"
+                href="https://twitter.com/saantonandre/status/1379873104244191238?ref_src=twsrc%5Etfw">April 7, 2021</a>
+            </blockquote>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+          </div>
+          <hr>
+          <h1 class="small-title">
+            YOUTUBE
+          </h1>
+          <p>
+            This is the channel where I post occasional game trailer, pixel-art timelapses, and experimental stuff.
+          </p>
+          <div style="display:inline-block;">
+            <iframe width="560" height="315" id="yt-frame" src="https://www.youtube.com/embed/4Bn5N3u1EE4"
+              title="YouTube video player" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+          </div>
+          <hr>
+          <h1 class="small-title">
+            INSTAGRAM
+          </h1>
+          <p>
+            My instagram. At the moment I only accept requests from people I know, but I may make it public someday.
+          </p>
+          <div style="display:inline-block;">
+            <a rel="noopener" id="instagram-link" href="https://www.instagram.com/saantonandre" target="_blank">
+              <div id="ig-link"></div>
+            </a>
+          </div>
+          <hr>
+        </div>
+        <div id="about" class="content">
+          <span class="centered content-title">
+            <img alt="about icons" class="title-icons" src="index/about-icons.png">
+          </span>
+          <hr>
+          <div class="expandable" tabindex="1">
+            <h1 class="small-title">
+              What's a "<img src="index/logo/logo4.png" alt="saantonandre" style="width:180px;height:16px;">"?
+            </h1>
+            <p>
+              "Santona" + "Andrea".
+              It's now my online nickname, since I used to create many mail addresses (because... lost
+              credentials...), and so I've just settled on it.
+            </p>
+          </div>
+          <div class="expandable" tabindex="2">
+            <h1 class="small-title">
+              Why this website?
+            </h1>
+            <p>
+              For a reason or another I can't publish all my games in just one platform.
+              If I join other socials I'll add them to the social tab, and if I have any news/FAQ
+              I can put them here; but more than anything I needed a place I could treat as my
+              "internet home".
+            </p>
+          </div>
+          <div class="expandable" tabindex="3">
+            <h1 class="small-title">
+              How did I start programming?
+            </h1>
+            <p>
+              I started programming just after my art school graduation.
+              Never seen a line of code before that moment, I thought it was some kind of
+              unapprociable science to me. Yet, I slowly grew close to the idea of being
+              able to <b>express myself</b> through it and that gave me the push I needed to
+              learn more to be able to do more.
+            </p>
+          </div>
+        </div>
+      </div>
+      <div id="read-more" class="special-text">
+        more [▼]
+      </div>
+    </div>
+    <div class="separator"></div>
+  </main>
+
+
+
+  <footer>
+    <div class="special-text" id="bottom-bar">
+      © saantonandre 2021 - INQUIRIES: <a rel="noopener" class="links"
+        href="mailto:and.santona@gmail.com">and.santona@gmail.com</a>
+    </div>
+  </footer>
+  <!-- Scripts -->
+  <noscript>Your browser don't support JavaScript!</noscript>
+  <script src="index/script.js"></script>
+</body>
+
+</html>

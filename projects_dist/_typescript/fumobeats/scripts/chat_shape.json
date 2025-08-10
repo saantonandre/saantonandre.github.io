@@ -1,0 +1,42 @@
+{
+  "comments": [
+    {
+      "_id": "44e7abf0-d52b-464c-a364-2da988d2da05",
+      "created_at": "2024-05-01T20:13:13.341Z",
+      "channel_id": "85498365",
+      "content_type": "video",
+      "content_id": "2134658445",
+      "content_offset_seconds": 7987,
+      "commenter": {
+        "display_name": "Salesi6",
+        "_id": "962710213",
+        "name": "salesi6",
+        "bio": null,
+        "created_at": "2023-09-30T20:46:12.159655Z",
+        "updated_at": "2024-04-27T13:54:05.690382Z",
+        "logo": "https://static-cdn.jtvnw.net/user-default-pictures-uv/ead5c8b2-a4c9-4724-b1dd-9f00b46cbd3d-profile_image-300x300.png"
+      },
+      "message": {
+        "body": "vedalWave",
+        "bits_spent": 0,
+        "fragments": [
+          {
+            "text": "vedalWave",
+            "emoticon": {
+              "emoticon_id": "emotesv2_294f4e4a553a4a1da9ed11e3db79391e"
+            }
+          }
+        ],
+        "user_badges": [{ "_id": "subscriber", "version": "3" }],
+        "user_color": "#FF69B4",
+        "emoticons": [
+          {
+            "_id": "emotesv2_294f4e4a553a4a1da9ed11e3db79391e",
+            "begin": 0,
+            "end": 10
+          }
+        ]
+      }
+    }
+  ]
+}

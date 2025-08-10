@@ -1,0 +1,1 @@
+export { GameText } from "./GameText";

@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+#canvas{
+    margin:100px;
+}
+#levels-ui {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 31px;
+    text-align: left;
+}
+
+#levels-ui button,
+#players-ui button {
+    width: 30px;
+    height: 30px;
+    text-align: center;
+}
+
+#players-ui {
+    position: fixed;
+    top: 0;
+    right: 0;
+    height: 100%;
+    width: 31px;
+    text-align: left;
+}
+.selected{
+    background-color:black;
+    color:white;
+}

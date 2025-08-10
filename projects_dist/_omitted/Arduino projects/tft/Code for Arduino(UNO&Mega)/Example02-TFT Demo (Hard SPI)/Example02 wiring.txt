@@ -1,0 +1,25 @@
+All Examples in floder "Example02" are using Hardware-SPI,it run more fast than using the soft-SPI.
+Attention: Examples in floder "Example02"  support ArduinoUNO board,do not support the Mega.
+
+Step1:you should install the <TFT> libiray in floder "Install libraries".
+Step2:then Wiring as bellow(do not support directly insert,because Hardware-SPI used different IO):
+
+|-------------------------|
+|LCD        |	ArduinoUNO|
+|-----------|-------------|
+|VCC:	    |	+5V       |
+|GND:	    |	GND       |
+|GND:	    |	GND/NC    |
+|NC:	    |	NC        |
+|NC:	    |	NC        |
+|NC:	    |	NC        |
+|CLK/SCK:   |	Pin 13    |
+|SDA/MOSI:  |	Pin 11    |
+|RS/DC:	    |	pin 9     |
+|RST:	    |	pin 8     |
+|CS:	    |	pin 10    |
+
+Step3:Dowload the examples to your Arduino board.
+Enjoy The colorful world with your new LCD!
+
+	

@@ -1,0 +1,48 @@
+body {
+    overflow: hidden;
+    user-select: none;
+    margin: 0;
+}
+
+#cont {
+
+    text-align: center;
+}
+
+#canvas {
+    display: inline-block;
+}
+
+#console {
+    background-color: black;
+    border: 2px solid gray;
+    width: 400px;
+    height: 100px;
+    overflow-y: scroll;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+#input {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 20%;
+    border: 0;
+    background-color: transparent;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    font-size: 12px;
+}
+
+#input:focus {
+    outline: none;
+}
+
+#text {
+    max-height: 80%;
+    font-size: 12px;
+}

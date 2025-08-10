@@ -1,0 +1,116 @@
+body {
+    background-color:ghostwhite;
+}
+a {
+    text-decoration: none;
+    border:0;
+    color:black;
+}
+#navbar {
+    background-color: mediumpurple;
+    padding:0;
+    font-family: 'Amatic SC', cursive;
+    font-size: 35px;
+    font-weight: 900;
+    overflow: hidden;
+    opacity:0.8;
+    position: relative;
+    z-index: 1;
+}
+.links {
+    display: inline-block;
+    padding-right:5px;
+    padding-left:5px;
+}
+.links:hover {
+    background-color: purple;
+    color:white;
+}
+.active {
+   background-color: purple;
+   color:white; 
+}
+#cont{float: right}
+h1 {
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+}
+.title {
+    font-size: 60px;
+
+}
+span {
+    font-size: 12px;
+    vertical-align: middle;
+     color:purple;
+}
+hr {
+    width: 60%;
+    border-style:solid purple;
+    border-radius:25%;
+        
+}
+#rametto {
+    z-index: -1;
+    position: fixed;
+    margin-top: -20px;
+    left:0;
+    width:150px;
+    opacity:0.3;
+    filter:blur(1px);
+}
+#rametto2 {
+    z-index: -1;
+    position: fixed;
+    right:0px;
+    margin-top: -20px;
+    width:150px;
+    opacity:0.2;
+    transform: rotateY(180deg);
+    filter:blur(1px);
+}
+.mirto {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    margin-top: 50px;
+}
+.mirto:hover {
+    width: 250px;
+    margin-top:0;
+    animation-name: ani2;
+    animation-duration: 0.5s;
+}
+@keyframes ani2 {
+    from{margin-top: 50px;width:100px;}
+    to{margin-top: 0px;width:250px;}
+    
+}
+#imagesld {
+    display: inline;
+    position: absolute;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bolder;
+    color:black;
+    font-size: 60px;
+    z-index: 4;
+    left: 30px;
+    top:80px;
+}
+#imagesld2 {
+    display: inline;
+    position: absolute;
+    font-family: 'Amatic SC', cursive;
+    font-weight: bolder;
+    color:black;
+    font-size: 60px;
+    z-index: 4;
+    right: 30px;
+    top:80px;
+}
+#imagesld:hover ,
+#imagesld2:hover {
+    cursor:pointer;
+    color:purple;
+}

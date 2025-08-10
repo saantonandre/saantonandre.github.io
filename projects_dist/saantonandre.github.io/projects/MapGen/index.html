@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>saantonandre Map Gen</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Map generator algorithm by -saantonandre-">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <button id="btn" class="glow-on-hover">GENERATE</button><button id="btn2" class="glow-on-hover">PARSE</button><br><br>
+    <span style="color:rgb(99, 99, 99);font-size:13px;">Desired amount of occupied cells</span><br>
+    <span>Room amount</span> <input type=number value=20 id="roomsAmount"><br>
+
+    <span style="color:rgb(99, 99, 99);font-size:13px;">Max width of the map</span><br>
+    <span>Space width</span> <input type=number value=10 id="mapW"><br>
+
+    <span style="color:rgb(99, 99, 99);font-size:13px;">Max height of the map</span><br>
+    <span>Space height</span> <input type=number value=10 id="mapH"><br>
+
+    <span style="color:rgb(99, 99, 99);font-size:13px;">Cell rendered size (pixels)</span><br>
+    <span>Cell size</span> <input type=number value=32 id="cellSize"><br><br>
+
+    <span style="color:rgb(99, 99, 99);font-size:13px;">Merges some rooms creating different shapes</span><br>
+    <label for="roomJoints">Aggregate linked rooms</label> <input type=checkbox id="roomJoints" checked><br>
+
+    <span style="color:rgb(99, 99, 99);font-size:13px;">Merges 'U' shapes into a big square</span><br>
+    <label id="roomSquaresLabel" for="roomSquares">Square 'U' shaped joints</label> <input type=checkbox id="roomSquares" checked><br>
+    <br><br>
+    <span style="color:RoyalBlue;">■ - Start room</span><br>
+    <span style="color:Brown;">■ - Boss/exit room</span><br>
+    <span style="color:Khaki">■ - Treasure/shop room</span><br>
+    <footer>saantonandre - 2021</footer>
+
+    <script type="module" src="main.js"></script>
+</body>
+
+</html>

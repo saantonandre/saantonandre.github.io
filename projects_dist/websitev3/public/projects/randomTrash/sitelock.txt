@@ -1,0 +1,14 @@
+var sitelock={
+    allowed:[".itch.zone",
+             ".hwcdn.net",
+             "127.0.0.1"],
+    accessGranted:false,
+    compare:function(){
+        let host = window.location.hostname;
+        for(let i = 0;i<this.allowed.length;i++){
+            if(host.search(this.allowed[i]) !== -1){
+                this.accessGranted=true;
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+#fps{
+    position:absolute;
+    left:5px;
+    top:5px;
+}
+body{
+    margin:0;
+    padding:0;
+    overflow:scroll;
+}
+#amount{
+    position: absolute;
+    left:5px;
+    top:60px;
+    width:60px;
+}
+#amount-label{
+    position: absolute;
+    left:5px;
+    top:40px;
+}
+#radio{
+    position:absolute;
+    left:80px;
+    top:5px;
+}

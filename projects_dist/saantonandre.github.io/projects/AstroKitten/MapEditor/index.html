@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Map Editor</title>
+    <link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div id="exportBox" style="display:none;">
+        <span id="exportText"></span>
+        <button id="closeBtn">close</button>
+        <button id="downloadBtn">download</button>
+    </div>
+    <canvas id="canvas"></canvas>
+    <div id="cont"><input id="zoomer" type="range" value="15" min="4" max="40"><button id="toggle">drawing: displayed</button> || <button id="exportMap">export</button> || <label for="file" id="import">import</label><input id="file" name="file" type="file"> || <input id="mapSizeW" type="number" value="100"><button id="mapSizeBtnW">cells(W)</button> || <input id="mapSizeH" type="number" value="80"><button id="mapSizeBtnH">cells(H)</button> || <button onclick="alert('W-A-S-D = move camera \nQ-E = decrease/increase zoom\nRight click on boxes to delete them\n\nDrag the menu to place it anywhere')">controls</button> || <button id="interactive">interactive tiles</button> || <button id="spawn">define spawnpoint</button> || <button id="test">TEST MAP</button> || <button id="deleteLvl">delete lvl</button> || <button id="saveButton">copy level png</button> || <button id="moveMap">move whole map</button>
+    </div>
+    <div id="cont2">
+    </div>
+    <div id="cont3">
+        Lvls
+        <button id="+">+</button>
+    </div>
+    <div id="info">
+        x: 10, y: 5<br> w: 4, h:2
+    </div>
+    <div style="display:none">
+        <img id="sheet" src="editor-sheet.png">
+    </div>
+    <script src="tiles.js"></script>
+    <script src="script.js"></script>
+</body>
+<!--saantonandre- 2018-07-16-->
+
+</html>

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2023", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "strict": true,
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "noFallthroughCasesInSwitch": true,
+    "baseUrl": "src"
+  },
+  "include": ["src", "index.ts"],
+  "exclude": ["node_modules"]
+}

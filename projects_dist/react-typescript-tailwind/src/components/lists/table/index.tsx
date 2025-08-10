@@ -1,0 +1,1 @@
+export {Table,default} from "./Table"

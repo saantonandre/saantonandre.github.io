@@ -1,0 +1,35 @@
+{
+  "name": "teb",
+  "private": true,
+  "version": "0.2.0",
+  "homepage": "./",
+  "type": "module",
+  "scripts": {
+    "start": "vite --open --host",
+    "audio": "npx esrun ./scripts/assetsIndex.ts ./src/assets/audio",
+    "images": "npx esrun ./scripts/assetsIndex.ts ./src/assets/images",
+    "others": "npx esrun ./scripts/assetsIndex.ts ./src/assets/others",
+    "beats": "npx esrun ./scripts/assetsIndex.ts ./src/assets/fumobeats",
+    "commits": "npx esrun ./scripts/listCommits.ts",
+    "build": "tsc && vite build",
+    "build:prod": "pnpm commits && vite build && npx esrun ./scripts/prodPipeline.ts ./build",
+    "deploy:itch": "pnpm build:prod && butler push ./build.zip saantonandre/fumobeats:html5",
+    "deploy": "pnpm deploy:itch && pnpm deploy:personal",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "npx": "^10.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "gitlog": "^4.0.8",
+    "javascript-obfuscator": "^4.1.0",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0",
+    "vite-plugin-arraybuffer": "^0.0.7",
+    "vite-plugin-checker": "^0.6.2",
+    "vite-tsconfig-paths": "^4.2.1"
+  },
+  "packageManager": "pnpm@10.13.1+sha512.37ebf1a5c7a30d5fabe0c5df44ee8da4c965ca0c5af3dbab28c3a1681b70a256218d05c81c9c0dcf767ef6b8551eb5b960042b9ed4300c59242336377e01cfad"
+}

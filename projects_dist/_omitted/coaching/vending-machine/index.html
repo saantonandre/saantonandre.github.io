@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="./style.css" />
+    <title>Vending machine 3000</title>
+  </head>
+  <body>
+    <div class="main-container">
+      <div style="position: relative">
+        <canvas class="canvas"></canvas>
+        <div class="canvas-foreground"></div>
+      </div>
+      <div class="ui-container">
+        <input class="display" disabled value="Test" />
+        <div class="inputs">
+          <button id="1">1</button>
+          <button id="2">2</button>
+          <button id="3">3</button>
+          <button id="4">4</button>
+          <button id="5">5</button>
+          <button id="6">6</button>
+          <button id="7">7</button>
+          <button id="8">8</button>
+          <button id="9">9</button>
+          <button id="CANC">CANC</button>
+          <button id="0">0</button>
+          <button id="REFUND">REFUND</button>
+        </div>
+        <canvas class="output-canvas"></canvas>
+      </div>
+      <div class="coins-container"></div>
+    </div>
+    <script src="./vendingMachine/index.js" type="module"></script>
+    <script src="./script.js" type="module"></script>
+  </body>
+</html>

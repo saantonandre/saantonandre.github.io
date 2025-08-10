@@ -1,0 +1,38 @@
+{
+  "name": "teb",
+  "private": true,
+  "version": "0.2.0",
+  "homepage": "./",
+  "type": "module",
+  "scripts": {
+    "start": "vite --open --host",
+    "audio": "npx esrun ./scripts/assetsIndex.ts ./src/assets/audio",
+    "images": "npx esrun ./scripts/assetsIndex.ts ./src/assets/images",
+    "others": "npx esrun ./scripts/assetsIndex.ts ./src/assets/others",
+    "commits": "npx esrun ./scripts/listCommits.ts",
+    "build": "tsc && vite build",
+    "build:prod": "yarn commits && vite build && npx esrun ./scripts/prodPipeline.ts ./build",
+    "dep:init": "npx depcruise --init",
+    "deps": "npx depcruise src/modules --output-type dot | dot -T svg > dependency-graph.svg && start ./dependency-graph.svg"
+  },
+  "dependencies": {
+    "preact": "^10.23.1",
+    "tailwind-merge": "^2.5.2"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.9.0",
+    "@tailwindcss/forms": "^0.5.7",
+    "@types/node": "^20.12.7",
+    "autoprefixer": "^10.4.20",
+    "dependency-cruiser": "^16.5.0",
+    "gitlog": "^4.0.8",
+    "javascript-obfuscator": "^4.1.0",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0",
+    "vite-plugin-arraybuffer": "^0.0.7",
+    "vite-plugin-checker": "^0.6.2",
+    "vite-tsconfig-paths": "^4.2.1"
+  }
+}

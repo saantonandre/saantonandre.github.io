@@ -1,0 +1,18 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+E:\全动电子液晶屏资料汇总\液晶模块配套资料整理\QDtech_1.8寸串口模块\QDtech_TFT180C_ST7735 LCD Module\1.8SPI  C51驱动例程源码\简单刷屏程序 spi\Mode.uvproj
+Project File Date:  07/29/2013
+
+<h2>Output:</h2>
+Build target 'Target 1'
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_LCD_CTRLWRITE_IC?282838P
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?RESET?282838P
+Program Size: data=12.0 xdata=0 code=869
+creating hex file from ".\Out Hex\spi"...
+".\Out Hex\spi" - 0 Error(s), 2 Warning(s).

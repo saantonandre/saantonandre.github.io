@@ -1,0 +1,106 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    zoom:250%;
+}
+button {
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+}
+.gray {
+    color:gray;
+}
+#container {
+    text-align:center;
+    position:relative;
+    width:300px;
+    height:200px;
+    margin:auto;
+    border:2px solid black;
+    overflow:hidden;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJIBFpYSUZDnJTrJN084qoAwI6prsynG5TELE3ryuWz8aqTVJCDA);
+    z-index: 0;
+    background-repeat: repeat-x;
+    background-size: auto 100px; /*30,15,10*/
+    background-position: center;
+}
+#arealength {
+    background-color:beige;
+    position:relative ;
+}
+#box {
+    display:block;
+    width:95px;
+    position:relative;
+    top:40%;
+    left:-95px;
+    animation-iteration-count:infinite;
+    animation-name:move;
+    animation-timing-function:linear;
+    z-index: 1;
+}
+.font1 {
+    font-size:30px;
+    font-style:italic;
+    text-decoration: underline;
+}
+
+.align {
+    text-align:center;
+}
+
+@keyframes move {
+    from {}
+    to {left:100%;}
+}
+#userinput {
+    font-family: 'VT323', monospace;
+    font-size:25px;
+    background-color:#09090a;
+    text-align: center;
+    color:orangered;
+    width:200px;
+    height:30px;
+}
+#dejavu2 {
+    margin:auto;
+    background-color:darkred;
+    border-radius:50%;
+    color:white;
+    width:100px;
+    height:80px;
+    border: 3px solid darkgray;
+    position:relative;
+    display:block;
+}
+#dejavu {
+    text-align: center;
+    margin:auto;
+    position:relative;
+    top:-10px;
+    background-color:red;
+    border-radius:50%;
+    color:white;
+    width:100px;
+    height:80px;
+    display:block;
+    animation-duration:0.2s;
+}
+#dejavu:hover {
+    cursor:pointer;
+}
+@keyframes dejabtn {
+    from {top:-10px;}
+    to {top:0px;}
+}
+
+@keyframes dejabtn2 {
+    from {top:0px;}
+    to {top:-10px;}
+}
+#dejavutxt {
+    display: block;
+    margin:auto;
+    font-family: 'Stalinist One', cursive;
+    top:20%;
+    position:relative;
+}

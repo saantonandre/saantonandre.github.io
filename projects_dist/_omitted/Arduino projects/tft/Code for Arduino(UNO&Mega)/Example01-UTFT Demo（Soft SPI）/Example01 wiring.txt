@@ -1,0 +1,24 @@
+The example in this floder support ArduinoUNO and Mega2560 ,or any other Arduino Boards whit the same pin-out.
+
+Step1:you should install the <UTFT> libiray in floder "Install libraries".
+Step2:directly insert your LCD into the ArduinoBoard as the Pin-map bellow:
+
+|-------------------------|
+|LCD        |	ArduinoUNO|
+|-----------|-------------|
+|VCC:	    |	+5V       |
+|GND:	    |	GND       |
+|GND:	    |	GND       |
+|NC:	    |	VIN       |
+|NC:	    |	NC        |
+|NC:	    |	A0        |
+|CLK/SCK:   |	A1    	  |
+|SDA/MOSI:  |	A2        |
+|RS/DC:	    |	A3        |
+|RST:	    |	A4        |
+|CS:	    |	A5        |
+
+Step3:Dowload the examples to your Arduino board.
+Enjoy The colorful world with your new LCD!
+
+	

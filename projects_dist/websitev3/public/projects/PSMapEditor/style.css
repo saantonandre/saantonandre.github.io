@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    user-select: none;
+    background-color: #222034;
+}
+
+* {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#file {
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+}
+
+#import,#exportMap {
+    /* Green */
+    cursor: pointer;
+    padding: 0 2px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px double black;
+    border-radius: 3px;
+    background-color: linen;
+}
+#zoomer {
+    height: 20px;
+    width: 50px;
+    display: none;
+}
+
+#interactive {
+    background-color: white;
+}
+
+#cont2 > canvas {
+    border: 1px solid;
+}
+
+.selected {
+    border-color: skyblue !important;
+    border-width: 2px !important;
+}
+
+.tile{
+    background-color: #222034;
+    margin-right:5px
+}
+#cont,
+#cont2 {
+    background-color: #45283c;
+    position: fixed;
+    z-index: 100;
+    right: 0;
+    top: 0;
+    font-size: 20px;
+    border: 2px solid black;
+    padding: 3px;
+}
+
+#cont2 {
+    top: auto;
+    bottom: 0;
+}
+
+#cont button,
+cont2 button {
+    cursor: pointer;
+}
+
+#canvas {
+    cursor: crosshair;
+    margin: 100px 50px;
+}
+
+#mapSizeW,
+#mapSizeH {
+    max-width: 50px;
+}
+
+#info {
+    pointer-events: none;
+    display: block;
+    height: 22px;
+    width: 50px;
+    position: fixed;
+    z-index: 100;
+    background-color: white;
+    border: 2px solid black;
+    opacity: 0.8;
+    font-size: 10px;
+}

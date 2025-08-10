@@ -1,0 +1,86 @@
+.ciao {
+    font-size:10vw;
+    text-align:center;
+    position:absolute;
+    top:5vw; 
+    font-family:sans-serif;
+    font-variant: small-caps;
+    font-weight: 200;
+}
+#ciao1 {
+    left:30vw;
+    animation-name:ciao1;
+    animation-duration: 1.6s;
+    transition-timing-function: linear;
+}
+#ciao2 {
+    left:41vw;
+    animation-name:ciao2;
+    animation-duration: 1.6s;
+    transition-timing-function: linear;
+}
+#ciao3 {
+    left:50vw;
+    animation-name:ciao3;
+    animation-duration: 1.6s;
+    transition-timing-function: linear;
+}
+#ciao4 {
+    left:60vw;
+    animation-name:ciao4;
+    animation-duration: 1.6s;
+    transition-timing-function: linear;
+}
+#ciao5 {
+    left:70vw;
+    animation-name:ciao5;
+    animation-duration: 1.6s;
+    transition-timing-function: linear;
+}
+
+@keyframes ciao1 {
+    0% {left:-5vw;opacity:0;};
+    50%{left:35vw;};
+    100% {left:30vw;opacity:1;};
+}
+@keyframes ciao2 {
+    0% {left:-5vw;opacity:0;};
+    50%{left:46vw;};
+    100% {left:41vw;opacity:1;};
+}
+@keyframes ciao3 {
+    0% {left:-5vw;opacity:0;};
+    50%{left:55vw;};
+    100% {left:50vw;opacity:1;};
+}
+@keyframes ciao4 {
+    0% {left:-5vw;opacity:0;};
+    50%{left:65vw;};
+    100% {left:60vw;opacity:1;};
+}
+@keyframes ciao5 {
+    0% {left:-5vw;opacity:0;};
+    50%{left:75vw;};
+    100% {left:70vw;opacity:1;};
+}
+.cont {
+    top: 20vw;
+    width:40vw;
+    background-color: beige;
+    border-radius:25%;
+    text-align: center;
+    font-size: 5vw;
+    position:absolute;
+    padding:3vw;
+}
+.div {
+    animation-name:opa;
+    animation-duration: 1.6s;
+}
+@keyframes opa{
+    from{opacity:0;}
+    to {opacity:1;}
+}
+.imgh {
+    width:8vw;
+}

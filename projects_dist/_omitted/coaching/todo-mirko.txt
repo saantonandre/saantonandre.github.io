@@ -1,0 +1,37 @@
+- Regular expressions
+
+- Linguaggi di markdown (MD, HTML)
+- CSS
+
+- Application programming interface API
+
+- Tipi, valori e variabili
+
+- Strutture dati
+
+- Scoping
+
+- Modules vs commonJS
+
+- Linguaggi formali, regole sintattiche
+
+- Protocollo server client
+
+- Crittografia e decrittografia
+
+- Codifica e decodifica
+
+- Debugging
+
+- Diagrammi di flusso
+
+- Node JS
+
+Risorse:
+- Playground semplice: https://developer.mozilla.org/en-US/play
+- Allocazioni di memoria: https://pythontutor.com/javascript.html#mode=edit
+- API pubbliche: https://github.com/public-apis/public-apis
+- libreria peer To peer: https://peerjs.com/
+- Documentazione JS: https://developer.mozilla.org
+- Diagrammi di flusso: https://draw.io 
+- Regular expressions sandbox: https://regexr.com/

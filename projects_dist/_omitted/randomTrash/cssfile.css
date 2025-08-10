@@ -1,0 +1,358 @@
+.navbar {
+    height:45px;
+    opacity:0.8;
+    background-color:#343f51;
+    z-index: 1;
+    position: relative;
+}
+.sfondo {
+    background:url("senzanome.png");
+}
+#titolo {
+	padding-top:80px; 
+	font-family:arial;
+	text-align:center;
+	color:white;
+	font-weight:900;
+	font-variant:small-caps;
+}
+hr {
+	margin-top: 40px;
+	margin-bottom: 40px
+	color:white;
+	width:60%;
+	float:center;
+}
+.tab2 {
+	background-color:#586b89;
+	border-radius:3px;
+	border: 0px solid lightblue;
+}
+.tab {
+	padding:5px;
+	font-family:arial;
+	text-align:center;
+	color:white;
+
+}
+.testo {
+	font-family:"courier new";
+	text-align:justify;
+	padding-left:30px;
+	padding-right:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-weight:200;
+}
+.testo2 {
+	font-family:"times new roman";
+	text-align:left;
+	padding-left:30px;
+	padding-right:10px;
+	padding-top:10px;
+	padding-bottom:10px;
+	font-weight:200;
+	
+}
+.quello {
+	vertical-align:super;
+}
+.quelle {
+	vertical-align:sub;
+}
+.boh {
+	background-color:white;
+	border-radius:25px;
+	padding-left:50px;
+	padding-right:50px;
+	padding-top:5px;
+	padding-bottom:5px;
+	opacity:0.8;
+    text-align: center;
+}
+#boh1 {
+    margin-top: 50px;
+    font-family: fantasy;
+    font-variant: small-caps;
+    
+}
+#animale {
+	border:10px solid white;
+	border-radius:25px;
+	float:right;
+	height:120px;
+	width:150px;
+	position: relative;
+    z-index: 3;
+}
+#animale2 {
+	border:10px solid white;
+	border-radius:25px;
+	float:left;
+	height:120px;
+	width:150px;
+	position: relative;
+    z-index: 3;
+    margin-right: 10px;
+}
+#button {
+	background-color:#343f51;;
+	border:none;
+	font-weight:40px;
+    height: 45;
+	cursor:pointer;
+	margin:px;
+    padding: 10px;
+	color:white;
+	font-size:20px;
+	float:left;
+	opacity:0.8;
+    position: relative;
+    z-index: 2;
+    transition:background-color 0.3s;
+}
+#es {
+    text-align: center;
+    color:white;
+    text-shadow: black 0px -5px 5px;
+    background:linear-gradient(#343f51,#475770);
+    width:60%;
+    margin:auto;
+    margin-top: 20px;
+    border-radius:0px;
+    opacity:0.8;
+    font-variant: small-caps;
+    
+}
+#es2 {
+    text-align:center;
+    margin:50px auto;
+    width:300px;
+    
+    padding-top:50px;
+    padding-bottom: 50px;
+    text-align: middle;
+    background: radial-gradient(#728199 30%,#475770);
+    transition: width 1s;
+}
+#button:hover {background-color:#475770;}
+#es2:hover {background: linear-gradient(90deg,#475770,#728199);}
+.logo {
+    position: fixed;
+    z-index: 10;
+    padding:10px;
+    margin:none;
+    bottom: 40px;
+    right: 30px;
+    width: auto;
+    font-variant: small-caps;
+    font-size: 20px;
+    text-decoration: overline underline;
+    opacity:0.6;
+    font-family: fantasy;
+    transition: font-size 0.3s ;
+    transition: transform 5s ;
+}
+.logo:hover {opacity:1;font-size:25px;}
+.logo:active {transform:rotate(360deg);}
+
+#es3:hover {width:50px;}
+#es3 {
+    text-align:center;
+    margin:50px auto;
+    width:300px;
+    height:50px;
+    background:grey;
+    padding-top:50px;
+    padding-bottom: 90px;
+    text-align: middle;
+    transition: width 1s;
+    overflow: hidden;
+    padding:15px 15px 15px 15px;
+}
+#es4 {
+    text-align:center;
+    margin:50px auto;
+    width:300px;
+    background:lightblue;
+    padding-top:50px;
+    padding-bottom: 50px;
+    text-align: middle;
+    transition: transform 1s;
+    overflow: hidden;
+    padding:15px 15px 15px 15px;
+}
+#es4:hover {transform:skewX(45deg);}
+#bgspazio {
+    background-image: url("spazio2.gif");
+    background-size:1080px 720px;
+    background-repeat: no-repeat;
+    background-repeat:repeat;
+}
+.micio {
+    width: 300px;
+    position:absolute;
+    top:0;
+    left:-400px;
+    z-index: 10;
+    animation-name:micioo;
+    animation-iteration-count:infinite;
+    animation-duration: 40s;
+    animation-delay: 3.3s;
+    animation-timing-function:ease-out;
+}
+@keyframes micioo {
+    from{
+        transform: rotate(0deg);
+        top:-200px;left:-400px;
+        width:350px;}
+    to{
+        transform: translate(350px,350px);
+        width:1px;
+        top:250px;
+        left:500px;
+        transform: rotate(-1600deg);
+        }
+}
+.micio2 {
+    width: 300px;
+    position:absolute;
+    top:0;
+    left:-400px;
+    z-index: 11;
+    animation-name:micioo2;
+    animation-iteration-count:infinite;
+    animation-duration: 30s;
+    animation-delay: 8s;
+    animation-timing-function:ease-out;
+}
+@keyframes micioo2 {
+    from{
+        transform: rotate(0deg);
+        top:400px;left:-400px;
+        width:350px;}
+    to{
+        transform: translate(350px,350px);
+        width:1px;
+        top:250px;
+        left:600px;
+        transform: rotate(180deg);
+        }
+}
+.micio3 {
+    width: 300px;
+    position:relative;
+    top:0;
+    left:-400px;
+    z-index: 11;
+    animation-name:micioo3;
+    animation-iteration-count:infinite;
+    animation-duration: 35s;
+    animation-delay: 8.8s;
+    animation-timing-function:ease-out;
+}
+@keyframes micioo3 {
+    from{
+        transform: rotate(0deg);
+        top:-400px;left:-200px;
+        width:600px;}
+    to{
+        transform: translate(350px,350px);
+        width:1px;
+        top:250px;
+        left:600px;
+        transform: rotate(-1080deg);
+        }
+}
+.arco1 {
+    width:80px;
+    height:50px;
+    border-radius: 50%;
+    background-color:white;
+    opacity:0.5;
+    top:300px;
+    left:300px;
+    position: absolute;
+    animation-name:wow;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    text-align:center;
+    padding: 10px;
+    overflow:hidden;
+}
+
+@keyframes wow {
+    20% {    
+        top:250px;
+        left:300px;
+        transform:rotate(-30deg);
+        transform: scale(2);
+        font-size: 0px;
+    }
+    60%{    
+        top:300px;
+        left:300px;
+        transform:rotate(200deg);
+        background-color:darksalmon;
+        font-size: 20px;
+    }
+    80%{    
+        top:250px;
+        left:300px;
+        transform:rotate(-300deg);
+        opacity: 1;
+        font-size: 0px;
+    }
+    100%{    
+        top:300px;
+        left:300px;
+        transform:rotate(0deg);
+        color:darkred;
+    }
+}
+
+#button1 {
+    height:60px;
+    width:60px;
+    border-radius: 50%;
+    background-color:antiquewhite;
+    top:50%;
+    left:50%;
+    position:absolute;
+}
+#msgdiprova {
+    min-height: 20px;
+    max-width: 170px;
+    background: linear-gradient(to right,lightcoral,red);
+    color: floralwhite;
+    padding:40px;
+    position: absolute;
+    left:50%;
+    margin-left:-105px;
+    
+    border-radius: 40px;
+}
+#button2 {
+    height:200px;
+    top:50%;
+    left:50%;
+    margin-left: -150px;
+    margin-top:-100px;
+    position:absolute;
+    z-index: 20;
+}
+#musmus {
+    min-height: 20px;
+    max-width: 170px;
+    background: purple;
+    color: floralwhite;
+    font-family:fantasy;
+    font-variant: small-caps;
+    font-size:25px;
+    padding:25px;
+    position: fixed;
+    left:50%;
+    bottom:10%;
+    margin-left:-105px;
+    border-radius: 25px;
+}

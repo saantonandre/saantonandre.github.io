@@ -1,0 +1,43 @@
+
+body {
+    overflow: hidden;
+    user-select: none;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    touch-action: none;
+    background: url(https://www.wallpapersbrowse.com/images/vt/vtkobd6.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Tajawal', sans-serif;
+    user-select:none;
+}
+#upward{
+    width:100%;
+    position:absolute;
+    text-align:center;
+}
+#collected{
+    position:absolute;
+    bottom:0;
+    left:0;
+    font-size:14;
+    margin:0;
+    padding:0;
+    opacity:0.6;
+}
+#level{
+    position:absolute;
+    bottom:0;
+    right:0;
+    font-size:14;
+    margin:0;
+    padding:0;
+    opacity:0.6;
+}
+#error{
+    text-align:center;
+}

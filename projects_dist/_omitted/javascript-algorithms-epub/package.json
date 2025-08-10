@@ -1,0 +1,23 @@
+{
+  "name": "javascript-algorithms-epub",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "author": "saantonandre",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "epub-gen": "0.1.0",
+    "git-clone": "0.2.0",
+    "showdown": "2.1.0"
+  },
+  "scripts": {
+    "start": "npx esrun index.ts"
+  },
+  "devDependencies": {
+    "@types/epub-gen": "0.1.2",
+    "@types/git-clone": "0.2.3",
+    "@types/node": "20.11.5",
+    "@types/showdown": "2.0.3",
+    "esrun": "3.2.26"
+  }
+}

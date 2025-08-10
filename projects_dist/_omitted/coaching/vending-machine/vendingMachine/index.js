@@ -1,0 +1,8 @@
+import "./audio.js"
+import "./coins.js"
+import "./inputs.js"
+import "./main.js"
+import "./bank.js"
+import "./output.js"
+import "./Product.js"
+import "./VendingMachine.js"
