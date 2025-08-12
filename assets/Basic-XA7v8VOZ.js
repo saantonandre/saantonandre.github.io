@@ -1,0 +1,1 @@
+import{j as s,t as u}from"./index-DTv6TKwI.js";const i=({className:r,onClick:e,innerRef:o,...n})=>s.jsx("input",{className:u("border-neutral2 focus-within:bg-neutral2 bg-neutral text-contrast2 focus-within:text-contrast w-full rounded-lg border px-2 py-1 outline-0",r),onClick:t=>{t.stopPropagation(),e?.(t)},required:!0,ref:o,...n});export{i as B};
