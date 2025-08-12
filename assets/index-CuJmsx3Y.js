@@ -1,4 +1,4 @@
-import{r,j as e}from"./index-DYpw8Cho.js";import{u as i,H as m,m as l}from"./markdownConverter-DwN-Rd7T.js";import{B as d}from"./Basic-BfF4ccHK.js";import{B as c}from"./Basic-DKpIge6c.js";import{B as h}from"./TextArea-DWyHJdqO.js";const u=`
+import{r,j as e}from"./index-BWXcGAJO.js";import{u as i,H as m,m as l}from"./markdownConverter-DrBAlRac.js";import{B as d}from"./Basic-DVyez0MJ.js";import{B as c}from"./Basic-kI4Yd9jd.js";import{B as h}from"./TextArea-CNsQsKof.js";const u=`
 # Welcome to my website!
 Hi, my name is Andrea and right now you are on my personal website. In the
 **Projects** section I've included most of the projects I've worked on in my free
