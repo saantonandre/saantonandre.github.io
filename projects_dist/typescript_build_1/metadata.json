@@ -1,15 +1,1 @@
-{
-  "name": "Fumobeats",
-  "short_name": "Fumobeats",
-  "description": "This project has no description.",
-  "instructions": "No instructions.",
-  "thumbnail": "./thumbnail.png",
-  "start_url": "./index.html",
-  "width": "720",
-  "height": "480",
-  "links": [],
-  "resources": [],
-  "creation_date": "2024-05-01",
-  "desktop": true,
-  "mobile": false
-}
+{"name":"Fumobeats","short_name":"Fumobeats","description":"**Fumobeats** is an *OSU!*-inspired rythm game, featuring Neuro-sama and lots of Evil fumos.","instructions":"### .NUERO file extension \nThe game works kind of like OSU, there is an editor, a collection of songs, and a custom file type. The .nuero**[sic]** file extension represents a Fumobeat (song map), you can import them in batches by dragging them into the game, they will carry the song file, the beats timing/direction and some metadata like creation date, author name, etc.. \n### Fumobeats persistance \nThe Fumobeats you see on your playlist will stay there when you leave the browser, they are saved on disk (managed by your browser's IndexedDB). How do i create a Fumobeat? Drag and drop any .mp3 file into the game, you will then be moved into the Editor mode. In the editor mode, you can:\n\n- Change the name of the song (by clicking on top-left text)\n- Change your name (defaults to \"Anonymous mapper\")\n- Play/pause the song, change volume and playback rate\n- Clicking on the soundwave will change the time precisely\n - Pressing Z or X will create a fumo\n - Holding the right mouse onto a fumo in the soundwave will delete it\n- You can also delete previously placed fumos with CTRL-Z\n- The [arrow pointing backward] button will reset the playback rate to normal \n\nOnce you're done editing, you can save the fumo to your playlist, or export the nuero file.","thumbnail":"./thumbnail.png","start_url":"./index.html","width":"720","height":"480","links":[],"resources":[],"creation_date":"2024-05-01","desktop":true,"mobile":false}
